@@ -17,6 +17,9 @@
 		95E1AE632DF2C8A300B9F50D /* QuestionListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE622DF2C8A300B9F50D /* QuestionListView.swift */; };
 		95E1AE832DF2EE9900B9F50D /* success.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 95E1AE822DF2EE9900B9F50D /* success.m4a */; };
 		95E1AE872DF5A5D800B9F50D /* fail.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 95E1AE862DF5A5D800B9F50D /* fail.mp3 */; };
+		95E1AE892DF5AD2A00B9F50D /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE882DF5AD2A00B9F50D /* MainTabView.swift */; };
+		95E1AE8B2DF5AD3A00B9F50D /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */; };
+		95E1AE8D2DF5AD7500B9F50D /* ExamStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8C2DF5AD7500B9F50D /* ExamStartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +34,9 @@
 		95E1AE622DF2C8A300B9F50D /* QuestionListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionListView.swift; sourceTree = "<group>"; };
 		95E1AE822DF2EE9900B9F50D /* success.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = success.m4a; sourceTree = "<group>"; };
 		95E1AE862DF5A5D800B9F50D /* fail.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fail.mp3; sourceTree = "<group>"; };
+		95E1AE882DF5AD2A00B9F50D /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
+		95E1AE8C2DF5AD7500B9F50D /* ExamStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamStartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +111,9 @@
 			children = (
 				95E1AE502DF20A6000B9F50D /* ContentView.swift */,
 				95E1AE622DF2C8A300B9F50D /* QuestionListView.swift */,
+				95E1AE882DF5AD2A00B9F50D /* MainTabView.swift */,
+				95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */,
+				95E1AE8C2DF5AD7500B9F50D /* ExamStartView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -203,9 +212,12 @@
 			files = (
 				95E1AE552DF20A6000B9F50D /* ContentView.swift in Sources */,
 				95E1AE632DF2C8A300B9F50D /* QuestionListView.swift in Sources */,
+				95E1AE8D2DF5AD7500B9F50D /* ExamStartView.swift in Sources */,
 				95E1AE592DF20A6D00B9F50D /* ExamQuestion.swift in Sources */,
 				95E1AE612DF2C84400B9F50D /* QuestionLIstViewModel.swift in Sources */,
+				95E1AE8B2DF5AD3A00B9F50D /* PracticeView.swift in Sources */,
 				95E1AE562DF20A6000B9F50D /* GermanTestsApp.swift in Sources */,
+				95E1AE892DF5AD2A00B9F50D /* MainTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

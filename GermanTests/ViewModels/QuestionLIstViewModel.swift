@@ -9,6 +9,7 @@ import Foundation
 
 @Observable
 class QuestionViewModel {
+    
     var questions: [ExamQuestion] = []
     var currentIndex = 0
     var selectedAnswer: ExamAnswer?
@@ -19,11 +20,11 @@ class QuestionViewModel {
         return questions[currentIndex]
     }
 
-    init() {
-        loadQuestions()
+    init(mode: ExamMode) {
+        loadQuestions(for: mode)
     }
 
-    func loadQuestions() {
+    func loadQuestions(for mode: ExamMode) {
         guard let url = Bundle.main.url(forResource: "questions", withExtension: "json"),
               let data = try? Data(contentsOf: url),
               let result = try? JSONDecoder().decode(QuestionList.self, from: data)
@@ -31,7 +32,13 @@ class QuestionViewModel {
             print("Failed to load JSON")
             return
         }
-        self.questions = result.questions
+        
+        switch mode {
+        case .practice:
+            self.questions = result.questions
+        case .exam(let questionsCount):
+            self.questions = Array(result.questions.shuffled().prefix(questionsCount))
+        }
     }
 
     func goNext() {
