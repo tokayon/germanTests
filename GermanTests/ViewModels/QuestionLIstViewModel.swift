@@ -6,3 +6,49 @@
 //
 
 import Foundation
+
+@Observable
+class QuestionViewModel {
+    var questions: [ExamQuestion] = []
+    var currentIndex = 0
+    var selectedAnswer: ExamAnswer?
+    var showTranslation = false
+
+    var currentQuestion: ExamQuestion? {
+        guard currentIndex < questions.count else { return nil }
+        return questions[currentIndex]
+    }
+
+    init() {
+        loadQuestions()
+    }
+
+    func loadQuestions() {
+        guard let url = Bundle.main.url(forResource: "questions", withExtension: "json"),
+              let data = try? Data(contentsOf: url),
+              let result = try? JSONDecoder().decode(QuestionList.self, from: data)
+        else {
+            print("Failed to load JSON")
+            return
+        }
+        self.questions = result.questions
+    }
+
+    func goNext() {
+        if currentIndex < questions.count - 1 {
+            currentIndex += 1
+            selectedAnswer = nil
+        }
+    }
+
+    func goBack() {
+        if currentIndex > 0 {
+            currentIndex -= 1
+            selectedAnswer = nil
+        }
+    }
+}
+
+struct QuestionList: Codable {
+    let questions: [ExamQuestion]
+}

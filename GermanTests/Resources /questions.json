@@ -1,16 +1,1805 @@
 {
   "questions": [
     {
-      "id": "q1",
-      "original": "What is the capital of France?",
-      "translated": "Quelle est la capitale de la France?",
+      "id": "Frage Nº1",
+      "original": "Frage Nº1: In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil ...",
+      "translated": "В Германии люди могут открыто высказывать свое недовольство правительством, потому что .",
       "answers": [
-        {"id": "a1", "original": "Paris", "translated": "Paris"},
-        {"id": "a2", "original": "London", "translated": "Londres"},
-        {"id": "a3", "original": "Berlin", "translated": "Berlin"},
-        {"id": "a4", "original": "Madrid", "translated": "Madrid"}
+        {"id": "a1", "original": "hier Religionsfreiheit gilt.", "translated": "• здесь действует свобода религии."},
+        {"id": "a2", "original": "die Menschen Steuern zahlen.", "translated": "люди платят налоги."},
+        {"id": "a3", "original": "die Menschen das Wahlrecht haben.", "translated": "у людей есть избирательное право."},
+        {"id": "a4", "original": "hier Meinungsfreiheit gilt.", "translated": "здесь действует свобода слова (свобода мнения)."}
       ],
-      "correctAnswer": {"id": "a1", "original": "Paris", "translated": "Paris"}
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº2",
+      "original": "Frage Nº2: In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am ...",
+      "translated": "В Германии родители могут решать до 14-летия своего ребенка, принимает ли он участие в школьных занятиях по ...",
+      "answers": [
+        {"id": "a1", "original": "Geschichtsunterricht teilnimmt.", "translated": "истории."},
+        {"id": "a2", "original": "Religionsunterricht teilnimmt.", "translated": "религии."},
+        {"id": "a3", "original": "Politikunterricht teilnimmt.", "translated": "политике."},
+        {"id": "a4", "original": "Sprachunterricht teilnimmt.", "translated": "языку."}
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº3",
+      "original": "Frage Nº3: Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+      "translated": "Германия - правовое государство. Что это означает?",
+      "answers": [
+        {"id": "a1", "original": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.", "translated": "Все жители и государство должны соблюдать законы."},
+        {"id": "a2", "original": "Der Staat muss sich nicht an die Gesetze halten.", "translated": "Государство не обязано соблюдать законы."},
+        {"id": "a3", "original": "Nur Deutsche müssen die Gesetze befolgen.", "translated": "Только немцы должны следовать законам."},
+        {"id": "a4", "original": "Die Gerichte machen die Gesetze.", "translated": "Суды создают законы."}
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº4",
+      "original": "Frage Nº4: Welches Recht gehört zu den Grundrechten in Deutschland?",
+      "translated": "Какое право относится к основным правам в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Waffenbesitz",
+              "translated": "Право на владение оружием"
+          },
+          {
+              "id": "a2",
+              "original": "Faustrecht",
+              "translated": "Применение закона кулака"
+          },
+          {
+              "id": "a3",
+              "original": "Meinungsfreiheit",
+              "translated": "Свобода слова"
+          },
+          {
+              "id": "a4",
+              "original": "Selbstjustiz",
+              "translated": "Самосуд"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº5",
+      "original": "Frage Nº5: Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "translated": "Выборы в Германии свободны. Что это означает?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin wählt.",
+              "translated": "Избиратель имеет право принимать деньги, если за это он выбирает определенного кандидата/кандидатку."
+          },
+          {
+              "id": "a2",
+              "original": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+              "translated": "Избиратель не должен быть подвергнут влиянию и не должен быть вынужден к какому-либо определенному голосованию и не должен понести никаких недостатков из-за голосования."
+          },
+          {
+              "id": "a3",
+              "original": "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+              "translated": "Только лица, никогда не находившиеся в тюрьме, имеют право голоса."
+          },
+          {
+              "id": "a4",
+              "original": "Alle wahlberechtigten Personen müssen wählen.",
+              "translated": "Все избиратели обязаны голосовать."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº6",
+      "original": "Frage Nº6: Wie heißt die deutsche Verfassung?",
+      "translated": "Немецкая конституция называется:",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Volksgesetz",
+              "translated": "Народный закон"
+          },
+          {
+              "id": "a2",
+              "original": "Bundesgesetz",
+              "translated": "Закон Федерации"
+          },
+          {
+              "id": "a3",
+              "original": "Deutsches Gesetz",
+              "translated": "Немецкий закон"
+          },
+          {
+              "id": "a4",
+              "original": "Grundgesetz",
+              "translated": "Основной закон"
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº7",
+      "original": "Frage Nº7: Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf...",
+      "translated": "Какое право относится к основным правам, гарантированным по немецкой Конституции? Право на ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Glaubens- und Gewissensfreiheit",
+              "translated": "Свободу вероисповедания и совести"
+          },
+          {
+              "id": "a2",
+              "original": "Unterhaltung",
+              "translated": "Развлечение"
+          },
+          {
+              "id": "a3",
+              "original": "Arbeit",
+              "translated": "Труд"
+          },
+          {
+              "id": "a4",
+              "original": "Wohnung",
+              "translated": "Жилье"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº8",
+      "original": "Frage Nº8: Was steht NICHT im Grundgesetz von Deutschland?",
+      "translated": "Что не указано в Основном законе Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Die Würde des Menschen ist unantastbar.",
+              "translated": "Достоинство человека неприкосновенно."
+          },
+          {
+              "id": "a2",
+              "original": "Alle sollen gleich viel Geld haben.",
+              "translated": "Все должны иметь одинаково много денег."
+          },
+          {
+              "id": "a3",
+              "original": "Jeder Mensch darf seine Meinung sagen.",
+              "translated": "Каждый человек имеет право высказывать свое мнение."
+          },
+          {
+              "id": "a4",
+              "original": "Alle sind vor dem Gesetz gleich.",
+              "translated": "Все равны перед законом."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº9",
+      "original": "Frage Nº9: Welches Grundrecht gilt in Deutschland nur für Ausländer / Ausländerinnen? Das Grundrecht auf...",
+      "translated": "Какое право в Германии применяется только к иностранцам? Право на ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Schutz der Familie",
+              "translated": "Защиту семьи"
+          },
+          {
+              "id": "a2",
+              "original": "Menschenwürde",
+              "translated": "Человеческое достоинство"
+          },
+          {
+              "id": "a3",
+              "original": "Asyl",
+              "translated": "Право на убежище"
+          },
+          {
+              "id": "a4",
+              "original": "Meinungsfreiheit",
+              "translated": "Свободу слова"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº10",
+      "original": "Frage Nº10: Was ist mit dem deutschen Grundgesetz vereinbar?",
+      "translated": "Что совместимо с немецкой Конституцией?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "die Prügelstrafe",
+              "translated": "Штраф побоев"
+          },
+          {
+              "id": "a2",
+              "original": "die Folter",
+              "translated": "Пытки"
+          },
+          {
+              "id": "a3",
+              "original": "die Todesstrafe",
+              "translated": "Смертная казнь"
+          },
+          {
+              "id": "a4",
+              "original": "die Geldstrafe",
+              "translated": "Денежный штраф"
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    
+    {
+      "id": "Frage Nº11",
+      "original": "Frage Nº11: Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+      "translated": "Как называется Конституция Федеративной Республики Германия?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Grundgesetz",
+              "translated": "Основной закон"
+          },
+          {
+              "id": "a2",
+              "original": "Bundesverfassung",
+              "translated": "Федеральная конституция"
+          },
+          {
+              "id": "a3",
+              "original": "Gesetzbuch",
+              "translated": "Кодекс"
+          },
+          {
+              "id": "a4",
+              "original": "Verfassungsvertrag",
+              "translated": "Конституционный договор"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº12",
+      "original": "Frage Nº12: Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
+      "translated": "Может партия в немецком Бундестаге (федеральное собрание) отменить свободу прессы?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+              "translated": "Да, если более половины депутатов Бундестага за это проголосуют."
+          },
+          {
+              "id": "a2",
+              "original": "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+              "translated": "- Да, но для этого должны проголосовать две трети депутатов Бундестага.,"
+          },
+          {
+              "id": "a3",
+              "original": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+              "translated": "Нет, потому что свобода прессы - это основное право. Ее нельзя отменить."
+          },
+          {
+              "id": "a4",
+              "original": "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen.",
+              "translated": "Нет, потому что только Бундесрат (федеральный совет) может отменить свободу прессы."
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº13",
+      "original": "Frage Nº13: Im Parlament steht der Begriff Opposition für...",
+      "translated": "В парламенте термин -оппозиция- означает...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "die regierenden Parteien.",
+              "translated": "правящие партии."
+          },
+          {
+              "id": "a2",
+              "original": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+              "translated": "все депутаты, не входящие в партию/партии правительства."
+          },
+          {
+              "id": "a3",
+              "original": "die Fraktion mit den meisten Abgeordneten.",
+              "translated": "фракция с наибольшим числом депутатов."
+          },
+          {
+              "id": "a4",
+              "original": "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
+              "translated": "все партии, которые на последних выборах преодолели 5-процентный барьер."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº14",
+      "original": "Frage Nº14: Meinungsfreiheit in Deutschland heißt, dass ich ...",
+      "translated": "Свобода слова в Германии означает, что я могу...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Passanten auf der Straße beschimpfen darf.",
+              "translated": "оскорблять прохожих на улице."
+          },
+          {
+              "id": "a2",
+              "original": "meine Meinung in Leserbriefen äußern kann.",
+              "translated": "выражать свое мнение в письмах читателей."
+          },
+          {
+              "id": "a3",
+              "original": "Nazi-Symbole tragen darf.",
+              "translated": "носить нацистские символы."
+          },
+          {
+              "id": "a4",
+              "original": "meine Meinung sagen darf, solange ich der Regierung nicht widerspreche.",
+              "translated": "высказывать свое мнение, пока я не противоречу правительству."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº15",
+      "original": "Frage Nº15: Was verbietet das deutsche Grundgesetz?",
+      "translated": "Что запрещает Основной закон Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Militärdienst",
+              "translated": "Военная служба"
+          },
+          {
+              "id": "a2",
+              "original": "•Zwangsarbeit",
+              "translated": "Принудительный труд"
+          },
+          {
+              "id": "a3",
+              "original": "freie Berufswahl",
+              "translated": "Свободный выбор профессии"
+          },
+          {
+              "id": "a4",
+              "original": "Arbeit im Ausland",
+              "translated": "Работа за границей"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº16",
+      "original": "Frage Nº16: Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+      "translated": "Когда свобода слова ограничена в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+              "translated": "при публичном распространении ложных утверждений о конкретных лицах"
+          },
+          {
+              "id": "a2",
+              "original": "bei Meinungsäußerungen über die Bundesregierung",
+              "translated": "при выражении мнения о федеральном правительстве"
+          },
+          {
+              "id": "a3",
+              "original": "bei Diskussionen über Religionen",
+              "translated": "при обсуждении религий"
+          },
+          {
+              "id": "a4",
+              "original": "bei Kritik am Staat",
+              "translated": "при критике в адрес государства"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº17",
+      "original": "Frage Nº17: Die deutschen Gesetze verbieten ...",
+      "translated": "Немецкие законы запрещают ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Meinungsfreiheit der Einwohner und Einwohnerinnen.",
+              "translated": "Свободу выражения мнения жителей"
+          },
+          {
+              "id": "a2",
+              "original": "Petitionen der Bürger und Bürgerinnen.",
+              "translated": "Петиции граждан."
+          },
+          {
+              "id": "a3",
+              "original": "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
+              "translated": "Свободу собраний жителей."
+          },
+          {
+              "id": "a4",
+              "original": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.",
+              "translated": "Неравное обращение государства с гражданами."
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº18",
+      "original": "Frage Nº18: Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+      "translated": "Какое основное право гарантировано в статье 1 Основного закона Федеративной Республики Германия?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "die Unantastbarkeit der Menschenwürde",
+              "translated": "Неприкосновенность человеческого достоинства"
+          },
+          {
+              "id": "a2",
+              "original": "das Recht auf Leben",
+              "translated": "Право на жизнь"
+          },
+          {
+              "id": "a3",
+              "original": "Religionsfreiheit",
+              "translated": "Свобода вероисповедания"
+          },
+          {
+              "id": "a4",
+              "original": "Meinungsfreiheit",
+              "translated": "Свобода слова"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº19",
+      "original": "Frage Nº19: Was versteht man unter dem Recht der -Freizügigkeit- in Deutschland?",
+      "translated": "Что означает право -свободы передвижения- в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Man darf sich seinen Wohnort selbst aussuchen.",
+              "translated": "Человек может сам выбирать место жительства."
+          },
+          {
+              "id": "a2",
+              "original": "Man kann seinen Beruf wechseln.",
+              "translated": "Он может сменить свою профессию."
+          },
+          {
+              "id": "a3",
+              "original": "Man darf sich für eine andere Religion entscheiden.",
+              "translated": "Он может выбрать другую религию."
+          },
+          {
+              "id": "a4",
+              "original": "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen.",
+              "translated": "Он может свободно передвигаться в общественных местах в небольшом количестве одежды."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº20",
+      "original": "Frage Nº20: Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann ...",
+      "translated": "Партия в Германии, нацеленная на установление диктатуры, в таком случае является ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "tolerant.",
+              "translated": "терпимой."
+          },
+          {
+              "id": "a2",
+              "original": "rechtsstaatlich orientiert.",
+              "translated": "ориентированной на правовое государство."
+          },
+          {
+              "id": "a3",
+              "original": "gesetzestreu.",
+              "translated": "соблюдающей законы."
+          },
+          {
+              "id": "a4",
+              "original": "verfassungswidrig.",
+              "translated": "противоречащей конституции."
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº21",
+      "original": "Frage Nº21: Welches ist das Wappen der Bundesrepublik Deutschland? Vier Symbole:",
+      "translated": "Какой из этих символов является гербом Федеративной Республики Германия?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "einköpfiger Adler auf einem (gelben) Schild.",
+              "translated": "Орёл с одной головой на (жёлтом) щите."
+          },
+          {
+              "id": "a2",
+              "original": "Zwei vereinigte Symbole.",
+              "translated": "Два объединённых символа."
+          },
+          {
+              "id": "a3",
+              "original": "stilisiertes Tatzenkreuz.",
+              "translated": "Стилизованный крест лап."
+          },
+          {
+              "id": "a4",
+              "original": "Ährenkranz mit Hammer und Zirkel",
+              "translated": "Венок из колосьев с молотом и циркулем"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº22",
+      "original": "Frage Nº22: Was für eine Staatsform hat Deutschland?",
+      "translated": "Какая форма правления в Германии:",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Monarchie",
+              "translated": "Монархия"
+          },
+          {
+              "id": "a2",
+              "original": "Diktatur",
+              "translated": "Диктатура"
+          },
+          {
+              "id": "a3",
+              "original": "Republik",
+              "translated": "Республика"
+          },
+          {
+              "id": "a4",
+              "original": "Furstentum",
+              "translated": "Княжество"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº23",
+      "original": "Frage Nº23: In Deutschland sind die meisten Erwerbstätigen ...",
+      "translated": "В Германии большинство трудоспособных лиц...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "bei einer Firma oder Behörde beschäftigt.",
+              "translated": "работают в фирме или организации."
+          },
+          {
+              "id": "a2",
+              "original": "in kleinen Familienunternehmen beschäftigt.",
+              "translated": "заняты в небольших семейных предприятиях."
+          },
+          {
+              "id": "a3",
+              "original": "ehrenamtlich für ein Bundesland tätig.",
+              "translated": "добровольно трудятся в одном из федеральных земель."
+          },
+          {
+              "id": "a4",
+              "original": "selbständig mit einer eigenen Firma tätig.",
+              "translated": "самостоятельно ведут свой бизнес."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº24",
+      "original": "Frage Nº24: Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+      "translated": "Сколько федеральных земель в Федеративной Республике Германия?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "14",
+              "translated": "14"
+          },
+          {
+              "id": "a2",
+              "original": "15",
+              "translated": "15"
+          },
+          {
+              "id": "a3",
+              "original": "16",
+              "translated": "16"
+          },
+          {
+              "id": "a4",
+              "original": "17",
+              "translated": "17"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº25",
+      "original": "Frage Nº25: Was ist kein Bundesland der Bundesrepublik Deutschland?",
+      "translated": "Какая из перечисленных территорий не является федеральной землей Федеративной Республики Германия?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Nordrhein-Westfalen",
+              "translated": "Северный Рейн-Вестфалия"
+          },
+          {
+              "id": "a2",
+              "original": "Elsass-Lothringen",
+              "translated": "Эльзас-Лотарингия"
+          },
+          {
+              "id": "a3",
+              "original": "Mecklenburg-Vorpommern",
+              "translated": "Мекленбург-Передняя Померания"
+          },
+          {
+              "id": "a4",
+              "original": "Sachsen-Anhalt",
+              "translated": "Саксония-Ангальт"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº26",
+      "original": "Frage Nº26: Deutschland ist ...",
+      "translated": "Германия является ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "eine kommunistische Republik.",
+              "translated": "коммунистической республикой."
+          },
+          {
+              "id": "a2",
+              "original": "ein demokratischer und sozialer Bundesstaat.",
+              "translated": "демократическим и социальным федеральным государством."
+          },
+          {
+              "id": "a3",
+              "original": "eine kapitalistische und soziale Monarchie.",
+              "translated": "капиталистической и социальной монархией."
+          },
+          {
+              "id": "a4",
+              "original": "ein sozialer und sozialistischer Bundesstaat.",
+              "translated": "социальным и социалистическим федеральным государством."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº27",
+      "original": "Frage Nº27: Deutschland ist ...",
+      "translated": "Германия ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "ein sozialistischer Staat.",
+              "translated": "социалистическое государство."
+          },
+          {
+              "id": "a2",
+              "original": "ein Bundesstaat.",
+              "translated": "федеральное государство."
+          },
+          {
+              "id": "a3",
+              "original": "eine Diktatur.",
+              "translated": "диктатура."
+          },
+          {
+              "id": "a4",
+              "original": "eine Monarchie.",
+              "translated": "монархия."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº28",
+      "original": "Frage Nº28: Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
+      "translated": "Кто выбирает депутатов в Бундестаг Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "das Militär",
+              "translated": "военные"
+          },
+          {
+              "id": "a2",
+              "original": "die Wirtschaft",
+              "translated": "бизнес"
+          },
+          {
+              "id": "a3",
+              "original": "das wahlberechtigte Volk",
+              "translated": "избирательное население"
+          },
+          {
+              "id": "a4",
+              "original": "die Verwaltung",
+              "translated": "администрация"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº29",
+      "original": "Frage Nº29: Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+      "translated": "Какое животное является гербовым животным Федеративной Республики Германия?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Löwe",
+              "translated": "Лев"
+          },
+          {
+              "id": "a2",
+              "original": "Adler",
+              "translated": "Орел"
+          },
+          {
+              "id": "a3",
+              "original": "Bär",
+              "translated": "Медведь"
+          },
+          {
+              "id": "a4",
+              "original": "Pferd",
+              "translated": "Лошадь"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº30",
+      "original": "Frage Nº30: Was ist kein Merkmal unserer Demokratie?",
+      "translated": "Что не является характеристикой нашей демократии:",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "regelmäßige Wahlen",
+              "translated": "Регулярные выборы"
+          },
+          {
+              "id": "a2",
+              "original": "Pressezensur",
+              "translated": "Цензура в прессе"
+          },
+          {
+              "id": "a3",
+              "original": "Meinungsfreiheit",
+              "translated": "Свобода слова"
+          },
+          {
+              "id": "a4",
+              "original": "verschiedene Parteien",
+              "translated": "Различные партии"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº31",
+      "original": "Frage Nº31: Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland ...",
+      "translated": "Сотрудничество партий для формирования правительства в Германии называется ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Einheit.",
+              "translated": "Единство."
+          },
+          {
+              "id": "a2",
+              "original": "Koalition.",
+              "translated": "Коалиция."
+          },
+          {
+              "id": "a3",
+              "original": "Ministerium.",
+              "translated": "Министерство."
+          },
+          {
+              "id": "a4",
+              "original": "Fraktion.",
+              "translated": "Фракция."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº32",
+      "original": "Frage Nº32: Was ist keine staatliche Gewalt in Deutschland?",
+      "translated": "Что не является государственной властью в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Gesetzgebung",
+              "translated": "Законодательная власть"
+          },
+          {
+              "id": "a2",
+              "original": "Regierung",
+              "translated": "Правительство"
+          },
+          {
+              "id": "a3",
+              "original": "Presse",
+              "translated": "Пресса"
+          },
+          {
+              "id": "a4",
+              "original": "Rechtsprechung",
+              "translated": "Судебная власть"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº33",
+      "original": "Frage Nº33: Welche Aussage ist richtig? In Deutschland ...",
+      "translated": "Какое высказывание верно? В Германии ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+              "translated": "государство и религиозные общины разделены друг от друга."
+          },
+          {
+              "id": "a2",
+              "original": "bilden die Religionsgemeinschaften den Staat.",
+              "translated": "религиозные общины формируют государство."
+          },
+          {
+              "id": "a3",
+              "original": "ist der Staat abhängig von den Religionsgemeinschaften.",
+              "translated": "государство зависит от религиозных общин."
+          },
+          {
+              "id": "a4",
+              "original": "bilden Staat und Religionsgemeinschaften eine Einheit.",
+              "translated": "государство и религиозные общины образуют единую целостность."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº34",
+      "original": "Frage Nº34: Was ist Deutschland nicht?",
+      "translated": "Чем Германия не является?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "eine Demokratie",
+              "translated": "демократией"
+          },
+          {
+              "id": "a2",
+              "original": "ein Rechtsstaat",
+              "translated": "правовым государством"
+          },
+          {
+              "id": "a3",
+              "original": "eine Monarchie",
+              "translated": "монархией"
+          },
+          {
+              "id": "a4",
+              "original": "ein Sozialstaat",
+              "translated": "социальным государством"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº35",
+      "original": "Frage Nº35: Womit finanziert der deutsche Staat die Sozialversicherung.",
+      "translated": "Как немецкое государство финансирует социальное обеспечение?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Kirchensteuern",
+              "translated": "Церковные налоги"
+          },
+          {
+              "id": "a2",
+              "original": "Sozialabgaben",
+              "translated": "Взносы в Фонд социального страхования"
+          },
+          {
+              "id": "a3",
+              "original": "Spendengeldern",
+              "translated": "Пожертвования"
+          },
+          {
+              "id": "a4",
+              "original": "Vereinsbeiträgen",
+              "translated": "Взносы клуба"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº36",
+      "original": "Frage Nº36: Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+      "translated": "Что создает социальную защиту в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "die Krankenversicherung",
+              "translated": "медицинская страховка"
+          },
+          {
+              "id": "a2",
+              "original": "die Autoversicherung",
+              "translated": "страхование автомобиля"
+          },
+          {
+              "id": "a3",
+              "original": "die Gebäudeversicherung",
+              "translated": "страхование зданий"
+          },
+          {
+              "id": "a4",
+              "original": "die Haftpflichtversicherung",
+              "translated": "страхование ответственности"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº37",
+      "original": "Frage Nº37: Wie werden die Regierungschefs / Regierungschefinnen der meisten Bundesländer in Deutschland genannt?",
+      "translated": "Как называются главы правительств большинства федеральных земель Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Erster Minister / Erste Ministerin",
+              "translated": "Первый министр"
+          },
+          {
+              "id": "a2",
+              "original": "Premierminister / Premierministerin",
+              "translated": "Премьер-министр"
+          },
+          {
+              "id": "a3",
+              "original": "— Senator / Senatorin",
+              "translated": "Сенатор"
+          },
+          {
+              "id": "a4",
+              "original": "Ministerpräsident / Ministerpräsidentin",
+              "translated": "Министр-президент"
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº38",
+      "original": "Frage Nº38: Die Bundesrepublik Deutschland ist ein demokratischer und sozialer ...",
+      "translated": "Федеративная Республика Германия - демократическая и социальная...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Staatenverbund.",
+              "translated": "союз государств."
+          },
+          {
+              "id": "a2",
+              "original": "Bundesstaat.",
+              "translated": "федеративное государство."
+          },
+          {
+              "id": "a3",
+              "original": "Staatenbund.",
+              "translated": "конфедерация государств."
+          },
+          {
+              "id": "a4",
+              "original": "Zentralstaat.",
+              "translated": "центральное государство."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº39",
+      "original": "Frage Nº39: Was hat jedes deutsche Bundesland?",
+      "translated": "Что есть в каждой федеральной земле Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "einen eigenen Außenminister / eine eigene Außenministerin",
+              "translated": "собственный министр иностранных дел"
+          },
+          {
+              "id": "a2",
+              "original": "eine eigene Währung",
+              "translated": "собственная валюта"
+          },
+          {
+              "id": "a3",
+              "original": "eine eigene Armee",
+              "translated": "своя армия"
+          },
+          {
+              "id": "a4",
+              "original": "eine eigene Regierung",
+              "translated": "собственное правительство"
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº40",
+      "original": "Frage Nº40: Mit welchen Worten beginnt die deutsche Nationalhymne?",
+      "translated": "С каких слов начинается гимн Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Völker, hört die Signale ...",
+              "translated": "Народы, услышьте сигналы...."
+          },
+          {
+              "id": "a2",
+              "original": "Einigkeit und Recht und Freiheit ...",
+              "translated": "Единство и справедливость и свобода ..."
+          },
+          {
+              "id": "a3",
+              "original": "Freude schöner Götterfunken ...",
+              "translated": "Радость, прекрасная искра богов..."
+          },
+          {
+              "id": "a4",
+              "original": "Deutschland einig Vaterland ...",
+              "translated": "Германия Единая Родина..."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº41",
+      "original": "Frage Nº41: Warum gibt es in einer Demokratie mehr als eine Partei?",
+      "translated": "Почему в демократической стране многопартийная система?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
+              "translated": "потому что этим представляются разные мнения граждан"
+          },
+          {
+              "id": "a2",
+              "original": "damit Bestechung in der Politik begrenzt wird",
+              "translated": "чтобы взяточничество в политике было ограничено"
+          },
+          {
+              "id": "a3",
+              "original": "um politische Demonstrationen zu verhindern",
+              "translated": "чтобы предотвратить политические демонстрации"
+          },
+          {
+              "id": "a4",
+              "original": "um wirtschaftlichen Wettbewerb anzuregen",
+              "translated": "чтобы стимулировать экономическую конкуренцию"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº42",
+      "original": "Frage Nº42: Wer beschließt in Deutschland ein neues Gesetz?",
+      "translated": "Кто принимает решение о новом законе в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "die Regierung",
+              "translated": "правительство"
+          },
+          {
+              "id": "a2",
+              "original": "das Parlament",
+              "translated": "парламент"
+          },
+          {
+              "id": "a3",
+              "original": "die Gerichte",
+              "translated": "суды"
+          },
+          {
+              "id": "a4",
+              "original": "die Polizei",
+              "translated": "полиция"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº43",
+      "original": "Frage Nº43: Wann kann in Deutschland eine Partei verboten werden?",
+      "translated": "Когда в Германии можно запретить партию?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "wenn ihr Wahlkampf zu teuer ist",
+              "translated": "если их избирательная кампания обходится слишком дорого"
+          },
+          {
+              "id": "a2",
+              "original": "wenn sie gegen die Verfassung kämpft",
+              "translated": "когда она борется против конституции"
+          },
+          {
+              "id": "a3",
+              "original": "wenn sie Kritik am Staatsoberhaupt äußert",
+              "translated": "когда она высказывает критику в адрес главы государства"
+          },
+          {
+              "id": "a4",
+              "original": "wenn ihr Programm eine neue Richtung vorschlägt",
+              "translated": "когда их программа предлагает новое направление"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº44",
+      "original": "Frage Nº44: Wen kann man als Bürger / Bürgerin in Deutschland nicht direkt wählen?",
+      "translated": "За кого не может голосовать напрямую гражданин Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Abgeordnete des EU-Parlaments",
+              "translated": "Члены Парламента ЕС"
+          },
+          {
+              "id": "a2",
+              "original": "den Bundespräsidenten / die Bundespräsidentin",
+              "translated": "Федеральный президент"
+          },
+          {
+              "id": "a3",
+              "original": "Landtagsabgeordnete",
+              "translated": "Член государственного парламента"
+          },
+          {
+              "id": "a4",
+              "original": "Bundestagsabgeordnete",
+              "translated": "Депутат Бундестага"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº45",
+      "original": "Frage Nº45: Zu welcher Versicherung gehört die Pflegeversicherung?",
+      "translated": "К какому страхованию относится страхование по уходу?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Sozialversicherung",
+              "translated": "Социальное страхованиe"
+          },
+          {
+              "id": "a2",
+              "original": "Unfallversicherung",
+              "translated": "Страхование от несчастных случаев"
+          },
+          {
+              "id": "a3",
+              "original": "Hausratversicherung",
+              "translated": "Страхование жилья"
+          },
+          {
+              "id": "a4",
+              "original": "Haftpflicht- und Feuerversicherung",
+              "translated": "Страхование ответственности и пожарной ответственности"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº46",
+      "original": "Frage Nº46: Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
+      "translated": "У немецкого государства много функций. Какая одна из них?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Er baut Straßen und Schulen.",
+              "translated": "Оно строит улицы и школы."
+          },
+          {
+              "id": "a2",
+              "original": "Er verkauft Lebensmittel und Kleidung.",
+              "translated": "Оно продает еду и одежду."
+          },
+          {
+              "id": "a3",
+              "original": "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
+              "translated": "Оно бесплатно снабжает всех жителей газетами"
+          },
+          {
+              "id": "a4",
+              "original": "Er produziert Autos und Busse.",
+              "translated": "Оно производит автомобили и автобусы."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº47",
+      "original": "Frage Nº47: Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
+      "translated": "У немецкого государства много функций. Что не является таковой?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+              "translated": "Оно оплачивает путевки в отпуск для всех граждан."
+          },
+          {
+              "id": "a2",
+              "original": "Er zahlt Kindergeld.",
+              "translated": "Оно платит пособие на ребенка."
+          },
+          {
+              "id": "a3",
+              "original": "Er unterstützt Museen.",
+              "translated": "Оно поддерживает музеи."
+          },
+          {
+              "id": "a4",
+              "original": "Er fördert Sportler und Sportlerinnen.",
+              "translated": "Оно поддерживает спортсменов."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº48",
+      "original": "Frage Nº48: Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+      "translated": "Какой орган не является конституционным органом Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "der Bundesrat",
+              "translated": "Федеральный совет"
+          },
+          {
+              "id": "a2",
+              "original": "der Bundespräsident / die Bundespräsidentin",
+              "translated": "Федеральный президент"
+          },
+          {
+              "id": "a3",
+              "original": "die Bürgerversammlung",
+              "translated": "собрание граждан"
+          },
+          {
+              "id": "a4",
+              "original": "die Regierung",
+              "translated": "правительство"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº49",
+      "original": "Frage Nº49: Wer bestimmt in Deutschland die Schulpolitik?",
+      "translated": "Кто в Германии определяет школьную политику?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "die Lehrer und Lehrerinnen",
+              "translated": "учителя"
+          },
+          {
+              "id": "a2",
+              "original": "die Bundesländer",
+              "translated": "федеральные земли"
+          },
+          {
+              "id": "a3",
+              "original": "das Familienministerium",
+              "translated": "Министерство семьи"
+          },
+          {
+              "id": "a4",
+              "original": "die Universitäten",
+              "translated": "университеты"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº50",
+      "original": "Frage Nº50: Die Wirtschaftsform in Deutschland nennt man ...",
+      "translated": "Экономическая система в Германии называется...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "freie Zentralwirtschaft.",
+              "translated": "свободная центральная экономика."
+          },
+          {
+              "id": "a2",
+              "original": "soziale Marktwirtschaft..",
+              "translated": "социальная рыночная экономика."
+          },
+          {
+              "id": "a3",
+              "original": "gelenkte Zentralwirtschaft.",
+              "translated": "направленная центральная экономика."
+          },
+          {
+              "id": "a4",
+              "original": "Planwirtschaft.",
+              "translated": "плановая экономика."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº247",
+      "original": "Frage Nº247: Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+      "translated": "Женщина беременна. Она непосредственно перед и после рождения ребенка особенно защищена законом. Как называется эта защита?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Elternzeit",
+              "translated": "Отпуск по уходу за ребенком"
+          },
+          {
+              "id": "a2",
+              "original": "Geburtsvorbereitung",
+              "translated": "Подготовка к родам"
+          },
+          {
+              "id": "a3",
+              "original": "Mutterschutz",
+              "translated": "Охрана материнства"
+          },
+          {
+              "id": "a4",
+              "original": "Wochenbett",
+              "translated": "Послеродовой период"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº248",
+      "original": "Frage Nº248: Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe ...",
+      "translated": "В Германии воспитание детей - это прежде всего задача..",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "des Staates.",
+              "translated": "государства."
+          },
+          {
+              "id": "a2",
+              "original": "der Eltern.",
+              "translated": "родителей."
+          },
+          {
+              "id": "a3",
+              "original": "der Großeltern.",
+              "translated": "бабушек и дедушек."
+          },
+          {
+              "id": "a4",
+              "original": "der Schulen.",
+              "translated": "школ."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº249",
+      "original": "Frage Nº249: Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+      "translated": "Кто в первую очередь отвечает за воспитание детей в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "der Staat",
+              "translated": "государство"
+          },
+          {
+              "id": "a2",
+              "original": "die Eltern",
+              "translated": "родители"
+          },
+          {
+              "id": "a3",
+              "original": "die Verwandten",
+              "translated": "родственники"
+          },
+          {
+              "id": "a4",
+              "original": "die Schulen",
+              "translated": "школы"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº250",
+      "original": "Frage Nº250: In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man ...",
+      "translated": "В Германии бОльшие шансы получить хорошо оплачиваемую работу, если являешься ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "katholisch ist.",
+              "translated": "католиком."
+          },
+          {
+              "id": "a2",
+              "original": "gut ausgebildet ist.",
+              "translated": "хорошо образованным"
+          },
+          {
+              "id": "a3",
+              "original": "eine Frau ist.",
+              "translated": "женщиной."
+          },
+          {
+              "id": "a4",
+              "original": "Mitglied einer Partei ist.",
+              "translated": "членом партии."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº251",
+      "original": "Frage Nº251: Wenn man in Deutschland ein Kind schlägt, ...",
+      "translated": "Если кто-то бьёт ребёнка в Германии, ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "geht das niemanden etwas an.",
+              "translated": "это никого не касается."
+          },
+          {
+              "id": "a2",
+              "original": "geht das nur die Familie etwas an.",
+              "translated": "это только семейное дело."
+          },
+          {
+              "id": "a3",
+              "original": "kann man dafür nicht bestraft werden.",
+              "translated": "его нельзя за это наказать."
+          },
+          {
+              "id": "a4",
+              "original": "kann man dafür bestraft werden.",
+              "translated": "его можно за это наказать."
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº252",
+      "original": "Frage Nº252: In Deutschland ...",
+      "translated": "В Германии ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
+              "translated": "одновременно можно состоять в браке только с одним партнером."
+          },
+          {
+              "id": "a2",
+              "original": "kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.",
+              "translated": "может быть несколько супругов одновременно."
+          },
+          {
+              "id": "a3",
+              "original": "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+              "translated": "не разрешается снова вступать в брак после того, как уже один раз были в браке."
+          },
+          {
+              "id": "a4",
+              "original": "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.",
+              "translated": "женщине не разрешается повторно выходить замуж, если ее муж умер."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº253",
+      "original": "Frage Nº253: Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+      "translated": "Где нужно регистрироваться, если Вы переезжаете в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "beim Einwohnermeldeamt",
+              "translated": "в учреждении, выдающем справки о месте жительства лиц и расположении организаций (адресный стол)"
+          },
+          {
+              "id": "a2",
+              "original": "beim Standesamt",
+              "translated": "в ЗАГСе"
+          },
+          {
+              "id": "a3",
+              "original": "beim Ordnungsamt",
+              "translated": "в ведомстве по вопросам общественного порядка"
+          },
+          {
+              "id": "a4",
+              "original": "beim Gewerbeamt",
+              "translated": "в ведомстве по вопросам предпринимательской деятельности"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº254",
+      "original": "Frage Nº254: In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das Trennungsjahr einhalten. Was bedeutet das?",
+      "translated": "В Германии супружеским парам разрешено разводиться. Большую часть времени для этого им приходится соблюдать «год разлуки». Что это значит?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Der Scheidungsprozess dauert ein Jahr.",
+              "translated": "Бракоразводный процесс длится год."
+          },
+          {
+              "id": "a2",
+              "original": "Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+              "translated": "Мужчина и женщина состоят в браке один год, затем возможен развод."
+          },
+          {
+              "id": "a3",
+              "original": "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+              "translated": "Право на посещение детей действует в течение одного года."
+          },
+          {
+              "id": "a4",
+              "original": "Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
+              "translated": "Муж и жена как минимум год живут раздельно. После этого возможен развод."
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº255",
+      "original": "Frage Nº255: Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom ...",
+      "translated": "При проблемах с воспитанием детей родители в Германии могут получить помощь в ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Ordnungsamt.",
+              "translated": "службе общественного порядка."
+          },
+          {
+              "id": "a2",
+              "original": "Schulamt.",
+              "translated": "школьном ведомстве."
+          },
+          {
+              "id": "a3",
+              "original": "Jugendamt.",
+              "translated": "управление по делам несовершеннолетних."
+          },
+          {
+              "id": "a4",
+              "original": "Gesundheitsamt.",
+              "translated": "департаменте здравоохранения."
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº256",
+      "original": "Frage Nº256: Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+      "translated": "Супружеская пара хочет открыть ресторан в Германии. Что обязательно для этого нужно?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "eine Erlaubnis der Polizei",
+              "translated": "разрешение полиции"
+          },
+          {
+              "id": "a2",
+              "original": "eine Genehmigung einer Partei",
+              "translated": "разрешение от партии"
+          },
+          {
+              "id": "a3",
+              "original": "eine Genehmigung des Einwohnermeldeamts",
+              "translated": "разрешение от адресного стола"
+          },
+          {
+              "id": "a4",
+              "original": "eine Gaststättenerlaubnis von der zuständigen Behörde",
+              "translated": "лицензия на эксплуатацию ресторана, выданная соответствующим учреждением."
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº257",
+      "original": "Frage Nº257: Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an",
+      "translated": "Взрослая женщина хочет получить аттестат зрелости в Германии. Она может это сделать в ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "einer Hochschule.",
+              "translated": "университете."
+          },
+          {
+              "id": "a2",
+              "original": "einem Abendgymnasium.",
+              "translated": "вечерней гимназии."
+          },
+          {
+              "id": "a3",
+              "original": "einer Hauptschule.",
+              "translated": "средней школе."
+          },
+          {
+              "id": "a4",
+              "original": "einer Privatuniversität.",
+              "translated": "частном университете ."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº258",
+      "original": "Frage Nº258: Was darf das Jugendamt in Deutschland?",
+      "translated": "Что разрешено делать ведомству по делам несовершеннолетних в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Es entscheidet, welche Schule das Kind besucht.",
+              "translated": "Оно решает, в какую школу пойдет ребенок."
+          },
+          {
+              "id": "a2",
+              "original": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+              "translated": "Оно может забрать из семьи ребенка, которого избивают или который голодает."
+          },
+          {
+              "id": "a3",
+              "original": "Es bezahlt das Kindergeld an die Eltern.",
+              "translated": "Оно выплачивает родителям пособие на ребенка."
+          },
+          {
+              "id": "a4",
+              "original": "Es kontrolliert, ob das Kind einen Kindergarten besucht.",
+              "translated": "Оно проверяет, посещает ли ребенок детский сад."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº267",
+      "original": "Frage Nº267: Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+      "translated": "Молодая женщина в Германии, 22 года, живет со своим другом. Родители женщины это не одобряют, потому что им не нравится ее друг. Что могут сделать родители?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+              "translated": "Они должны уважать решение взрослой дочери."
+          },
+          {
+              "id": "a2",
+              "original": "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+              "translated": "Они имеют право забрать свою дочь обратно в её родительский дом."
+          },
+          {
+              "id": "a3",
+              "original": "Sie können zur Polizei gehen und die Tochter anzeigen.",
+              "translated": "Они могут пойти в полицию и подать заявление на свою дочь."
+          },
+          {
+              "id": "a4",
+              "original": "Sie suchen einen anderen Mann für die Tochter.",
+              "translated": "Они ищут другого мужчину для своей дочери."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº272",
+      "original": "Frage Nº272: Welche Lebensform ist in Deutschland nicht erlaubt?",
+      "translated": "Какие отношения не разрешены в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+              "translated": "Мужчина и женщина разведены и живут с новыми партнёрами"
+          },
+          {
+              "id": "a2",
+              "original": "Zwei Frauen leben zusammen.",
+              "translated": "Две женщины живут вместе."
+          },
+          {
+              "id": "a3",
+              "original": "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+              "translated": "Отец-одиночка живёт со своими двумя детьми."
+          },
+          {
+              "id": "a4",
+              "original": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.",
+              "translated": "Мужчина одновременно состоит в браке с двумя женщинами."
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº275",
+      "original": "Frage Nº275: Was braucht man in Deutschland für eine Ehescheidung?",
+      "translated": "Что необходимо для развода в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "die Einwilligung der Eltern",
+              "translated": "Согласие родителей"
+          },
+          {
+              "id": "a2",
+              "original": "ein Attest eines Arztes / einer Ärztin",
+              "translated": "Справка от врача"
+          },
+          {
+              "id": "a3",
+              "original": "die Einwilligung der Kinder",
+              "translated": "Согласие детей"
+          },
+          {
+              "id": "a4",
+              "original": "die Unterstützung eines Anwalts / einer Anwältin",
+              "translated": "Поддержка адвоката'"
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "",
+      "original": "",
+      "translated": "",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a2",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a3",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a4",
+              "original": "",
+              "translated": ""
+          }
+      ],
+      "correctAnswerId": ""
     }
   ]
 }

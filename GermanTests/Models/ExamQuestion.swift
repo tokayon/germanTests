@@ -6,3 +6,17 @@
 //
 
 import Foundation
+
+struct ExamQuestion: Identifiable, Codable {
+    let id: String
+    let original: String
+    let translated: String
+    let answers: [ExamAnswer]
+    let correctAnswerId: String
+}
+
+struct ExamAnswer: Identifiable, Codable, Equatable {
+    let id: String
+    let original: String
+    let translated: String
+}
