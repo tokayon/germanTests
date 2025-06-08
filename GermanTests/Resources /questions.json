@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "original": "What is the capital of France?",
+      "translated": "Quelle est la capitale de la France?",
+      "answers": [
+        {"id": "a1", "original": "Paris", "translated": "Paris"},
+        {"id": "a2", "original": "London", "translated": "Londres"},
+        {"id": "a3", "original": "Berlin", "translated": "Berlin"},
+        {"id": "a4", "original": "Madrid", "translated": "Madrid"}
+      ],
+      "correctAnswer": {"id": "a1", "original": "Paris", "translated": "Paris"}
+    }
+  ]
+}
