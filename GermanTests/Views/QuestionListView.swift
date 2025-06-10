@@ -20,16 +20,19 @@ struct QuestionListView: View {
     private struct Constants {
         static let autoAdvancedDelay: TimeInterval = 1
         static let correctAnswersToPass: Int = 17
+        static let remainingSeconds = 30*60
+        static let warningRemainingSeconds: Int = 60
     }
     
     @State var viewModel: QuestionViewModel
     @State private var audioPlayer: AVAudioPlayer?
     @State private var isPickerPresented = false
     @State private var correctAnswers = 0
-    @State private var remainingSeconds = 60 * 60
+    @State private var remainingSeconds = Constants.remainingSeconds
+    @State private var timerColor: Color = .blue
     @State private var timer: Timer?
     @State private var isAdvancing: Bool = false
-
+    
     private let sessionID: UUID
     let mode: ExamMode
     var onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool) -> Void)? = nil
@@ -43,8 +46,8 @@ struct QuestionListView: View {
     
     private var timerView: some View {
         Text("⏱ \(formattedTime)")
-            .font(.headline)
-            .foregroundColor(.red)
+            .font(.title)
+            .foregroundColor(timerColor)
             .padding()
     }
     
@@ -106,14 +109,17 @@ struct QuestionListView: View {
                 answersView(for: question)
 
                 Spacer()
-
+                correctImageView
                 buttonsView
-                questionPickerView
             }
             .padding(.horizontal)
         case .exam:
             VStack(alignment: .leading, spacing: 0) {
-                timerView
+                HStack {
+                    Spacer()
+                    timerView
+                    Spacer()
+                }
                 
                 Text(viewModel.showTranslation ? question.translated : question.original)
                     .font(.system(size: 25, weight: .medium))
@@ -123,13 +129,19 @@ struct QuestionListView: View {
                 answersView(for: question)
 
                 Spacer()
-
+                                
                 HStack {
                     Spacer()
                     Text("Frage \(viewModel.currentIndex+1) von \(viewModel.questions.count)")
+                    correctImage
+                    .font(.system(size: 20))
+                    .opacity(viewModel.selectedAnswer != nil ? 1 : 0)
+                    .foregroundColor(iconColor)
                     Spacer()
                 }
                 .padding()
+                
+                examButtonView
             }
             .padding(.horizontal)
         }
@@ -167,15 +179,7 @@ struct QuestionListView: View {
                             playSound(name: "success", fileExtension: "m4a")
                         } else {
                             vibrateWrongAnswer()
-                            playSound(name: "fail", fileExtension: "mp3")
-                        }
-                        
-                        // Auto-advance after 3 seconds in exam mode
-                        if case .exam = mode, !isAdvancing {
-                            isAdvancing = true
-                            DispatchQueue.main.asyncAfter(deadline: .now() + Constants.autoAdvancedDelay) {
-                                advanceExam()
-                            }
+                            playSound(name: "error", fileExtension: "mp3")
                         }
                     }
                 }
@@ -218,37 +222,75 @@ struct QuestionListView: View {
         HStack {
             Spacer()
             
-            Button {
+            Button(action: {
                 viewModel.goBack()
-            } label: {
-                Text("Back")
+            }) {
+                Image(systemName: "chevron.left")
                     .font(.system(size: 20, weight: .semibold))
+                    .padding(8)
+                    .contentShape(Rectangle()) // Expand tappable area
             }
+            .accessibilityLabel("Zurück")
             .disabled(viewModel.currentIndex == 0)
+            
+            Spacer()
+            
+            questionPickerView
 
             Spacer()
 
-            // ✅ Reserve space and animate without jumping
-            ZStack {
-                correctImage
-            }
-            .font(.system(size: 40))
-            .foregroundColor(iconColor)
-            .opacity(viewModel.selectedAnswer != nil ? 1 : 0)
-            .animation(.easeInOut, value: viewModel.selectedAnswer != nil)
-
-            Spacer()
-
-            Button {
+            Button(action: {
                 viewModel.goNext()
-            } label: {
-                Text("Next")
+            }) {
+                Image(systemName: "chevron.right")
                     .font(.system(size: 20, weight: .semibold))
+                    .padding(8)
+                    .contentShape(Rectangle())
             }
+            .accessibilityLabel("Weiter")
             .disabled(viewModel.currentIndex == viewModel.questions.count - 1)
 
             Spacer()
         }
+        .padding()
+    }
+    
+    private var examButtonView: some View {
+        HStack {
+            Spacer()
+            Button(action: {
+                viewModel.goNext()
+            }) {
+                Image(systemName: "arrowshape.forward.circle.fill")
+                    .font(.system(size: 50, weight: .semibold))
+                    .padding(8)
+                    .contentShape(Rectangle())
+            }
+            .accessibilityLabel("Weiter")
+            .disabled(isExamButtonDisabled)
+
+            Spacer()
+        }
+        .padding()
+    }
+    
+    private var isExamButtonDisabled: Bool {
+        viewModel.currentIndex == viewModel.questions.count - 1 ||
+        viewModel.selectedAnswer == nil
+    }
+    
+    private var correctImageView: some View {
+        ZStack {
+            HStack {
+                Spacer()
+                correctImage
+                Spacer()
+            }
+        }
+        .font(.system(size: 40))
+        .foregroundColor(iconColor)
+        .opacity(viewModel.selectedAnswer != nil ? 1 : 0)
+        .animation(.easeInOut(duration: 0.1), value: viewModel.selectedAnswer != nil)
     }
     
     private func dotColor(for answer: ExamAnswer, in question: ExamQuestion) -> Color {
@@ -330,6 +372,10 @@ struct QuestionListView: View {
                 remainingSeconds -= 1
             } else {
                 finishExam()
+            }
+            
+            if remainingSeconds < Constants.warningRemainingSeconds {
+                timerColor = .red
             }
         }
     }
