@@ -31,13 +31,12 @@ struct QuestionListView: View {
     @State private var remainingSeconds = Constants.remainingSeconds
     @State private var timerColor: Color = .blue
     @State private var timer: Timer?
-    @State private var isAdvancing: Bool = false
     
     private let sessionID: UUID
     let mode: ExamMode
-    var onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool) -> Void)? = nil
+    var onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool, _ time: Int) -> Void)? = nil
 
-    init(mode: ExamMode = .practice, sessionID: UUID = UUID(), onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool) -> Void)? = nil) {
+    init(mode: ExamMode = .practice, sessionID: UUID = UUID(), onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool, _ time: Int) -> Void)? = nil) {
         _viewModel = State(wrappedValue: QuestionViewModel(mode: mode))
         self.mode = mode
         self.sessionID = sessionID
@@ -102,7 +101,7 @@ struct QuestionListView: View {
         case .practice:
             VStack(alignment: .leading, spacing: 0) {
                 Text(viewModel.showTranslation ? question.translated : question.original)
-                    .font(.system(size: 25, weight: .medium))
+                    .font(.system(size: 20, weight: .medium))
                     .padding(.horizontal)
                     .padding(.bottom)
 
@@ -122,7 +121,7 @@ struct QuestionListView: View {
                 }
                 
                 Text(viewModel.showTranslation ? question.translated : question.original)
-                    .font(.system(size: 25, weight: .medium))
+                    .font(.system(size: 20, weight: .medium))
                     .padding(.horizontal)
                     .padding(.bottom)
 
@@ -139,7 +138,6 @@ struct QuestionListView: View {
                     .foregroundColor(iconColor)
                     Spacer()
                 }
-                .padding()
                 
                 examButtonView
             }
@@ -259,7 +257,7 @@ struct QuestionListView: View {
         HStack {
             Spacer()
             Button(action: {
-                viewModel.goNext()
+                advanceExam()
             }) {
                 Image(systemName: "arrowshape.forward.circle.fill")
                     .font(.system(size: 50, weight: .semibold))
@@ -271,11 +269,10 @@ struct QuestionListView: View {
 
             Spacer()
         }
-        .padding()
     }
     
     private var isExamButtonDisabled: Bool {
-        viewModel.currentIndex == viewModel.questions.count - 1 ||
+        viewModel.currentIndex == viewModel.questions.count ||
         viewModel.selectedAnswer == nil
     }
     
@@ -359,7 +356,6 @@ struct QuestionListView: View {
         if viewModel.currentIndex < viewModel.questions.count - 1 {
             viewModel.currentIndex += 1
             viewModel.selectedAnswer = nil
-            isAdvancing = false
         } else {
             finishExam()
         }
@@ -383,10 +379,7 @@ struct QuestionListView: View {
     private func finishExam() {
         timer?.invalidate()
         let passed = correctAnswers >= Constants.correctAnswersToPass
-        if !passed {
-            playSound(name: "fail", fileExtension: "mp3")
-        }
-        onExamFinished?(correctAnswers, viewModel.questions.count, passed)
+        onExamFinished?(correctAnswers, viewModel.questions.count, passed, Constants.remainingSeconds - remainingSeconds)
     }
 }
 

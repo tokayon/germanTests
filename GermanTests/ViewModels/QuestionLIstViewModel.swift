@@ -33,11 +33,13 @@ class QuestionViewModel {
             return
         }
         
+        let questions = result.questions.filter { !$0.id.isEmpty }
+        
         switch mode {
         case .practice:
-            self.questions = result.questions
+            self.questions = questions
         case .exam(let questionsCount):
-            self.questions = Array(result.questions.shuffled().prefix(questionsCount))
+            self.questions = Array(questions.shuffled().prefix(questionsCount))
         }
     }
 

@@ -26,6 +26,7 @@ struct ExamStartView: View {
         let correct: Int
         let total: Int
         let passed: Bool
+        let time: Int
     }
     
     var body: some View {
@@ -61,8 +62,8 @@ struct ExamStartView: View {
             }
             .navigationTitle("Prüfung")
             .navigationDestination(isPresented: $isExamStarted) {
-                QuestionListView(mode: .exam(Constants.questionsCount), sessionID: sessionID) { correct, total, passed in
-                    self.resultData = ExamResultData(correct: correct, total: total, passed: passed)
+                QuestionListView(mode: .exam(Constants.questionsCount), sessionID: sessionID) { correct, total, passed, time in
+                    self.resultData = ExamResultData(correct: correct, total: total, passed: passed, time: time)
                     self.isExamStarted = false
                     self.sessionID = UUID()
                     
@@ -90,6 +91,9 @@ struct ExamStartView: View {
 
             Text("Ergebnis: \(result.correct) von \(result.total) richtig")
                 .font(.title3)
+                .padding(.vertical)
+                        
+            Text("Testdauer: \(result.time / 60) min \(result.time % 60) sec")
 
             Button("OK") {
                 resultData = nil
