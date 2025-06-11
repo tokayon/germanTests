@@ -357,7 +357,7 @@
           },
           {
               "id": "a2",
-              "original": "•Zwangsarbeit",
+              "original": "Zwangsarbeit",
               "translated": "Принудительный труд"
           },
           {
@@ -1354,6 +1354,231 @@
       "correctAnswerId": "a2"
     },
     {
+      "id": "Frage Nº104",
+      "original": "Frage Nº104: Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+      "translated": "Женщина в Германии теряет работу. Что не должно быть причиной такого увольнения?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Die Frau ist lange krank und arbeitsunfähig.",
+              "translated": "Женщина давно болеет и не может работать."
+          },
+          {
+              "id": "a2",
+              "original": "Die Frau kam oft zu spät zur Arbeit.",
+              "translated": "Женщина часто опаздывала на работу."
+          },
+          {
+              "id": "a3",
+              "original": "Die Frau erledigt private Sachen während der Arbeitszeit.",
+              "translated": "Женщина занимается личными делами в рабочее время."
+          },
+          {
+              "id": "a4",
+              "original": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
+              "translated": "Женщина рожает ребенка, и её начальник знает об этом"
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    
+    {
+      "id": "Frage Nº240",
+      "original": "Frage Nº240: Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+      "translated": "С какого времени в Германии люди платят наличными в евро?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "1995",
+              "translated": "1995"
+          },
+          {
+              "id": "a2",
+              "original": "1998",
+              "translated": "1998"
+          },
+          {
+              "id": "a3",
+              "original": "2002",
+              "translated": "2002"
+          },
+          {
+              "id": "a4",
+              "original": "2005",
+              "translated": "2005"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº241",
+      "original": "Frage Nº241: Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+      "translated": "Госпожа Зегер ожидает ребенка. Что ей нужно сделать, чтобы получать детские пособия?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Sie muss an ihre Krankenkasse schreiben.",
+              "translated": "Она должна написать в свою мед. страховую компанию."
+          },
+          {
+              "id": "a2",
+              "original": "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+              "translated": "Ей не нужно ничего делать, так как она будет автоматически получать детские пособия"
+          },
+          {
+              "id": "a3",
+              "original": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+              "translated": "Она должна подать заявление в орган по выплате детских пособий."
+          },
+          {
+              "id": "a4",
+              "original": "Sie muss das Arbeitsamt um Erlaubnis bitten.",
+              "translated": "Она должна попросить разрешение в службе занятости."
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº242",
+      "original": "Frage Nº242: Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+      "translated": "Кто решает, будет ли ребенок в Германии ходить в детский сад?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "der Staat",
+              "translated": "государство"
+          },
+          {
+              "id": "a2",
+              "original": "die Bundesländer",
+              "translated": "федеральные земли"
+          },
+          {
+              "id": "a3",
+              "original": "die Eltern / die Erziehungsberechtigten",
+              "translated": "родители / законные опекуны"
+          },
+          {
+              "id": "a4",
+              "original": "— die Schulen",
+              "translated": "школы"
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº243",
+      "original": "Frage Nº243: Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+      "translated": "Майк и Зибилла хотят вместе с друзьями организовать демонстрацию на улице по своему месту жительства в Германии. Что им нужно сделать заранее?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+              "translated": "Они ничего не должны делать. В Германии можно демонстрировать в любое время и в любом месте."
+          },
+          {
+              "id": "a2",
+              "original": "— Sie müssen die Demonstration anmelden.",
+              "translated": "- Они должны зарегистрировать демонстрацию."
+          },
+          {
+              "id": "a3",
+              "original": "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+              "translated": "— Они не могут ничего сделать, потому что демонстрации в Германии в принципе запрещены."
+          },
+          {
+              "id": "a4",
+              "original": "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.",
+              "translated": "Майк и Зибилла должны создать новый клуб, потому что только клубы имеют право на демонстрации."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº244",
+      "original": "Frage Nº244: Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+      "translated": "Какой аттестат об окончании школы обычно нужен, чтобы начать обучение в университете в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "das Abitur",
+              "translated": "Аттестат зрелости / абитур"
+          },
+          {
+              "id": "a2",
+              "original": "ein Diplom",
+              "translated": "диплом"
+          },
+          {
+              "id": "a3",
+              "original": "die Prokura",
+              "translated": "доверенность:"
+          },
+          {
+              "id": "a4",
+              "original": "eine Gesellenprüfung",
+              "translated": "экзамен подмастерья"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº245",
+      "original": "Frage Nº245: Wer darf in Deutschland nicht als Paar zusammenleben?",
+      "translated": "Кому не разрешено жить вместе как пара в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Hans (20 Jahre) und Marie (19 Jahre)",
+              "translated": "Ганс (20 лет) и Мари (19 лет)"
+          },
+          {
+              "id": "a2",
+              "original": "Tom (20 Jahre) und Klaus (45 Jahre)",
+              "translated": "Том (20 лет) и Клаус (45 лет)"
+          },
+          {
+              "id": "a3",
+              "original": "Sofie (35 Jahre) und Lisa (40 Jahre)",
+              "translated": "Софи (35 лет) и Лиза (40 лет)"
+          },
+          {
+              "id": "a4",
+              "original": "Anne (13 Jahre) und Tim (25 Jahre)",
+              "translated": "Анне (13 лет) и Тим (25 лет)"
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº246",
+      "original": "Frage Nº246: Ab welchem Alter ist man in Deutschland volljährig?",
+      "translated": "С какого возраста человек считается в Германии совершеннолетним?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "16",
+              "translated": "16"
+          },
+          {
+              "id": "a2",
+              "original": "18",
+              "translated": "18"
+          },
+          {
+              "id": "a3",
+              "original": "19",
+              "translated": "19"
+          },
+          {
+              "id": "a4",
+              "original": "21",
+              "translated": "21"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
       "id": "Frage Nº247",
       "original": "Frage Nº247: Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
       "translated": "Женщина беременна. Она непосредственно перед и после рождения ребенка особенно защищена законом. Как называется эта защита?",
@@ -1690,6 +1915,230 @@
       "correctAnswerId": "a2"
     },
     {
+      "id": "Frage Nº259",
+      "original": "Frage Nº259: Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der ...",
+      "translated": "Профинформационный центр BIZ при Федеральном агентстве занятости Германии помогает при ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Rentenberechnung.",
+              "translated": "расчете пенсии.."
+          },
+          {
+              "id": "a2",
+              "original": "Lehrstellensuche.",
+              "translated": "поиске места профобучения."
+          },
+          {
+              "id": "a3",
+              "original": "Steuererklärung.",
+              "translated": "оформлении налоговой декларации."
+          },
+          {
+              "id": "a4",
+              "original": "Krankenversicherung.",
+              "translated": "оформлении медицинской страховки."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº260",
+      "original": "Frage Nº260: In Deutschland hat ein Kind in der Schule ...",
+      "translated": "В Германии ребенок в школе имеет ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Recht auf unbegrenzte Freizeit.",
+              "translated": "право на неограниченное свободное время."
+          },
+          {
+              "id": "a2",
+              "original": "Wahlfreiheit für alle Fächer.",
+              "translated": "свободу выбора всех предметов."
+          },
+          {
+              "id": "a3",
+              "original": "Anspruch auf Schulgeld.",
+              "translated": "право на школьные взносы."
+          },
+          {
+              "id": "a4",
+              "original": "Anwesenheitspflicht.",
+              "translated": "обязательство посещать школу"
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº261",
+      "original": "Frage Nº261: Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An ...",
+      "translated": "Мужчина 30 лет хочет получить аттестат зрелости в Германии. Где он может это сделать? В ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "einer Hochschule",
+              "translated": "университете"
+          },
+          {
+              "id": "a2",
+              "original": "einem Abendgymnasium",
+              "translated": "вечерней гимназии"
+          },
+          {
+              "id": "a3",
+              "original": "einer Hauptschule",
+              "translated": "средней школе"
+          },
+          {
+              "id": "a4",
+              "original": "einer Privatuniversität",
+              "translated": "частном университете"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº262",
+      "original": "Frage Nº262: Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+      "translated": "Что означает принцип равного обращения в Германии?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+              "translated": "Никто не должен быть ущемлен, например, из-за инвалидности."
+          },
+          {
+              "id": "a2",
+              "original": "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+              "translated": "Можно дискриминировать других людей, если для этого есть достаточные личные причины."
+          },
+          {
+              "id": "a3",
+              "original": "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+              "translated": "Никто не имеет права подавать в суд на людей, если подверглись дискриминации"
+          },
+          {
+              "id": "a4",
+              "original": "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.",
+              "translated": "Это закон, согласно которому каждый должен ежегодно жертвовать деньги малообеспеченным слоям населения."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº263",
+      "original": "Frage Nº263: In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, ...",
+      "translated": "В Германии уголовную ответственность несут молодые люди от 14 лет и старше. Это значит: молодые люди от 14 лет и старше, нарушающие уголовное законодательство..",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "werden bestraft.",
+              "translated": "— будут наказаны."
+          },
+          {
+              "id": "a2",
+              "original": "— werden wie Erwachsene behandelt.",
+              "translated": "- с ними будут обращаться как со взрослыми."
+          },
+          {
+              "id": "a3",
+              "original": "— teilen die Strafe mit ihren Eltern.",
+              "translated": "- делят наказание со своими родителями."
+          },
+          {
+              "id": "a4",
+              "original": "- werden nicht bestraft.",
+              "translated": "- не наказываются."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº264",
+      "original": "Frage Nº264: Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+      "translated": "На какой фестиваль люди в Германии надевают яркие костюмы и маски?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "am Rosenmontag",
+              "translated": "В понедельник перед Великим постом (Розовый понедельник)."
+          },
+          {
+              "id": "a2",
+              "original": "am Maifeiertag",
+              "translated": "в Первомайский день!"
+          },
+          {
+              "id": "a3",
+              "original": "beim Oktoberfest",
+              "translated": "на Октоберфесте"
+          },
+          {
+              "id": "a4",
+              "original": "an Pfingsten",
+              "translated": "в День Святой Троицы"
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº265",
+      "original": "Frage Nº265: Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+      "translated": "Куда в первую очередь нужно сходить в Германии, если собираешься заключить брак?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "zum Einwohnermeldeamt",
+              "translated": "в орган регистрации жильцов"
+          },
+          {
+              "id": "a2",
+              "original": "zum Ordnungsamt",
+              "translated": "в службу общественного порядка"
+          },
+          {
+              "id": "a3",
+              "original": "zur Agentur für Arbeit",
+              "translated": "в агентство по трудоустройству"
+          },
+          {
+              "id": "a4",
+              "original": "zum Standesamt",
+              "translated": "в ЗАГС"
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº266",
+      "original": "Frage Nº266: Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+      "translated": "Когда в Германии начинается установленный законом период ночного отдыха",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "wenn die Sonne untergeht",
+              "translated": "когда заходит солнце"
+          },
+          {
+              "id": "a2",
+              "original": "um 22 Uhr",
+              "translated": "в 22 часа»"
+          },
+          {
+              "id": "a3",
+              "original": "wenn die Nachbarn schlafen gehen",
+              "translated": "когда соседи ложатся спать"
+          },
+          {
+              "id": "a4",
+              "original": "um 0 Uhr, Mitternacht",
+              "translated": "в полночь"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
       "id": "Frage Nº267",
       "original": "Frage Nº267: Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
       "translated": "Молодая женщина в Германии, 22 года, живет со своим другом. Родители женщины это не одобряют, потому что им не нравится ее друг. Что могут сделать родители?",
@@ -1716,6 +2165,118 @@
           }
       ],
       "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº268",
+      "original": "Frage Nº268: Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+      "translated": "Молодая женщина хочет получить водительские права. Она боится экзамена, потому что ее родной язык не немецкий. Что правильно?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+              "translated": "Она должна прожить в Германии не менее десяти лет, прежде чем сможет получить водительские права."
+          },
+          {
+              "id": "a2",
+              "original": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+              "translated": "Возможно, она сможет сдать теоретический тест на своем родном языке. На выбор есть более десяти языков..."
+          },
+          {
+              "id": "a3",
+              "original": "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+              "translated": "Если она не говорит по-немецки, у нее не будет водительских прав."
+          },
+          {
+              "id": "a4",
+              "original": "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+              "translated": "Ей нужно получить водительские права в стране, где говорят на её языке."
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº269",
+      "original": "Frage Nº269: In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf ...",
+      "translated": "В Германии дети в возрасте от трех лет до первого поступления в школу имеют право на...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "monatliches Taschengeld.",
+              "translated": "ежемесячные карманные деньги."
+          },
+          {
+              "id": "a2",
+              "original": "einen Kindergartenplatz.",
+              "translated": "место в детском саду."
+          },
+          {
+              "id": "a3",
+              "original": "einen Platz in einem Sportverein.",
+              "translated": "место в спортивном клубе."
+          },
+          {
+              "id": "a4",
+              "original": "einen Ferienpass.",
+              "translated": "пропуск на летние каникулы"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº270",
+      "original": "Frage Nº270: Die Volkshochschule in Deutschland ist eine Einrichtung ...",
+      "translated": "Народный университет / Центр образования взрослых в Германии - это учреждение..",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "für den Religionsunterricht.",
+              "translated": "для религиозного образования."
+          },
+          {
+              "id": "a2",
+              "original": "nur für Jugendliche.",
+              "translated": "только для молодежи."
+          },
+          {
+              "id": "a3",
+              "original": "zur Weiterbildung.",
+              "translated": "для дополнительного обучения."
+          },
+          {
+              "id": "a4",
+              "original": "nur für Rentner und Rentnerinnen.",
+              "translated": "только для пенсионеров."
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº271",
+      "original": "Frage Nº271: Was ist in Deutschland ein Brauch zu Weihnachten?",
+      "translated": "Что является в Германии традицией на Рождество?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "bunte Eier verstecken",
+              "translated": "прятать разноцветные яйца"
+          },
+          {
+              "id": "a2",
+              "original": "einen Tannenbaum schmücken",
+              "translated": "украшать ёлку"
+          },
+          {
+              "id": "a3",
+              "original": "sich mit Masken und Kostümen verkleiden",
+              "translated": "наряжаться в маски и костюмы"
+          },
+          {
+              "id": "a4",
+              "original": "Kürbisse vor die Tür stellen",
+              "translated": "выставлять тыквы перед дверью"
+          }
+      ],
+      "correctAnswerId": "a2"
     },
     {
       "id": "Frage Nº272",
@@ -1746,6 +2307,62 @@
       "correctAnswerId": "a4"
     },
     {
+      "id": "Frage Nº273",
+      "original": "Frage Nº273: Bei Erziehungsproblemen gehen Sie in Deutschland ...",
+      "translated": "При проблемах в воспитании в Германии вы идёте ...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "zum Arzt / zur Ärztin.",
+              "translated": "к врачу."
+          },
+          {
+              "id": "a2",
+              "original": "zum Gesundheitsamt.",
+              "translated": "в департамент здравоохранения."
+          },
+          {
+              "id": "a3",
+              "original": "zum Einwohnermeldeamt.",
+              "translated": "в местное управление по регистрации населения."
+          },
+          {
+              "id": "a4",
+              "original": "zum Jugendamt.",
+              "translated": "ведомство по делам несовершеннолетних."
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº274",
+      "original": "Frage Nº274: Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+      "translated": "Вы намеренно открыли письмо в Германии, адресованное кому-то другому. Что Вы не учли?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "- das Schweigerecht",
+              "translated": "право хранить молчание"
+          },
+          {
+              "id": "a2",
+              "original": "das Briefgeheimnis",
+              "translated": "тайна переписки"
+          },
+          {
+              "id": "a3",
+              "original": "die Schweigepflicht",
+              "translated": "обязательство конфиденциальности"
+          },
+          {
+              "id": "a4",
+              "original": "die Meinungsfreiheit",
+              "translated": "свобода слова"
+          }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
       "id": "Frage Nº275",
       "original": "Frage Nº275: Was braucht man in Deutschland für eine Ehescheidung?",
       "translated": "Что необходимо для развода в Германии?",
@@ -1772,6 +2389,146 @@
           }
       ],
       "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº276",
+      "original": "Frage Nº276: Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner / Ihrer Ansprechpartnerin in einer deutschen Behörde schlecht behandelt werden?",
+      "translated": "Что следует сделать, если Вас плохо обслуживает сотрудник немецкого государственного ведомства?",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Ich kann nichts tun.",
+              "translated": "Я ничего не могу сделать."
+          },
+          {
+              "id": "a2",
+              "original": "Ich muss mir diese Behandlung gefallen lassen.",
+              "translated": "Я должен терпеть такое обращение."
+          },
+          {
+              "id": "a3",
+              "original": "Ich drohe der Person.",
+              "translated": "Я угрожаю этому человеку."
+          },
+          {
+              "id": "a4",
+              "original": "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.",
+              "translated": "Я могу пожаловаться руководителю ведомства."
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº277",
+      "original": "Frage Nº277: Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie ...",
+      "translated": "Женщина, у которой есть двухлетний ребенок, претендует на работу в Германии. Что является примером дискриминации? Единственная причина, по которой она не получает работу, это то, что она...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "kein Englisch spricht.",
+              "translated": "не говорит по-английски."
+          },
+          {
+              "id": "a2",
+              "original": "zu hohe Gehaltsvorstellungen hat.",
+              "translated": "имеет слишком высокие зарплатные ожидания."
+          },
+          {
+              "id": "a3",
+              "original": "keine Erfahrungen in diesem Beruf hat.",
+              "translated": "не имеет опыта работы в данной профессии."
+          },
+          {
+              "id": "a4",
+              "original": "Mutter ist.",
+              "translated": "является матерью."
+          }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº278",
+      "original": "Frage Nº278: Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er ...",
+      "translated": "Мужчина в инвалидной коляске подал заявление на работу бухгалтером. Что является примером дискриминации? Единственная причина, по которой он не получает работу, это то, что он...",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "im Rollstuhl sitzt.",
+              "translated": "сидит в инвалидной коляске."
+          },
+          {
+              "id": "a2",
+              "original": "keine Erfahrung hat.",
+              "translated": "не имеет опыта."
+          },
+          {
+              "id": "a3",
+              "original": "zu hohe Gehaltsvorstellungen hat.",
+              "translated": "имеет слишком высокие зарплатные ожидания."
+          },
+          {
+              "id": "a4",
+              "original": "kein Englisch spricht.",
+              "translated": "не говорит по-английски."
+          }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº279",
+      "original": "Frage Nº279: In den meisten Mietshäusern in Deutschland gibt es eine -Hausordnung-. Was steht in einer solchen -Hausordnung-? Sie nennt ...",
+      "translated": "В большинстве многоквартирных домов Германии существуют -домашние правила-. Что говорят эти -домашние правила-? Они называют ....",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+              "translated": "правила пользования общественным транспортом."
+          },
+          {
+              "id": "a2",
+              "original": "alle Mieter und Mieterinnen im Haus.",
+              "translated": "всех жильцов дома."
+          },
+          {
+              "id": "a3",
+              "original": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
+              "translated": "правила, которых должны придерживаться все жильцы."
+          },
+          {
+              "id": "a4",
+              "original": "die Adresse des nächsten Ordnungsamtes.",
+              "translated": "адрес ближайшего офиса общественного порядка."
+          }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº280",
+      "original": "Frage Nº280: Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie ...",
+      "translated": "Если Вы хотите защитить себя от ложного налогового уведомления в Германии, Вы должны.",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "nichts machen.",
+              "translated": "ничего не делать."
+          },
+          {
+              "id": "a2",
+              "original": "den Bescheid wegwerfen.",
+              "translated": "выбросить уведомление."
+          },
+          {
+              "id": "a3",
+              "original": "Einspruch einlegen.",
+              "translated": "возражать."
+          },
+          {
+              "id": "a4",
+              "original": "warten, bis ein anderer Bescheid kommt.",
+              "translated": "подождатьите, пока придёт другое уведомление."
+          }
+      ],
+      "correctAnswerId": "a3"
     },
     {
       "id": "",
