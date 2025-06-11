@@ -1330,29 +1330,311 @@
       "original": "Frage Nº50: Die Wirtschaftsform in Deutschland nennt man ...",
       "translated": "Экономическая система в Германии называется...",
       "answers": [
-          {
-              "id": "a1",
-              "original": "freie Zentralwirtschaft.",
-              "translated": "свободная центральная экономика."
-          },
-          {
-              "id": "a2",
-              "original": "soziale Marktwirtschaft..",
-              "translated": "социальная рыночная экономика."
-          },
-          {
-              "id": "a3",
-              "original": "gelenkte Zentralwirtschaft.",
-              "translated": "направленная центральная экономика."
-          },
-          {
-              "id": "a4",
-              "original": "Planwirtschaft.",
-              "translated": "плановая экономика."
-          }
+        {
+          "id": "a1",
+          "original": "freie Zentralwirtschaft.",
+          "translated": "свободная центральная экономика."
+        },
+        {
+          "id": "a2",
+          "original": "soziale Marktwirtschaft.",
+          "translated": "социальная рыночная экономика."
+        },
+        {
+          "id": "a3",
+          "original": "gelenkte Zentralwirtschaft.",
+          "translated": "направленная центральная экономика."
+        },
+        {
+          "id": "a4",
+          "original": "Planwirtschaft.",
+          "translated": "плановая экономика."
+        }
       ],
       "correctAnswerId": "a2"
     },
+    {
+      "id": "Frage Nº51",
+      "original": "Frage Nº51: Zu einem demokratischen Rechtsstaat gehört es nicht, dass ...",
+      "translated": "Для демократического конституционного государства не является характерным то, что...",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Menschen sich kritisch über die Regierung äußern können.",
+          "translated": "люди могут критически высказываться о правительстве."
+        },
+        {
+          "id": "a2",
+          "original": "Bürger friedlich demonstrieren gehen dürfen.",
+          "translated": "гражданам разрешено проводить мирные демонстрации"
+        },
+        {
+          "id": "a3",
+          "original": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+          "translated": "людей арестовывает частная полиция без всякой причины."
+        },
+        {
+          "id": "a4",
+          "original": "jemand ein Verbrechen begeht und deshalb verhaftet wird.",
+          "translated": "кто-то совершает преступление и из-за этого арестован."
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº52",
+      "original": "Frage Nº52: Was bedeutet „Volkssouveränität\"? Alle",
+      "translated": "Что означает «суверенитет народа»? Вся государственная власть исходит от...",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Staatsgewalt geht vom ...",
+          "translated": "народа."
+        },
+        {
+          "id": "a2",
+          "original": "Volke aus.",
+          "translated": "Бундестага."
+        },
+        {
+          "id": "a3",
+          "original": "Bundestag aus.",
+          "translated": "Прусского короля."
+        },
+        {
+          "id": "a4",
+          "original": "preußischen König aus.",
+          "translated": "Федерального конституционного суда."
+        }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº53",
+      "original": "Frage Nº53: Was bedeutet „Rechtsstaat\" in Deutschland?",
+      "translated": "Что означает «правовое государство» в Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Der Staat hat Recht.",
+          "translated": "Право принадлежит государству."
+        },
+        {
+          "id": "a2",
+          "original": "Es gibt nur rechte Parteien.",
+          "translated": "Есть только правые партии."
+        },
+        {
+          "id": "a3",
+          "original": "Die Bürger und Bürgerinnen entscheiden über Gesetze.",
+          "translated": "Граждане принимают решения о законах."
+        },
+        {
+          "id": "a4",
+          "original": "Der Staat muss die Gesetze einhalten.",
+          "translated": "Государство должно уважать законы."
+        }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº54",
+      "original": "Frage Nº54: Was ist keine staatliche Gewalt in Deutschland?",
+      "translated": "Что не является государственной властью в Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Legislative",
+          "translated": "Законодательная власть"
+        },
+        {
+          "id": "a2",
+          "original": "Judikative A",
+          "translated": "Судебная власть"
+        },
+        {
+          "id": "a3",
+          "original": "Exekutive",
+          "translated": "Исполнительная власть"
+        },
+        {
+          "id": "a4",
+          "original": "Direktive",
+          "translated": "Директива"
+        }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº55",
+      "original": "Frage Nº55: Was zeigt dieses Bild?",
+      "translated": "Что изображено на этой картинке? место Бундестага в Берлине Федеральный конституционный суд в Карлсру: здание Федерального совета в Берлине Бундесканцлерамт в Берлине",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "den Bundestagssitz in Berlin",
+          "translated": "место Бундестага в Берлине"
+        },
+        {
+          "id": "a2",
+          "original": "das Bundesverfassungsgericht in Karlsruhe",
+          "translated": "Федеральный конституционный суд в Карлсруэ"
+        },
+        {
+          "id": "a3",
+          "original": "das Bundesratsgebäude in Berlin",
+          "translated": "здание Федерального совета в Берлине"
+        },
+        {
+          "id": "a4",
+          "original": "das Bundeskanzleramt in Berlin",
+          "translated": "Бундесканцлерамт в Берлине?"
+        }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº56",
+      "original": "Frage Nº56: Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+      "translated": "Какое ведомство относится к муниципальному управлению в Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Pfarramt",
+          "translated": "Приход / административный центр церковного священника"
+        },
+        {
+          "id": "a2",
+          "original": "Ordnungsamt",
+          "translated": "Служба охраны общественного порядка"
+        },
+        {
+          "id": "a3",
+          "original": "Finanzamt",
+          "translated": "Налоговая служба"
+        },
+        {
+          "id": "a4",
+          "original": "Auswärtiges Amt",
+          "translated": "Министерство иностранных дел"
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº57",
+      "original": "Frage Nº57: Wer wird meistens zum Präsidenten / zur Präsidentin des Deutschen Bundestages gewählt?",
+      "translated": "Кого чаще всего избирают председателем Бундестага Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "der / die älteste Abgeordnete im Parlament",
+          "translated": "самый старый член парламента"
+        },
+        {
+          "id": "a2",
+          "original": "der Ministerpräsident / die Ministerpräsidentin des größten Bundeslandes",
+          "translated": "премьер-министр крупнейшей федеральной земли"
+        },
+        {
+          "id": "a3",
+          "original": "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion",
+          "translated": "депутат от сильнейшей парламентской фракции"
+        },
+        {
+          "id": "a4",
+          "original": "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerins",
+          "translated": "бывший федеральный канцлер"
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº58",
+      "original": "Frage Nº58: Wer ernennt in Deutschland die Minister / die Ministerinnen",
+      "translated": "Кто назначает министров федерального правительства в Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "der Bundesregierung?",
+          "translated": "Председатель Федерального конституционного суда"
+        },
+        {
+          "id": "a2",
+          "original": "der Präsident / die Präsidentin des Bundesverfassungsgerichtes",
+          "translated": "Федеральный президент"
+        },
+        {
+          "id": "a3",
+          "original": "der Bundespräsident / die Bundespräsidentin",
+          "translated": "Председатель Бундесрата / Федерального Совета"
+        },
+        {
+          "id": "a4",
+          "original": "der Bundesratspräsident / die Bundesratspräsidentin",
+          "translated": "Председатель Бундестага"
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº59",
+      "original": "Frage Nº59: Welche Parteien wurden in Deutschland 2007 zur Partei „Die Linke\"?",
+      "translated": "Какие партии в Германии стали «Левой партией» в 2007 году?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "CDU und SSW",
+          "translated": "CDU und SSW"
+        },
+        {
+          "id": "a2",
+          "original": "PDS und WASG",
+          "translated": "PDS und WASG"
+        },
+        {
+          "id": "a3",
+          "original": "CSU und FDP",
+          "translated": "CSU und FDP"
+        },
+        {
+          "id": "a4",
+          "original": "Bündnis 90/Die Grünen und SPD",
+          "translated": "Альянс 90 / Зеленые и SPD"
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº60",
+      "original": "Frage Nº60: In Deutschland gehören der Bundestag und der Bundesrat zur ...",
+      "translated": "В Германии Бундестаг и Бундесрат относятся к ...",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Exekutive.",
+          "translated": "исполнительной власти."
+        },
+        {
+          "id": "a2",
+          "original": "Legislative.",
+          "translated": "законодательной власти."
+        },
+        {
+          "id": "a3",
+          "original": "Direktive.",
+          "translated": "директиве."
+        },
+        {
+          "id": "a4",
+          "original": "Judikative.",
+          "translated": "судебной власти."
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    
+    
     {
       "id": "Frage Nº104",
       "original": "Frage Nº104: Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
@@ -1381,6 +1663,150 @@
       ],
       "correctAnswerId": "a4"
     },
+    {
+      "id": "",
+      "original": "",
+      "translated": "",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a2",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a3",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a4",
+              "original": "",
+              "translated": ""
+          }
+      ],
+      "correctAnswerId": ""
+    },
+    {
+      "id": "",
+      "original": "",
+      "translated": "",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a2",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a3",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a4",
+              "original": "",
+              "translated": ""
+          }
+      ],
+      "correctAnswerId": ""
+    },
+    {
+      "id": "",
+      "original": "",
+      "translated": "",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a2",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a3",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a4",
+              "original": "",
+              "translated": ""
+          }
+      ],
+      "correctAnswerId": ""
+    },
+    {
+      "id": "",
+      "original": "",
+      "translated": "",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a2",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a3",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a4",
+              "original": "",
+              "translated": ""
+          }
+      ],
+      "correctAnswerId": ""
+    },
+    {
+      "id": "",
+      "original": "",
+      "translated": "",
+      "answers": [
+          {
+              "id": "a1",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a2",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a3",
+              "original": "",
+              "translated": ""
+          },
+          {
+              "id": "a4",
+              "original": "",
+              "translated": ""
+          }
+      ],
+      "correctAnswerId": ""
+    },
+    
+    
+    
+    
     
     {
       "id": "Frage Nº240",
