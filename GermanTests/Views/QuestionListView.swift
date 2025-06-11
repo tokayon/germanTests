@@ -386,19 +386,71 @@ struct QuestionListView: View {
 struct QuestionPickerView: View {
     var viewModel: QuestionViewModel
     let onSelect: (Int) -> Void
+    @State private var digitInput = ""
+    
+    // Filter questions by their ID (as a String) containing the digit input
+    private var filteredQuestions: [ExamQuestion] {
+        if digitInput.isEmpty {
+            return viewModel.questions
+        } else {
+            return viewModel.questions.filter {
+                String($0.id).contains(digitInput)
+            }
+        }
+    }
     
     var body: some View {
         NavigationStack {
-            List(0..<viewModel.questions.count, id: \.self) { index in
-                Button {
-                    onSelect(index)
-                } label: {
-                    HStack {
-                        Text("\(viewModel.questions[index].id)")
-                        if index == viewModel.currentIndex {
-                            Spacer()
-                            Image(systemName: "checkmark")
-                                .foregroundColor(.blue)
+            VStack(spacing: 16) {
+                // Search Display
+                HStack {
+                    Text("Suche: \(digitInput)")
+                        .font(.title3)
+                        .padding(.leading)
+                    Spacer()
+                    Button {
+                        if !digitInput.isEmpty {
+                            digitInput.removeLast()
+                        }
+                    } label: {
+                        Image(systemName: "delete.left")
+                            .font(.title2)
+                            .padding(8)
+                    }
+                    .disabled(digitInput.isEmpty)
+                    .padding(.trailing)
+                }
+
+                // Digit Buttons
+                LazyVGrid(columns: Array(repeating: .init(.flexible()), count: 5), spacing: 8) {
+                    ForEach(0..<10) { digit in
+                        Button {
+                            digitInput.append("\(digit)")
+                        } label: {
+                            Text("\(digit)")
+                                .font(.title2)
+                                .frame(maxWidth: .infinity, minHeight: 44)
+                                .background(Color.gray.opacity(0.2))
+                                .cornerRadius(8)
+                        }
+                    }
+                }
+                .padding(.horizontal)
+
+                // Filtered List
+                List(filteredQuestions) { question in
+                    Button {
+                        if let index = viewModel.questions.firstIndex(where: { $0.id == question.id }) {
+                            onSelect(index)
+                        }
+                    } label: {
+                        HStack {
+                            Text("Frage \(question.id)")
+                            if question.id == viewModel.questions[viewModel.currentIndex].id {
+                                Spacer()
+                                Image(systemName: "checkmark")
+                                    .foregroundColor(.blue)
+                            }
                         }
                     }
                 }
