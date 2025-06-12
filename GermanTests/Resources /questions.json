@@ -2473,38 +2473,290 @@
           ],
           "correctAnswerId": "a1"
         },
-      
+        {
+            "id": "Frage Nº91",
+            "original": "Frage Nº91: In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird ...",
+            "translated": "В Германии смена правительства в федеральной земле может оказать влияние на федеральную политику. Править будет...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+                "translated": "сложнее, если из-за этого изменится большинство в Бундестаге."
+              },
+              {
+                "id": "a2",
+                "original": "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+                "translated": "легче, если из-за этого в Федеральный совет придут новые партии."
+              },
+              {
+                "id": "a3",
+                "original": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+                "translated": "сложнее, если из-за этого изменится большинство в Федеральном советь"
+              },
+              {
+                "id": "a4",
+                "original": "leichter, wenn es sich um ein reiches Bundesland handelt.",
+                "translated": "проще, если речь идёт о богатой федеральной земле."
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº92",
+            "original": "Frage Nº92: Was bedeutet die Abkürzung CSU in Deutschland?",
+            "translated": "Что означает аббревиатура CSU в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Christlich Sichere Union",
+                "translated": "Христианский безопасный союз"
+              },
+              {
+                "id": "a2",
+                "original": "Christlich Süddeutsche Union",
+                "translated": "Христианский южногерманский союз"
+              },
+              {
+                "id": "a3",
+                "original": "Christlich Sozialer Unternehmerverband",
+                "translated": "Ассоциация христианских социальных предпринимателей"
+              },
+              {
+                "id": "a4",
+                "original": "Christlich Soziale Union",
+                "translated": "Христианско-социальный союз"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº93",
+            "original": "Frage Nº93: Je mehr „Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto ...",
+            "translated": "Чем больше «вторых голосов» получит партия на федеральных выборах, тем...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "mehr Sitze erhält die Partei im Parlament.",
+                "translated": "больше мест партия получит в парламенте."
+              },
+              {
+                "id": "a2",
+                "original": "weniger Erststimmen kann sie haben.",
+                "translated": "меньше первых голосов может у неё быть"
+              },
+              {
+                "id": "a3",
+                "original": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+                "translated": "больше прямых кандидатов от партии попадут в парламент. 2"
+              },
+              {
+                "id": "a4",
+                "original": "größer ist das Risiko, eine Koalition bilden zu müssen.",
+                "translated": "выше риск необходимости создания коалиции."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº94",
+            "original": "Frage Nº94: Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+            "translated": "С какого возраста можно принимать участие в выборах в Бундестаг Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "16",
+                "translated": "16"
+              },
+              {
+                "id": "a2",
+                "original": "18",
+                "translated": "18"
+              },
+              {
+                "id": "a3",
+                "original": "21",
+                "translated": "21"
+              },
+              {
+                "id": "a4",
+                "original": "23",
+                "translated": "23"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº95",
+            "original": "Frage Nº95: Was gilt für die meisten Kinder in Deutschland?",
+            "translated": "Что относится к большинству детей в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Wahlpflicht",
+                "translated": "Обязательное голосование"
+              },
+              {
+                "id": "a2",
+                "original": "Schulpflicht",
+                "translated": "Обязательное школьное образование"
+              },
+              {
+                "id": "a3",
+                "original": "Schweigepflicht",
+                "translated": "Конфиденциальность"
+              },
+              {
+                "id": "a4",
+                "original": "Religionspflicht",
+                "translated": "Религиозные обязательства"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº96",
+            "original": "Frage Nº96: Was muss jeder deutsche Staatsbürger / jede deutsche Staatsbürgerin ab dem 16. Lebensjahr besitzen?",
+            "translated": "Что должен иметь каждый гражданин Германии с 16 лет?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "einen Reisepass",
+                "translated": "Паспорт"
+              },
+              {
+                "id": "a2",
+                "original": "einen Personalausweis",
+                "translated": "Личное удостоверение личности"
+              },
+              {
+                "id": "a3",
+                "original": "einen Sozialversicherungsausweis",
+                "translated": "Карта социального страхования"
+              },
+              {
+                "id": "a4",
+                "original": "einen Führerschein",
+                "translated": "Водительские права"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº97",
+            "original": "Frage Nº97: Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+            "translated": "Что автоматически платят в Германии, если есть постоянная работа?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Sozialversicherung",
+                "translated": "Социальное страхование"
+              },
+              {
+                "id": "a2",
+                "original": "Sozialhilfe",
+                "translated": "Социальная помощь"
+              },
+              {
+                "id": "a3",
+                "original": "Kindergeld",
+                "translated": "Пособие на ребенка"
+              },
+              {
+                "id": "a4",
+                "original": "Wohngeld",
+                "translated": "Жилищное пособие"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº98",
+            "original": "Frage Nº98: Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln ...",
+            "translated": "Если депутаты немецкого Бундестага меняют свою фракцию, ...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "kann die Regierung ihre Mehrheit verlieren.",
+                "translated": "Правительство может потерять свое большинство."
+              },
+              {
+                "id": "a2",
+                "original": "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+                "translated": "им больше не разрешают принимать участие в заседаниях парламента."
+              },
+              {
+                "id": "a3",
+                "original": "muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr Einverständnis geben.",
+                "translated": "Федеральный президент должен дать на это свое предварительное согласие.."
+              },
+              {
+                "id": "a4",
+                "original": "dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen.",
+                "translated": "избиратели этих представителей могут проголосовать повторно."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº99",
+            "original": "Frage Nº99: Wer bezahlt in Deutschland die Sozialversicherungen?",
+            "translated": "Кто оплачивает социальные страховки в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
+                "translated": "Работодатели и сотрудники"
+              },
+              {
+                "id": "a2",
+                "original": "nur Arbeitnehmer / Arbeitnehmerinnen",
+                "translated": "только сотрудники"
+              },
+              {
+                "id": "a3",
+                "original": "alle Staatsangehörigen",
+                "translated": "все граждане"
+              },
+              {
+                "id": "a4",
+                "original": "nur Arbeitgeber / Arbeitgeberinnen",
+                "translated": "только работодатели"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº100",
+            "original": "Frage Nº100: Was gehört nicht zur gesetzlichen Sozialversicherung?",
+            "translated": "Что не входит в обязательное социальное страхование?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "die gesetzliche Rentenversicherung",
+                "translated": "обязательное пенсионное страхование"
+              },
+              {
+                "id": "a2",
+                "original": "die Lebensversicherung",
+                "translated": "Страхование жизни"
+              },
+              {
+                "id": "a3",
+                "original": "die Arbeitslosenversicherung",
+                "translated": "страхование по безработице"
+              },
+              {
+                "id": "a4",
+                "original": "die Pflegeversicherung",
+                "translated": "страхование ухода за больными"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          
     
     
-    {
-      "id": "Frage Nº104",
-      "original": "Frage Nº104: Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
-      "translated": "Женщина в Германии теряет работу. Что не должно быть причиной такого увольнения?",
-      "answers": [
-          {
-              "id": "a1",
-              "original": "Die Frau ist lange krank und arbeitsunfähig.",
-              "translated": "Женщина давно болеет и не может работать."
-          },
-          {
-              "id": "a2",
-              "original": "Die Frau kam oft zu spät zur Arbeit.",
-              "translated": "Женщина часто опаздывала на работу."
-          },
-          {
-              "id": "a3",
-              "original": "Die Frau erledigt private Sachen während der Arbeitszeit.",
-              "translated": "Женщина занимается личными делами в рабочее время."
-          },
-          {
-              "id": "a4",
-              "original": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
-              "translated": "Женщина рожает ребенка, и её начальник знает об этом"
-          }
-      ],
-      "correctAnswerId": "a4"
-    },
-   
+    
     
     
     {
