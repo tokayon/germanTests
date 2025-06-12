@@ -1633,6 +1633,847 @@
       ],
       "correctAnswerId": "a2"
     },
+    {
+        "id": "Frage Nº61",
+        "original": "Frage Nº61: Was bedeutet -Volkssouveränität-?",
+        "translated": "Что означает -народный суверенитет-",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "Der König / die Königin herrscht über das Volk.",
+            "translated": "Король/королева правит народом."
+          },
+          {
+            "id": "a2",
+            "original": "Das Bundesverfassungsgericht steht über der Verfassung.",
+            "translated": "Федеральный конституционный суд стоит над конституцией"
+          },
+          {
+            "id": "a3",
+            "original": "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+            "translated": "Лоббистские группы осуществляют суверенитет вместе с правительством"
+          },
+          {
+            "id": "a4",
+            "original": "Die Staatsgewalt geht vom Volke aus.",
+            "translated": "Государственная власть исходит от народа."
+          }
+        ],
+        "correctAnswerId": "a4"
+      },
+      {
+        "id": "Frage Nº62",
+        "original": "Frage Nº62: Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das...",
+        "translated": "Когда избирается парламент федеральной земли Германии, это называется...",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "Kommunalwahl.",
+            "translated": "местные выборы."
+          },
+          {
+            "id": "a2",
+            "original": "Landtagswahl.",
+            "translated": "государственные выборы."
+          },
+          {
+            "id": "a3",
+            "original": "Europawahl.",
+            "translated": "европейские выборы."
+          },
+          {
+            "id": "a4",
+            "original": "Bundestagswahl.",
+            "translated": "выборы в Бундестаг."
+          }
+        ],
+        "correctAnswerId": "a2"
+      },
+      {
+        "id": "Frage Nº63",
+        "original": "Frage Nº63: Was gehört in Deutschland nicht zur Exekutive?",
+        "translated": "Что в Германии не относится к исполнительной власти?",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "die Polizei",
+            "translated": "полиция"
+          },
+          {
+            "id": "a2",
+            "original": "die Gerichte",
+            "translated": "суды"
+          },
+          {
+            "id": "a3",
+            "original": "das Finanzamt",
+            "translated": "налоговая инспекция"
+          },
+          {
+            "id": "a4",
+            "original": "die Ministerien",
+            "translated": "министерства"
+          }
+        ],
+        "correctAnswerId": "a2"
+      },
+      {
+        "id": "Frage Nº64",
+        "original": "Frage Nº64: Die Bundesrepublik Deutschland ist heute gegliedert in ...",
+        "translated": "Сегодня Федеративная Республика Германия разделена на...",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "vier Besatzungszonen.",
+            "translated": "четыре оккупационные зоны."
+          },
+          {
+            "id": "a2",
+            "original": "einen Oststaat und einen Weststaat.",
+            "translated": "восточное и западное государство"
+          },
+          {
+            "id": "a3",
+            "original": "16 Kantone.",
+            "translated": "16 кантонов."
+          },
+          {
+            "id": "a4",
+            "original": "Bund, Länder und Kommunen.",
+            "translated": "Федерация, федеральные земли и муниципалитеты"
+          }
+        ],
+        "correctAnswerId": "a4"
+      },
+      {
+        "id": "Frage Nº65",
+        "original": "Frage Nº65: Es gehört nicht zu den Aufgaben des Deutschen Bundestages...",
+        "translated": "Это не входит в задачи немецкого Бундестага...",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "Gesetze zu entwerfen.",
+            "translated": "разработка законов."
+          },
+          {
+            "id": "a2",
+            "original": "die Bundesregierung zu kontrollieren.",
+            "translated": "контролировать федеральное правительство."
+          },
+          {
+            "id": "a3",
+            "original": "den Bundeskanzler / die Bundeskanzlerin zu wählen.",
+            "translated": "избрать федерального канцлера."
+          },
+          {
+            "id": "a4",
+            "original": "das Bundeskabinett zu bilden.",
+            "translated": "формировать Кабинет министров."
+          }
+        ],
+        "correctAnswerId": "a4"
+      },
+      {
+        "id": "Frage Nº66",
+        "original": "Frage Nº66: Wer schrieb den Text zur deutschen Nationalhymne?",
+        "translated": "Кто написал слова гимна Германии?",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "Friedrich von Schiller",
+            "translated": "Фридрих фон Шиллер"
+          },
+          {
+            "id": "a2",
+            "original": "Clemens Brentano",
+            "translated": "Клеменс Брентано"
+          },
+          {
+            "id": "a3",
+            "original": "Johann Wolfgang von Goethe",
+            "translated": "Иоганн Вольфганг фон Гете"
+          },
+          {
+            "id": "a4",
+            "original": "Heinrich Hoffmann von Fallersleben",
+            "translated": "Генрих Хоффманн фон Фаллерслебен"
+          }
+        ],
+        "correctAnswerId": "a4"
+      },
+      {
+        "id": "Frage Nº67",
+        "original": "Frage Nº67: Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+        "translated": "Какова основная задача федеральных земель Германии?",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "Verteidigungspolitik",
+            "translated": "Оборонная политика"
+          },
+          {
+            "id": "a2",
+            "original": "Außenpolitik",
+            "translated": "Внешняя политика"
+          },
+          {
+            "id": "a3",
+            "original": "Wirtschaftspolitik",
+            "translated": "Экономическая политика"
+          },
+          {
+            "id": "a4",
+            "original": "Schulpolitik",
+            "translated": "Школьная политика"
+          }
+        ],
+        "correctAnswerId": "a4"
+      },
+      {
+        "id": "Frage Nº68",
+        "original": "Frage Nº68: Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+        "translated": "Почему государство контролирует школьную систему Германии:",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "weil es in Deutschland nur staatliche Schulen gibt",
+            "translated": "потому что в Германии есть только государственные школы"
+          },
+          {
+            "id": "a2",
+            "original": "weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen",
+            "translated": "потому что все учащиеся должны иметь аттестат об окончании школы"
+          },
+          {
+            "id": "a3",
+            "original": "weil es in den Bundesländern verschiedene Schulen gibt",
+            "translated": "потому что в федеральных землях есть разные школы"
+          },
+          {
+            "id": "a4",
+            "original": "weil es nach dem Grundgesetz seine Aufgabe ist",
+            "translated": "потому что это его работа согласно Основному Закону"
+          }
+        ],
+        "correctAnswerId": "a4"
+      },
+      {
+        "id": "Frage Nº69",
+        "original": "Frage Nº69: Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+        "translated": "Федеративная Республика Германия имеет трехуровневую административную структуру. Как называется низший политический уровень?",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "Stadträte",
+            "translated": "Городские советы"
+          },
+          {
+            "id": "a2",
+            "original": "Landräte",
+            "translated": "Земельные совет"
+          },
+          {
+            "id": "a3",
+            "original": "Gemeinden",
+            "translated": "Общины"
+          },
+          {
+            "id": "a4",
+            "original": "Bezirksämter",
+            "translated": "Районные управления"
+          }
+        ],
+        "correctAnswerId": "a3"
+      },
+      {
+        "id": "Frage Nº70",
+        "original": "Frage Nº70: Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin?",
+        "translated": "Федеральный президент Германии Густав Хайнеманн вручает Гельмуту Шмидту свидетельство о назначении канцлером Германии в 1974 году. Каковы задачи Федерального президента Германии?",
+        "answers": [
+          {
+            "id": "a1",
+            "original": "Er / Sie führt die Regierungsgeschäfte.",
+            "translated": "Он/она управляет государственными делами."
+          },
+          {
+            "id": "a2",
+            "original": "Er / Sie kontrolliert die Regierungspartei.",
+            "translated": "Он/она контролирует правящую партию."
+          },
+          {
+            "id": "a3",
+            "original": "Er / Sie wählt die Minister / Ministerinnen aus.",
+            "translated": "Он/она выбирает министров."
+          },
+          {
+            "id": "a4",
+            "original": "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor.",
+            "translated": "Он/она предлагает кандидатуру канцлера на выборы."
+          }
+        ],
+        "correctAnswerId": "a4"
+      },
+      {
+          "id": "Frage Nº71",
+          "original": "Frage Nº71: Wo hält sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am häufigsten auf? Am häufigsten ist er / sie ...",
+          "translated": "Где чаще всего останавливается канцлер Германии? Чаще всего он/она...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+              "translated": "в Бонне, потому что там расположены Федеральная канцелярия и Бундестаг."
+            },
+            {
+              "id": "a2",
+              "original": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+              "translated": "в Берлине, потому что там расположены Федеральная канцелярия и Бундестаг."
+            },
+            {
+              "id": "a3",
+              "original": "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+              "translated": "в замке Мезеберг, гостевом доме федерального правительства, для приема государственных гостей."
+            },
+            {
+              "id": "a4",
+              "original": "auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten / der Bundespräsidentin, um Staatsgäste zu empfangen.",
+              "translated": "во дворце Бельвю, официальной резиденции федерального президента, для приема государственных гостей."
+            }
+          ],
+          "correctAnswerId": "a2"
+        },
+        {
+          "id": "Frage Nº72",
+          "original": "Frage Nº72: Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von Deutschland?",
+          "translated": "как зовут нынешнего канцлера Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Gerhard Schröder",
+              "translated": "Герхард Шредер"
+            },
+            {
+              "id": "a2",
+              "original": "Angela Merkel",
+              "translated": "Ангела Меркель"
+            },
+            {
+              "id": "a3",
+              "original": "Franziska Giffey",
+              "translated": "Франциска Гифки"
+            },
+            {
+              "id": "a4",
+              "original": "Olaf Scholz",
+              "translated": "Олаф Шольц"
+            }
+          ],
+          "correctAnswerId": "a4"
+        },
+        {
+          "id": "Frage Nº73",
+          "original": "Frage Nº73: Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit ...",
+          "translated": "Две крупнейшие фракции в немецком Бундестаге в настоящее время называются...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "CDU/CSU und SPD.",
+              "translated": "CDU/CSU und SPD."
+            },
+            {
+              "id": "a2",
+              "original": "Die Linke und Bündnis 90/Die Grünen.",
+              "translated": "Die Linke und Bündnis 90/Die Grünen."
+            },
+            {
+              "id": "a3",
+              "original": "FDP und SPD.",
+              "translated": "FDP und SPD"
+            },
+            {
+              "id": "a4",
+              "original": "Die Linke und FDP.",
+              "translated": "Die Linke und FDP."
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº74",
+          "original": "Frage Nº74: Wie heißt das Parlament für ganz Deutschland?",
+          "translated": "Как называется парламент всей Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Bundesversammlung",
+              "translated": "Федеральное собрание"
+            },
+            {
+              "id": "a2",
+              "original": "Volkskammer",
+              "translated": "Народная палата"
+            },
+            {
+              "id": "a3",
+              "original": "Bundestag",
+              "translated": "Бундестаг"
+            },
+            {
+              "id": "a4",
+              "original": "Bundesgerichtshof",
+              "translated": "Федеральный суд"
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº75",
+          "original": "Frage Nº75: Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+          "translated": "Как зовут нынешнего главу немецкого государства?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Frank-Walter Steinmeier",
+              "translated": "Франк-Вальтер Штайнмайер"
+            },
+            {
+              "id": "a2",
+              "original": "Bärbel Bas",
+              "translated": "Бербель Бас"
+            },
+            {
+              "id": "a3",
+              "original": "Bodo Ramelow",
+              "translated": "Бодо Рамелов"
+            },
+            {
+              "id": "a4",
+              "original": "Joachim Gauck",
+              "translated": "Йоахим Гаук"
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº76",
+          "original": "Frage Nº76: Was bedeutet die Abkürzung CDU in Deutschland?",
+          "translated": "Что означает аббревиатура ХДС в Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Christliche Deutsche Union",
+              "translated": "Христианский немецкий союз"
+            },
+            {
+              "id": "a2",
+              "original": "Club Deutscher Unternehmer",
+              "translated": "Клуб немецких предпринимателей"
+            },
+            {
+              "id": "a3",
+              "original": "Christlicher Deutscher Umweltschutz",
+              "translated": "Христианская немецкая защита окружающей среды"
+            },
+            {
+              "id": "a4",
+              "original": "Christlich Demokratische Union",
+              "translated": "Христианско-демократический союз"
+            }
+          ],
+          "correctAnswerId": "a4"
+        },
+        {
+          "id": "Frage Nº77",
+          "original": "Frage Nº77: Was ist die Bundeswehr?",
+          "translated": "Что такое Бундесвер?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "die deutsche Polizei",
+              "translated": "немецкая полиция"
+            },
+            {
+              "id": "a2",
+              "original": "ein deutscher Hafen",
+              "translated": "немецкий порт"
+            },
+            {
+              "id": "a3",
+              "original": "eine deutsche Bürgerinitiative",
+              "translated": "инициатива граждан Германии"
+            },
+            {
+              "id": "a4",
+              "original": "die deutsche Armee",
+              "translated": "немецкая армия"
+            }
+          ],
+          "correctAnswerId": "a4"
+        },
+        {
+          "id": "Frage Nº78",
+          "original": "Frage Nº78: Was bedeutet die Abkürzung SPD?",
+          "translated": "Что означает аббревиатура СПД?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Sozialistische Partei Deutschlands",
+              "translated": "Социалистическая партия Германии"
+            },
+            {
+              "id": "a2",
+              "original": "Sozialpolitische Partei Deutschlands",
+              "translated": "Социально-политическая партия Германии"
+            },
+            {
+              "id": "a3",
+              "original": "Sozialdemokratische Partei Deutschlands",
+              "translated": "Социал-демократическая партия Германии"
+            },
+            {
+              "id": "a4",
+              "original": "Sozialgerechte Partei Deutschlands",
+              "translated": "Социально справедливая партия Германии"
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº79",
+          "original": "Frage Nº79: Was bedeutet die Abkürzung FDP in Deutschland?",
+          "translated": "Что означает аббревиатура СвДП в Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Friedliche Demonstrative Partei",
+              "translated": "Мирная демонстрационная партия"
+            },
+            {
+              "id": "a2",
+              "original": "Freie Deutschland Partei",
+              "translated": "Партия «Свободная Германия»"
+            },
+            {
+              "id": "a3",
+              "original": "Führende Demokratische Partei",
+              "translated": "Ведущая Демократическая партия"
+            },
+            {
+              "id": "a4",
+              "original": "Freie Demokratische Partei",
+              "translated": "Свободная демократическая партия"
+            }
+          ],
+          "correctAnswerId": "a4"
+        },
+        {
+          "id": "Frage Nº80",
+          "original": "Frage Nº80: Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+          "translated": "Какой суд в Германии отвечает за толкование Основного закона?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Oberlandesgericht",
+              "translated": "Высший областной суд"
+            },
+            {
+              "id": "a2",
+              "original": "Amtsgericht",
+              "translated": "Окружной суд"
+            },
+            {
+              "id": "a3",
+              "original": "Bundesverfassungsgericht",
+              "translated": "Федеральный конституционный суд"
+            },
+            {
+              "id": "a4",
+              "original": "Verwaltungsgericht",
+              "translated": "Административный суд"
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+      {
+          "id": "Frage Nº81",
+          "original": "Frage Nº81: Wer wählt den Bundeskanzler / die Bundeskanzlerin in Deutschland?",
+          "translated": "Кто избирает федерального канцлера в Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "der Bundesrat",
+              "translated": "Федеральный совет"
+            },
+            {
+              "id": "a2",
+              "original": "die Bundesversammlung",
+              "translated": "Федеральное Собрание"
+            },
+            {
+              "id": "a3",
+              "original": "das Volk",
+              "translated": "народ"
+            },
+            {
+              "id": "a4",
+              "original": "der Bundestag",
+              "translated": "Бундестаг"
+            }
+          ],
+          "correctAnswerId": "a4"
+        },
+        {
+          "id": "Frage Nº82",
+          "original": "Frage Nº82: Wer leitet das deutsche Bundeskabinett?",
+          "translated": "Кто возглавляет федеральный кабинет министров Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "der Bundestagspräsident / die Bundestagspräsidentin",
+              "translated": "Председатель Бундестага"
+            },
+            {
+              "id": "a2",
+              "original": "der Bundespräsident / die Bundespräsidentin",
+              "translated": "Федеральный президент"
+            },
+            {
+              "id": "a3",
+              "original": "der Bundeskanzler / die Bundeskanzlerin",
+              "translated": "Федеральный канцлер"
+            },
+            {
+              "id": "a4",
+              "original": "der Bundesratspräsident / die Bundesratspräsidentin",
+              "translated": "Председатель Федерального Совета"
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº83",
+          "original": "Frage Nº83: Wer wählt den deutschen Bundeskanzler / die deutsche Bundeskanzlerin?",
+          "translated": "Кто избирает канцлера Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "das Volk",
+              "translated": "народ"
+            },
+            {
+              "id": "a2",
+              "original": "die Bundesversammlung",
+              "translated": "Федеральное Собрание"
+            },
+            {
+              "id": "a3",
+              "original": "der Bundestag",
+              "translated": "Бундестаг"
+            },
+            {
+              "id": "a4",
+              "original": "die Bundesregierung",
+              "translated": "федеральное правительство"
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº84",
+          "original": "Frage Nº84: Welche Hauptaufgabe hat der deutsche Bundespräsident / die deutsche Bundespräsidentin? Er / Sie ...",
+          "translated": "Какова основная задача Федерального президента Германии? Он ...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "regiert das Land.",
+              "translated": "управляет страной."
+            },
+            {
+              "id": "a2",
+              "original": "entwirft die Gesetze.",
+              "translated": "разрабатывает законы."
+            },
+            {
+              "id": "a3",
+              "original": "repräsentiert das Land.",
+              "translated": "представляет свою страну."
+            },
+            {
+              "id": "a4",
+              "original": "überwacht die Einhaltung der Gesetze.",
+              "translated": "контролирует соблюдение законодательства."
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº85",
+          "original": "Frage Nº85: Wer bildet den deutschen Bundesrat?",
+          "translated": "Из кого состоит Федеральное Собрание?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "die Abgeordneten des Bundestages",
+              "translated": "члены Бундестага"
+            },
+            {
+              "id": "a2",
+              "original": "die Minister und Ministerinnen der Bundesregierung",
+              "translated": "министры федерального правительства"
+            },
+            {
+              "id": "a3",
+              "original": "die Regierungsvertreter der Bundesländer",
+              "translated": "представители правительства федеральных земель"
+            },
+            {
+              "id": "a4",
+              "original": "die Parteimitglieder",
+              "translated": "члены партии"
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº86",
+          "original": "Frage Nº86: Wer wählt in Deutschland den Bundespräsidenten / die Bundespräsidentin?",
+          "translated": "Кто избирает федерального президента Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "die Bundesversammlung",
+              "translated": "Федеральное Собрание"
+            },
+            {
+              "id": "a2",
+              "original": "der Bundesrat",
+              "translated": "Федеральный совет"
+            },
+            {
+              "id": "a3",
+              "original": "das Bundesparlament",
+              "translated": "Федеральный парламент"
+            },
+            {
+              "id": "a4",
+              "original": "das Bundesverfassungsgericht",
+              "translated": "Верховный суд"
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº87",
+          "original": "Frage Nº87: Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+          "translated": "Кто является главой государства Федеративной Республики Германия?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "der Bundeskanzler / die Bundeskanzlerin",
+              "translated": "Федеральный канцлер"
+            },
+            {
+              "id": "a2",
+              "original": "der Bundespräsident / die Bundespräsidentin",
+              "translated": "Федеральный президент"
+            },
+            {
+              "id": "a3",
+              "original": "der Bundesratspräsident / die Bundesratspräsidentin",
+              "translated": "Председатель Федерального Совета"
+            },
+            {
+              "id": "a4",
+              "original": "der Bundestagspräsident / die Bundestagspräsidentin",
+              "translated": "Председатель Бундестага"
+            }
+          ],
+          "correctAnswerId": "a2"
+        },
+        {
+          "id": "Frage Nº88",
+          "original": "Frage Nº88: Die parlamentarische Opposition im Deutschen Bundestag ...",
+          "translated": "Парламентская оппозиция в немецком Бундестаге...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "kontrolliert die Regierung.",
+              "translated": "контролирует правительство."
+            },
+            {
+              "id": "a2",
+              "original": "entscheidet, wer Bundesminister / Bundesministerin wird.",
+              "translated": "решает, кто станет федеральным министром."
+            },
+            {
+              "id": "a3",
+              "original": "bestimmt, wer im Bundesrat sitzt.",
+              "translated": "определяет, кто заседает в Федеральном совете."
+            },
+            {
+              "id": "a4",
+              "original": "schlägt die Regierungschefs / Regierungschefinnen der Länder vor.",
+              "translated": "предлагают главы правительств федеральных"
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº89",
+          "original": "Frage Nº89: Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+          "translated": "Как называют в Германии объединение членов партии в парламенте?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Verband",
+              "translated": "Accoциация"
+            },
+            {
+              "id": "a2",
+              "original": "Ältestenrat",
+              "translated": "Совет старейшин"
+            },
+            {
+              "id": "a3",
+              "original": "Fraktion",
+              "translated": "Фракция"
+            },
+            {
+              "id": "a4",
+              "original": "Opposition",
+              "translated": "Оппозиция"
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº90",
+          "original": "Frage Nº90: Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch ...",
+          "translated": "Федеральные земли Германии участвуют в федеральном законодательстве через...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "den Bundesrat.",
+              "translated": "Федеральный совет."
+            },
+            {
+              "id": "a2",
+              "original": "die Bundesversammlung.",
+              "translated": "Федеральное Собрание"
+            },
+            {
+              "id": "a3",
+              "original": "den Bundestag.",
+              "translated": "Бундестаг."
+            },
+            {
+              "id": "a4",
+              "original": "die Bundesregierung.",
+              "translated": "федеральное правительство."
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+      
     
     
     {
@@ -1663,149 +2504,7 @@
       ],
       "correctAnswerId": "a4"
     },
-    {
-      "id": "",
-      "original": "",
-      "translated": "",
-      "answers": [
-          {
-              "id": "a1",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a2",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a3",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a4",
-              "original": "",
-              "translated": ""
-          }
-      ],
-      "correctAnswerId": ""
-    },
-    {
-      "id": "",
-      "original": "",
-      "translated": "",
-      "answers": [
-          {
-              "id": "a1",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a2",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a3",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a4",
-              "original": "",
-              "translated": ""
-          }
-      ],
-      "correctAnswerId": ""
-    },
-    {
-      "id": "",
-      "original": "",
-      "translated": "",
-      "answers": [
-          {
-              "id": "a1",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a2",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a3",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a4",
-              "original": "",
-              "translated": ""
-          }
-      ],
-      "correctAnswerId": ""
-    },
-    {
-      "id": "",
-      "original": "",
-      "translated": "",
-      "answers": [
-          {
-              "id": "a1",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a2",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a3",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a4",
-              "original": "",
-              "translated": ""
-          }
-      ],
-      "correctAnswerId": ""
-    },
-    {
-      "id": "",
-      "original": "",
-      "translated": "",
-      "answers": [
-          {
-              "id": "a1",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a2",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a3",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a4",
-              "original": "",
-              "translated": ""
-          }
-      ],
-      "correctAnswerId": ""
-    },
-    
-    
-    
+   
     
     
     {
