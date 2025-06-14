@@ -2531,8 +2531,8 @@
           },
           {
             "id": "Frage Nº93",
-            "original": "Frage Nº93: Je mehr „Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto ...",
-            "translated": "Чем больше «вторых голосов» получит партия на федеральных выборах, тем...",
+            "original": "Frage Nº93: Je mehr -Zweitstimmen- eine Partei bei einer Bundestagswahl bekommt, desto ...",
+            "translated": "Чем больше -вторых голосов- получит партия на федеральных выборах, тем...",
             "answers": [
               {
                 "id": "a1",
@@ -2672,7 +2672,7 @@
           {
             "id": "Frage Nº98",
             "original": "Frage Nº98: Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln ...",
-            "translated": "Если депутаты немецкого Бундестага меняют свою фракцию, ...",
+            "translated": "Если депутаты немецкого Бундестага меняют свою фракцию ...",
             "answers": [
               {
                 "id": "a1",
@@ -2753,7 +2753,1129 @@
             ],
             "correctAnswerId": "a2"
           },
+          {
+            "id": "Frage Nº101",
+            "original": "Frage Nº101: Gewerkschaften sind Interessenverbände der ...",
+            "translated": "Профсоюзы - это объединения...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Jugendlichen.",
+                "translated": "молодежи"
+              },
+              {
+                "id": "a2",
+                "original": "Arbeitnehmer und Arbeitnehmerinnen.",
+                "translated": "сотрудников."
+              },
+              {
+                "id": "a3",
+                "original": "Rentner und Rentnerinnen.",
+                "translated": "пенсионеров."
+              },
+              {
+                "id": "a4",
+                "original": "Arbeitgeber und Arbeitgeberinnen.",
+                "translated": "работодателей."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº102",
+            "original": "Frage Nº102: Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem ...",
+            "translated": "Чем можно наградить в Федеративной Республике Германия человека, добившегося особых достижений в политической, экономической, культурной, интеллектуальной или социальной сфере? ...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Bundesadler",
+                "translated": "Федеральный орел"
+              },
+              {
+                "id": "a2",
+                "original": "Bundesverdienstkreuz",
+                "translated": "Федеральный крест за заслуги"
+              },
+              {
+                "id": "a3",
+                "original": "Vaterländischen Verdienstorden",
+                "translated": "Орден -Патриотические заслуги-."
+              },
+              {
+                "id": "a4",
+                "original": "Ehrentitel -Held der Deutschen Demokratischen Republik",
+                "translated": "Почетное звание -Герой Германской Демократической Республики-."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº103",
+            "original": "Frage Nº103: Was wird in Deutschland als -Ampelkoalition- bezeichnet? Die Zusammenarbeit ...",
+            "translated": "Что в Германии называют -светофорной коалицией-? Сотрудничество...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "der Bundestagsfraktionen von CDU und CSU",
+                "translated": "фракции ХДС и ХСС в Бундестаге"
+              },
+              {
+                "id": "a2",
+                "original": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+                "translated": "СДПГ, СвДП и Альянс 90/Зеленые в одном правительстве"
+              },
+              {
+                "id": "a3",
+                "original": "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+                "translated": "XCC, Die LINKE и Альянса 90/Зеленых в одном правительстве"
+              },
+              {
+                "id": "a4",
+                "original": "der Bundestagsfraktionen von CDU und SPD",
+                "translated": "фракции ХДС и СДПГ в Бундестаге"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº104",
+            "original": "Frage Nº104: Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+            "translated": "Женщина в Германии теряет работу. Что не должно быть причиной такого увольнения?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Die Frau ist lange krank und arbeitsunfähig.",
+                "translated": "Женщина давно болеет и не может работать."
+              },
+              {
+                "id": "a2",
+                "original": "Die Frau kam oft zu spät zur Arbeit.",
+                "translated": "Женщина часто опаздывала на работу."
+              },
+              {
+                "id": "a3",
+                "original": "Die Frau erledigt private Sachen während der Arbeitszeit.",
+                "translated": "Женщина занимается личными делами в рабочее время."
+              },
+              {
+                "id": "a4",
+                "original": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
+                "translated": "Женщина рожает ребенка, и её начальник знает об этом"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº105",
+            "original": "Frage Nº105: Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen in Deutschland?",
+            "translated": "Какова задача у членов избирательных комиссий / избирательных помощников в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+                "translated": "Они помогают пожилым людям проголосовать в кабинках для голосования."
+              },
+              {
+                "id": "a2",
+                "original": "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+                "translated": "Они пишут уведомления о выборах еще до выборов."
+              },
+              {
+                "id": "a3",
+                "original": "Sie geben Zwischenergebnisse an die Medien weiter.",
+                "translated": "Они передают промежуточные результаты СМИ."
+              },
+              {
+                "id": "a4",
+                "original": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+                "translated": "Они подсчитывают голоса после окончания выборов."
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº106",
+            "original": "Frage Nº106: In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen?",
+            "translated": "В Германии волонтеры на выборах помогают на выборах. В чем заключается работа сотрудников избирательных комиссий?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Sie helfen Kindern und alten Menschen beim Wählen.",
+                "translated": "Они помогают детям и старикам голосовать."
+              },
+              {
+                "id": "a2",
+                "original": "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+                "translated": "Они пишут карточки и письма с указанием избирательного участка."
+              },
+              {
+                "id": "a3",
+                "original": "Sie geben Zwischenergebnisse an Journalisten weiter.",
+                "translated": "Они передают журналистам промежуточные итоги."
+              },
+              {
+                "id": "a4",
+                "original": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+                "translated": "Они подсчитывают голоса после окончания выборов."
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº107",
+            "original": "Frage Nº107: Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+            "translated": "На сколько лет избирается Бундестаг в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "2 Jahre",
+                "translated": "2 года"
+              },
+              {
+                "id": "a2",
+                "original": "4 Jahre",
+                "translated": "4 года"
+              },
+              {
+                "id": "a3",
+                "original": "6 Jahre",
+                "translated": "6 лет"
+              },
+              {
+                "id": "a4",
+                "original": "8 Jahre",
+                "translated": "8 лет"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº108",
+            "original": "Frage Nº108: Bei einer Bundestagswahl in Deutschland darf jeder wählen, der ...",
+            "translated": "Право голосовать на федеральных выборах в Германии имеет тот, кто ...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+                "translated": "живет в Федеративной Республике Германия и хочет голосовать."
+              },
+              {
+                "id": "a2",
+                "original": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+                "translated": "является гражданином Федеративной Республики Германия и достиг возраста 18 лет."
+              },
+              {
+                "id": "a3",
+                "original": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+                "translated": "прожил в Федеративной Республике Германия не менее 3 лет."
+              },
+              {
+                "id": "a4",
+                "original": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.",
+                "translated": "является гражданином Федеративной Республики Германия и достиг возраста 21 года."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº109",
+            "original": "Frage Nº109: Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+            "translated": "Как часто в Германии обычно проходят федеральные выборы?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "alle drei Jahre",
+                "translated": "каждые три года"
+              },
+              {
+                "id": "a2",
+                "original": "alle vier Jahre",
+                "translated": "каждые четыре года"
+              },
+              {
+                "id": "a3",
+                "original": "alle fünf Jahre",
+                "translated": "каждые пять лет"
+              },
+              {
+                "id": "a4",
+                "original": "alle sechs Jahre",
+                "translated": "каждые шесть лет"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº110",
+            "original": "Frage Nº110: Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+            "translated": "На сколько лет избирается Бундестаг в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "2 Jahre",
+                "translated": "2 года"
+              },
+              {
+                "id": "a2",
+                "original": "3 Jahre",
+                "translated": "3 года"
+              },
+              {
+                "id": "a3",
+                "original": "4 Jahre",
+                "translated": "4 года"
+              },
+              {
+                "id": "a4",
+                "original": "5 Jahre",
+                "translated": "5 лет"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+        {
+          "id": "Frage Nº111",
+          "original": "Frage Nº111: In Deutschland darf man wählen. Was bedeutet das?",
+          "translated": "В Германии можно голосовать. Что это значит?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das Mindestalter erreicht haben.",
+              "translated": "Все граждане Германии имеют право голосовать, если они достигли минимального возраста"
+            },
+            {
+              "id": "a2",
+              "original": "Nur verheiratete Personen dürfen wählen.",
+              "translated": "Голосовать могут только женатые люди."
+            },
+            {
+              "id": "a3",
+              "original": "Nur Personen mit einem festen Arbeitsplatz dürfen wählen.",
+              "translated": "Голосовать могут только люди, имеющие постоянную работу."
+            },
+            {
+              "id": "a4",
+              "original": "Alle Einwohner und Einwohnerinnen in Deutschland müssen wählen.",
+              "translated": "Все жители Германии должны голосовать."
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº112",
+          "original": "Frage Nº112: Die Wahlen in Deutschland sind ...",
+          "translated": "Выборы в Германии...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "speziell.",
+              "translated": "особенные."
+            },
+            {
+              "id": "a2",
+              "original": "geheim.",
+              "translated": "тайные."
+            },
+            {
+              "id": "a3",
+              "original": "berufsbezogen.",
+              "translated": "связанные с работой."
+            },
+            {
+              "id": "a4",
+              "original": "geschlechtsabhängig.",
+              "translated": "гендерно-зависимые."
+            }
+          ],
+          "correctAnswerId": "a2"
+        },
+        {
+          "id": "Frage Nº113",
+          "original": "Frage Nº113: Wahlen in Deutschland gewinnt die Partei, die ...",
+          "translated": "На выборах в Германии побеждает партия, которая..",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "die meisten Stimmen bekommt.",
+              "translated": "получает наибольшее количество голосов."
+            },
+            {
+              "id": "a2",
+              "original": "die meisten Männer mehrheitlich gewählt haben.",
+              "translated": "большинство мужчин проголосовали большинством."
+            },
+            {
+              "id": "a3",
+              "original": "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.",
+              "translated": "получает наибольшее количество голосов рабочих."
+            },
+            {
+              "id": "a4",
+              "original": "die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat.",
+              "translated": "получает наибольшее количество первых голосов."
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº114",
+          "original": "Frage Nº114: An demokratischen Wahlen in Deutschland teilzunehmen ist",
+          "translated": "Участие в демократических выборах в Германии - это...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "eine Pflicht.",
+              "translated": "обязанность."
+            },
+            {
+              "id": "a2",
+              "original": "ein Recht.",
+              "translated": "право."
+            },
+            {
+              "id": "a3",
+              "original": "ein Zwang.",
+              "translated": "принуждение."
+            },
+            {
+              "id": "a4",
+              "original": "eine Last.",
+              "translated": "бремя."
+            }
+          ],
+          "correctAnswerId": "a2"
+        },
+        {
+          "id": "Frage Nº115",
+          "original": "Frage Nº115: Was bedeutet -aktives Wahlrecht- in Deutschland?",
+          "translated": "Что означает «активное избирательное право» в Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Man kann gewählt werden.",
+              "translated": "Вас могут избрать."
+            },
+            {
+              "id": "a2",
+              "original": "Man muss wählen gehen.",
+              "translated": "Вы должны проголосовать."
+            },
+            {
+              "id": "a3",
+              "original": "Man kann wählen.",
+              "translated": "Вы можете проголосовать."
+            },
+            {
+              "id": "a4",
+              "original": "Man muss zur Auszählung der Stimmen gehen.",
+              "translated": "Вы должны пойти на подсчёт голосов."
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº116",
+          "original": "Frage Nº116: Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das ...",
+          "translated": "Если Вам разрешено голосовать на федеральных выборах в Германии, это называется...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "aktive Wahlkampagne.",
+              "translated": "активная избирательная кампания."
+            },
+            {
+              "id": "a2",
+              "original": "aktives Wahlverfahren.",
+              "translated": "активный процесс голосования."
+            },
+            {
+              "id": "a3",
+              "original": "aktiver Wahlkampf.",
+              "translated": "активная избирательная борьба."
+            },
+            {
+              "id": "a4",
+              "original": "aktives Wahlrecht.",
+              "translated": "активное право голосовать."
+            }
+          ],
+          "correctAnswerId": "a4"
+        },
+        {
+          "id": "Frage Nº117",
+          "original": "Frage Nº117: Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+          "translated": "Какой процент вторых голосов должны получить партии, чтобы быть избранными в немецкий Бундестаг?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "3%",
+              "translated": "3%"
+            },
+            {
+              "id": "a2",
+              "original": "4%",
+              "translated": "4%"
+            },
+            {
+              "id": "a3",
+              "original": "5%",
+              "translated": "5%"
+            },
+            {
+              "id": "a4",
+              "original": "6%",
+              "translated": "6%"
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº118",
+          "original": "Frage Nº118: Was regelt das Wahlrecht in Deutschland?",
+          "translated": "Что определяет избирательное право в Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Wer wählen darf, muss wählen.",
+              "translated": "Любой, кто может голосовать, должен голосовать."
+            },
+            {
+              "id": "a2",
+              "original": "Alle die wollen, können wählen.",
+              "translated": "Проголосовать может любой желающий."
+            },
+            {
+              "id": "a3",
+              "original": "Wer nicht wählt, verliert das Recht zu wählen.",
+              "translated": "Если Вы не голосуете, Вы теряете право голоса"
+            },
+            {
+              "id": "a4",
+              "original": "Wer wählen darf, kann wählen.",
+              "translated": "Голосовать может каждый, кто имеет право голосовать."
+            }
+          ],
+          "correctAnswerId": "a4"
+        },
+        {
+          "id": "Frage Nº119",
+          "original": "Frage Nº119: Wahlen in Deutschland sind frei. Was bedeutet das?",
+          "translated": "Выборы в Германии свободные. Что это значит?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.",
+              "translated": "Все осужденные преступники не имеют права голосовать."
+            },
+            {
+              "id": "a2",
+              "original": "Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.",
+              "translated": "Если я хочу голосовать, мой работодатель должен предоставить мне отпуск."
+            },
+            {
+              "id": "a3",
+              "original": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+              "translated": "Каждый человек может без принуждения решить, хочет ли он голосовать и за кого он хочет голосовать."
+            },
+            {
+              "id": "a4",
+              "original": "Ich kann frei entscheiden, wo ich wählen gehen möchte.",
+              "translated": "Я могу свободно решать, где хочу голосовать."
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº120",
+          "original": "Frage Nº120: Das Wahlsystem in Deutschland ist ein ...",
+          "translated": "Система выборов в Германии представляет собой",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Zensuswahlrecht.",
+              "translated": "избирательный ценз."
+            },
+            {
+              "id": "a2",
+              "original": "Dreiklassenwahlrecht.",
+              "translated": "трёхклассное избирательное право."
+            },
+            {
+              "id": "a3",
+              "original": "Mehrheits- und Verhältniswahlrecht.",
+              "translated": "Право большинства и пропорциональное избирательное право."
+            },
+            {
+              "id": "a4",
+              "original": "allgemeines Männerwahlrecht.",
+              "translated": "общее мужское избирательное право."
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº121",
+          "original": "Frage Nº121: Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt ...",
+          "translated": "Партия хочет попасть в немецкий Бундестаг. Она должна получить для этого определённую минимальную долю голосов избирателей. Это называется ...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "5%-Hürde.",
+              "translated": "5% барьер."
+            },
+            {
+              "id": "a2",
+              "original": "Zulassungsgrenze.",
+              "translated": "Ограничение приема."
+            },
+            {
+              "id": "a3",
+              "original": "Basiswert.",
+              "translated": "Базовая стоимость."
+            },
+            {
+              "id": "a4",
+              "original": "Richtlinie.",
+              "translated": "Директива."
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº122",
+          "original": "Frage Nº122: Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind ...",
+          "translated": "Какому принципу подчиняются выборы в Германии? Выборы в Германии...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "frei, gleich, geheim.",
+              "translated": "свободные, равные, тайные."
+            },
+            {
+              "id": "a2",
+              "original": "offen, sicher, frei?",
+              "translated": "открытые, безопасные, свободные."
+            },
+            {
+              "id": "a3",
+              "original": "geschlossen, gleich, sicher.",
+              "translated": "закрытые, равные, безопасные."
+            },
+            {
+              "id": "a4",
+              "original": "sicher, offen, freiwillig.",
+              "translated": "безопасные, открытые, добровольные."
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº123",
+          "original": "Frage Nº123: Was ist in Deutschland die 5%-Hürde?",
+          "translated": "Что такое 5%-барьер в Германии?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Abstimmungsregelung im Bundestag für kleine Parteien",
+              "translated": "Правила голосования в Бундестаге для маленьких партий"
+            },
+            {
+              "id": "a2",
+              "original": "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+              "translated": "Контроль явки в Бундестаг для голосования"
+            },
+            {
+              "id": "a3",
+              "original": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+              "translated": "Минимальная доля голосов для попадания в парламент"
+            },
+            {
+              "id": "a4",
+              "original": "Anwesenheitskontrolle im Bundesrat für Abstimmungen",
+              "translated": "Контроль присутствия в Федеральном совете для голосования"
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº124",
+          "original": "Frage Nº124: Die Bundestagswahl in Deutschland ist die Wahl ...",
+          "translated": "Федеральные выборы в Германии - это выборы...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "des Bundeskanzlers / der Bundeskanzlerin.",
+              "translated": "Федерального канцлера."
+            },
+            {
+              "id": "a2",
+              "original": "der Parlamente der Länder.",
+              "translated": "Парламентов федеральных земель."
+            },
+            {
+              "id": "a3",
+              "original": "des Parlaments für Deutschland.",
+              "translated": "Парламента Германии."
+            },
+            {
+              "id": "a4",
+              "original": "des Bundespräsidenten / der Bundespräsidentin.",
+              "translated": "Федерального президента."
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº125",
+          "original": "Frage Nº125: In einer Demokratie ist eine Funktion von regelmäßigen Wahlen...",
+          "translated": "В условиях демократии одной из функций регулярных выборов является...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.",
+              "translated": "заставить граждан голосовать."
+            },
+            {
+              "id": "a2",
+              "original": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+              "translated": "обеспечить возможность смены правительства по воле большинства избирателей."
+            },
+            {
+              "id": "a3",
+              "original": "im Land bestehende Gesetze beizubehalten.",
+              "translated": "поддерживать действующие законы в стране."
+            },
+            {
+              "id": "a4",
+              "original": "den Armen mehr Macht zu geben.",
+              "translated": "дать больше власти бедным."
+            }
+          ],
+          "correctAnswerId": "a2"
+        },
+        {
+          "id": "Frage Nº126",
+          "original": "Frage Nº126: Was bekommen wahlberechtigte Bürger und Bürgerinnen in Deutschland vor einer Wahl?",
+          "translated": "Что получают граждане Германии, имеющие право голоса, перед выборами?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "eine Wahlbenachrichtigung von der Gemeinde",
+              "translated": "уведомление о выборах от муниципалитета"
+            },
+            {
+              "id": "a2",
+              "original": "eine Wahlerlaubnis vom Bundespräsidenten / von der Bundespräsidentin",
+              "translated": "разрешение на голосование от Федерального президента"
+            },
+            {
+              "id": "a3",
+              "original": "eine Benachrichtigung von der Bundesversammlung",
+              "translated": "уведомление Федерального Собрания"
+            },
+            {
+              "id": "a4",
+              "original": "eine Benachrichtigung vom Pfarramt",
+              "translated": "уведомление из приходской канцелярии"
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº127",
+          "original": "Frage Nº127: Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepub Deutschland? Es gibt sie, weil ...",
+          "translated": "Почему в избирательном законе Федеративной Республики Германия установлен 5-процентный барьер? Он существуют, потому что...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+              "translated": "Программы многих маленьких партий имеют много общего."
+            },
+            {
+              "id": "a2",
+              "original": "die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.",
+              "translated": "Граждане могут потерять ориентацию со многими мелкими партиями."
+            },
+            {
+              "id": "a3",
+              "original": "viele kleine Parteien die Regierungsbildung erschweren.",
+              "translated": "Множество маленьких партий затрудняют формирование правительства."
+            },
+            {
+              "id": "a4",
+              "original": "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen.",
+              "translated": "У маленьких партий нет столько денег, чтобы платить политикам."
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº128",
+          "original": "Frage Nº128: Parlamentsmitglieder, die von den Bürgern und Bürgerinnen gewählt werden, nennt man ...",
+          "translated": "Члены парламента, избираемые гражданами, называются...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "Abgeordnete.",
+              "translated": "Депутаты."
+            },
+            {
+              "id": "a2",
+              "original": "Kanzler / Kanzlerinnen.",
+              "translated": "Канцлеры."
+            },
+            {
+              "id": "a3",
+              "original": "Botschafter / Botschafterinnen.",
+              "translated": "Послы."
+            },
+            {
+              "id": "a4",
+              "original": "Ministerpräsidenten / Ministerpräsidentinnen.",
+              "translated": "Премьер-министры."
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+          "id": "Frage Nº129",
+          "original": "Frage Nº129: Vom Volk gewählt wird in Deutschland ...",
+          "translated": "В Германии народом выбирается ...",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "der Bundeskanzler / die Bundeskanzlerin.",
+              "translated": "федеральный канцлер."
+            },
+            {
+              "id": "a2",
+              "original": "der Ministerpräsident / die Ministerpräsidentin eines Bundeslandes.",
+              "translated": "премьер-министр федеральной земли."
+            },
+            {
+              "id": "a3",
+              "original": "der Bundestag.",
+              "translated": "Бундестаг."
+            },
+            {
+              "id": "a4",
+              "original": "der Bundespräsident / die Bundespräsidentin.",
+              "translated": "федеральный президент."
+            }
+          ],
+          "correctAnswerId": "a3"
+        },
+        {
+          "id": "Frage Nº130",
+          "original": "Frage Nº130: Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
+          "translated": "Какой избирательный бюллетень будет действителен на федеральных выборах?",
+          "answers": [
+            {
+              "id": "a1",
+              "original": "1",
+              "translated": "1"
+            },
+            {
+              "id": "a2",
+              "original": "2",
+              "translated": "2"
+            },
+            {
+              "id": "a3",
+              "original": "3",
+              "translated": "3"
+            },
+            {
+              "id": "a4",
+              "original": "4",
+              "translated": "4"
+            }
+          ],
+          "correctAnswerId": "a1"
+        },
+        {
+            "id": "Frage Nº131",
+            "original": "Frage Nº131: In Deutschland ist ein Bürgermeister / eine Bürgermeisterin ...",
+            "translated": "В Германии есть мэр...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "der Leiter / die Leiterin einer Schule.",
+                "translated": "директор школы."
+              },
+              {
+                "id": "a2",
+                "original": "der Chef / die Chefin einer Bank.",
+                "translated": "директор банка."
+              },
+              {
+                "id": "a3",
+                "original": "das Oberhaupt einer Gemeinde.",
+                "translated": "глава общины."
+              },
+              {
+                "id": "a4",
+                "original": "der / die Vorsitzende einer Partei.",
+                "translated": "лидер партии."
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº132",
+            "original": "Frage Nº132: Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+            "translated": "Многие люди в Германии работают на общественных началах в свободное время. Что это значит?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Sie arbeiten als Soldaten / Soldatinnen.",
+                "translated": "Они работают солдатами._."
+              },
+              {
+                "id": "a2",
+                "original": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+                "translated": "Они работают добровольно и бесплатно в клубах и ассоциациях."
+              },
+              {
+                "id": "a3",
+                "original": "Sie arbeiten in der Bundesregierung.",
+                "translated": "Они работают в федеральном правительстве."
+              },
+              {
+                "id": "a4",
+                "original": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.",
+                "translated": "Они работают в больнице и зарабатывают при этом деньги."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº133",
+            "original": "Frage Nº133: Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+            "translated": "Что разрешено на федеральных выборах и выборах земель в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Der Ehemann wählt für seine Frau mit.",
+                "translated": "Муж голосует за жену."
+              },
+              {
+                "id": "a2",
+                "original": "Man kann durch Briefwahl seine Stimme abgeben.",
+                "translated": "Можно проголосовать по почте."
+              },
+              {
+                "id": "a3",
+                "original": "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+                "translated": "В день выборов можно проголосовать по телефону."
+              },
+              {
+                "id": "a4",
+                "original": "Kinder ab dem Alter von 14 Jahren dürfen wählen.",
+                "translated": "К голосованию допускаются дети от 14 лет и старше."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº134",
+            "original": "Frage Nº134: Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+            "translated": "Маршрут автобуса, на котором Вы всегда ездите на работу, хотят отменить. Что можно сделать, чтобы сохранить этот автобусный маршрут?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+                "translated": "Я принимаю участие в инициативе граждан по сохранению автобусного маршрута или сам запускаю инициативу."
+              },
+              {
+                "id": "a2",
+                "original": "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+                "translated": "Я становлюсь членом спортивного клуба и тренируюсь на велосипеде."
+              },
+              {
+                "id": "a3",
+                "original": "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
+                "translated": "Я обращаюсь в налоговую инспекцию, потому что как налогоплательщик имею право на автобусный маршрут."
+              },
+              {
+                "id": "a4",
+                "original": "Ich schreibe einen Brief an das Forstamt der Gemeinde.",
+                "translated": "Я пишу письмо в лесное управление муниципалитета."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº135",
+            "original": "Frage Nº135: Wen vertreten die Gewerkschaften in Deutschland?",
+            "translated": "Кого представляют профсоюзы Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "große Unternehmen",
+                "translated": "крупные компании"
+              },
+              {
+                "id": "a2",
+                "original": "kleine Unternehmen",
+                "translated": "малый бизнес"
+              },
+              {
+                "id": "a3",
+                "original": "Selbständige",
+                "translated": "самозанятых людей"
+              },
+              {
+                "id": "a4",
+                "original": "Arbeitnehmer und Arbeitnehmerinnen",
+                "translated": "работников"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº136",
+            "original": "Frage Nº136: Sie gehen in Deutschland zum Arbeitsgericht bei ...",
+            "translated": "Вы идете в суд по трудовым спорам в Германии при...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "falscher Nebenkostenabrechnung.",
+                "translated": "неправильном расчете коммунальных услуг."
+              },
+              {
+                "id": "a2",
+                "original": "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
+                "translated": "необоснованном увольненим со стороны Вашего начальника."
+              },
+              {
+                "id": "a3",
+                "original": "Problemen mit den Nachbarn / Nachbarinnen.",
+                "translated": "проблемах с соседями."
+              },
+              {
+                "id": "a4",
+                "original": "Schwierigkeiten nach einem Verkehrsunfall.",
+                "translated": "проблемах после дорожно-транспортного происшествия."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº137",
+            "original": "Frage Nº137: Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+            "translated": "Какой суд в Германии обладает юрисдикцией в отношении конфликтов в сфере труда?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "das Familiengericht",
+                "translated": "семейный суд"
+              },
+              {
+                "id": "a2",
+                "original": "das Strafgericht",
+                "translated": "уголовный суд"
+              },
+              {
+                "id": "a3",
+                "original": "das Arbeitsgericht",
+                "translated": "трудовой суд"
+              },
+              {
+                "id": "a4",
+                "original": "das Amtsgericht",
+                "translated": "районный / участковый суд"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº138",
+            "original": "Frage Nº138: Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber / meine Arbeitgeberin zu Unrecht gekündigt hat?",
+            "translated": "Что я могу сделать в Германии, если мой работодатель несправедливо уволил меня?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "weiter arbeiten und freundlich zum Chef / zur Chefin sein",
+                "translated": "продолжать работать и быть дружелюбным к своему начальнику"
+              },
+              {
+                "id": "a2",
+                "original": "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin führen",
+                "translated": "написать предупреждение работодателю"
+              },
+              {
+                "id": "a3",
+                "original": "Kündigungsschutzklage erheben",
+                "translated": "подать иск о несправедливом увольнении"
+              },
+              {
+                "id": "a4",
+                "original": "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen",
+                "translated": "сообщить о работодателе в полицию"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº139",
+            "original": "Frage Nº139: Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand ...",
+            "translated": "Когда в Германии можно обратиться в суд? Если кто-то. .",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "zu einer anderen Religion übertritt.",
+                "translated": "перешёл в другую религию."
+              },
+              {
+                "id": "a2",
+                "original": "eine Straftat begangen hat und angeklagt wird.",
+                "translated": "совершил преступление и ему предъявлено обвинение."
+              },
+              {
+                "id": "a3",
+                "original": "eine andere Meinung als die der Regierung vertritt.",
+                "translated": "не согласен с правительством."
+              },
+              {
+                "id": "a4",
+                "original": "sein Auto falsch geparkt hat und es abgeschleppt wird.",
+                "translated": "неправильно припарковал машину и её отбуксировали."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº140",
+            "original": "Frage Nº140: Was macht ein Schöffe / eine Schöffin in Deutschland? Er / Sie ...",
+            "translated": "Что делает народный заседатель в Германии? Он/она. .",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
+                "translated": "решает с судьями вопрос о виновности и наказании."
+              },
+              {
+                "id": "a2",
+                "original": "gibt Bürgern / Bürgerinnen rechtlichen Rat.",
+                "translated": "предоставляет гражданам юридические консультации."
+              },
+              {
+                "id": "a3",
+                "original": "stellt Urkunden aus.",
+                "translated": "выдает документы."
+              },
+              {
+                "id": "a4",
+                "original": "verteidigt den Angeklagten / die Angeklagte.",
+                "translated": "защищает подсудимого."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+
           
+
     
     
     
