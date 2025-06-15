@@ -38,9 +38,31 @@ class QuestionViewModel {
         switch mode {
         case .practice:
             self.questions = questions
-        case .exam(let questionsCount):
-            self.questions = Array(questions.shuffled().prefix(questionsCount))
+        case .exam:
+            self.questions = selectShuffledQuestions(from: questions)
         }
+    }
+    
+    func selectShuffledQuestions(from allQuestions: [ExamQuestion]) -> [ExamQuestion] {
+        let groupSize = 10
+        let numberOfGroups = allQuestions.count / groupSize
+        var selectedQuestions: [ExamQuestion] = []
+
+        // Step 1: Pick 1 random question from each group
+        for groupIndex in 0..<numberOfGroups {
+            let start = groupIndex * groupSize
+            let group = Array(allQuestions[start..<start + groupSize])
+            if let randomQuestion = group.randomElement() {
+                selectedQuestions.append(randomQuestion)
+            }
+        }
+
+        // Step 2: Add 2 more random questions from any group to make it 33
+        let remainingQuestions = allQuestions.filter { !selectedQuestions.contains($0) }
+        selectedQuestions += remainingQuestions.shuffled().prefix(33 - selectedQuestions.count)
+
+        // Step 3: Shuffle the final selection
+        return selectedQuestions.shuffled()
     }
 
     func goNext() {

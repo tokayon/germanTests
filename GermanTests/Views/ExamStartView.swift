@@ -80,16 +80,16 @@ struct ExamStartView: View {
     private func examResultSheet(result: ExamResultData) -> some View {
         VStack(spacing: 24) {
             Spacer()
-            Text(result.passed ? "🎉 Glückwunsch!" : "❌ Leider nicht bestanden")
+            Text(result.passed ? "🎉 Congrats!" : "❌ Failed")
                 .font(.largeTitle)
                 .bold()
                 .multilineTextAlignment(.center)
 
-            Text("Ergebnis: \(result.correct) von \(result.total) richtig")
+            Text("Correct: \(result.correct) of \(result.total)")
                 .font(.title3)
                 .padding(.vertical)
                         
-            Text("Testdauer: \(result.time / 60) min \(result.time % 60) sec")
+            Text("Time: \(result.time / 60) min \(result.time % 60) sec")
 
             Button("OK") {
                 resultData = nil

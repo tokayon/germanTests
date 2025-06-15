@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct ExamQuestion: Identifiable, Codable {
+struct ExamQuestion: Identifiable, Codable, Equatable {
     let id: String
     let original: String
     let translated: String
