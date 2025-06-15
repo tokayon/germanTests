@@ -40,10 +40,6 @@ struct ExamStartView: View {
                     .frame(height: 200)
                     .padding(.horizontal)
 
-                Text("Willkommen zum Prüfung")
-                    .font(.title)
-                    .padding()
-
                 Button(action: {
                     isExamStarted = true
                 }) {
@@ -60,7 +56,7 @@ struct ExamStartView: View {
 
                 Spacer()
             }
-            .navigationTitle("Prüfung")
+            .navigationTitle("Test")
             .navigationDestination(isPresented: $isExamStarted) {
                 QuestionListView(mode: .exam(Constants.questionsCount), sessionID: sessionID) { correct, total, passed, time in
                     self.resultData = ExamResultData(correct: correct, total: total, passed: passed, time: time)

@@ -13,12 +13,12 @@ struct MainTabView: View {
         TabView {
             PracticeView()
                 .tabItem {
-                    Label("Studie", systemImage: "book.fill")
+                    Label("Practice", systemImage: "book.fill")
                 }
 
             ExamStartView()
                 .tabItem {
-                    Label("Prüfung", systemImage: "checkmark.square.fill")
+                    Label("Test", systemImage: "checkmark.square.fill")
                 }
         }
     }

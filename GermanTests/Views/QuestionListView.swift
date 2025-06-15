@@ -90,9 +90,9 @@ struct QuestionListView: View {
     private var mainTitle: String {
         switch mode {
         case .practice:
-            "Studie"
+            "Practice"
         case .exam(let int):
-            "Prüfung \(int)"
+            "Test \(int)"
         }
     }
     
