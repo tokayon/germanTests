@@ -100,6 +100,17 @@ struct QuestionListView: View {
         switch mode {
         case .practice:
             VStack(alignment: .leading, spacing: 0) {
+                if let image = question.image {
+                    HStack {
+                        Spacer()
+                        Image(image)
+                            .resizable()
+                            .scaledToFit()
+                            .cornerRadius(15)
+                            .padding()
+                        Spacer()
+                    }
+                }
                 Text(viewModel.showTranslation ? question.translated : question.original)
                     .font(.system(size: 20, weight: .medium))
                     .padding(.horizontal)
@@ -118,6 +129,18 @@ struct QuestionListView: View {
                     Spacer()
                     timerView
                     Spacer()
+                }
+                
+                if let image = question.image {
+                    HStack {
+                        Spacer()
+                        Image(image)
+                            .resizable()
+                            .scaledToFit()
+                            .cornerRadius(15)
+                            .padding()
+                        Spacer()
+                    }
                 }
                 
                 Text(viewModel.showTranslation ? question.translated : question.original)

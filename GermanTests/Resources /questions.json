@@ -1468,7 +1468,8 @@
     {
       "id": "Frage Nº55",
       "original": "Frage Nº55: Was zeigt dieses Bild?",
-      "translated": "Что изображено на этой картинке? место Бундестага в Берлине Федеральный конституционный суд в Карлсру: здание Федерального совета в Берлине Бундесканцлерамт в Берлине",
+      "translated": "Что изображено на этой картинке?",
+      "image": "q55",
       "answers": [
         {
           "id": "a1",
@@ -2029,6 +2030,7 @@
           "id": "Frage Nº75",
           "original": "Frage Nº75: Wie heißt Deutschlands heutiges Staatsoberhaupt?",
           "translated": "Как зовут нынешнего главу немецкого государства?",
+          "image": "q75",
           "answers": [
             {
               "id": "a1",
@@ -5165,6 +5167,7 @@
             "id": "Frage Nº187",
             "original": "Frage Nº187: Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
             "translated": "Какое немецкое государство имело черно-красно-золотой флаг с молотом, циркулем и венком из колосьев пшеницы?",
+            "image": "q187",
             "answers": [
               {
                 "id": "a1",
@@ -5781,6 +5784,7 @@
             "id": "Frage Nº209",
             "original": "Frage Nº209: Welches war das Wappen der Deutschen Demokratischen Republik?",
             "translated": "Какой был герб Германской Демократической Республики?",
+            "image": "q209",
             "answers": [
               {
                 "id": "a1",
@@ -6257,6 +6261,7 @@
             "id": "Frage Nº226",
             "original": "Frage Nº226: Welche ist die Flagge der Europäischen Union?",
             "translated": "Какой флаг является флагом Евросоюза?",
+            "image": "q226",
             "answers": [
               {
                 "id": "a1",

@@ -11,6 +11,7 @@ struct ExamQuestion: Identifiable, Codable {
     let id: String
     let original: String
     let translated: String
+    let image: String?
     let answers: [ExamAnswer]
     let correctAnswerId: String
 }
