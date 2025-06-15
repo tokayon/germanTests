@@ -7793,8 +7793,845 @@
       ],
       "correctAnswerId": "a3"
     },
-    
-    
-    
+    {
+      "id": "Frage Nº281",
+      "original": "Frage Nº281: Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf ...",
+      "translated": "Двое друзей хотят пойти в общественный бассейн в Германии. У обоих темная кожа и поэтому их не пропускают. Какое право нарушается в данной ситуации? Право на...",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Meinungsfreiheit",
+          "translated": "свободу слова"
+        },
+        {
+          "id": "a2",
+          "original": "Gleichbehandlung",
+          "translated": "равное обращение"
+        },
+        {
+          "id": "a3",
+          "original": "Versammlungsfreiheit",
+          "translated": "свободу собраний"
+        },
+        {
+          "id": "a4",
+          "original": "Freizügigkeit",
+          "translated": "свободу передвижения"
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº282",
+      "original": "Frage Nº282: Welches Ehrenamt müssen deutsche Staatsbürger / Staatsbürgerinnen übernehmen, wenn sie dazu aufgefordert werden?",
+      "translated": "Какую волонтерскую работу должны взять на себя немецкие граждане, если их об этом попросят?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Vereinstrainer / Vereinstrainerin",
+          "translated": "Тренер клуба"
+        },
+        {
+          "id": "a2",
+          "original": "Bibliotheksaufsicht",
+          "translated": "Библиотечный надзор"
+        },
+        {
+          "id": "a3",
+          "original": "Wahlhelfer / Wahlhelferin",
+          "translated": "Помощник на выборах"
+        },
+        {
+          "id": "a4",
+          "original": "Lehrer / Lehrerin",
+          "translated": "Учитель"
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº283",
+      "original": "Frage Nº283: Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+      "translated": "Что делать, если Вы получили неверный счёт от немецкого органа власти?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Ich lasse die Rechnung liegen.",
+          "translated": "Я оставлю счёт."
+        },
+        {
+          "id": "a2",
+          "original": "Ich lege Widerspruch bei der Behörde ein.",
+          "translated": "Я подаю протест властям."
+        },
+        {
+          "id": "a3",
+          "original": "Ich schicke die Rechnung an die Behörde zurück.",
+          "translated": "Я отправлю счёт обратно."
+        },
+        {
+          "id": "a4",
+          "original": "Ich gehe mit der Rechnung zum Finanzamt.",
+          "translated": "Я пойду в налоговую инспекцию со счётом."
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº284",
+      "original": "Frage Nº284: Was man für die Arbeit können muss, ändert sich in der Zukunft sehr schnell. Was kann man tun?",
+      "translated": "То, что нужно уметь делать для работы, меняется в будущем очень быстро. Что можно сделать?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Es ist egal, was man lernt.",
+          "translated": "Неважно, чему учишься."
+        },
+        {
+          "id": "a2",
+          "original": "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+          "translated": "В школе дети учатся всему, что важно в их карьере. После школы не нужно учиться дальше."
+        },
+        {
+          "id": "a3",
+          "original": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+          "translated": "Взрослые должны продолжать учиться даже после проф. обучения."
+        },
+        {
+          "id": "a4",
+          "original": "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.",
+          "translated": "Всем приходится раньше заканчивать работу, потому что все меняется."
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº285",
+      "original": "Frage Nº285: Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+      "translated": "Г-жа Фрост работает постоянным сотрудником в офисе. За что ей не нужно платить из своей зарплаты?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Umsatzsteuer",
+          "translated": "Налог на добавленную стоимость"
+        },
+        {
+          "id": "a2",
+          "original": "Lohnsteuer",
+          "translated": "Подоходный налог"
+        },
+        {
+          "id": "a3",
+          "original": "Beiträge zur Arbeitslosenversicherung",
+          "translated": "Взносы по страхованию от безработицы"
+        },
+        {
+          "id": "a4",
+          "original": "Beiträge zur Renten- und Krankenversicherung",
+          "translated": "Взносы на пенсионное и медицинское страхование"
+        }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº286",
+      "original": "Frage Nº286: Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bei Problemen mit dem Arbeitgeber / der Arbeitgeberin?",
+      "translated": "Какая организация на предприятии помогает сотрудникам решать проблемы с работодателем?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "der Betriebsrat",
+          "translated": "профсоюзный комитет"
+        },
+        {
+          "id": "a2",
+          "original": "der Betriebsprüfer / die Betriebsprüferin",
+          "translated": "инспектор по проверке предприятий"
+        },
+        {
+          "id": "a3",
+          "original": "die Betriebsgruppe",
+          "translated": "рабочая группа"
+        },
+        {
+          "id": "a4",
+          "original": "das Betriebsmanagement",
+          "translated": "управление предприятием"
+        }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº287",
+      "original": "Frage Nº287: Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+      "translated": "Вы хотели бы прекратить трудовые отношения с компанией в Германии. Что Вам следует учитывать?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "die Gehaltszahlungen",
+          "translated": "выплаты заработной платы"
+        },
+        {
+          "id": "a2",
+          "original": "die Arbeitszeit",
+          "translated": "рабочее время"
+        },
+        {
+          "id": "a3",
+          "original": "die Kündigungsfrist",
+          "translated": "срок уведомления об увольнении"
+        },
+        {
+          "id": "a4",
+          "original": "die Versicherungspflicht",
+          "translated": "обязательное страхование"
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº288",
+      "original": "Frage Nº288: Bei welchem Amt muss man in Deutschland in der Regel seinen Hund anmelden?",
+      "translated": "В каком ведомстве обычно нужно регистрировать свою собаку в Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "beim Finanzamt",
+          "translated": "в налоговой инспекции"
+        },
+        {
+          "id": "a2",
+          "original": "beim Einwohnermeldeamt",
+          "translated": "в отделе регистрации населения"
+        },
+        {
+          "id": "a3",
+          "original": "bei der Kommune (Stadt oder Gemeinde)",
+          "translated": "в муниципалитете (городе или муниципалитете)"
+        },
+        {
+          "id": "a4",
+          "original": "beim Gesundheitsamt",
+          "translated": "в департаменте здравоохранения"
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº289",
+      "original": "Frage Nº289: Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil ...",
+      "translated": "Мужчина с тёмной кожей устраивается на работу официантом в ресторан в Германии. Что является примером дискриминации? Единственная причина, по которой он не получает работу, это то, что...",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "seine Deutschkenntnisse zu gering sind.",
+          "translated": "его знания немецкого языка слишком плохие."
+        },
+        {
+          "id": "a2",
+          "original": "er zu hohe Gehaltsvorstellungen hat.",
+          "translated": "у него слишком высокие зарплатные ожидания."
+        },
+        {
+          "id": "a3",
+          "original": "er eine dunkle Haut hat.",
+          "translated": "у него тёмная кожа."
+        },
+        {
+          "id": "a4",
+          "original": "er keine Erfahrungen im Beruf hat.",
+          "translated": "у него нет опыта работы."
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº290",
+      "original": "Frage Nº290: Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+      "translated": "Вы купили телевизор в Германии. Дома распаковываете телевизор, а он не работает. Телевизор сломан. Что Вы можете сделать?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "eine Anzeige schreiben",
+          "translated": "написать объявление"
+        },
+        {
+          "id": "a2",
+          "original": "den Fernseher reklamieren",
+          "translated": "предъявить рекламацию на телевизор"
+        },
+        {
+          "id": "a3",
+          "original": "das Gerät ungefragt austauschen",
+          "translated": "заменить устройство без спроса"
+        },
+        {
+          "id": "a4",
+          "original": "die Garantie verlängern",
+          "translated": "продлить гарантию"
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº291",
+      "original": "Frage Nº291: Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil ...",
+      "translated": "Почему в Германии в налоговой декларации нужно указывать, являетесь ли Вы членом религиозной общины или нет? Потому что ...",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "das für die Statistik in Deutschland wichtig ist.",
+          "translated": "это важно для статистики Германии."
+        },
+        {
+          "id": "a2",
+          "original": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+          "translated": "существует церковный налог, привязанный к подоходному налогу и налогу на заработную плату."
+        },
+        {
+          "id": "a3",
+          "original": "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+          "translated": "нужно платить больше налогов, если не являешься членом религиозной общины."
+        },
+        {
+          "id": "a4",
+          "original": "die Kirche für die Steuererklärung verantwortlich ist.",
+          "translated": "Церковь несет ответственность за налоговую декларацию."
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº292",
+      "original": "Frage Nº292: Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+      "translated": "Люди в Германии живут по принципу религиозной толерантности. Что это значит?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Es dürfen keine Moscheen gebaut werden.",
+          "translated": "Мечети строить запрещено."
+        },
+        {
+          "id": "a2",
+          "original": "Alle Menschen glauben an Gott.",
+          "translated": "Все люди верят в Бога."
+        },
+        {
+          "id": "a3",
+          "original": "Jeder kann glauben, was er möchte.",
+          "translated": "Каждый может верить во что хочет."
+        },
+        {
+          "id": "a4",
+          "original": "Der Staat entscheidet, an welchen Gott die Menschen glauben.",
+          "translated": "Государство решает, в какого бога верят люди."
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº293",
+      "original": "Frage Nº293: Was ist in Deutschland ein Brauch an Ostern?",
+      "translated": "Какой обычай на Пасху в Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Kürbisse vor die Tür stellen",
+          "translated": "Выставлять тыквы перед дверью"
+        },
+        {
+          "id": "a2",
+          "original": "einen Tannenbaum schmücken",
+          "translated": "Украшать ёлку"
+        },
+        {
+          "id": "a3",
+          "original": "Eier bemalen",
+          "translated": "Красить / расписывать яйца"
+        },
+        {
+          "id": "a4",
+          "original": "Raketen in die Luft schießen",
+          "translated": "Устраивать фейерверки"
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº294",
+      "original": "Frage Nº294: Pfingsten ist ein ...",
+      "translated": "День Святой Троицы - это...",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "christlicher Feiertag.",
+          "translated": "Христианский праздник."
+        },
+        {
+          "id": "a2",
+          "original": "deutscher Gedenktag.",
+          "translated": "День памяти Германии."
+        },
+        {
+          "id": "a3",
+          "original": "internationaler Trauertag.",
+          "translated": "Международный день траура."
+        },
+        {
+          "id": "a4",
+          "original": "bayerischer Brauch.",
+          "translated": "Баварский обычай."
+        }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº295",
+      "original": "Frage Nº295: Welche Religion hat die europäische und deutsche Kultur geprägt?",
+      "translated": "Какая религия сформировала европейскую и немецкую культуру?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "der Hinduismus",
+          "translated": "Индуизм"
+        },
+        {
+          "id": "a2",
+          "original": "das Christentum",
+          "translated": "Христианство"
+        },
+        {
+          "id": "a3",
+          "original": "der Buddhismus",
+          "translated": "Буддизм"
+        },
+        {
+          "id": "a4",
+          "original": "der Islam",
+          "translated": "Ислам"
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº296",
+      "original": "Frage Nº296: In Deutschland nennt man die letzten vier Wochen vor Weihnachten ...",
+      "translated": "В Германии последние четыре недели перед Рождеством называются...",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "den Buß- und Bettag.",
+          "translated": "День покаяния и молитвы."
+        },
+        {
+          "id": "a2",
+          "original": "das Erntedankfest.",
+          "translated": "Праздник урожая."
+        },
+        {
+          "id": "a3",
+          "original": "die Adventszeit.",
+          "translated": "Адвент"
+        },
+        {
+          "id": "a4",
+          "original": "Allerheiligen.",
+          "translated": "День всех святых."
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº297",
+      "original": "Frage Nº297: Aus welchem Land sind die meisten Migranten / Migrantinnen nach Deutschland gekommen?",
+      "translated": "Из какой страны в Германию приехало больше всего мигрантов?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Italien",
+          "translated": "Италия"
+        },
+        {
+          "id": "a2",
+          "original": "Polen",
+          "translated": "Польша"
+        },
+        {
+          "id": "a3",
+          "original": "Marokko",
+          "translated": "Марокко"
+        },
+        {
+          "id": "a4",
+          "original": "Türkei",
+          "translated": "Турция"
+        }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº298",
+      "original": "Frage Nº298: In der DDR lebten vor allem Migranten aus ...",
+      "translated": "В ГДР в основном были мигранты из ...",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Vietnam, Polen, Mosambik.",
+          "translated": "Вьетнам, Польша, Мозамбик."
+        },
+        {
+          "id": "a2",
+          "original": "Frankreich, Rumänien, Somalia.",
+          "translated": "Франция, Румыния, Сомали."
+        },
+        {
+          "id": "a3",
+          "original": "Chile, Ungarn, Simbabwe.",
+          "translated": "Чили, Венгрия, Зимбабве."
+        },
+        {
+          "id": "a4",
+          "original": "Nordkorea, Mexiko, Ägypten.",
+          "translated": "Северная Корея, Мексика, Египет."
+        }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº299",
+      "original": "Frage Nº299: Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man ...",
+      "translated": "Иностранных рабочих, завербованных Федеративной Республикой Германия в 1950-х и 1960-х годах, называли..",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Schwarzarbeiter / Schwarzarbeiterinnen",
+          "translated": "Чернорабочие"
+        },
+        {
+          "id": "a2",
+          "original": "Gastarbeiter / Gastarbeiterinnen",
+          "translated": "гастарбайтеры"
+        },
+        {
+          "id": "a3",
+          "original": "Zeitarbeiter / Zeitarbeiterinnen",
+          "translated": "Временные / сезонные работники"
+        },
+        {
+          "id": "a4",
+          "original": "Schichtarbeiter / Schichtarbeiterinnen",
+          "translated": "рабочие по сменам (по сменному графику)"
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº300",
+      "original": "Frage Nº300: Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen in die Bundesrepublik Deutschland?",
+      "translated": "Из какой страны прибыли первые гастарбайтеры в ФРГ?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Italien",
+          "translated": "Италия"
+        },
+        {
+          "id": "a2",
+          "original": "Spanien",
+          "translated": "Испания"
+        },
+        {
+          "id": "a3",
+          "original": "Portugal",
+          "translated": "Португалия"
+        },
+        {
+          "id": "a4",
+          "original": "Türkei",
+          "translated": "Турция"
+        }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº301",
+      "original": "Frage Nº301: Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+      "translated": "Сколько лет назад впервые появилась еврейская община на территории современной Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "vor etwa 300 Jahren",
+          "translated": "около 300 лет назад"
+        },
+        {
+          "id": "a2",
+          "original": "vor etwa 700 Jahren",
+          "translated": "около 700 лет назад"
+        },
+        {
+          "id": "a3",
+          "original": "vor etwa 1150 Jahren",
+          "translated": "около 1150 лет назад"
+        },
+        {
+          "id": "a4",
+          "original": "vor etwa 1700 Jahren",
+          "translated": "около 1700 лет назад"
+        }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº302",
+      "original": "Frage Nº302: Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+      "translated": "Кто может стать членом одного из примерно 40 еврейских спортивных клубов «Маккаби»?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "nur Deutsche",
+          "translated": "только немцы"
+        },
+        {
+          "id": "a2",
+          "original": "nur Israelis",
+          "translated": "только израильтяне"
+        },
+        {
+          "id": "a3",
+          "original": "nur religiöse Menschen",
+          "translated": "только религиозные люди"
+        },
+        {
+          "id": "a4",
+          "original": "alle Menschen",
+          "translated": "все люди"
+        }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº303",
+      "original": "Frage Nº303: Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+      "translated": "В каких городах находятся самые большие еврейские общины в Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Berlin und München",
+          "translated": "Берлин и Мюнхен"
+        },
+        {
+          "id": "a2",
+          "original": "Hamburg und Essen",
+          "translated": "Гамбург и Эссен"
+        },
+        {
+          "id": "a3",
+          "original": "Nürnberg und Stuttgart",
+          "translated": "Нюрнберг и Штутгарт"
+        },
+        {
+          "id": "a4",
+          "original": "Worms und Speyer",
+          "translated": "Вормс и Шпайер"
+        }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº304",
+      "original": "Frage Nº304: Wie heißt das jüdische Gebetshaus?",
+      "translated": "Как называется еврейский молитвенный дом?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Basilika",
+          "translated": "Базилика"
+        },
+        {
+          "id": "a2",
+          "original": "Moschee",
+          "translated": "Мечеть"
+        },
+        {
+          "id": "a3",
+          "original": "Synagoge",
+          "translated": "Синагога"
+        },
+        {
+          "id": "a4",
+          "original": "Kirche",
+          "translated": "Церковь"
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº305",
+      "original": "Frage Nº305: Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+      "translated": "На каком юридическом основании было создано государство Израиль?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "eine Resolution der Vereinten Nationen",
+          "translated": "резолюция Организации Объединённых Наций"
+        },
+        {
+          "id": "a2",
+          "original": "ein Beschluss des Zionistenkongresses",
+          "translated": "решение Сионистского конгресса"
+        },
+        {
+          "id": "a3",
+          "original": "ein Vorschlag der Bundesregierung",
+          "translated": "предложение правительства Германии"
+        },
+        {
+          "id": "a4",
+          "original": "ein Vorschlag der USSR",
+          "translated": "предложение СССР"
+        }
+      ],
+      "correctAnswerId": "a1"
+    },
+    {
+      "id": "Frage Nº306",
+      "original": "Frage Nº306: Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+      "translated": "Чем обосновывается особая ответственность Германии перед Израилем?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "aus der Mitgliedschaft in der Europäischen Union (EU)",
+          "translated": "членством в Европейском Союзе (ЕС)"
+        },
+        {
+          "id": "a2",
+          "original": "aus den nationalsozialistischen Verbrechen",
+          "translated": "нацистскими преступлениями"
+        },
+        {
+          "id": "a3",
+          "original": "aus dem Grundgesetz der Bundesrepublik Deutschland",
+          "translated": "Основным законом Федеративной Республики Германия"
+        },
+        {
+          "id": "a4",
+          "original": "aus der christlichen Tradition",
+          "translated": "христианской традицией"
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº307",
+      "original": "Frage Nº307: Was ist ein Beispiel für antisemitisches Verhalten?",
+      "translated": "Что является примером антисемитского поведения?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "ein jüdisches Fest besuchen",
+          "translated": "посещение еврейского праздника"
+        },
+        {
+          "id": "a2",
+          "original": "die israelische Regierung kritisieren",
+          "translated": "критика правительства Израиля"
+        },
+        {
+          "id": "a3",
+          "original": "den Holocaust leugnen",
+          "translated": "отрицание Холокоста"
+        },
+        {
+          "id": "a4",
+          "original": "gegen Juden Fußball spielen",
+          "translated": "игра в футбол против евреев"
+        }
+      ],
+      "correctAnswerId": "a3"
+    },
+    {
+      "id": "Frage Nº308",
+      "original": "Frage Nº308: Woran erinnern die sogenannten Stolpersteine in Deutschland?",
+      "translated": "О чем напоминают нам так называемые камни преткновения в Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "an berühmte deutsche Politikerinnen und Politiker",
+          "translated": "об известных немецких политиках"
+        },
+        {
+          "id": "a2",
+          "original": "an die Opfer des Nationalsozialismus",
+          "translated": "о жертвах национал-социализма"
+        },
+        {
+          "id": "a3",
+          "original": "an Verkehrstote",
+          "translated": "о жертвах со смертельным исходом в результате ДТП"
+        },
+        {
+          "id": "a4",
+          "original": "an bekannte jüdische Musiker",
+          "translated": "об известных еврейских музыкантах"
+        }
+      ],
+      "correctAnswerId": "a2"
+    },
+    {
+      "id": "Frage Nº309",
+      "original": "Frage Nº309: Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+      "translated": "Как может быть наказан тот, кто отрицает Холокост?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "Kürzung sozialer Leistungen",
+          "translated": "Сокращение социальных пособий"
+        },
+        {
+          "id": "a2",
+          "original": "bis zu 100 Sozialstunden",
+          "translated": "до 100 часов общественных работ"
+        },
+        {
+          "id": "a3",
+          "original": "gar nicht, Holocaustleugnung ist erlaubt",
+          "translated": "никак, отрицание Холокоста допускается"
+        },
+        {
+          "id": "a4",
+          "original": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
+          "translated": "лишением свободы на срок до пяти лет или штрафом"
+        }
+      ],
+      "correctAnswerId": "a4"
+    },
+    {
+      "id": "Frage Nº310",
+      "original": "Frage Nº310: Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland verboten?",
+      "translated": "Какие действия в отношении государства Израиль запрещены в Германии?",
+      "answers": [
+        {
+          "id": "a1",
+          "original": "die Politik Israels öffentlich kritisieren",
+          "translated": "публично критиковать политику Израиля"
+        },
+        {
+          "id": "a2",
+          "original": "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+          "translated": "вывешивание израильского флага на частном участке"
+        },
+        {
+          "id": "a3",
+          "original": "eine Diskussion über die Politik Israels",
+          "translated": "обсуждение политики Израиля"
+        },
+        {
+          "id": "a4",
+          "original": "der öffentliche Aufruf zur Vernichtung Israels",
+          "translated": "публичный призыв к уничтожению Израиля"
+        }
+      ],
+      "correctAnswerId": "a4"
+    }
   ]
 }
