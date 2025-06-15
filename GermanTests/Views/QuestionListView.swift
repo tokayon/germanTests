@@ -131,7 +131,7 @@ struct QuestionListView: View {
                                 
                 HStack {
                     Spacer()
-                    Text("Frage \(viewModel.currentIndex+1) von \(viewModel.questions.count)")
+                    Text("Question \(viewModel.currentIndex+1) of \(viewModel.questions.count)")
                     correctImage
                     .font(.system(size: 20))
                     .opacity(viewModel.selectedAnswer != nil ? 1 : 0)
@@ -404,7 +404,7 @@ struct QuestionPickerView: View {
             VStack(spacing: 16) {
                 // Search Display
                 HStack {
-                    Text("Suche: \(digitInput)")
+                    Text("Search: \(digitInput)")
                         .font(.title3)
                         .padding(.leading)
                     Spacer()
@@ -445,7 +445,7 @@ struct QuestionPickerView: View {
                         }
                     } label: {
                         HStack {
-                            Text("Frage \(question.id)")
+                            Text("\(question.id)")
                             if question.id == viewModel.questions[viewModel.currentIndex].id {
                                 Spacer()
                                 Image(systemName: "checkmark")
@@ -455,7 +455,7 @@ struct QuestionPickerView: View {
                     }
                 }
             }
-            .navigationTitle("Frage auswählen")
+            .navigationTitle("Select")
             .navigationBarTitleDisplayMode(.inline)
         }
     }
