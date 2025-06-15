@@ -3873,42 +3873,2806 @@
             ],
             "correctAnswerId": "a1"
           },
-
-          
-
-    
-    
-    
-    
-    
-    {
-      "id": "Frage Nº240",
-      "original": "Frage Nº240: Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
-      "translated": "С какого времени в Германии люди платят наличными в евро?",
-      "answers": [
           {
-              "id": "a1",
-              "original": "1995",
-              "translated": "1995"
+            "id": "Frage Nº141",
+            "original": "Frage Nº141: Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+            "translated": "Кто консультирует людей по юридическим вопросам в Германии и представляет их интересы в суде?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "ein Rechtsanwalt / eine Rechtsanwältin",
+                "translated": "адвокат"
+              },
+              {
+                "id": "a2",
+                "original": "ein Richter / eine Richterin",
+                "translated": "судья"
+              },
+              {
+                "id": "a3",
+                "original": "ein Schöffe / eine Schöffin",
+                "translated": "народный заседатель"
+              },
+              {
+                "id": "a4",
+                "original": "ein Staatsanwalt / eine Staatsanwältin",
+                "translated": "прокурор"
+              }
+            ],
+            "correctAnswerId": "a1"
           },
           {
-              "id": "a2",
-              "original": "1998",
-              "translated": "1998"
+            "id": "Frage Nº142",
+            "original": "Frage Nº142: Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland? Ein Richter / eine Richterin ...",
+            "translated": "Какова основная задача судьи в Германии? Судья...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "vertritt Bürger und Bürgerinnen vor einem Gericht.",
+                "translated": "представляет граждан в суде."
+              },
+              {
+                "id": "a2",
+                "original": "arbeitet an einem Gericht und spricht Urteile.",
+                "translated": "работает в суде и выносит решения"
+              },
+              {
+                "id": "a3",
+                "original": "ändert Gesetze.",
+                "translated": "меняет законы."
+              },
+              {
+                "id": "a4",
+                "original": "betreut Jugendliche vor Gericht.",
+                "translated": "присматривает за молодыми людьми в суде."
+              }
+            ],
+            "correctAnswerId": "a2"
           },
           {
-              "id": "a3",
-              "original": "2002",
-              "translated": "2002"
+            "id": "Frage Nº143",
+            "original": "Frage Nº143: Ein Richter / eine Richterin in Deutschland gehört zur ...",
+            "translated": "Судья в Германии относится к...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Judikative.",
+                "translated": "судебной власти."
+              },
+              {
+                "id": "a2",
+                "original": "Exekutive.",
+                "translated": "исполнительной власти."
+              },
+              {
+                "id": "a3",
+                "original": "Operative.",
+                "translated": "оперативной власти."
+              },
+              {
+                "id": "a4",
+                "original": "Legislative.",
+                "translated": "законодательной власти."
+              }
+            ],
+            "correctAnswerId": "a1"
           },
           {
-              "id": "a4",
-              "original": "2005",
-              "translated": "2005"
-          }
-      ],
-      "correctAnswerId": "a3"
-    },
+            "id": "Frage Nº144",
+            "original": "Frage Nº144: Ein Richter / eine Richterin gehört in Deutschland zur ...",
+            "translated": "В Германии судья относится к ...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "vollziehenden Gewalt.",
+                "translated": "исполнительной власти."
+              },
+              {
+                "id": "a2",
+                "original": "rechtsprechenden Gewalt.",
+                "translated": "судебной власти."
+              },
+              {
+                "id": "a3",
+                "original": "planenden Gewalt.",
+                "translated": "планирующей власти."
+              },
+              {
+                "id": "a4",
+                "original": "gesetzgebenden Gewalt.",
+                "translated": "законодательной власти."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº145",
+            "original": "Frage Nº145: In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter / eine Richterin? Für die ...",
+            "translated": "В Германии государственная власть разделена. На какую государственную власть работает судья? На ...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Judikative.",
+                "translated": "судебную власть."
+              },
+              {
+                "id": "a2",
+                "original": "Exekutive.",
+                "translated": "исполнительную власть."
+              },
+              {
+                "id": "a3",
+                "original": "Presse.",
+                "translated": "прессу."
+              },
+              {
+                "id": "a4",
+                "original": "Legislative.",
+                "translated": "законодательную ветвь."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº146",
+            "original": "Frage Nº146: Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+            "translated": "Как называют разбирательство в суде в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Programm",
+                "translated": "программа"
+              },
+              {
+                "id": "a2",
+                "original": "Prozedur",
+                "translated": "процедура"
+              },
+              {
+                "id": "a3",
+                "original": "Protokoll",
+                "translated": "протокол"
+              },
+              {
+                "id": "a4",
+                "original": "Prozess",
+                "translated": "процесс"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº147",
+            "original": "Frage Nº147: Was ist die Arbeit eines Richters / einer Richterin inDeutschland?",
+            "translated": "Что является работой судьи в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Deutschland regieren",
+                "translated": "править Германией"
+              },
+              {
+                "id": "a2",
+                "original": "Recht sprechen",
+                "translated": "вершить правосудие"
+              },
+              {
+                "id": "a3",
+                "original": "Pläne erstellen",
+                "translated": "составлять планы"
+              },
+              {
+                "id": "a4",
+                "original": "Gesetze erlassen",
+                "translated": "принимать законы"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº148",
+            "original": "Frage Nº148: Was ist eine Aufgabe der Polizei in Deutschland?",
+            "translated": "Какова задача полиции в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "das Land zu verteidigen",
+                "translated": "защищать страну"
+              },
+              {
+                "id": "a2",
+                "original": "die Bürgerinnen und Bürger abzuhören",
+                "translated": "подслушивать граждан"
+              },
+              {
+                "id": "a3",
+                "original": "die Gesetze zu beschließen",
+                "translated": "принимать законы"
+              },
+              {
+                "id": "a4",
+                "original": "die Einhaltung von Gesetzen zu überwachen",
+                "translated": "контролировать соблюдение законов"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº149",
+            "original": "Frage Nº149: Wer kann Gerichtsschöffe / Gerichtsschöffin in Deutschland werden?",
+            "translated": "Кто может стать присяжным заседателем в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "alle in Deutschland geborenen Einwohner / Einwohnerinnen über 18 Jahre",
+                "translated": "все жители старше 18 лет, родившиеся в Германии"
+              },
+              {
+                "id": "a2",
+                "original": "alle deutschen Staatsangehörigen älter als 24 und jünger als 70 Jahre",
+                "translated": "все граждане Германии старше 24 и моложе 70 лет"
+              },
+              {
+                "id": "a3",
+                "original": "alle Personen, die seit mindestens 5 Jahren in Deutschland leben",
+                "translated": "все люди, прожившие в Германии не менее 5 лет"
+              },
+              {
+                "id": "a4",
+                "original": "nur Personen mit einem abgeschlossenen Jurastudium",
+                "translated": "только люди с законченным юридическим образованием"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº150",
+            "original": "Frage Nº150: Ein Gerichtsschöffe / eine Gerichtsschöffin in Deutschland ist ...",
+            "translated": "Присяжный заседатель в Германии - это...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
+                "translated": "заместитель мэра."
+              },
+              {
+                "id": "a2",
+                "original": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+                "translated": "судья-волонтер"
+              },
+              {
+                "id": "a3",
+                "original": "ein Mitglied eines Gemeinderats.",
+                "translated": "член местного совета."
+              },
+              {
+                "id": "a4",
+                "original": "eine Person, die Jura studiert hat.",
+                "translated": "человек, изучавший право."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº151",
+            "original": "Frage Nº151: Wer baute die Mauer in Berlin?",
+            "translated": "Кто построил стену в Берлине?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Großbritannien",
+                "translated": "Великобритания"
+              },
+              {
+                "id": "a2",
+                "original": "die Bundesrepublik Deutschland",
+                "translated": "Федеративная Республика Германия"
+              },
+              {
+                "id": "a3",
+                "original": "die DDR",
+                "translated": "ГДР"
+              },
+              {
+                "id": "a4",
+                "original": "die USA",
+                "translated": "США"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº152",
+            "original": "Frage Nº152: Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+            "translated": "Когда к власти в Германии пришли национал-социалисты во главе с Адольфом Гитлером?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1918 bis 1923",
+                "translated": "1918-1923"
+              },
+              {
+                "id": "a2",
+                "original": "1932 bis 1950",
+                "translated": "1932-1950"
+              },
+              {
+                "id": "a3",
+                "original": "1933 bis 1945",
+                "translated": "1933-1945"
+              },
+              {
+                "id": "a4",
+                "original": "1945 bis 1989",
+                "translated": "1945-1989"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº153",
+            "original": "Frage Nº153: Was war am 8. Mai 1945?",
+            "translated": "Что произошло 8 мая 1945 года?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Tod Adolf Hitlers",
+                "translated": "Смерть Адольфа Гитлера"
+              },
+              {
+                "id": "a2",
+                "original": "Beginn des Berliner Mauerbaus",
+                "translated": "Начало строительства Берлинской стены"
+              },
+              {
+                "id": "a3",
+                "original": "Wahl von Konrad Adenauer zum Bundeskanzler",
+                "translated": "Избрание Конрада Аденауэра федеральным канцлером"
+              },
+              {
+                "id": "a4",
+                "original": "Ende des Zweiten Weltkriegs in Europa",
+                "translated": "Конец Второй мировой войны в Европе"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº154",
+            "original": "Frage Nº154: Wann war der Zweite Weltkrieg zu Ende?",
+            "translated": "Когда закончилась Вторая мировая война?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1933",
+                "translated": "1933 г."
+              },
+              {
+                "id": "a2",
+                "original": "1945",
+                "translated": "1945 г."
+              },
+              {
+                "id": "a3",
+                "original": "1949",
+                "translated": "1949 г."
+              },
+              {
+                "id": "a4",
+                "original": "1961",
+                "translated": "1961 г."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº155",
+            "original": "Frage Nº155: Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+            "translated": "Когда национал-социалисты были у власти в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1888 bis 1918",
+                "translated": "1888-1918"
+              },
+              {
+                "id": "a2",
+                "original": "1921 bis 1934",
+                "translated": "1921-1934"
+              },
+              {
+                "id": "a3",
+                "original": "1933 bis 1945",
+                "translated": "1933-1945"
+              },
+              {
+                "id": "a4",
+                "original": "1949 bis 1963",
+                "translated": "1949-1963"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº156",
+            "original": "Frage Nº156: In welchem Jahr wurde Hitler Reichskanzler?",
+            "translated": "В каком году Гитлер стал канцлером?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1923",
+                "translated": "1923 г."
+              },
+              {
+                "id": "a2",
+                "original": "1927",
+                "translated": "1927 г."
+              },
+              {
+                "id": "a3",
+                "original": "1933",
+                "translated": "1933 г."
+              },
+              {
+                "id": "a4",
+                "original": "1936",
+                "translated": "1936 г."
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº157",
+            "original": "Frage Nº157: Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland ...",
+            "translated": "Национал-социалисты вместе с Адольфом Гитлером построили в 1933 году в Германии ...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "eine Diktatur.",
+                "translated": "диктатуру."
+              },
+              {
+                "id": "a2",
+                "original": "einen demokratischen Staat.",
+                "translated": "демократическое государство."
+              },
+              {
+                "id": "a3",
+                "original": "eine Monarchie.",
+                "translated": "монархию."
+              },
+              {
+                "id": "a4",
+                "original": "ein Fürstentum.",
+                "translated": "княжество."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº158",
+            "original": "Frage Nº158: Das -Dritte Reich- war eine ...",
+            "translated": "Третий Рейх был...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Diktatur.",
+                "translated": "диктатурой"
+              },
+              {
+                "id": "a2",
+                "original": "Demokratie.",
+                "translated": "демократией"
+              },
+              {
+                "id": "a3",
+                "original": "Monarchie.",
+                "translated": "монархией"
+              },
+              {
+                "id": "a4",
+                "original": "Räterepublik.",
+                "translated": "Советской республикой"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº159",
+            "original": "Frage Nº159: Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+            "translated": "Чего не было в Германии во время национал-социализма?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "freie Wahlen",
+                "translated": "свободных выборов"
+              },
+              {
+                "id": "a2",
+                "original": "Pressezensur",
+                "translated": "цензуры прессы"
+              },
+              {
+                "id": "a3",
+                "original": "willkürliche Verhaftungen",
+                "translated": "произвольных арестов"
+              },
+              {
+                "id": "a4",
+                "original": "Verfolgung der Juden",
+                "translated": "преследования евреев"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº160",
+            "original": "Frage Nº160: Welcher Krieg dauerte von 1939 bis 1945?",
+            "translated": "Какая война длилась с 1939 по 1945 год?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "der Erste Weltkrieg",
+                "translated": "Первая мировая война"
+              },
+              {
+                "id": "a2",
+                "original": "der Zweite Weltkrieg",
+                "translated": "Вторая мировая война"
+              },
+              {
+                "id": "a3",
+                "original": "der Vietnamkrieg",
+                "translated": "Вьетнамская война"
+              },
+              {
+                "id": "a4",
+                "original": "der Golfkrieg",
+                "translated": "война в Персидском заливе"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº161",
+            "original": "Frage Nº161: Was kennzeichnete den NS-Staat? Eine Politik ...",
+            "translated": "Что характеризовало нацистское государство? Политика..",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "des staatlichen Rassismus",
+                "translated": "государственного расизма"
+              },
+              {
+                "id": "a2",
+                "original": "der Meinungsfreiheit",
+                "translated": "свободы выражения"
+              },
+              {
+                "id": "a3",
+                "original": "der allgemeinen Religionsfreiheit",
+                "translated": "общей религиозной свободы"
+              },
+              {
+                "id": "a4",
+                "original": "der Entwicklung der Demokratie",
+                "translated": "развития демократии"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº162",
+            "original": "Frage Nº162: Claus Schenk Graf von Stauffenberg wurde bekannt durch ...",
+            "translated": "Клаус Шенк граф фон Штауффенберг стал известен благодаря...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "eine Goldmedaille bei den Olympischen Spielen 1936.",
+                "translated": "золотой медали на Олимпийских играх 1936 года."
+              },
+              {
+                "id": "a2",
+                "original": "den Bau des Reichstagsgebäudes.",
+                "translated": "строительству здания Рейхстага."
+              },
+              {
+                "id": "a3",
+                "original": "den Aufbau der Wehrmacht.",
+                "translated": "строительству Вермахта."
+              },
+              {
+                "id": "a4",
+                "original": "das Attentat auf Hitler am 20. Juli 1944.",
+                "translated": "покушению на Гитлера 20 июля 1944 года."
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº163",
+            "original": "Frage Nº163: In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+            "translated": "В каком году национал-социалисты разрушили синагоги и еврейские магазины в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1925",
+                "translated": "1925"
+              },
+              {
+                "id": "a2",
+                "original": "1930",
+                "translated": "1930"
+              },
+              {
+                "id": "a3",
+                "original": "1938",
+                "translated": "1938"
+              },
+              {
+                "id": "a4",
+                "original": "1945",
+                "translated": "1945"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº164",
+            "original": "Frage Nº164: Was passierte am 9. November 1938 in Deutschland?",
+            "translated": "Что произошло в Германии 9 ноября 1938 года?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+                "translated": "С нападения на Польшу начинается Вторая мировая война."
+              },
+              {
+                "id": "a2",
+                "original": "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+                "translated": "Национал-социалисты проигрывают выборы и распускают Рейхстаг."
+              },
+              {
+                "id": "a3",
+                "original": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+                "translated": "Еврейские магазины и синагоги разрушаются нацистами и их сторонниками."
+              },
+              {
+                "id": "a4",
+                "original": "Hitler wird Reichspräsident und lässt alle Parteien verbieten.",
+                "translated": "Гитлер становится президентом Рейха и запрещает все партии."
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº165",
+            "original": "Frage Nº165: Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+            "translated": "Как звали первого канцлера ФРГ?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Konrad Adenauer",
+                "translated": "Конрад Аденауэр"
+              },
+              {
+                "id": "a2",
+                "original": "Kurt Georg Kiesinger",
+                "translated": "Курт Георг Кизингер"
+              },
+              {
+                "id": "a3",
+                "original": "Helmut Schmidt",
+                "translated": "Гельмут Шмидт"
+              },
+              {
+                "id": "a4",
+                "original": "Willy Brandt",
+                "translated": "Вилли Брандт"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº166",
+            "original": "Frage Nº166: Bei welchen Demonstrationen in Deutschland riefen die Menschen -Wir sind das Volk-?",
+            "translated": "На каких демонстрациях в Германии люди кричали: «Мы — народ»?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "bei den Montagsdemonstrationen 1989 in der DDR",
+                "translated": "на демонстрациях по понедельникам в 1989 году в ГДР."
+              },
+              {
+                "id": "a2",
+                "original": "beim Arbeiteraufstand 1953 in der DDR",
+                "translated": "во время рабочего восстания в ГДР в 1953 г."
+              },
+              {
+                "id": "a3",
+                "original": "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+                "translated": "на демонстрациях 1968 года в ФРГ."
+              },
+              {
+                "id": "a4",
+                "original": "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+                "translated": "на антиядерных демонстрациях 1985 года в Федеративной Республике Германия."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº167",
+            "original": "Frage Nº167: Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als -Alliierte Besatzungsmächte- bezeichnet?",
+            "translated": "Какие страны назывались в Германии «союзными оккупационными державами» после Второй мировой войны?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Sowjetunion, Großbritannien, Polen, Schweden",
+                "translated": "Советский Союз, Великобритания, Польша, Швеция."
+              },
+              {
+                "id": "a2",
+                "original": "Frankreich, Sowjetunion, Italien, Japan",
+                "translated": "Франция, Советский Союз, Италия, Япония"
+              },
+              {
+                "id": "a3",
+                "original": "USA, Sowjetunion, Spanien, Portugal",
+                "translated": "США, СССР, Испания, Португалия"
+              },
+              {
+                "id": "a4",
+                "original": "USA, Sowjetunion, Großbritannien, Frankreich",
+                "translated": "США, СССР, Великобритания, Франция"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº168",
+            "original": "Frage Nº168: Welches Land war keine -Alliierte Besatzungsmacht- in Deutschland?",
+            "translated": "Какая страна не была «союзной оккупационной державой» в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "USA",
+                "translated": "США"
+              },
+              {
+                "id": "a2",
+                "original": "Sowjetunion",
+                "translated": "Советский Союз"
+              },
+              {
+                "id": "a3",
+                "original": "Frankreich",
+                "translated": "Франция"
+              },
+              {
+                "id": "a4",
+                "original": "Japan",
+                "translated": "Япония"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº169",
+            "original": "Frage Nº169: Wann wurde die Bundesrepublik Deutschland gegründet?",
+            "translated": "Когда была основана Федеративная Республика Германия?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1939",
+                "translated": "1939"
+              },
+              {
+                "id": "a2",
+                "original": "1945",
+                "translated": "1945"
+              },
+              {
+                "id": "a3",
+                "original": "1949",
+                "translated": "1949"
+              },
+              {
+                "id": "a4",
+                "original": "1951",
+                "translated": "1951"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº170",
+            "original": "Frage Nº170: Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+            "translated": "Что было в Германии во времена национал-социализма?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "das Recht zur freien Entfaltung der Persönlichkeit",
+                "translated": "право на свободное развитие личности"
+              },
+              {
+                "id": "a2",
+                "original": "Pressefreiheit",
+                "translated": "свобода прессы"
+              },
+              {
+                "id": "a3",
+                "original": "das Verbot von Parteien",
+                "translated": "запрет политических партий"
+              },
+              {
+                "id": "a4",
+                "original": "den Schutz der Menschenwürde",
+                "translated": "защита человеческого достоинства"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº171",
+            "original": "Frage Nº171: Soziale Marktwirtschaft bedeutet, die Wirtschaft ...",
+            "translated": "Социальная рыночная экономика означает то, что экономика...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "steuert sich allein nach Angebot und Nachfrage.",
+                "translated": "определяется исключительно спросом и предложением."
+              },
+              {
+                "id": "a2",
+                "original": "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+                "translated": "планируется и контролируется государством, спрос и предложение не учитываются"
+              },
+              {
+                "id": "a3",
+                "original": "richtet sich nach der Nachfrage im Ausland.",
+                "translated": "зависит от спроса за рубежом."
+              },
+              {
+                "id": "a4",
+                "original": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
+                "translated": "зависит от спроса и предложения, но государство обеспечивает социальный баланс."
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº172",
+            "original": "Frage Nº172: In welcher Besatzungszone wurde die DDR gegründet? In der ...",
+            "translated": "В какой оккупационной зоне была основана ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "amerikanischen Besatzungszone.",
+                "translated": "в Американской оккупационной зоне."
+              },
+              {
+                "id": "a2",
+                "original": "französischen Besatzungszone.",
+                "translated": "во Французской оккупационной зоне."
+              },
+              {
+                "id": "a3",
+                "original": "britischen Besatzungszone.",
+                "translated": "в Британской оккупационной зоне."
+              },
+              {
+                "id": "a4",
+                "original": "sowjetischen Besatzungszone.",
+                "translated": "в Советской оккупационной зоне."
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº173",
+            "original": "Frage Nº173: Die Bundesrepublik Deutschland ist ein Gründungsmitglied ...",
+            "translated": "Федеративная Республика Германия является одним из основателей...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "des Nordatlantikpakts (NATO).",
+                "translated": "Организации Североатлантического договора (НАТО)."
+              },
+              {
+                "id": "a2",
+                "original": "der Vereinten Nationen (VN).",
+                "translated": "Организации Объединенных Наций (ООН)."
+              },
+              {
+                "id": "a3",
+                "original": "der Europäischen Union (EU).",
+                "translated": "Европейского Союза (ЕС)."
+              },
+              {
+                "id": "a4",
+                "original": "des Warschauer Pakts.",
+                "translated": "Варшавского договора."
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº174",
+            "original": "Frage Nº174: Wann wurde die DDR gegründet?",
+            "translated": "Когда была основана ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1947",
+                "translated": "1947"
+              },
+              {
+                "id": "a2",
+                "original": "1949",
+                "translated": "1949"
+              },
+              {
+                "id": "a3",
+                "original": "1953",
+                "translated": "1953"
+              },
+              {
+                "id": "a4",
+                "original": "1956",
+                "translated": "1956"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº175",
+            "original": "Frage Nº175: Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+            "translated": "Сколько оккупационных зон было в Германии после Второй мировой войны?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "3",
+                "translated": "3"
+              },
+              {
+                "id": "a2",
+                "original": "4",
+                "translated": "4"
+              },
+              {
+                "id": "a3",
+                "original": "5",
+                "translated": "5"
+              },
+              {
+                "id": "a4",
+                "original": "6",
+                "translated": "6"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº176",
+            "original": "Frage Nº176: Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+            "translated": "Как распределялись оккупационные зоны Германии после 1945 года?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+                "translated": "1=Великобритания, 2=Советский Союз, 3=Франция, 4=США"
+              },
+              {
+                "id": "a2",
+                "original": "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+                "translated": "1=Советский Союз, 2=Великобритания, 3=США, 4=Франция"
+              },
+              {
+                "id": "a3",
+                "original": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+                "translated": "1=Великобритания, 2=Советский Союз, 3=США, 4=Франция"
+              },
+              {
+                "id": "a4",
+                "original": "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich",
+                "translated": "1=Великобритания, 2=США, 3=Советский Союз, 4=Франция"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº177",
+            "original": "Frage Nº177: Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+            "translated": "Каким городом Германии после Второй мировой войны был разделен на четыре сектора?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "München",
+                "translated": "Мюнхен"
+              },
+              {
+                "id": "a2",
+                "original": "Berlin",
+                "translated": "Берлин"
+              },
+              {
+                "id": "a3",
+                "original": "Dresden",
+                "translated": "Дрезден"
+              },
+              {
+                "id": "a4",
+                "original": "Frankfurt/Oder",
+                "translated": "Франкфурт-на-Одере"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº178",
+            "original": "Frage Nº178: Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+            "translated": "С июня 1948 по май 1949 года снабжение населения Западного Берлина доставлялось по воздуху. Какое обстоятельство послужило этому причиной?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+                "translated": "Для Франции снабжение населения Западного Берлина самолетом было более рентабельным."
+              },
+              {
+                "id": "a2",
+                "original": "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.",
+                "translated": "Американские солдаты боялись нападений во время наземной транспортировки."
+              },
+              {
+                "id": "a3",
+                "original": "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+                "translated": "В Великобритании поставки по воздуху прошли быстрее."
+              },
+              {
+                "id": "a4",
+                "original": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
+                "translated": "Советский Союз остановил весь наземный транспорт."
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº179",
+            "original": "Frage Nº179: Wie endete der Zweite Weltkrieg in Europa offiziell?",
+            "translated": "Как официально закончилась Вторая мировая война в Европе?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "mit dem Tod Adolf Hitlers",
+                "translated": "смертью Адольфа Гитлера"
+              },
+              {
+                "id": "a2",
+                "original": "durch die bedingungslose Kapitulation Deutschlands",
+                "translated": "безоговорочной капитуляцией Германии"
+              },
+              {
+                "id": "a3",
+                "original": "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+                "translated": "отступлением немецких войск с оккупированных территорий"
+              },
+              {
+                "id": "a4",
+                "original": "durch eine Revolution in Deutschland",
+                "translated": "революцией в Германии"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº180",
+            "original": "Frage Nº180: Der erste Bundeskanzler der Bundesrepublik Deutschland war ...",
+            "translated": "Первым канцлером ФРГ был...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Ludwig Erhard.",
+                "translated": "Людвиг Эрхард."
+              },
+              {
+                "id": "a2",
+                "original": "Willy Brandt.",
+                "translated": "Вилли Брандт."
+              },
+              {
+                "id": "a3",
+                "original": "Konrad Adenauer.",
+                "translated": "Конрад Аденауэр."
+              },
+              {
+                "id": "a4",
+                "original": "Gerhard Schröder.",
+                "translated": "Герхард Шредер."
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº181",
+            "original": "Frage Nº181: Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
+            "translated": "Что хотел выразить Вилли Брандт, опустившись на колени в 1970 году в бывшем еврейском гетто в Варшаве?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Er hat sich den ehemaligen Alliierten unterworfen.",
+                "translated": "Он подчинился бывшим союзникам."
+              },
+              {
+                "id": "a2",
+                "original": "Er bat Polen und die polnischen Juden um Vergebung.",
+                "translated": "Он просил у Польши и польских евреев прощения."
+              },
+              {
+                "id": "a3",
+                "original": "Er zeigte seine Demut vor dem Warschauer Pakt.",
+                "translated": "Он показал свое смирение перед Варшавским договором."
+              },
+              {
+                "id": "a4",
+                "original": "Er sprach ein Gebet am Grab des Unbekannten Soldaten.",
+                "translated": "Он произнес молитву у Могилы Неизвестного солдата."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº182",
+            "original": "Frage Nº182: Welche Parteien wurden 1946 zwangsweise zur SED vereint, der Einheitspartei der späteren DDR?",
+            "translated": "Какие партии были насильственно объединены в 1946 году в СЕПГ, единую партию позднейшей ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "KPD und SPD",
+                "translated": "KPD und SPD"
+              },
+              {
+                "id": "a2",
+                "original": "SPD und CDU",
+                "translated": "SPD und CDU"
+              },
+              {
+                "id": "a3",
+                "original": "CDU und FDP",
+                "translated": "CDU und FDP"
+              },
+              {
+                "id": "a4",
+                "original": "KPD und CSU",
+                "translated": "KPD und CSU"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº183",
+            "original": "Frage Nº183: Wann war in der Bundesrepublik Deutschland das 'Wirtschaftswunder'?",
+            "translated": "Когда произошло «экономическое чудо» в ФРГ?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "40er Jahre",
+                "translated": "40-е годы"
+              },
+              {
+                "id": "a2",
+                "original": "50er Jahre",
+                "translated": "50-е годы"
+              },
+              {
+                "id": "a3",
+                "original": "70er Jahre",
+                "translated": "70-е годы"
+              },
+              {
+                "id": "a4",
+                "original": "80er Jahre",
+                "translated": "80-е годы"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº184",
+            "original": "Frage Nº184: Was nannten die Menschen in Deutschland sehr lange 'Die Stunde Null'?",
+            "translated": "Что в Германии долгое время называли «Часом ноль»?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Damit wird die Zeit nach der Wende im Jahr 1989 bezeichnet.",
+                "translated": "Это относится к периоду после падения коммунизма в 1989 году"
+              },
+              {
+                "id": "a2",
+                "original": "Damit wurde der Beginn des Zweiten Weltkrieges bezeichnet.",
+                "translated": "Это положило начало Второй мировой войне."
+              },
+              {
+                "id": "a3",
+                "original": "Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.",
+                "translated": "Это означало конец Второй мировой войны и начало восстановления."
+              },
+              {
+                "id": "a4",
+                "original": "Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird.",
+                "translated": "Имеется в виду час, в который часы переводятся с летнего времени на зимнее."
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº185",
+            "original": "Frage Nº185: Wofür stand der Ausdruck 'Eiserner Vorhang'? Für die Abschottung ...",
+            "translated": "Что означало выражение «железный занавес»? Изоляцию ..",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "des Warschauer Pakts gegen den Westen.",
+                "translated": "стран Варшавского договора от Запада."
+              },
+              {
+                "id": "a2",
+                "original": "Norddeutschlands gegen Süddeutschland.",
+                "translated": "Северной Германии от Южной Германии"
+              },
+              {
+                "id": "a3",
+                "original": "Nazi-Deutschlands gegen die Alliierten.",
+                "translated": "Нацистской Германии от союзников."
+              },
+              {
+                "id": "a4",
+                "original": "Europas gegen die USA.",
+                "translated": "Европы от США"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº186",
+            "original": "Frage Nº186: Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+            "translated": "В 1953 году в ГДР произошло восстание, которое долгое время отмечалось государственным праздником в ФРГ. Когда это было?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1. Mai",
+                "translated": "1 мая"
+              },
+              {
+                "id": "a2",
+                "original": "17. Juni",
+                "translated": "17 июня"
+              },
+              {
+                "id": "a3",
+                "original": "20. Juli",
+                "translated": "20 июля"
+              },
+              {
+                "id": "a4",
+                "original": "9. November",
+                "translated": "9 ноября"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº187",
+            "original": "Frage Nº187: Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+            "translated": "Какое немецкое государство имело черно-красно-золотой флаг с молотом, циркулем и венком из колосьев пшеницы?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Preußen",
+                "translated": "Пруссия"
+              },
+              {
+                "id": "a2",
+                "original": "Bundesrepublik Deutschland",
+                "translated": "Федеративная Республика Германия"
+              },
+              {
+                "id": "a3",
+                "original": "DDR",
+                "translated": "ГДР"
+              },
+              {
+                "id": "a4",
+                "original": "Drittes Reich",
+                "translated": "Третий рейх"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº188",
+            "original": "Frage Nº188: In welchem Jahr wurde die Mauer in Berlin gebaut?",
+            "translated": "В каком году была построена стена в Берлине?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1953",
+                "translated": "1953"
+              },
+              {
+                "id": "a2",
+                "original": "1956",
+                "translated": "1956"
+              },
+              {
+                "id": "a3",
+                "original": "1959",
+                "translated": "1959"
+              },
+              {
+                "id": "a4",
+                "original": "1961",
+                "translated": "1961"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº189",
+            "original": "Frage Nº189: Wann baute die DDR die Mauer in Berlin?",
+            "translated": "Когда ГДР построила стену в Берлине?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1919",
+                "translated": "1919"
+              },
+              {
+                "id": "a2",
+                "original": "1933",
+                "translated": "1933"
+              },
+              {
+                "id": "a3",
+                "original": "1961",
+                "translated": "1961"
+              },
+              {
+                "id": "a4",
+                "original": "1990",
+                "translated": "1990"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº190",
+            "original": "Frage Nº190: Was bedeutet die Abkürzung DDR?",
+            "translated": "Что означает аббревиатура ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Dritter Deutscher Rundfunk",
+                "translated": "Третье немецкое радио"
+              },
+              {
+                "id": "a2",
+                "original": "Die Deutsche Republik",
+                "translated": "Германская Республика"
+              },
+              {
+                "id": "a3",
+                "original": "Dritte Deutsche Republik",
+                "translated": "Третья Германская Республика"
+              },
+              {
+                "id": "a4",
+                "original": "Deutsche Demokratische Republik",
+                "translated": "Германская Демократическая Республика"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº191",
+            "original": "Frage Nº191: Wann wurde die Mauer in Berlin für alle geöffnet?",
+            "translated": "Когда стена в Берлине была открыта для всех?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1987",
+                "translated": "1987"
+              },
+              {
+                "id": "a2",
+                "original": "1989",
+                "translated": "1989"
+              },
+              {
+                "id": "a3",
+                "original": "1992",
+                "translated": "1992"
+              },
+              {
+                "id": "a4",
+                "original": "1995",
+                "translated": "1995"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº192",
+            "original": "Frage Nº192: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+            "translated": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Brandenburg",
+                "translated": "Бранденбург"
+              },
+              {
+                "id": "a2",
+                "original": "Bayern",
+                "translated": "Бавария"
+              },
+              {
+                "id": "a3",
+                "original": "Saarland",
+                "translated": "Саар"
+              },
+              {
+                "id": "a4",
+                "original": "Hessen",
+                "translated": "Гессен"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº193",
+            "original": "Frage Nº193: Von 1961 bis 1989 war Berlin ...",
+            "translated": "С 1961 по 1989 год Берлин был...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "ohne Bürgermeister.",
+                "translated": "без мэра."
+              },
+              {
+                "id": "a2",
+                "original": "ein eigener Staat.",
+                "translated": "отдельным государством."
+              },
+              {
+                "id": "a3",
+                "original": "durch eine Mauer geteilt.",
+                "translated": "разделен стеной."
+              },
+              {
+                "id": "a4",
+                "original": "nur mit dem Flugzeug erreichbar.",
+                "translated": "доступен только на самолете."
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº194",
+            "original": "Frage Nº194: Am 3. Oktober feiert man in Deutschland den Tag der Deutschen ...",
+            "translated": "3 октября в Германии отмечают День ...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Einheit.",
+                "translated": "немецкого единства."
+              },
+              {
+                "id": "a2",
+                "original": "Nation.",
+                "translated": "немецкой нации."
+              },
+              {
+                "id": "a3",
+                "original": "Bundesländer.",
+                "translated": "немецких федеральных земель."
+              },
+              {
+                "id": "a4",
+                "original": "Städte.",
+                "translated": "немецких городов."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº195",
+            "original": "Frage Nº195: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+            "translated": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Hessen",
+                "translated": "Гессен"
+              },
+              {
+                "id": "a2",
+                "original": "Sachsen-Anhalt",
+                "translated": "Саксония-Анхальт"
+              },
+              {
+                "id": "a3",
+                "original": "Nordrhein-Westfalen",
+                "translated": "Северный Рейн-Вестфалия"
+              },
+              {
+                "id": "a4",
+                "original": "Saarland",
+                "translated": "Саар"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº196",
+            "original": "Frage Nº196: Warum nennt man die Zeit im Herbst 1989 in der DDR Die Wende? In dieser Zeit veränderte sich die DDR politisch ...",
+            "translated": "Почему осень 1989 года в ГДР называют «переломным моментом»? За это время ГДР изменилась политически...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "von einer Diktatur zur Demokratie.",
+                "translated": "от диктатуры к демократии."
+              },
+              {
+                "id": "a2",
+                "original": "von einer liberalen Marktwirtschaft zum Sozialismus.",
+                "translated": "от либеральной рыночной экономики к социализму."
+              },
+              {
+                "id": "a3",
+                "original": "von einer Monarchie zur Sozialdemokratie.",
+                "translated": "от монархии к социал-демократии."
+              },
+              {
+                "id": "a4",
+                "original": "von einem religiösen Staat zu einem kommunistischen Staat.",
+                "translated": "от религиозного государства к коммунистическому государству."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº197",
+            "original": "Frage Nº197: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+            "translated": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Thüringen",
+                "translated": "Тюрингия"
+              },
+              {
+                "id": "a2",
+                "original": "Hessen",
+                "translated": "Гессен"
+              },
+              {
+                "id": "a3",
+                "original": "Bayern",
+                "translated": "Бавария"
+              },
+              {
+                "id": "a4",
+                "original": "Bremen",
+                "translated": "Бремен"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº198",
+            "original": "Frage Nº198: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+            "translated": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Bayern",
+                "translated": "Бавария"
+              },
+              {
+                "id": "a2",
+                "original": "Niedersachsen",
+                "translated": "Нижняя Саксония"
+              },
+              {
+                "id": "a3",
+                "original": "Sachsen",
+                "translated": "Саксония"
+              },
+              {
+                "id": "a4",
+                "original": "Baden-Württemberg",
+                "translated": "Баден-Вюртемберг"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº199",
+            "original": "Frage Nº199: Mit der Abkürzung Stasi meinte man in der DDR ...",
+            "translated": "В ГДР аббревиатура «Штази» означала...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "das Parlament.",
+                "translated": "Парламент."
+              },
+              {
+                "id": "a2",
+                "original": "das Ministerium für Staatssicherheit.",
+                "translated": "Министерство государственной безопасности."
+              },
+              {
+                "id": "a3",
+                "original": "eine regierende Partei.",
+                "translated": "правящую партию"
+              },
+              {
+                "id": "a4",
+                "original": "das Ministerium für Volksbildung.",
+                "translated": "Министерство народного образования."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº200",
+            "original": "Frage Nº200: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+            "translated": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Hessen",
+                "translated": "Гессен"
+              },
+              {
+                "id": "a2",
+                "original": "Schleswig-Holstein",
+                "translated": "Земля Шлезвиг-Гольштейн"
+              },
+              {
+                "id": "a3",
+                "original": "Mecklenburg-Vorpommern",
+                "translated": "Мекленбург-Передняя Померания"
+              },
+              {
+                "id": "a4",
+                "original": "Saarland",
+                "translated": "Саар"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº201",
+            "original": "Frage Nº201: Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
+            "translated": "В каком из следующих перечислений только названия федеральных земель бывшей ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+                "translated": "Нижняя Саксония, Северный Рейн-Вестфалия, Гессен, Шлезвиг-Гольштейн, Бранденбург"
+              },
+              {
+                "id": "a2",
+                "original": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+                "translated": "Мекленбург-Передняя Померания, Бранденбург, Саксония, Саксония-Анхальт, Тюрингия"
+              },
+              {
+                "id": "a3",
+                "original": "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+                "translated": "Бавария, Баден-Вюртемберг, Рейнланд-Пфальц, Тюрингия, Саксония"
+              },
+              {
+                "id": "a4",
+                "original": "Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg",
+                "translated": "Саксония, Тюрингия, Гессен, Нижняя Саксония, Бранденбург"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº202",
+            "original": "Frage Nº202: Zu wem gehörte die DDR im Kalten Krieg?",
+            "translated": "Кому принадлежала ГДР во время «холодной войны»?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "zu den Westmächten",
+                "translated": "К западным державам"
+              },
+              {
+                "id": "a2",
+                "original": "zum Warschauer Pakt",
+                "translated": "к Варшавскому договору"
+              },
+              {
+                "id": "a3",
+                "original": "zur NATO",
+                "translated": "к НАТО"
+              },
+              {
+                "id": "a4",
+                "original": "zu den blockfreien Staaten",
+                "translated": "к неприсоединившимся государствам"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº203",
+            "original": "Frage Nº203: Wie hieß das Wirtschaftssystem der DDR?",
+            "translated": "Как называлась экономическая система ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Marktwirtschaft",
+                "translated": "рыночная экономика"
+              },
+              {
+                "id": "a2",
+                "original": "Planwirtschaft",
+                "translated": "плановая экономика"
+              },
+              {
+                "id": "a3",
+                "original": "Angebot und Nachfrage",
+                "translated": "спрос и предложение"
+              },
+              {
+                "id": "a4",
+                "original": "Kapitalismus",
+                "translated": "капитализм"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº204",
+            "original": "Frage Nº204: Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+            "translated": "Как Федеративная Республика Германия и ГДР стали одним государством?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Die Bundesrepublik Deutschland hat die DDR besetzt.",
+                "translated": "Федеративная Республика Германия оккупировала ГДР."
+              },
+              {
+                "id": "a2",
+                "original": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+                "translated": "Сегодняшние пять восточных федеральных земель присоединились к Федеративной Республике Германия."
+              },
+              {
+                "id": "a3",
+                "original": "Die westlichen Bundesländer sind der DDR beigetreten.",
+                "translated": "Западные федеральные земли присоединились к ГДР."
+              },
+              {
+                "id": "a4",
+                "original": "Die DDR hat die Bundesrepublik Deutschland besetzt.",
+                "translated": "ГДР оккупировала Федеративную Республику Германию."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº205",
+            "original": "Frage Nº205: Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch ...",
+            "translated": "С присоединением ГДР к Федеративной Республике Германия новые федеральные земли теперь также принадлежат...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "zur Europäischen Union.",
+                "translated": "к Евросоюзу."
+              },
+              {
+                "id": "a2",
+                "original": "zum Warschauer Pakt.",
+                "translated": "к Варшавскому договору."
+              },
+              {
+                "id": "a3",
+                "original": "zur OPEC.",
+                "translated": "к ОПЕК"
+              },
+              {
+                "id": "a4",
+                "original": "zur Europäischen Verteidigungsgemeinschaft.",
+                "translated": "к Европейскому оборонному сообществу."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº206",
+            "original": "Frage Nº206: Was bedeutete im Jahr 1989 in Deutschland das Wort Montagsdemonstration?",
+            "translated": "Что означало слово «демонстрация по понедельникам» в Германии в 1989 году?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.",
+                "translated": "В Федеративной Республике демонстрации разрешали только в понедельник"
+              },
+              {
+                "id": "a2",
+                "original": "Montags waren Demonstrationen gegen das DDR-Regime.",
+                "translated": "По понедельникам прошли демонстрации против режима ГДР."
+              },
+              {
+                "id": "a3",
+                "original": "Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.",
+                "translated": "Демонстранты собирались в Федеративной Республике Германия в первый понедельник каждого месяца."
+              },
+              {
+                "id": "a4",
+                "original": "Montags demonstrierte man in der DDR gegen den Westen.",
+                "translated": "По понедельникам в ГДР протестовали против Запада."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº207",
+            "original": "Frage Nº207: In welchem Militärbündnis war die DDR Mitglied?",
+            "translated": "Членом какого военного союза была ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "in der NATO",
+                "translated": "HATO"
+              },
+              {
+                "id": "a2",
+                "original": "im Rheinbund",
+                "translated": "Рейнской Конфедерации"
+              },
+              {
+                "id": "a3",
+                "original": "im Warschauer Pakt",
+                "translated": "Варшавского договора"
+              },
+              {
+                "id": "a4",
+                "original": "im Europabündnis",
+                "translated": "Европейского альянса"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº208",
+            "original": "Frage Nº208: Was war die -Stasi-?",
+            "translated": "Чем был «Штази»?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "der Geheimdienst im Dritten Reich",
+                "translated": "секретная служба «Третьего рейха»"
+              },
+              {
+                "id": "a2",
+                "original": "eine berühmte deutsche Gedenkstätte",
+                "translated": "знаменитый немецкий мемориал"
+              },
+              {
+                "id": "a3",
+                "original": "der Geheimdienst der DDR",
+                "translated": "секретная служба ГДР"
+              },
+              {
+                "id": "a4",
+                "original": "ein deutscher Sportverein während des Zweiten Weltkrieges",
+                "translated": "немецкий спортивный клуб во время Второй мировой войны."
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº209",
+            "original": "Frage Nº209: Welches war das Wappen der Deutschen Demokratischen Republik?",
+            "translated": "Какой был герб Германской Демократической Республики?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1",
+                "translated": "1"
+              },
+              {
+                "id": "a2",
+                "original": "2",
+                "translated": "2"
+              },
+              {
+                "id": "a3",
+                "original": "3",
+                "translated": "3"
+              },
+              {
+                "id": "a4",
+                "original": "4",
+                "translated": "4"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº210",
+            "original": "Frage Nº210: Was ereignete sich am 17. Juni 1953 in der DDR?",
+            "translated": "Что произошло 17 июня 1953 года в ГДР?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "der feierliche Beitritt zum Warschauer Pakt",
+                "translated": "торжественное вступление в Варшавский договор"
+              },
+              {
+                "id": "a2",
+                "original": "landesweite Streiks und ein Volksaufstand",
+                "translated": "общенациональные забастовки и народное восстание"
+              },
+              {
+                "id": "a3",
+                "original": "der 1. SED-Parteitag",
+                "translated": "1-я партийная конференция СЕПГ"
+              },
+              {
+                "id": "a4",
+                "original": "der erste Besuch Fidel Castros",
+                "translated": "Первый визит Фиделя Кастро"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº211",
+            "original": "Frage Nº211: Welcher Politiker steht für die -Ostverträge-?",
+            "translated": "Какой политик выступает за «Восточные договоры»",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Helmut Kohl",
+                "translated": "Гельмут Коль"
+              },
+              {
+                "id": "a2",
+                "original": "Willy Brandt",
+                "translated": "Вилли Брандт"
+              },
+              {
+                "id": "a3",
+                "original": "Michail Gorbatschow",
+                "translated": "Михаил Горбачев"
+              },
+              {
+                "id": "a4",
+                "original": "Ludwig Erhard",
+                "translated": "Людвиг Эрхард"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº212",
+            "original": "Frage Nº212: Wie heißt Deutschland mit vollem Namen?",
+            "translated": "Как звучит полное название Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Bundesstaat Deutschland",
+                "translated": "Федеративное государство Германия"
+              },
+              {
+                "id": "a2",
+                "original": "Bundesländer Deutschland",
+                "translated": "Федеральные земли Германии"
+              },
+              {
+                "id": "a3",
+                "original": "Bundesrepublik Deutschland",
+                "translated": "Федеративная Республика Германия"
+              },
+              {
+                "id": "a4",
+                "original": "Bundesbezirk Deutschland",
+                "translated": "Федеральный округ Германии"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº213",
+            "original": "Frage Nº213: Wie viele Einwohner hat Deutschland?",
+            "translated": "Сколько жителей в Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "70 Millionen",
+                "translated": "70 миллионов"
+              },
+              {
+                "id": "a2",
+                "original": "78 Millionen",
+                "translated": "78 миллионов"
+              },
+              {
+                "id": "a3",
+                "original": "83 Millionen",
+                "translated": "83 миллиона"
+              },
+              {
+                "id": "a4",
+                "original": "90 Millionen",
+                "translated": "90 миллионов"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº214",
+            "original": "Frage Nº214: Welche Farben hat die deutsche Flagge?",
+            "translated": "Какого цвета флаг Германии?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "schwarz-rot-gold",
+                "translated": "черно-красно-золотой"
+              },
+              {
+                "id": "a2",
+                "original": "rot-weiß-schwarz",
+                "translated": "красно-бело-черный"
+              },
+              {
+                "id": "a3",
+                "original": "schwarz-rot-grün",
+                "translated": "черно-красно-зеленый"
+              },
+              {
+                "id": "a4",
+                "original": "schwarz-gelb-rot",
+                "translated": "черно-желто-красный"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº215",
+            "original": "Frage Nº215: Wer wird als -Kanzler der Deutschen Einheit- bezeichnet?",
+            "translated": "Кого называют «канцлером немецкого единства»?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Gerhard Schröder",
+                "translated": "Герхард Шредер"
+              },
+              {
+                "id": "a2",
+                "original": "Helmut Kohl",
+                "translated": "Гельмут Коль"
+              },
+              {
+                "id": "a3",
+                "original": "Konrad Adenauer",
+                "translated": "Конрад Аденауэр"
+              },
+              {
+                "id": "a4",
+                "original": "Helmut Schmidt",
+                "translated": "Гельмут Шмидт"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº216",
+            "original": "Frage Nº216: Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
+            "translated": "Какой символ можно увидеть в зале пленарных заседаний немецкого Бундестага?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "die Fahne der Stadt Berlin.",
+                "translated": "флаг города Берлина."
+              },
+              {
+                "id": "a2",
+                "original": "der Bundesadler.",
+                "translated": "федеральный орел."
+              },
+              {
+                "id": "a3",
+                "original": "der Reichsadler.",
+                "translated": "императорский орел."
+              },
+              {
+                "id": "a4",
+                "original": "die Reichskrone.",
+                "translated": "императорская корона."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº217",
+            "original": "Frage Nº217: In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+            "translated": "Когда существовала Германская Демократическая Республика (ГДР)?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1919 bis 1927",
+                "translated": "1919-1927"
+              },
+              {
+                "id": "a2",
+                "original": "1933 bis 1945",
+                "translated": "1933-945"
+              },
+              {
+                "id": "a3",
+                "original": "1949 bis 1990",
+                "translated": "1949-1990"
+              },
+              {
+                "id": "a4",
+                "original": "1945 bis 1961",
+                "translated": "1945-1961"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº218",
+            "original": "Frage Nº218: Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+            "translated": "Сколько федеральных земель было присоединено к Федеративной Республике Германия после ее воссоединения в 1990 году?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "4",
+                "translated": "4"
+              },
+              {
+                "id": "a2",
+                "original": "5",
+                "translated": "5"
+              },
+              {
+                "id": "a3",
+                "original": "6",
+                "translated": "6"
+              },
+              {
+                "id": "a4",
+                "original": "7",
+                "translated": "7"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº219",
+            "original": "Frage Nº219: Die Bundesrepublik Deutschland hat die Grenzen von heute seit ...",
+            "translated": "Федеративная Республика Германия имеет сегодняшние границы с.",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1933.",
+                "translated": "1933."
+              },
+              {
+                "id": "a2",
+                "original": "1949.",
+                "translated": "1949."
+              },
+              {
+                "id": "a3",
+                "original": "1971.",
+                "translated": "1971."
+              },
+              {
+                "id": "a4",
+                "original": "1990.",
+                "translated": "1990."
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº220",
+            "original": "Frage Nº220: Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+            "translated": "27 января - официальный день памяти в Германии. О чём напоминает этот день?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "an das Ende des Zweiten Weltkrieges",
+                "translated": "о конце Второй мировой войны"
+              },
+              {
+                "id": "a2",
+                "original": "an die Verabschiedung des Grundgesetzes",
+                "translated": "о принятии Основного закона"
+              },
+              {
+                "id": "a3",
+                "original": "an die Wiedervereinigung Deutschlands",
+                "translated": "о воссоединении Германии"
+              },
+              {
+                "id": "a4",
+                "original": "an die Opfer des Nationalsozialismus",
+                "translated": "о жертвах национал-социализма"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº221",
+            "original": "Frage Nº221: Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+            "translated": "Германия является членом Шенгенского соглашения. Что это значит?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+                "translated": "Немцы могут путешествовать во многие европейские страны без паспортного контроля."
+              },
+              {
+                "id": "a2",
+                "original": "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+                "translated": "Все люди могут въезжать в Германию без проверки документов"
+              },
+              {
+                "id": "a3",
+                "original": "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+                "translated": "Немцы могут путешествовать в любую страну без паспортного контроля."
+              },
+              {
+                "id": "a4",
+                "original": "Deutsche können in jedem Land mit dem Euro bezahlen.",
+                "translated": "Немцы могут расплачиваться евро в любой стране."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº222",
+            "original": "Frage Nº222: Welches Land ist ein Nachbarland von Deutschland?",
+            "translated": "Какая страна граничит с Германией?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Ungarn",
+                "translated": "Венгрия"
+              },
+              {
+                "id": "a2",
+                "original": "Portugal",
+                "translated": "Португалия"
+              },
+              {
+                "id": "a3",
+                "original": "Spanien",
+                "translated": "Испания"
+              },
+              {
+                "id": "a4",
+                "original": "Schweiz",
+                "translated": "Швейцария"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº223",
+            "original": "Frage Nº223: Welches Land ist ein Nachbarland von Deutschland?",
+            "translated": "Какая страна граничит с Германией?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Rumänien",
+                "translated": "Румыния"
+              },
+              {
+                "id": "a2",
+                "original": "Bulgarien",
+                "translated": "Болгария"
+              },
+              {
+                "id": "a3",
+                "original": "Polen",
+                "translated": "Польша"
+              },
+              {
+                "id": "a4",
+                "original": "Griechenland",
+                "translated": "Греция"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº224",
+            "original": "Frage Nº224: Was bedeutet die Abkürzung EU?",
+            "translated": "Что означает аббревиатура ЕС?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Europäische Unternehmen",
+                "translated": "Европейские компании"
+              },
+              {
+                "id": "a2",
+                "original": "Europäische Union",
+                "translated": "Европейский Союз"
+              },
+              {
+                "id": "a3",
+                "original": "Einheitliche Union",
+                "translated": "Единый Союз"
+              },
+              {
+                "id": "a4",
+                "original": "Euro Union",
+                "translated": "Союз Евро"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº225",
+            "original": "Frage Nº225: In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
+            "translated": "В какой еще стране проживает большое количество немецкоязычного населения?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Tschechien",
+                "translated": "Чешская Республика"
+              },
+              {
+                "id": "a2",
+                "original": "Norwegen",
+                "translated": "Норвегия"
+              },
+              {
+                "id": "a3",
+                "original": "Spanien",
+                "translated": "Испания"
+              },
+              {
+                "id": "a4",
+                "original": "Österreich",
+                "translated": "Австрия"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº226",
+            "original": "Frage Nº226: Welche ist die Flagge der Europäischen Union?",
+            "translated": "Какой флаг является флагом Евросоюза?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "2",
+                "translated": "2"
+              },
+              {
+                "id": "a2",
+                "original": "1",
+                "translated": "1"
+              },
+              {
+                "id": "a3",
+                "original": "4",
+                "translated": "4"
+              },
+              {
+                "id": "a4",
+                "original": "3",
+                "translated": "3"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº227",
+            "original": "Frage Nº227: Welches Land ist ein Nachbarland von Deutschland?",
+            "translated": "Какая страна граничит с Германией?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Finnland",
+                "translated": "Финляндия"
+              },
+              {
+                "id": "a2",
+                "original": "Dänemark",
+                "translated": "Дания"
+              },
+              {
+                "id": "a3",
+                "original": "Norwegen",
+                "translated": "Норвегия"
+              },
+              {
+                "id": "a4",
+                "original": "Schweden",
+                "translated": "Швеция"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº228",
+            "original": "Frage Nº228: Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+            "translated": "Каково общее название присоединения ГДР к Федеративной Республике Германия в 1990 году?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "NATO-Osterweiterung",
+                "translated": "Расширение НАТО на восток"
+              },
+              {
+                "id": "a2",
+                "original": "EU-Osterweiterung",
+                "translated": "Расширение ЕС на восток"
+              },
+              {
+                "id": "a3",
+                "original": "Europäische Gemeinschaft",
+                "translated": "Европейское сообщество"
+              },
+              {
+                "id": "a4",
+                "original": "Deutsche Wiedervereinigung",
+                "translated": "Воссоединение Германии"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº229",
+            "original": "Frage Nº229: Welches Land ist ein Nachbarland von Deutschland?",
+            "translated": "Какая страна граничит с Германией?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Spanien",
+                "translated": "Испания"
+              },
+              {
+                "id": "a2",
+                "original": "Bulgarien",
+                "translated": "Болгария"
+              },
+              {
+                "id": "a3",
+                "original": "Norwegen",
+                "translated": "Норвегия"
+              },
+              {
+                "id": "a4",
+                "original": "Luxemburg",
+                "translated": "Люксембург"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº230",
+            "original": "Frage Nº230: Das Europäische Parlament wird regelmäßig gewählt, nämlich alle ...",
+            "translated": "Европейский парламент избирается регулярно, а именно каждые...",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "5 Jahre.",
+                "translated": "5 лет."
+              },
+              {
+                "id": "a2",
+                "original": "6 Jahre.",
+                "translated": "6 лет."
+              },
+              {
+                "id": "a3",
+                "original": "7 Jahre.",
+                "translated": "7 лет."
+              },
+              {
+                "id": "a4",
+                "original": "8 Jahre.",
+                "translated": "8 лет."
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº231",
+            "original": "Frage Nº231: Was bedeutet der Begriff -europäische Integration-?",
+            "translated": "Что означает термин «европейская интеграция»?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Damit sind amerikanische Einwanderer in Europa gemeint.",
+                "translated": "Речь идет об американских иммигрантах в Европе."
+              },
+              {
+                "id": "a2",
+                "original": "Der Begriff meint den Einwanderungsstopp nach Europa.",
+                "translated": "Этот термин означает прекращение иммиграции в Европу."
+              },
+              {
+                "id": "a3",
+                "original": "Damit sind europäische Auswanderer in den USA gemeint.",
+                "translated": "Речь идет о европейских эмигрантах в США"
+              },
+              {
+                "id": "a4",
+                "original": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
+                "translated": "Этот термин означает слияние европейских государств с образованием EC."
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº232",
+            "original": "Frage Nº232: Wer wird bei der Europawahl gewählt?",
+            "translated": "Кто избирается на европейских выборах?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "die Europäische Kommission",
+                "translated": "Европейская Комиссия"
+              },
+              {
+                "id": "a2",
+                "original": "die Länder, die in die EU eintreten dürfen",
+                "translated": "страны, которым разрешено вступить в ЕС"
+              },
+              {
+                "id": "a3",
+                "original": "die europäische Verfassung",
+                "translated": "Европейская конституция"
+              },
+              {
+                "id": "a4",
+                "original": "die Abgeordneten des Europäischen Parlaments",
+                "translated": "члены Европейского Парламента"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº233",
+            "original": "Frage Nº233: Welches Land ist ein Nachbarland von Deutschland?",
+            "translated": "Какая страна граничит с Германией?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Tschechien",
+                "translated": "Чешская Республика"
+              },
+              {
+                "id": "a2",
+                "original": "Bulgarien",
+                "translated": "Болгария"
+              },
+              {
+                "id": "a3",
+                "original": "Griechenland",
+                "translated": "Греция"
+              },
+              {
+                "id": "a4",
+                "original": "Portugal",
+                "translated": "Португалия"
+              }
+            ],
+            "correctAnswerId": "a1"
+          },
+          {
+            "id": "Frage Nº234",
+            "original": "Frage Nº234: Wo ist der Sitz des Europäischen Parlaments?",
+            "translated": "Где находится резиденция Европейского парламента?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "London",
+                "translated": "Лондон"
+              },
+              {
+                "id": "a2",
+                "original": "Paris",
+                "translated": "Париж"
+              },
+              {
+                "id": "a3",
+                "original": "Berlin",
+                "translated": "Берлин"
+              },
+              {
+                "id": "a4",
+                "original": "Straßburg",
+                "translated": "Страсбург"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº235",
+            "original": "Frage Nº235: Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?",
+            "translated": "Президент Франции Франсуа Миттеран и канцлер Германии Гельмут Коль совместно чтят память погибших в обеих мировых войнах в Вердене. Какая цель Европейского Союза подтверждается на этой встрече?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Freundschaft zwischen England und Deutschland",
+                "translated": "Дружба между Англией и Германией"
+              },
+              {
+                "id": "a2",
+                "original": "Reisefreiheit in alle Länder der EU",
+                "translated": "Свобода передвижения во все страны ЕС"
+              },
+              {
+                "id": "a3",
+                "original": "Frieden und Sicherheit in den Ländern der EU",
+                "translated": "Мир и безопасность в странах ЕС"
+              },
+              {
+                "id": "a4",
+                "original": "einheitliche Feiertage in den Ländern der EU",
+                "translated": "Единые государственные праздники в странах ЕС"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
+          {
+            "id": "Frage Nº236",
+            "original": "Frage Nº236: Wie viele Mitgliedstaaten hat die EU heute?",
+            "translated": "Сколько государств на сегодяшний день являются членами ЕС?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "21",
+                "translated": "21"
+              },
+              {
+                "id": "a2",
+                "original": "23",
+                "translated": "23"
+              },
+              {
+                "id": "a3",
+                "original": "25",
+                "translated": "25"
+              },
+              {
+                "id": "a4",
+                "original": "27",
+                "translated": "27"
+              }
+            ],
+            "correctAnswerId": "a4"
+          },
+          {
+            "id": "Frage Nº237",
+            "original": "Frage Nº237: 2007 wurde das 50-jährige Jubiläum der -Römischen Verträge- gefeiert. Was war der Inhalt der Verträge?",
+            "translated": "В 2007 году отмечалось 50-летие Римского договора. Каково было содержание договоров?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Beitritt Deutschlands zur NATO",
+                "translated": "Германия вступает в НАТО"
+              },
+              {
+                "id": "a2",
+                "original": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+                "translated": "Создание Европейского экономического сообщества (ЕЭС)."
+              },
+              {
+                "id": "a3",
+                "original": "Verpflichtung Deutschlands zu Reparationsleistungen",
+                "translated": "Обязательство Германии выплатить репарации"
+              },
+              {
+                "id": "a4",
+                "original": "Festlegung der Oder-Neiße-Linie als Ostgrenze",
+                "translated": "Установление линии Одер-Нейсе в качестве восточной границы."
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº238",
+            "original": "Frage Nº238: An welchen Orten arbeitet das Europäische Parlament?",
+            "translated": "Где работает Европейский парламент?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "Paris, London und Den Haag",
+                "translated": "Париж, Лондон и Гаага"
+              },
+              {
+                "id": "a2",
+                "original": "Straßburg, Luxemburg und Brüssel",
+                "translated": "Страсбург, Люксембург и Брюссель"
+              },
+              {
+                "id": "a3",
+                "original": "Rom, Bern und Wien",
+                "translated": "Рим, Берн и Вена"
+              },
+              {
+                "id": "a4",
+                "original": "Bonn, Zürich und Mailand",
+                "translated": "Бонн, Цюрих и Милан"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº239",
+            "original": "Frage Nº239: Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
+            "translated": "Посредством каких договоров Федеративная Республика Германия объединила свои силы с другими государствами, чтобы сформировать Европейское экономическое сообщество?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "durch die „Hamburger Verträge\"",
+                "translated": "«Гамбургские договоры»"
+              },
+              {
+                "id": "a2",
+                "original": "durch die „Römischen Verträge\"",
+                "translated": "«Римские договоры»"
+              },
+              {
+                "id": "a3",
+                "original": "durch die „Pariser Verträge\"",
+                "translated": "«Парижские договоры»"
+              },
+              {
+                "id": "a4",
+                "original": "durch die „Londoner Verträge\"",
+                "translated": "«Лондонские договоры»"
+              }
+            ],
+            "correctAnswerId": "a2"
+          },
+          {
+            "id": "Frage Nº240",
+            "original": "Frage Nº240: Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+            "translated": "С какого времени в Германии люди платят наличными в евро?",
+            "answers": [
+              {
+                "id": "a1",
+                "original": "1995",
+                "translated": "1995"
+              },
+              {
+                "id": "a2",
+                "original": "1998",
+                "translated": "1998"
+              },
+              {
+                "id": "a3",
+                "original": "2002",
+                "translated": "2002"
+              },
+              {
+                "id": "a4",
+                "original": "2005",
+                "translated": "2005"
+              }
+            ],
+            "correctAnswerId": "a3"
+          },
     {
       "id": "Frage Nº241",
       "original": "Frage Nº241: Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
@@ -5029,33 +7793,8 @@
       ],
       "correctAnswerId": "a3"
     },
-    {
-      "id": "",
-      "original": "",
-      "translated": "",
-      "answers": [
-          {
-              "id": "a1",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a2",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a3",
-              "original": "",
-              "translated": ""
-          },
-          {
-              "id": "a4",
-              "original": "",
-              "translated": ""
-          }
-      ],
-      "correctAnswerId": ""
-    }
+    
+    
+    
   ]
 }
