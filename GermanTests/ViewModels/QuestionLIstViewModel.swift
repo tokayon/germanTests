@@ -14,7 +14,11 @@ class QuestionViewModel {
     var currentIndex = 0
     var selectedAnswer: ExamAnswer?
     var showTranslation = false
-
+    
+    var selectedLanguage: Language {
+        showTranslation ? Language.init(from: UserDefaults.standard.string(forKey: "selectedLanguage")) : Language.de
+    }
+    
     var currentQuestion: ExamQuestion? {
         guard currentIndex < questions.count else { return nil }
         return questions[currentIndex]

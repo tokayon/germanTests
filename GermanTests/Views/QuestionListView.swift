@@ -67,15 +67,23 @@ struct QuestionListView: View {
             }
             .navigationTitle(mainTitle)
             .toolbar {
+                if case .practice = mode {
+                    ToolbarItem(placement: .navigationBarLeading) {
+                        NavigationLink(destination: SettingsView()) {
+                            Image(systemName: "gear")
+                                .imageScale(.large)
+                                .padding(8)
+                        }
+                    }
+                }
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button(action: {
                         viewModel.showTranslation.toggle()
                     }) {
-                        Image(systemName: "globe")
-                            .padding(12) // Expand the tappable area
-                            .contentShape(Rectangle()) // Ensure tap is detected on padding too
+                        Text(viewModel.selectedLanguage.flag)
+                            .font(.title3)
+                            .padding(8)
                     }
-                    .accessibilityLabel("Translate")
                 }
             }
             .onAppear {
@@ -100,24 +108,32 @@ struct QuestionListView: View {
         switch mode {
         case .practice:
             VStack(alignment: .leading, spacing: 0) {
-                if let image = question.image {
-                    HStack {
-                        Spacer()
-                        Image(image)
-                            .resizable()
-                            .scaledToFit()
-                            .cornerRadius(15)
-                            .padding()
-                        Spacer()
+                ScrollView{
+                    
+                    if let image = question.image {
+                        HStack {
+                            Spacer()
+                            Image(image)
+                                .resizable()
+                                .scaledToFit()
+                                .cornerRadius(15)
+                                .padding()
+                            Spacer()
+                        }
                     }
+                    
+                    Text(question.id)
+                        .font(.title)
+                        .padding(.horizontal)
+                        .padding(.bottom)
+                    Text(question.translations[viewModel.selectedLanguage.rawValue] ?? "")
+                        .font(.system(size: 20, weight: .medium))
+                        .padding(.horizontal)
+                        .padding(.bottom)
+                    
+                    answersView(for: question)
+                    
                 }
-                Text(viewModel.showTranslation ? question.translated : question.original)
-                    .font(.system(size: 20, weight: .medium))
-                    .padding(.horizontal)
-                    .padding(.bottom)
-
-                answersView(for: question)
-
                 Spacer()
                 correctImageView
                 buttonsView
@@ -131,25 +147,27 @@ struct QuestionListView: View {
                     Spacer()
                 }
                 
-                if let image = question.image {
-                    HStack {
-                        Spacer()
-                        Image(image)
-                            .resizable()
-                            .scaledToFit()
-                            .cornerRadius(15)
-                            .padding()
-                        Spacer()
+                ScrollView {
+                    if let image = question.image {
+                        HStack {
+                            Spacer()
+                            Image(image)
+                                .resizable()
+                                .scaledToFit()
+                                .cornerRadius(15)
+                                .padding()
+                            Spacer()
+                        }
                     }
+                    
+                    Text(question.translations[viewModel.selectedLanguage.rawValue] ?? "")
+                        .font(.system(size: 20, weight: .medium))
+                        .padding(.horizontal)
+                        .padding(.bottom)
+                    
+                    answersView(for: question)
+                    
                 }
-                
-                Text(viewModel.showTranslation ? question.translated : question.original)
-                    .font(.system(size: 20, weight: .medium))
-                    .padding(.horizontal)
-                    .padding(.bottom)
-
-                answersView(for: question)
-
                 Spacer()
                                 
                 HStack {
@@ -169,7 +187,7 @@ struct QuestionListView: View {
     }
     
     private func answersView(for question: ExamQuestion) -> some View {
-        ScrollView {
+        //ScrollView {
             ForEach(question.answers) { answer in
                 ZStack {
                     RoundedRectangle(cornerRadius: 8)
@@ -184,7 +202,7 @@ struct QuestionListView: View {
                             .fill(dotColor(for: answer, in: question))
                             .frame(width: 10, height: 10)
                         
-                        Text(viewModel.showTranslation ? answer.translated : answer.original)
+                        Text(answer.translations[viewModel.selectedLanguage.rawValue] ?? "")
                             .font(.system(size: 20, weight: .medium))
                             .foregroundColor(.primary)
                         
@@ -208,7 +226,7 @@ struct QuestionListView: View {
                 .padding(.horizontal)
             }
             .padding(.vertical, 5)
-        }
+        //}
     }
     
     private var questionPickerView: some View {
@@ -273,7 +291,8 @@ struct QuestionListView: View {
 
             Spacer()
         }
-        .padding()
+        .padding(.horizontal)
+        .padding(.bottom)
     }
     
     private var examButtonView: some View {
@@ -307,7 +326,7 @@ struct QuestionListView: View {
                 Spacer()
             }
         }
-        .font(.system(size: 40))
+        .font(.system(size: 20))
         .foregroundColor(iconColor)
         .opacity(viewModel.selectedAnswer != nil ? 1 : 0)
         .animation(.easeInOut(duration: 0.1), value: viewModel.selectedAnswer != nil)
