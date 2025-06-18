@@ -42,7 +42,7 @@ class QuestionViewModel {
         switch mode {
         case .practice:
             self.questions = questions
-        case .exam:
+        case .test:
             self.questions = selectShuffledQuestions(from: questions)
         }
     }

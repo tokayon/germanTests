@@ -26,6 +26,7 @@
 		95E1AE892DF5AD2A00B9F50D /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE882DF5AD2A00B9F50D /* MainTabView.swift */; };
 		95E1AE8B2DF5AD3A00B9F50D /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */; };
 		95E1AE8D2DF5AD7500B9F50D /* ExamStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8C2DF5AD7500B9F50D /* ExamStartView.swift */; };
+		95F8820F2E03536300E90CBE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F8820E2E03536300E90CBE /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		95E1AE882DF5AD2A00B9F50D /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
 		95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
 		95E1AE8C2DF5AD7500B9F50D /* ExamStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamStartView.swift; sourceTree = "<group>"; };
+		95F8820E2E03536300E90CBE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				95E1AE572DF20A6300B9F50D /* Models */,
 				95E1AE5E2DF2C60600B9F50D /* ViewModels */,
 				95E1AE5D2DF2C5FF00B9F50D /* Views */,
+				95F8820D2E03535600E90CBE /* Utilities */,
 				95E1AE5A2DF2AC4400B9F50D /* Resources  */,
 				95E1AE4E2DF20A6000B9F50D /* Preview Content */,
 				95E1AE4F2DF20A6000B9F50D /* Assets.xcassets */,
@@ -150,6 +153,14 @@
 				95E1AE512DF20A6000B9F50D /* GermanTestsApp.swift */,
 			);
 			path = App;
+			sourceTree = "<group>";
+		};
+		95F8820D2E03535600E90CBE /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				95F8820E2E03536300E90CBE /* Constants.swift */,
+			);
+			path = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -237,6 +248,7 @@
 				95E1AE8D2DF5AD7500B9F50D /* ExamStartView.swift in Sources */,
 				95E1AE592DF20A6D00B9F50D /* ExamQuestion.swift in Sources */,
 				95E1AE612DF2C84400B9F50D /* QuestionLIstViewModel.swift in Sources */,
+				95F8820F2E03536300E90CBE /* Constants.swift in Sources */,
 				95E1AE8B2DF5AD3A00B9F50D /* PracticeView.swift in Sources */,
 				95E1AE562DF20A6000B9F50D /* GermanTestsApp.swift in Sources */,
 				95092C9F2DFF573900520985 /* LanguageDropdownMenu.swift in Sources */,

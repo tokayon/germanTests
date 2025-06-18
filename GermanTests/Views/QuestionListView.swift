@@ -12,7 +12,7 @@ import UIKit
 
 enum ExamMode: Equatable {
     case practice
-    case exam(Int)
+    case test(Int)
 }
 
 struct QuestionListView: View {
@@ -20,26 +20,32 @@ struct QuestionListView: View {
     private struct Constants {
         static let autoAdvancedDelay: TimeInterval = 1
         static let correctAnswersToPass: Int = 17
-        static let remainingSeconds = 30*60
         static let warningRemainingSeconds: Int = 60
     }
     
+    @Environment(\.dismiss) private var dismiss
+    @AppStorage("testDuration") private var testDuration: Int = 1800
+
     @State var viewModel: QuestionViewModel
     @State private var audioPlayer: AVAudioPlayer?
     @State private var isPickerPresented = false
     @State private var correctAnswers = 0
-    @State private var remainingSeconds = Constants.remainingSeconds
     @State private var timerColor: Color = .blue
     @State private var timer: Timer?
-    
+    @State private var showSettings = false
+    @State private var remainingSeconds: Int = 1800
+    @State private var showExitAlert = false
+
     private let sessionID: UUID
     let mode: ExamMode
     var onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool, _ time: Int) -> Void)? = nil
+    let onCancel: (() -> Void)?
 
-    init(mode: ExamMode = .practice, sessionID: UUID = UUID(), onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool, _ time: Int) -> Void)? = nil) {
+    init(mode: ExamMode = .practice, sessionID: UUID = UUID(), onCancel: (() -> Void)? = nil, onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool, _ time: Int) -> Void)? = nil) {
         _viewModel = State(wrappedValue: QuestionViewModel(mode: mode))
         self.mode = mode
         self.sessionID = sessionID
+        self.onCancel = onCancel
         self.onExamFinished = onExamFinished
     }
     
@@ -69,10 +75,21 @@ struct QuestionListView: View {
             .toolbar {
                 if case .practice = mode {
                     ToolbarItem(placement: .navigationBarLeading) {
-                        NavigationLink(destination: SettingsView()) {
+                        Button {
+                            showSettings = true
+                        } label: {
                             Image(systemName: "gear")
                                 .imageScale(.large)
                                 .padding(8)
+                        }
+                    }
+                } else {
+                    ToolbarItem(placement: .navigationBarLeading) {
+                        Button {
+                            showExitAlert = true
+                        } label: {
+                            Label("Exit", systemImage: "xmark")
+                                .labelStyle(.iconOnly)
                         }
                     }
                 }
@@ -87,9 +104,25 @@ struct QuestionListView: View {
                 }
             }
             .onAppear {
-                if case .exam = mode {
+                remainingSeconds = testDuration
+                if case .test = mode {
                     startTimer()
                 }
+            }
+            .onChange(of: testDuration) {
+                remainingSeconds = testDuration
+            }
+            .sheet(isPresented: $showSettings) {
+                SettingsView()
+            }
+            .alert("Are you sure you want to stop the test?", isPresented: $showExitAlert) {
+                Button("Cancel", role: .cancel) { }
+                Button("Stop Test", role: .destructive) {
+                    onCancel?()
+                    dismiss()
+                }
+            } message: {
+                Text("Your progress will not be saved.")
             }
         }
         .id(sessionID)
@@ -99,7 +132,7 @@ struct QuestionListView: View {
         switch mode {
         case .practice:
             "Practice"
-        case .exam(let int):
+        case .test(let int):
             "Test \(int)"
         }
     }
@@ -139,7 +172,7 @@ struct QuestionListView: View {
                 buttonsView
             }
             .padding(.horizontal)
-        case .exam:
+        case .test:
             VStack(alignment: .leading, spacing: 0) {
                 HStack {
                     Spacer()
@@ -421,7 +454,7 @@ struct QuestionListView: View {
     private func finishExam() {
         timer?.invalidate()
         let passed = correctAnswers >= Constants.correctAnswersToPass
-        onExamFinished?(correctAnswers, viewModel.questions.count, passed, Constants.remainingSeconds - remainingSeconds)
+        onExamFinished?(correctAnswers, viewModel.questions.count, passed, UserDefaults.standard.integer(forKey: "testDuration") * 60 - remainingSeconds)
     }
 }
 

@@ -57,8 +57,14 @@ struct ExamStartView: View {
                 Spacer()
             }
             .navigationTitle("Test")
-            .navigationDestination(isPresented: $isExamStarted) {
-                QuestionListView(mode: .exam(Constants.questionsCount), sessionID: sessionID) { correct, total, passed, time in
+            .fullScreenCover(isPresented: $isExamStarted, onDismiss: {
+                // Optional logic after dismiss
+            }) {
+                let onCancel: () -> Void = {
+                    self.isExamStarted = false
+                }
+                
+                return QuestionListView(mode: .test(Constants.questionsCount), sessionID: sessionID, onCancel: onCancel) { correct, total, passed, time in
                     self.resultData = ExamResultData(correct: correct, total: total, passed: passed, time: time)
                     self.isExamStarted = false
                     self.sessionID = UUID()

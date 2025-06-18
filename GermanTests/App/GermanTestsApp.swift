@@ -10,9 +10,11 @@ import SwiftUI
 @main
 struct GermanTestsApp: App {
     init() {
-        // Set default language if not already set
         if UserDefaults.standard.string(forKey: "selectedLanguage") == nil {
-            UserDefaults.standard.set(Language.en.rawValue, forKey: "selectedLanguage")
+            UserDefaults.standard.set(Constants.Settings.defaultTranslationLanguage, forKey: "selectedLanguage")
+        }
+        if UserDefaults.standard.integer(forKey: "testDuration") == 0 {
+            UserDefaults.standard.set(Constants.Settings.defaultTestDuration, forKey: "testDuration")
         }
     }
 
