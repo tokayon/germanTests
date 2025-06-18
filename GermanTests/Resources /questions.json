@@ -4809,35 +4809,45 @@
           "id": "a1",
           "translations": {
             "de": "Jugendlichen.",
-            "ru": "молодежи"
+            "ru": "молодежи",
+            "en": "young people.",
+            "ua": "молоді."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Arbeitnehmer und Arbeitnehmerinnen.",
-            "ru": "сотрудников."
+            "ru": "сотрудников.",
+            "en": "employees.",
+            "ua": "працівників."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Rentner und Rentnerinnen.",
-            "ru": "пенсионеров."
+            "ru": "пенсионеров.",
+            "en": "retirees.",
+            "ua": "пенсіонерів."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Arbeitgeber und Arbeitgeberinnen.",
-            "ru": "работодателей."
+            "ru": "работодателей.",
+            "en": "employers.",
+            "ua": "роботодавців."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Gewerkschaften sind Interessenverbände der ...",
-        "ru": "Профсоюзы - это объединения..."
+        "ru": "Профсоюзы - это объединения...",
+        "en": "Trade unions are interest groups of ...",
+        "ua": "Профспілки — це об'єднання інтересів ..."
       }
     },
     {
@@ -4847,35 +4857,45 @@
           "id": "a1",
           "translations": {
             "de": "Bundesadler",
-            "ru": "Федеральный орел"
+            "ru": "Федеральный орел",
+            "en": "Federal Eagle",
+            "ua": "Федеральний орел"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Bundesverdienstkreuz",
-            "ru": "Федеральный крест за заслуги"
+            "ru": "Федеральный крест за заслуги",
+            "en": "Federal Cross of Merit",
+            "ua": "Федеральний Хрест Заслуги"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Vaterländischen Verdienstorden",
-            "ru": "Орден -Патриотические заслуги-."
+            "ru": "Орден -Патриотические заслуги-.",
+            "en": "Patriotic Order of Merit",
+            "ua": "Орден Патріотичних заслуг"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Ehrentitel -Held der Deutschen Demokratischen Republik",
-            "ru": "Почетное звание -Герой Германской Демократической Республики-."
+            "ru": "Почетное звание -Герой Германской Демократической Республики-.",
+            "en": "Honorary Title – Hero of the German Democratic Republic",
+            "ua": "Почесне звання – Герой Німецької Демократичної Республіки"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem ...",
-        "ru": "Чем можно наградить в Федеративной Республике Германия человека, добившегося особых достижений в политической, экономической, культурной, интеллектуальной или социальной сфере? ..."
+        "ru": "Чем можно наградить в Федеративной Республике Германия человека, добившегося особых достижений в политической, экономической, культурной, интеллектуальной или социальной сфере? ...",
+        "en": "With what can someone be honored in the Federal Republic of Germany for outstanding achievements in politics, economics, culture, intellectual or social areas? With the ...",
+        "ua": "Чим можна нагородити в Федеративній Республіці Німеччина за особливі досягнення в політичній, економічній, культурній, інтелектуальній або соціальній сфері? ..."
       }
     },
     {
@@ -4885,35 +4905,45 @@
           "id": "a1",
           "translations": {
             "de": "der Bundestagsfraktionen von CDU und CSU",
-            "ru": "фракции ХДС и ХСС в Бундестаге"
+            "ru": "фракции ХДС и ХСС в Бундестаге",
+            "en": "the parliamentary groups of CDU and CSU in the Bundestag",
+            "ua": "фракції ХДС і ХСС у Бундестазі"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
-            "ru": "СДПГ, СвДП и Альянс 90/Зеленые в одном правительстве"
+            "ru": "СДПГ, СвДП и Альянс 90/Зеленые в одном правительстве",
+            "en": "of SPD, FDP, and Alliance 90/The Greens in one government",
+            "ua": "СДПН, ВДП та Альянс 90/Зелені в одному уряді"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
-            "ru": "XCC, Die LINKE и Альянса 90/Зеленых в одном правительстве"
+            "ru": "XCC, Die LINKE и Альянса 90/Зеленых в одном правительстве",
+            "en": "of CSU, The Left, and Alliance 90/The Greens in one government",
+            "ua": "ХСС, Ліві та Альянс 90/Зелені в одному уряді"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "der Bundestagsfraktionen von CDU und SPD",
-            "ru": "фракции ХДС и СДПГ в Бундестаге"
+            "ru": "фракции ХДС и СДПГ в Бундестаге",
+            "en": "the parliamentary groups of CDU and SPD in the Bundestag",
+            "ua": "фракції ХДС і СДПН у Бундестазі"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was wird in Deutschland als -Ampelkoalition- bezeichnet? Die Zusammenarbeit ...",
-        "ru": "Что в Германии называют -светофорной коалицией-? Сотрудничество..."
+        "ru": "Что в Германии называют -светофорной коалицией-? Сотрудничество...",
+        "en": "What is referred to in Germany as the 'traffic light coalition'? The collaboration ...",
+        "ua": "Що в Німеччині називають «світлофорною коаліцією»? Співпраця ..."
       }
     },
     {
@@ -4923,35 +4953,45 @@
           "id": "a1",
           "translations": {
             "de": "Die Frau ist lange krank und arbeitsunfähig.",
-            "ru": "Женщина давно болеет и не может работать."
+            "ru": "Женщина давно болеет и не может работать.",
+            "en": "The woman has been sick for a long time and is unable to work.",
+            "ua": "Жінка довго хворіє і непрацездатна."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Die Frau kam oft zu spät zur Arbeit.",
-            "ru": "Женщина часто опаздывала на работу."
+            "ru": "Женщина часто опаздывала на работу.",
+            "en": "The woman often arrived late for work.",
+            "ua": "Жінка часто запізнювалася на роботу."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Die Frau erledigt private Sachen während der Arbeitszeit.",
-            "ru": "Женщина занимается личными делами в рабочее время."
+            "ru": "Женщина занимается личными делами в рабочее время.",
+            "en": "The woman handles personal matters during working hours.",
+            "ua": "Жінка займається особистими справами під час роботи."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
-            "ru": "Женщина рожает ребенка, и её начальник знает об этом"
+            "ru": "Женщина рожает ребенка, и её начальник знает об этом",
+            "en": "The woman is having a baby, and her boss knows about it.",
+            "ua": "Жінка народжує дитину, і її начальник про це знає."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
-        "ru": "Женщина в Германии теряет работу. Что не должно быть причиной такого увольнения?"
+        "ru": "Женщина в Германии теряет работу. Что не должно быть причиной такого увольнения?",
+        "en": "A woman in Germany loses her job. What must not be the reason for this dismissal?",
+        "ua": "Жінка в Німеччині втрачає роботу. Що не може бути причиною такого звільнення?"
       }
     },
     {
@@ -4961,35 +5001,45 @@
           "id": "a1",
           "translations": {
             "de": "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
-            "ru": "Они помогают пожилым людям проголосовать в кабинках для голосования."
+            "ru": "Они помогают пожилым людям проголосовать в кабинках для голосования.",
+            "en": "They help elderly people cast their votes in the voting booth.",
+            "ua": "Вони допомагають літнім людям голосувати в кабінці для голосування."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
-            "ru": "Они пишут уведомления о выборах еще до выборов."
+            "ru": "Они пишут уведомления о выборах еще до выборов.",
+            "en": "They write the election notifications before the election.",
+            "ua": "Вони складають повідомлення про вибори до дня голосування."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Sie geben Zwischenergebnisse an die Medien weiter.",
-            "ru": "Они передают промежуточные результаты СМИ."
+            "ru": "Они передают промежуточные результаты СМИ.",
+            "en": "They pass interim results to the media.",
+            "ua": "Вони передають проміжні результати ЗМІ."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Sie zählen die Stimmen nach dem Ende der Wahl.",
-            "ru": "Они подсчитывают голоса после окончания выборов."
+            "ru": "Они подсчитывают голоса после окончания выборов.",
+            "en": "They count the votes after the election ends.",
+            "ua": "Вони підраховують голоси після завершення виборів."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen in Deutschland?",
-        "ru": "Какова задача у членов избирательных комиссий / избирательных помощников в Германии?"
+        "ru": "Какова задача у членов избирательных комиссий / избирательных помощников в Германии?",
+        "en": "What is a task of election assistants in Germany?",
+        "ua": "Яке завдання мають виборчі помічники у Німеччині?"
       }
     },
     {
@@ -4999,35 +5049,45 @@
           "id": "a1",
           "translations": {
             "de": "Sie helfen Kindern und alten Menschen beim Wählen.",
-            "ru": "Они помогают детям и старикам голосовать."
+            "ru": "Они помогают детям и старикам голосовать.",
+            "en": "They help children and elderly people vote.",
+            "ua": "Вони допомагають дітям і літнім людям голосувати."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
-            "ru": "Они пишут карточки и письма с указанием избирательного участка."
+            "ru": "Они пишут карточки и письма с указанием избирательного участка.",
+            "en": "They write cards and letters with the polling station address.",
+            "ua": "Вони пишуть листівки та листи з адресою виборчої дільниці."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Sie geben Zwischenergebnisse an Journalisten weiter.",
-            "ru": "Они передают журналистам промежуточные итоги."
+            "ru": "Они передают журналистам промежуточные итоги.",
+            "en": "They provide interim results to journalists.",
+            "ua": "Вони передають проміжні результати журналістам."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Sie zählen die Stimmen nach dem Ende der Wahl.",
-            "ru": "Они подсчитывают голоса после окончания выборов."
+            "ru": "Они подсчитывают голоса после окончания выборов.",
+            "en": "They count the votes after the election ends.",
+            "ua": "Вони підраховують голоси після завершення виборів."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen?",
-        "ru": "В Германии волонтеры на выборах помогают на выборах. В чем заключается работа сотрудников избирательных комиссий?"
+        "ru": "В Германии волонтеры на выборах помогают на выборах. В чем заключается работа сотрудников избирательных комиссий?",
+        "en": "In Germany, volunteer election workers help during elections. What is one of their tasks?",
+        "ua": "У Німеччині волонтери допомагають під час виборів. Яке з їхніх завдань?"
       }
     },
     {
@@ -5037,35 +5097,45 @@
           "id": "a1",
           "translations": {
             "de": "2 Jahre",
-            "ru": "2 года"
+            "ru": "2 года",
+            "en": "2 years",
+            "ua": "2 роки"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "4 Jahre",
-            "ru": "4 года"
+            "ru": "4 года",
+            "en": "4 years",
+            "ua": "4 роки"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "6 Jahre",
-            "ru": "6 лет"
+            "ru": "6 лет",
+            "en": "6 years",
+            "ua": "6 років"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "8 Jahre",
-            "ru": "8 лет"
+            "ru": "8 лет",
+            "en": "8 years",
+            "ua": "8 років"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
-        "ru": "На сколько лет избирается Бундестаг в Германии?"
+        "ru": "На сколько лет избирается Бундестаг в Германии?",
+        "en": "For how many years is the Bundestag elected in Germany?",
+        "ua": "На скільки років обирається Бундестаг у Німеччині?"
       }
     },
     {
@@ -5075,35 +5145,45 @@
           "id": "a1",
           "translations": {
             "de": "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
-            "ru": "живет в Федеративной Республике Германия и хочет голосовать."
+            "ru": "живет в Федеративной Республике Германия и хочет голосовать.",
+            "en": "lives in the Federal Republic of Germany and wants to vote.",
+            "ua": "проживає у Федеративній Республіці Німеччина і хоче голосувати."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
-            "ru": "является гражданином Федеративной Республики Германия и достиг возраста 18 лет."
+            "ru": "является гражданином Федеративной Республики Германия и достиг возраста 18 лет.",
+            "en": "is a citizen of the Federal Republic of Germany and at least 18 years old.",
+            "ua": "є громадянином Федеративної Республіки Німеччина і має щонайменше 18 років."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
-            "ru": "прожил в Федеративной Республике Германия не менее 3 лет."
+            "ru": "прожил в Федеративной Республике Германия не менее 3 лет.",
+            "en": "has lived in the Federal Republic of Germany for at least 3 years.",
+            "ua": "проживає у Федеративній Республіці Німеччина не менше 3 років."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.",
-            "ru": "является гражданином Федеративной Республики Германия и достиг возраста 21 года."
+            "ru": "является гражданином Федеративной Республики Германия и достиг возраста 21 года.",
+            "en": "is a citizen of the Federal Republic of Germany and at least 21 years old.",
+            "ua": "є громадянином Федеративної Республіки Німеччина і має щонайменше 21 рік."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Bei einer Bundestagswahl in Deutschland darf jeder wählen, der ...",
-        "ru": "Право голосовать на федеральных выборах в Германии имеет тот, кто ..."
+        "ru": "Право голосовать на федеральных выборах в Германии имеет тот, кто ...",
+        "en": "In a federal election in Germany, anyone may vote who ...",
+        "ua": "На виборах до Бундестагу в Німеччині має право голосу кожен, хто ..."
       }
     },
     {
@@ -5113,35 +5193,45 @@
           "id": "a1",
           "translations": {
             "de": "alle drei Jahre",
-            "ru": "каждые три года"
+            "ru": "каждые три года",
+            "en": "every three years",
+            "ua": "кожні три роки"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "alle vier Jahre",
-            "ru": "каждые четыре года"
+            "ru": "каждые четыре года",
+            "en": "every four years",
+            "ua": "кожні чотири роки"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "alle fünf Jahre",
-            "ru": "каждые пять лет"
+            "ru": "каждые пять лет",
+            "en": "every five years",
+            "ua": "кожні п’ять років"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "alle sechs Jahre",
-            "ru": "каждые шесть лет"
+            "ru": "каждые шесть лет",
+            "en": "every six years",
+            "ua": "кожні шість років"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
-        "ru": "Как часто в Германии обычно проходят федеральные выборы?"
+        "ru": "Как часто в Германии обычно проходят федеральные выборы?",
+        "en": "How often are federal elections usually held in Germany?",
+        "ua": "Як часто зазвичай проводяться федеральні вибори в Німеччині?"
       }
     },
     {
@@ -5151,35 +5241,45 @@
           "id": "a1",
           "translations": {
             "de": "2 Jahre",
-            "ru": "2 года"
+            "ru": "2 года",
+            "en": "2 years",
+            "ua": "2 роки"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "3 Jahre",
-            "ru": "3 года"
+            "ru": "3 года",
+            "en": "3 years",
+            "ua": "3 роки"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "4 Jahre",
-            "ru": "4 года"
+            "ru": "4 года",
+            "en": "4 years",
+            "ua": "4 роки"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "5 Jahre",
-            "ru": "5 лет"
+            "ru": "5 лет",
+            "en": "5 years",
+            "ua": "5 років"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
-        "ru": "На сколько лет избирается Бундестаг в Германии?"
+        "ru": "На сколько лет избирается Бундестаг в Германии?",
+        "en": "For how many years is the Bundestag elected in Germany?",
+        "ua": "На скільки років обирається Бундестаг у Німеччині?"
       }
     },
     {
@@ -5189,35 +5289,45 @@
           "id": "a1",
           "translations": {
             "de": "Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das Mindestalter erreicht haben.",
-            "ru": "Все граждане Германии имеют право голосовать, если они достигли минимального возраста"
+            "ru": "Все граждане Германии имеют право голосовать, если они достигли минимального возраста",
+            "en": "All German citizens are allowed to vote if they have reached the minimum age.",
+            "ua": "Усі громадяни Німеччини мають право голосу, якщо досягли мінімального віку."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Nur verheiratete Personen dürfen wählen.",
-            "ru": "Голосовать могут только женатые люди."
+            "ru": "Голосовать могут только женатые люди.",
+            "en": "Only married people are allowed to vote.",
+            "ua": "Голосувати можуть лише одружені особи."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Nur Personen mit einem festen Arbeitsplatz dürfen wählen.",
-            "ru": "Голосовать могут только люди, имеющие постоянную работу."
+            "ru": "Голосовать могут только люди, имеющие постоянную работу.",
+            "en": "Only people with a permanent job are allowed to vote.",
+            "ua": "Голосувати можуть лише особи з постійною роботою."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Alle Einwohner und Einwohnerinnen in Deutschland müssen wählen.",
-            "ru": "Все жители Германии должны голосовать."
+            "ru": "Все жители Германии должны голосовать.",
+            "en": "All residents in Germany must vote.",
+            "ua": "Усі мешканці Німеччини зобов’язані голосувати."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "In Deutschland darf man wählen. Was bedeutet das?",
-        "ru": "В Германии можно голосовать. Что это значит?"
+        "ru": "В Германии можно голосовать. Что это значит?",
+        "en": "In Germany, people are allowed to vote. What does this mean?",
+        "ua": "У Німеччині дозволено голосувати. Що це означає?"
       }
     },
     {
@@ -5227,35 +5337,45 @@
           "id": "a1",
           "translations": {
             "de": "speziell.",
-            "ru": "особенные."
+            "ru": "особенные.",
+            "en": "special.",
+            "ua": "особливі."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "geheim.",
-            "ru": "тайные."
+            "ru": "тайные.",
+            "en": "secret.",
+            "ua": "таємні."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "berufsbezogen.",
-            "ru": "связанные с работой."
+            "ru": "связанные с работой.",
+            "en": "job-related.",
+            "ua": "пов’язані з професією."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "geschlechtsabhängig.",
-            "ru": "гендерно-зависимые."
+            "ru": "гендерно-зависимые.",
+            "en": "gender-dependent.",
+            "ua": "залежні від статі."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Die Wahlen in Deutschland sind ...",
-        "ru": "Выборы в Германии..."
+        "ru": "Выборы в Германии...",
+        "en": "Elections in Germany are ...",
+        "ua": "Вибори в Німеччині є ..."
       }
     },
     {
@@ -5265,35 +5385,45 @@
           "id": "a1",
           "translations": {
             "de": "die meisten Stimmen bekommt.",
-            "ru": "получает наибольшее количество голосов."
+            "ru": "получает наибольшее количество голосов.",
+            "en": "receives the most votes.",
+            "ua": "отримує найбільше голосів."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "die meisten Männer mehrheitlich gewählt haben.",
-            "ru": "большинство мужчин проголосовали большинством."
+            "ru": "большинство мужчин проголосовали большинством.",
+            "en": "was mostly elected by men.",
+            "ua": "яку здебільшого обрали чоловіки."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.",
-            "ru": "получает наибольшее количество голосов рабочих."
+            "ru": "получает наибольшее количество голосов рабочих.",
+            "en": "received the most votes from workers.",
+            "ua": "отримала найбільше голосів від робітників."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat.",
-            "ru": "получает наибольшее количество первых голосов."
+            "ru": "получает наибольшее количество первых голосов.",
+            "en": "received the most first votes for its chancellor candidate.",
+            "ua": "отримала найбільше перших голосів за свого кандидата в канцлери."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Wahlen in Deutschland gewinnt die Partei, die ...",
-        "ru": "На выборах в Германии побеждает партия, которая.."
+        "ru": "На выборах в Германии побеждает партия, которая..",
+        "en": "In Germany, the party that wins the election is the one that ...",
+        "ua": "У Німеччині на виборах перемагає партія, яка ..."
       }
     },
     {
@@ -5303,35 +5433,45 @@
           "id": "a1",
           "translations": {
             "de": "eine Pflicht.",
-            "ru": "обязанность."
+            "ru": "обязанность.",
+            "en": "a duty.",
+            "ua": "обов’язок."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "ein Recht.",
-            "ru": "право."
+            "ru": "право.",
+            "en": "a right.",
+            "ua": "право."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "ein Zwang.",
-            "ru": "принуждение."
+            "ru": "принуждение.",
+            "en": "a compulsion.",
+            "ua": "примус."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "eine Last.",
-            "ru": "бремя."
+            "ru": "бремя.",
+            "en": "a burden.",
+            "ua": "тягар."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "An demokratischen Wahlen in Deutschland teilzunehmen ist",
-        "ru": "Участие в демократических выборах в Германии - это..."
+        "ru": "Участие в демократических выборах в Германии - это...",
+        "en": "Taking part in democratic elections in Germany is",
+        "ua": "Участь у демократичних виборах у Німеччині — це"
       }
     },
     {
@@ -5341,35 +5481,45 @@
           "id": "a1",
           "translations": {
             "de": "Man kann gewählt werden.",
-            "ru": "Вас могут избрать."
+            "ru": "Вас могут избрать.",
+            "en": "You can be elected.",
+            "ua": "Вас можуть обрати."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Man muss wählen gehen.",
-            "ru": "Вы должны проголосовать."
+            "ru": "Вы должны проголосовать.",
+            "en": "You must go vote.",
+            "ua": "Ви повинні йти голосувати."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Man kann wählen.",
-            "ru": "Вы можете проголосовать."
+            "ru": "Вы можете проголосовать.",
+            "en": "You can vote.",
+            "ua": "Ви можете голосувати."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Man muss zur Auszählung der Stimmen gehen.",
-            "ru": "Вы должны пойти на подсчёт голосов."
+            "ru": "Вы должны пойти на подсчёт голосов.",
+            "en": "You must go count the votes.",
+            "ua": "Ви повинні йти рахувати голоси."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was bedeutet -aktives Wahlrecht- in Deutschland?",
-        "ru": "Что означает «активное избирательное право» в Германии?"
+        "ru": "Что означает «активное избирательное право» в Германии?",
+        "en": "What does 'active voting right' mean in Germany?",
+        "ua": "Що означає «активне виборче право» в Німеччині?"
       }
     },
     {
@@ -5379,35 +5529,45 @@
           "id": "a1",
           "translations": {
             "de": "aktive Wahlkampagne.",
-            "ru": "активная избирательная кампания."
+            "ru": "активная избирательная кампания.",
+            "en": "active election campaign.",
+            "ua": "активна виборча кампанія."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "aktives Wahlverfahren.",
-            "ru": "активный процесс голосования."
+            "ru": "активный процесс голосования.",
+            "en": "active voting process.",
+            "ua": "активний процес голосування."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "aktiver Wahlkampf.",
-            "ru": "активная избирательная борьба."
+            "ru": "активная избирательная борьба.",
+            "en": "active election campaign.",
+            "ua": "активна виборча боротьба."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "aktives Wahlrecht.",
-            "ru": "активное право голосовать."
+            "ru": "активное право голосовать.",
+            "en": "active voting right.",
+            "ua": "активне виборче право."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das ...",
-        "ru": "Если Вам разрешено голосовать на федеральных выборах в Германии, это называется..."
+        "ru": "Если Вам разрешено голосовать на федеральных выборах в Германии, это называется...",
+        "en": "If you are allowed to vote in a federal election in Germany, it means ...",
+        "ua": "Якщо вам дозволено голосувати на виборах до Бундестагу в Німеччині, це означає ..."
       }
     },
     {
@@ -5417,35 +5577,45 @@
           "id": "a1",
           "translations": {
             "de": "3%",
-            "ru": "3%"
+            "ru": "3%",
+            "en": "3%",
+            "ua": "3%"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "4%",
-            "ru": "4%"
+            "ru": "4%",
+            "en": "4%",
+            "ua": "4%"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "5%",
-            "ru": "5%"
+            "ru": "5%",
+            "en": "5%",
+            "ua": "5%"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "6%",
-            "ru": "6%"
+            "ru": "6%",
+            "en": "6%",
+            "ua": "6%"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
-        "ru": "Какой процент вторых голосов должны получить партии, чтобы быть избранными в немецкий Бундестаг?"
+        "ru": "Какой процент вторых голосов должны получить партии, чтобы быть избранными в немецкий Бундестаг?",
+        "en": "What percentage of second votes must parties receive at a minimum to be elected to the German Bundestag?",
+        "ua": "Який відсоток других голосів повинні отримати партії мінімум, щоб бути обраними до Бундестагу Німеччини?"
       }
     },
     {
@@ -5455,35 +5625,45 @@
           "id": "a1",
           "translations": {
             "de": "Wer wählen darf, muss wählen.",
-            "ru": "Любой, кто может голосовать, должен голосовать."
+            "ru": "Любой, кто может голосовать, должен голосовать.",
+            "en": "Anyone who is allowed to vote must vote.",
+            "ua": "Кожен, хто має право голосу, повинен голосувати."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Alle die wollen, können wählen.",
-            "ru": "Проголосовать может любой желающий."
+            "ru": "Проголосовать может любой желающий.",
+            "en": "Anyone who wants to can vote.",
+            "ua": "Голосувати може будь-хто, хто цього бажає."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Wer nicht wählt, verliert das Recht zu wählen.",
-            "ru": "Если Вы не голосуете, Вы теряете право голоса"
+            "ru": "Если Вы не голосуете, Вы теряете право голоса",
+            "en": "Those who do not vote lose the right to vote.",
+            "ua": "Ті, хто не голосує, втрачають право голосу."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Wer wählen darf, kann wählen.",
-            "ru": "Голосовать может каждый, кто имеет право голосовать."
+            "ru": "Голосовать может каждый, кто имеет право голосовать.",
+            "en": "Anyone who is eligible to vote can vote.",
+            "ua": "Голосувати може кожен, хто має право голосу."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Was regelt das Wahlrecht in Deutschland?",
-        "ru": "Что определяет избирательное право в Германии?"
+        "ru": "Что определяет избирательное право в Германии?",
+        "en": "What does electoral law regulate in Germany?",
+        "ua": "Що регулює виборче право в Німеччині?"
       }
     },
     {
@@ -5493,35 +5673,45 @@
           "id": "a1",
           "translations": {
             "de": "Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.",
-            "ru": "Все осужденные преступники не имеют права голосовать."
+            "ru": "Все осужденные преступники не имеют права голосовать.",
+            "en": "All convicted criminals are not allowed to vote.",
+            "ua": "Усім засудженим злочинцям заборонено голосувати."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.",
-            "ru": "Если я хочу голосовать, мой работодатель должен предоставить мне отпуск."
+            "ru": "Если я хочу голосовать, мой работодатель должен предоставить мне отпуск.",
+            "en": "If I want to vote, my employer must give me time off.",
+            "ua": "Якщо я хочу голосувати, мій роботодавець повинен надати мені вихідний."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
-            "ru": "Каждый человек может без принуждения решить, хочет ли он голосовать и за кого он хочет голосовать."
+            "ru": "Каждый человек может без принуждения решить, хочет ли он голосовать и за кого он хочет голосовать.",
+            "en": "Everyone can decide freely whether and for whom to vote.",
+            "ua": "Кожен може вільно вирішити, чи голосувати і за кого саме."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Ich kann frei entscheiden, wo ich wählen gehen möchte.",
-            "ru": "Я могу свободно решать, где хочу голосовать."
+            "ru": "Я могу свободно решать, где хочу голосовать.",
+            "en": "I can freely decide where I want to vote.",
+            "ua": "Я можу самостійно вирішити, де хочу голосувати."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wahlen in Deutschland sind frei. Was bedeutet das?",
-        "ru": "Выборы в Германии свободные. Что это значит?"
+        "ru": "Выборы в Германии свободные. Что это значит?",
+        "en": "Elections in Germany are free. What does that mean?",
+        "ua": "Вибори в Німеччині є вільними. Що це означає?"
       }
     },
     {
@@ -5531,35 +5721,45 @@
           "id": "a1",
           "translations": {
             "de": "Zensuswahlrecht.",
-            "ru": "избирательный ценз."
+            "ru": "избирательный ценз.",
+            "en": "Census suffrage.",
+            "ua": "Цензове виборче право."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Dreiklassenwahlrecht.",
-            "ru": "трёхклассное избирательное право."
+            "ru": "трёхклассное избирательное право.",
+            "en": "Three-class voting system.",
+            "ua": "Трикласова виборча система."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Mehrheits- und Verhältniswahlrecht.",
-            "ru": "Право большинства и пропорциональное избирательное право."
+            "ru": "Право большинства и пропорциональное избирательное право.",
+            "en": "Majority and proportional voting system.",
+            "ua": "Мажоритарна і пропорційна виборча система."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "allgemeines Männerwahlrecht.",
-            "ru": "общее мужское избирательное право."
+            "ru": "общее мужское избирательное право.",
+            "en": "Universal male suffrage.",
+            "ua": "Загальне чоловіче виборче право."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Das Wahlsystem in Deutschland ist ein ...",
-        "ru": "Система выборов в Германии представляет собой"
+        "ru": "Система выборов в Германии представляет собой",
+        "en": "The electoral system in Germany is a ...",
+        "ua": "Виборча система в Німеччині — це ..."
       }
     },
     {
@@ -5569,35 +5769,45 @@
           "id": "a1",
           "translations": {
             "de": "5%-Hürde.",
-            "ru": "5% барьер."
+            "ru": "5% барьер.",
+            "en": "5% threshold.",
+            "ua": "5% бар’єр."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Zulassungsgrenze.",
-            "ru": "Ограничение приема."
+            "ru": "Ограничение приема.",
+            "en": "Admission limit.",
+            "ua": "Обмеження допуску."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Basiswert.",
-            "ru": "Базовая стоимость."
+            "ru": "Базовая стоимость.",
+            "en": "Base value.",
+            "ua": "Базове значення."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Richtlinie.",
-            "ru": "Директива."
+            "ru": "Директива.",
+            "en": "Directive.",
+            "ua": "Директива."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt ...",
-        "ru": "Партия хочет попасть в немецкий Бундестаг. Она должна получить для этого определённую минимальную долю голосов избирателей. Это называется ..."
+        "ru": "Партия хочет попасть в немецкий Бундестаг. Она должна получить для этого определённую минимальную долю голосов избирателей. Это называется ...",
+        "en": "A party wants to enter the German Bundestag. But it must receive a minimum share of votes. This is called ...",
+        "ua": "Партія хоче потрапити до Бундестагу Німеччини. Але вона повинна набрати мінімальну частку голосів виборців. Це називається ..."
       }
     },
     {
@@ -5607,35 +5817,45 @@
           "id": "a1",
           "translations": {
             "de": "frei, gleich, geheim.",
-            "ru": "свободные, равные, тайные."
+            "ru": "свободные, равные, тайные.",
+            "en": "free, equal, secret.",
+            "ua": "вільні, рівні, таємні."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "offen, sicher, frei?",
-            "ru": "открытые, безопасные, свободные."
+            "ru": "открытые, безопасные, свободные.",
+            "en": "open, secure, free?",
+            "ua": "відкриті, безпечні, вільні?"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "geschlossen, gleich, sicher.",
-            "ru": "закрытые, равные, безопасные."
+            "ru": "закрытые, равные, безопасные.",
+            "en": "closed, equal, secure.",
+            "ua": "закриті, рівні, безпечні."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "sicher, offen, freiwillig.",
-            "ru": "безопасные, открытые, добровольные."
+            "ru": "безопасные, открытые, добровольные.",
+            "en": "secure, open, voluntary.",
+            "ua": "безпечні, відкриті, добровільні."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind ...",
-        "ru": "Какому принципу подчиняются выборы в Германии? Выборы в Германии..."
+        "ru": "Какому принципу подчиняются выборы в Германии? Выборы в Германии...",
+        "en": "What principle do elections in Germany follow? Elections in Germany are ...",
+        "ua": "Якого принципу дотримуються вибори в Німеччині? Вибори в Німеччині є ..."
       }
     },
     {
@@ -5645,35 +5865,45 @@
           "id": "a1",
           "translations": {
             "de": "Abstimmungsregelung im Bundestag für kleine Parteien",
-            "ru": "Правила голосования в Бундестаге для маленьких партий"
+            "ru": "Правила голосования в Бундестаге для маленьких партий",
+            "en": "Voting rules in the Bundestag for small parties",
+            "ua": "Правила голосування в Бундестазі для малих партій"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Anwesenheitskontrolle im Bundestag für Abstimmungen",
-            "ru": "Контроль явки в Бундестаг для голосования"
+            "ru": "Контроль явки в Бундестаг для голосования",
+            "en": "Attendance control in the Bundestag for votes",
+            "ua": "Контроль присутності в Бундестазі під час голосування"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
-            "ru": "Минимальная доля голосов для попадания в парламент"
+            "ru": "Минимальная доля голосов для попадания в парламент",
+            "en": "Minimum share of votes to enter parliament",
+            "ua": "Мінімальна частка голосів для проходу до парламенту"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Anwesenheitskontrolle im Bundesrat für Abstimmungen",
-            "ru": "Контроль присутствия в Федеральном совете для голосования"
+            "ru": "Контроль присутствия в Федеральном совете для голосования",
+            "en": "Attendance control in the Bundesrat for votes",
+            "ua": "Контроль присутності у Бундесраті під час голосування"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was ist in Deutschland die 5%-Hürde?",
-        "ru": "Что такое 5%-барьер в Германии?"
+        "ru": "Что такое 5%-барьер в Германии?",
+        "en": "What is the 5% hurdle in Germany?",
+        "ua": "Що таке 5% бар'єр у Німеччині?"
       }
     },
     {
@@ -5683,35 +5913,45 @@
           "id": "a1",
           "translations": {
             "de": "des Bundeskanzlers / der Bundeskanzlerin.",
-            "ru": "Федерального канцлера."
+            "ru": "Федерального канцлера.",
+            "en": "of the Federal Chancellor.",
+            "ua": "Федерального канцлера."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "der Parlamente der Länder.",
-            "ru": "Парламентов федеральных земель."
+            "ru": "Парламентов федеральных земель.",
+            "en": "of the parliaments of the federal states.",
+            "ua": "парламентів федеральних земель."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "des Parlaments für Deutschland.",
-            "ru": "Парламента Германии."
+            "ru": "Парламента Германии.",
+            "en": "of the Parliament for Germany.",
+            "ua": "парламенту Німеччини."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "des Bundespräsidenten / der Bundespräsidentin.",
-            "ru": "Федерального президента."
+            "ru": "Федерального президента.",
+            "en": "of the Federal President.",
+            "ua": "Федерального президента."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Die Bundestagswahl in Deutschland ist die Wahl ...",
-        "ru": "Федеральные выборы в Германии - это выборы..."
+        "ru": "Федеральные выборы в Германии - это выборы...",
+        "en": "The Bundestag election in Germany is the election of ...",
+        "ua": "Вибори в Бундестаг у Німеччині — це вибори ..."
       }
     },
     {
@@ -5721,35 +5961,45 @@
           "id": "a1",
           "translations": {
             "de": "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.",
-            "ru": "заставить граждан голосовать."
+            "ru": "заставить граждан голосовать.",
+            "en": "to force citizens to cast their vote.",
+            "ua": "примусити громадян голосувати."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
-            "ru": "обеспечить возможность смены правительства по воле большинства избирателей."
+            "ru": "обеспечить возможность смены правительства по воле большинства избирателей.",
+            "en": "to enable a change of government according to the will of the majority of voters.",
+            "ua": "забезпечити зміну уряду за волею більшості виборців."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "im Land bestehende Gesetze beizubehalten.",
-            "ru": "поддерживать действующие законы в стране."
+            "ru": "поддерживать действующие законы в стране.",
+            "en": "to maintain existing laws in the country.",
+            "ua": "підтримувати чинні закони в країні."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "den Armen mehr Macht zu geben.",
-            "ru": "дать больше власти бедным."
+            "ru": "дать больше власти бедным.",
+            "en": "to give more power to the poor.",
+            "ua": "надати більше влади бідним."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen...",
-        "ru": "В условиях демократии одной из функций регулярных выборов является..."
+        "ru": "В условиях демократии одной из функций регулярных выборов является...",
+        "en": "In a democracy, one function of regular elections is...",
+        "ua": "У демократії однією з функцій регулярних виборів є..."
       }
     },
     {
@@ -5759,35 +6009,45 @@
           "id": "a1",
           "translations": {
             "de": "eine Wahlbenachrichtigung von der Gemeinde",
-            "ru": "уведомление о выборах от муниципалитета"
+            "ru": "уведомление о выборах от муниципалитета",
+            "en": "an election notification from the municipality",
+            "ua": "повідомлення про вибори від громади"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "eine Wahlerlaubnis vom Bundespräsidenten / von der Bundespräsidentin",
-            "ru": "разрешение на голосование от Федерального президента"
+            "ru": "разрешение на голосование от Федерального президента",
+            "en": "a voting permit from the Federal President",
+            "ua": "дозвіл на голосування від Федерального президента"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "eine Benachrichtigung von der Bundesversammlung",
-            "ru": "уведомление Федерального Собрания"
+            "ru": "уведомление Федерального Собрания",
+            "en": "a notification from the Federal Assembly",
+            "ua": "повідомлення від Федеральних зборів"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "eine Benachrichtigung vom Pfarramt",
-            "ru": "уведомление из приходской канцелярии"
+            "ru": "уведомление из приходской канцелярии",
+            "en": "a notification from the parish office",
+            "ua": "повідомлення з парафіяльної канцелярії"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Was bekommen wahlberechtigte Bürger und Bürgerinnen in Deutschland vor einer Wahl?",
-        "ru": "Что получают граждане Германии, имеющие право голоса, перед выборами?"
+        "ru": "Что получают граждане Германии, имеющие право голоса, перед выборами?",
+        "en": "What do eligible voters in Germany receive before an election?",
+        "ua": "Що отримують виборці в Німеччині перед виборами?"
       }
     },
     {
@@ -5797,35 +6057,45 @@
           "id": "a1",
           "translations": {
             "de": "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
-            "ru": "Программы многих маленьких партий имеют много общего."
+            "ru": "Программы многих маленьких партий имеют много общего.",
+            "en": "the programs of many small parties have many similarities.",
+            "ua": "програми багатьох малих партій мають багато спільного."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.",
-            "ru": "Граждане могут потерять ориентацию со многими мелкими партиями."
+            "ru": "Граждане могут потерять ориентацию со многими мелкими партиями.",
+            "en": "citizens may lose orientation with many small parties.",
+            "ua": "громадяни можуть розгубитися серед багатьох малих партій."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "viele kleine Parteien die Regierungsbildung erschweren.",
-            "ru": "Множество маленьких партий затрудняют формирование правительства."
+            "ru": "Множество маленьких партий затрудняют формирование правительства.",
+            "en": "many small parties make it harder to form a government.",
+            "ua": "багато малих партій ускладнюють формування уряду."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen.",
-            "ru": "У маленьких партий нет столько денег, чтобы платить политикам."
+            "ru": "У маленьких партий нет столько денег, чтобы платить политикам.",
+            "en": "small parties do not have enough money to pay politicians.",
+            "ua": "малі партії не мають достатньо коштів, щоб платити політикам."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
-        "de": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepub Deutschland? Es gibt sie, weil ...",
-        "ru": "Почему в избирательном законе Федеративной Республики Германия установлен 5-процентный барьер? Он существуют, потому что..."
+        "de": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil ...",
+        "ru": "Почему в избирательном законе Федеративной Республики Германия установлен 5-процентный барьер? Он существует, потому что...",
+        "en": "Why does the 5% threshold exist in the electoral law of the Federal Republic of Germany? It exists because ...",
+        "ua": "Чому в законі про вибори Федеративної Республіки Німеччина існує 5% бар'єр? Він існує, тому що..."
       }
     },
     {
@@ -5835,35 +6105,45 @@
           "id": "a1",
           "translations": {
             "de": "Abgeordnete.",
-            "ru": "Депутаты."
+            "ru": "Депутаты.",
+            "en": "Members of Parliament.",
+            "ua": "Депутати."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Kanzler / Kanzlerinnen.",
-            "ru": "Канцлеры."
+            "ru": "Канцлеры.",
+            "en": "Chancellors.",
+            "ua": "Канцлери."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Botschafter / Botschafterinnen.",
-            "ru": "Послы."
+            "ru": "Послы.",
+            "en": "Ambassadors.",
+            "ua": "Посли."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Ministerpräsidenten / Ministerpräsidentinnen.",
-            "ru": "Премьер-министры."
+            "ru": "Премьер-министры.",
+            "en": "Prime Ministers.",
+            "ua": "Прем’єр-міністри."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Parlamentsmitglieder, die von den Bürgern und Bürgerinnen gewählt werden, nennt man ...",
-        "ru": "Члены парламента, избираемые гражданами, называются..."
+        "ru": "Члены парламента, избираемые гражданами, называются...",
+        "en": "Members of parliament elected by the citizens are called ...",
+        "ua": "Членів парламенту, яких обирають громадяни, називають ..."
       }
     },
     {
@@ -5873,35 +6153,45 @@
           "id": "a1",
           "translations": {
             "de": "der Bundeskanzler / die Bundeskanzlerin.",
-            "ru": "федеральный канцлер."
+            "ru": "федеральный канцлер.",
+            "en": "the Federal Chancellor.",
+            "ua": "Федеральний канцлер."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "der Ministerpräsident / die Ministerpräsidentin eines Bundeslandes.",
-            "ru": "премьер-министр федеральной земли."
+            "ru": "премьер-министр федеральной земли.",
+            "en": "the Minister President of a federal state.",
+            "ua": "Прем’єр-міністр федеральної землі."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "der Bundestag.",
-            "ru": "Бундестаг."
+            "ru": "Бундестаг.",
+            "en": "the Bundestag (Federal Parliament).",
+            "ua": "Бундестаг (Федеральний парламент)."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "der Bundespräsident / die Bundespräsidentin.",
-            "ru": "федеральный президент."
+            "ru": "федеральный президент.",
+            "en": "the Federal President.",
+            "ua": "Федеральний президент."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Vom Volk gewählt wird in Deutschland ...",
-        "ru": "В Германии народом выбирается ..."
+        "ru": "В Германии народом выбирается ...",
+        "en": "In Germany, the people elect ...",
+        "ua": "У Німеччині народ обирає ..."
       }
     },
     {
@@ -5911,35 +6201,45 @@
           "id": "a1",
           "translations": {
             "de": "1",
-            "ru": "1"
+            "ru": "1",
+            "en": "1",
+            "ua": "1"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "2",
-            "ru": "2"
+            "ru": "2",
+            "en": "2",
+            "ua": "2"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "3",
-            "ru": "3"
+            "ru": "3",
+            "en": "3",
+            "ua": "3"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "4",
-            "ru": "4"
+            "ru": "4",
+            "en": "4",
+            "ua": "4"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
-        "ru": "Какой избирательный бюллетень будет действителен на федеральных выборах?"
+        "ru": "Какой избирательный бюллетень будет действителен на федеральных выборах?",
+        "en": "Which ballot paper would be valid in a federal election?",
+        "ua": "Який бюлетень буде дійсним на федеральних виборах?"
       }
     },
     {
@@ -5949,35 +6249,45 @@
           "id": "a1",
           "translations": {
             "de": "der Leiter / die Leiterin einer Schule.",
-            "ru": "директор школы."
+            "ru": "директор школы.",
+            "en": "the head of a school.",
+            "ua": "керівник школи."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "der Chef / die Chefin einer Bank.",
-            "ru": "директор банка."
+            "ru": "директор банка.",
+            "en": "the head of a bank.",
+            "ua": "керівник банку."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "das Oberhaupt einer Gemeinde.",
-            "ru": "глава общины."
+            "ru": "глава общины.",
+            "en": "the head of a municipality.",
+            "ua": "голова громади."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "der / die Vorsitzende einer Partei.",
-            "ru": "лидер партии."
+            "ru": "лидер партии.",
+            "en": "the chairperson of a party.",
+            "ua": "голова партії."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "In Deutschland ist ein Bürgermeister / eine Bürgermeisterin ...",
-        "ru": "В Германии есть мэр..."
+        "ru": "В Германии есть мэр...",
+        "en": "In Germany, a mayor is ...",
+        "ua": "У Німеччині бургомістр (мер) – це ..."
       }
     },
     {
@@ -5987,35 +6297,45 @@
           "id": "a1",
           "translations": {
             "de": "Sie arbeiten als Soldaten / Soldatinnen.",
-            "ru": "Они работают солдатами._."
+            "ru": "Они работают солдатами.",
+            "en": "They work as soldiers.",
+            "ua": "Вони працюють солдатами."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
-            "ru": "Они работают добровольно и бесплатно в клубах и ассоциациях."
+            "ru": "Они работают добровольно и бесплатно в клубах и ассоциациях.",
+            "en": "They volunteer and work unpaid in clubs and associations.",
+            "ua": "Вони добровільно і безкоштовно працюють у клубах та об’єднаннях."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Sie arbeiten in der Bundesregierung.",
-            "ru": "Они работают в федеральном правительстве."
+            "ru": "Они работают в федеральном правительстве.",
+            "en": "They work in the federal government.",
+            "ua": "Вони працюють у федеральному уряді."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.",
-            "ru": "Они работают в больнице и зарабатывают при этом деньги."
+            "ru": "Они работают в больнице и зарабатывают при этом деньги.",
+            "en": "They work in a hospital and earn money.",
+            "ua": "Вони працюють у лікарні та отримують гроші."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
-        "ru": "Многие люди в Германии работают на общественных началах в свободное время. Что это значит?"
+        "ru": "Многие люди в Германии работают на общественных началах в свободное время. Что это значит?",
+        "en": "Many people in Germany do voluntary work in their free time. What does that mean?",
+        "ua": "Багато людей у Німеччині займаються волонтерством у вільний час. Що це означає?"
       }
     },
     {
@@ -6025,35 +6345,45 @@
           "id": "a1",
           "translations": {
             "de": "Der Ehemann wählt für seine Frau mit.",
-            "ru": "Муж голосует за жену."
+            "ru": "Муж голосует за жену.",
+            "en": "The husband votes on behalf of his wife.",
+            "ua": "Чоловік голосує замість своєї дружини."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Man kann durch Briefwahl seine Stimme abgeben.",
-            "ru": "Можно проголосовать по почте."
+            "ru": "Можно проголосовать по почте.",
+            "en": "You can vote by mail.",
+            "ua": "Можна проголосувати поштою."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Man kann am Wahltag telefonisch seine Stimme abgeben.",
-            "ru": "В день выборов можно проголосовать по телефону."
+            "ru": "В день выборов можно проголосовать по телефону.",
+            "en": "You can vote by phone on election day.",
+            "ua": "Можна голосувати по телефону в день виборів."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Kinder ab dem Alter von 14 Jahren dürfen wählen.",
-            "ru": "К голосованию допускаются дети от 14 лет и старше."
+            "ru": "К голосованию допускаются дети от 14 лет и старше.",
+            "en": "Children from the age of 14 are allowed to vote.",
+            "ua": "Діти віком від 14 років мають право голосу."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
-        "ru": "Что разрешено на федеральных выборах и выборах земель в Германии?"
+        "ru": "Что разрешено на федеральных выборах и выборах земель в Германии?",
+        "en": "What is allowed in federal and state elections in Germany?",
+        "ua": "Що дозволено на федеральних і земельних виборах у Німеччині?"
       }
     },
     {
@@ -6063,35 +6393,45 @@
           "id": "a1",
           "translations": {
             "de": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
-            "ru": "Я принимаю участие в инициативе граждан по сохранению автобусного маршрута или сам запускаю инициативу."
+            "ru": "Я принимаю участие в инициативе граждан по сохранению автобусного маршрута или сам запускаю инициативу.",
+            "en": "I join a citizens' initiative to preserve the bus line or start one myself.",
+            "ua": "Я долучаюсь до громадської ініціативи щодо збереження автобусного маршруту або сам створюю ініціативу."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
-            "ru": "Я становлюсь членом спортивного клуба и тренируюсь на велосипеде."
+            "ru": "Я становлюсь членом спортивного клуба и тренируюсь на велосипеде.",
+            "en": "I join a sports club and practice cycling.",
+            "ua": "Я вступаю до спортивного клубу і тренуюся їздити на велосипеді."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
-            "ru": "Я обращаюсь в налоговую инспекцию, потому что как налогоплательщик имею право на автобусный маршрут."
+            "ru": "Я обращаюсь в налоговую инспекцию, потому что как налогоплательщик имею право на автобусный маршрут.",
+            "en": "I contact the tax office because, as a taxpayer, I have a right to the bus line.",
+            "ua": "Я звертаюся до податкової служби, тому що як платник податків маю право на автобусний маршрут."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Ich schreibe einen Brief an das Forstamt der Gemeinde.",
-            "ru": "Я пишу письмо в лесное управление муниципалитета."
+            "ru": "Я пишу письмо в лесное управление муниципалитета.",
+            "en": "I write a letter to the municipality's forestry office.",
+            "ua": "Я пишу листа до лісового відділу громади."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
-        "ru": "Маршрут автобуса, на котором Вы всегда ездите на работу, хотят отменить. Что можно сделать, чтобы сохранить этот автобусный маршрут?"
+        "ru": "Маршрут автобуса, на котором Вы всегда ездите на работу, хотят отменить. Что можно сделать, чтобы сохранить этот автобусный маршрут?",
+        "en": "The bus line you always take to work is about to be canceled. What can you do to help preserve it?",
+        "ua": "Хочуть скасувати автобусний маршрут, яким ви завжди їздите на роботу. Що ви можете зробити, щоб його зберегти?"
       }
     },
     {
@@ -6101,35 +6441,45 @@
           "id": "a1",
           "translations": {
             "de": "große Unternehmen",
-            "ru": "крупные компании"
+            "ru": "крупные компании",
+            "en": "large companies",
+            "ua": "великі компанії"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "kleine Unternehmen",
-            "ru": "малый бизнес"
+            "ru": "малый бизнес",
+            "en": "small businesses",
+            "ua": "малий бізнес"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Selbständige",
-            "ru": "самозанятых людей"
+            "ru": "самозанятых людей",
+            "en": "self-employed people",
+            "ua": "самозайнятих осіб"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Arbeitnehmer und Arbeitnehmerinnen",
-            "ru": "работников"
+            "ru": "работников",
+            "en": "employees (male and female)",
+            "ua": "працівників та працівниць"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wen vertreten die Gewerkschaften in Deutschland?",
-        "ru": "Кого представляют профсоюзы Германии?"
+        "ru": "Кого представляют профсоюзы Германии?",
+        "en": "Whom do the trade unions represent in Germany?",
+        "ua": "Кого представляють профспілки в Німеччині?"
       }
     },
     {
@@ -6139,35 +6489,45 @@
           "id": "a1",
           "translations": {
             "de": "falscher Nebenkostenabrechnung.",
-            "ru": "неправильном расчете коммунальных услуг."
+            "ru": "неправильном расчете коммунальных услуг.",
+            "en": "an incorrect utility bill.",
+            "ua": "неправильному розрахунку комунальних послуг."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
-            "ru": "необоснованном увольненим со стороны Вашего начальника."
+            "ru": "необоснованном увольненим со стороны Вашего начальника.",
+            "en": "unjustified dismissal by your employer.",
+            "ua": "необґрунтованому звільненню з боку вашого керівника."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Problemen mit den Nachbarn / Nachbarinnen.",
-            "ru": "проблемах с соседями."
+            "ru": "проблемах с соседями.",
+            "en": "problems with neighbors.",
+            "ua": "проблемах із сусідами."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Schwierigkeiten nach einem Verkehrsunfall.",
-            "ru": "проблемах после дорожно-транспортного происшествия."
+            "ru": "проблемах после дорожно-транспортного происшествия.",
+            "en": "difficulties after a traffic accident.",
+            "ua": "труднощах після дорожньо-транспортної пригоди."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Sie gehen in Deutschland zum Arbeitsgericht bei ...",
-        "ru": "Вы идете в суд по трудовым спорам в Германии при..."
+        "ru": "Вы идете в суд по трудовым спорам в Германии при...",
+        "en": "In Germany, you go to the labor court in case of ...",
+        "ua": "У Німеччині ви звертаєтесь до суду у справах праці у випадку ..."
       }
     },
     {
@@ -6177,35 +6537,45 @@
           "id": "a1",
           "translations": {
             "de": "das Familiengericht",
-            "ru": "семейный суд"
+            "ru": "семейный суд",
+            "en": "the family court",
+            "ua": "сімейний суд"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "das Strafgericht",
-            "ru": "уголовный суд"
+            "ru": "уголовный суд",
+            "en": "the criminal court",
+            "ua": "кримінальний суд"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "das Arbeitsgericht",
-            "ru": "трудовой суд"
+            "ru": "трудовой суд",
+            "en": "the labor court",
+            "ua": "трудовий суд"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "das Amtsgericht",
-            "ru": "районный / участковый суд"
+            "ru": "районный / участковый суд",
+            "en": "the local court",
+            "ua": "місцевий суд"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
-        "ru": "Какой суд в Германии обладает юрисдикцией в отношении конфликтов в сфере труда?"
+        "ru": "Какой суд в Германии обладает юрисдикцией в отношении конфликтов в сфере труда?",
+        "en": "Which court in Germany is responsible for conflicts in the working world?",
+        "ua": "Який суд у Німеччині відповідає за конфлікти у трудовій сфері?"
       }
     },
     {
@@ -6215,35 +6585,45 @@
           "id": "a1",
           "translations": {
             "de": "weiter arbeiten und freundlich zum Chef / zur Chefin sein",
-            "ru": "продолжать работать и быть дружелюбным к своему начальнику"
+            "ru": "продолжать работать и быть дружелюбным к своему начальнику",
+            "en": "continue working and be friendly to the boss",
+            "ua": "продовжувати працювати і бути привітним до керівника"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin führen",
-            "ru": "написать предупреждение работодателю"
+            "ru": "написать предупреждение работодателю",
+            "en": "initiate a dunning procedure against the employer",
+            "ua": "розпочати процес стягнення проти роботодавця"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Kündigungsschutzklage erheben",
-            "ru": "подать иск о несправедливом увольнении"
+            "ru": "подать иск о несправедливом увольнении",
+            "en": "file a wrongful dismissal claim",
+            "ua": "подати позов про незаконне звільнення"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen",
-            "ru": "сообщить о работодателе в полицию"
+            "ru": "сообщить о работодателе в полицию",
+            "en": "report the employer to the police",
+            "ua": "повідомити про роботодавця до поліції"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber / meine Arbeitgeberin zu Unrecht gekündigt hat?",
-        "ru": "Что я могу сделать в Германии, если мой работодатель несправедливо уволил меня?"
+        "ru": "Что я могу сделать в Германии, если мой работодатель несправедливо уволил меня?",
+        "en": "What can I do in Germany if my employer has wrongfully dismissed me?",
+        "ua": "Що я можу зробити в Німеччині, якщо мене несправедливо звільнив роботодавець?"
       }
     },
     {
@@ -6253,35 +6633,45 @@
           "id": "a1",
           "translations": {
             "de": "zu einer anderen Religion übertritt.",
-            "ru": "перешёл в другую религию."
+            "ru": "перешёл в другую религию.",
+            "en": "converts to another religion.",
+            "ua": "переходить в іншу релігію."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "eine Straftat begangen hat und angeklagt wird.",
-            "ru": "совершил преступление и ему предъявлено обвинение."
+            "ru": "совершил преступление и ему предъявлено обвинение.",
+            "en": "has committed a crime and is charged.",
+            "ua": "вчинив злочин і йому висунули звинувачення."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "eine andere Meinung als die der Regierung vertritt.",
-            "ru": "не согласен с правительством."
+            "ru": "не согласен с правительством.",
+            "en": "has a different opinion from the government.",
+            "ua": "має іншу думку, ніж уряд."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "sein Auto falsch geparkt hat und es abgeschleppt wird.",
-            "ru": "неправильно припарковал машину и её отбуксировали."
+            "ru": "неправильно припарковал машину и её отбуксировали.",
+            "en": "has parked their car incorrectly and it gets towed.",
+            "ua": "неправильно припаркував автомобіль, і його евакуювали."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand ...",
-        "ru": "Когда в Германии можно обратиться в суд? Если кто-то. ."
+        "ru": "Когда в Германии можно обратиться в суд? Если кто-то. .",
+        "en": "When does a court case take place in Germany? When someone ...",
+        "ua": "Коли в Німеччині відбувається судовий процес? Коли хтось ..."
       }
     },
     {
@@ -6291,35 +6681,45 @@
           "id": "a1",
           "translations": {
             "de": "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
-            "ru": "решает с судьями вопрос о виновности и наказании."
+            "ru": "решает с судьями вопрос о виновности и наказании.",
+            "en": "decides with judges about guilt and punishment.",
+            "ua": "разом із суддями вирішує питання вини та покарання."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "gibt Bürgern / Bürgerinnen rechtlichen Rat.",
-            "ru": "предоставляет гражданам юридические консультации."
+            "ru": "предоставляет гражданам юридические консультации.",
+            "en": "gives legal advice to citizens.",
+            "ua": "надає юридичну консультацію громадянам."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "stellt Urkunden aus.",
-            "ru": "выдает документы."
+            "ru": "выдает документы.",
+            "en": "issues official documents.",
+            "ua": "видає документи."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "verteidigt den Angeklagten / die Angeklagte.",
-            "ru": "защищает подсудимого."
+            "ru": "защищает подсудимого.",
+            "en": "defends the accused.",
+            "ua": "захищає підсудного."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Was macht ein Schöffe / eine Schöffin in Deutschland? Er / Sie ...",
-        "ru": "Что делает народный заседатель в Германии? Он/она. ."
+        "ru": "Что делает народный заседатель в Германии? Он/она. .",
+        "en": "What does a lay judge do in Germany? He / she ...",
+        "ua": "Що робить присяжний у Німеччині? Він / вона ..."
       }
     },
     {
@@ -6329,35 +6729,45 @@
           "id": "a1",
           "translations": {
             "de": "ein Rechtsanwalt / eine Rechtsanwältin",
-            "ru": "адвокат"
+            "ru": "адвокат",
+            "en": "a lawyer",
+            "ua": "адвокат"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "ein Richter / eine Richterin",
-            "ru": "судья"
+            "ru": "судья",
+            "en": "a judge",
+            "ua": "суддя"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "ein Schöffe / eine Schöffin",
-            "ru": "народный заседатель"
+            "ru": "народный заседатель",
+            "en": "a lay judge",
+            "ua": "присяжний"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "ein Staatsanwalt / eine Staatsanwältin",
-            "ru": "прокурор"
+            "ru": "прокурор",
+            "en": "a public prosecutor",
+            "ua": "прокурор"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
-        "ru": "Кто консультирует людей по юридическим вопросам в Германии и представляет их интересы в суде?"
+        "ru": "Кто консультирует людей по юридическим вопросам в Германии и представляет их интересы в суде?",
+        "en": "Who advises people on legal matters in Germany and represents them in court?",
+        "ua": "Хто в Німеччині консультує людей з правових питань і представляє їх у суді?"
       }
     },
     {
@@ -6367,35 +6777,45 @@
           "id": "a1",
           "translations": {
             "de": "vertritt Bürger und Bürgerinnen vor einem Gericht.",
-            "ru": "представляет граждан в суде."
+            "ru": "представляет граждан в суде.",
+            "en": "represents citizens in court.",
+            "ua": "представляє громадян у суді."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "arbeitet an einem Gericht und spricht Urteile.",
-            "ru": "работает в суде и выносит решения"
+            "ru": "работает в суде и выносит решения",
+            "en": "works at a court and passes judgments.",
+            "ua": "працює в суді та виносить рішення."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "ändert Gesetze.",
-            "ru": "меняет законы."
+            "ru": "меняет законы.",
+            "en": "changes laws.",
+            "ua": "змінює закони."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "betreut Jugendliche vor Gericht.",
-            "ru": "присматривает за молодыми людьми в суде."
+            "ru": "присматривает за молодыми людьми в суде.",
+            "en": "takes care of young people in court.",
+            "ua": "опікується молоддю в суді."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland? Ein Richter / eine Richterin ...",
-        "ru": "Какова основная задача судьи в Германии? Судья..."
+        "ru": "Какова основная задача судьи в Германии? Судья...",
+        "en": "What is the main task of a judge in Germany? A judge ...",
+        "ua": "Яке основне завдання судді в Німеччині? Суддя ..."
       }
     },
     {
@@ -6405,35 +6825,45 @@
           "id": "a1",
           "translations": {
             "de": "Judikative.",
-            "ru": "судебной власти."
+            "ru": "судебной власти.",
+            "en": "judiciary.",
+            "ua": "судової влади."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Exekutive.",
-            "ru": "исполнительной власти."
+            "ru": "исполнительной власти.",
+            "en": "executive.",
+            "ua": "виконавчої влади."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Operative.",
-            "ru": "оперативной власти."
+            "ru": "оперативной власти.",
+            "en": "operational branch.",
+            "ua": "оперативної гілки."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Legislative.",
-            "ru": "законодательной власти."
+            "ru": "законодательной власти.",
+            "en": "legislature.",
+            "ua": "законодавчої влади."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Ein Richter / eine Richterin in Deutschland gehört zur ...",
-        "ru": "Судья в Германии относится к..."
+        "ru": "Судья в Германии относится к...",
+        "en": "A judge in Germany belongs to the ...",
+        "ua": "Суддя в Німеччині належить до ..."
       }
     },
     {
@@ -6443,35 +6873,45 @@
           "id": "a1",
           "translations": {
             "de": "vollziehenden Gewalt.",
-            "ru": "исполнительной власти."
+            "ru": "исполнительной власти.",
+            "en": "executive branch.",
+            "ua": "виконавчої влади."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "rechtsprechenden Gewalt.",
-            "ru": "судебной власти."
+            "ru": "судебной власти.",
+            "en": "judicial branch.",
+            "ua": "судової влади."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "planenden Gewalt.",
-            "ru": "планирующей власти."
+            "ru": "планирующей власти.",
+            "en": "planning authority.",
+            "ua": "планувальної влади."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "gesetzgebenden Gewalt.",
-            "ru": "законодательной власти."
+            "ru": "законодательной власти.",
+            "en": "legislative branch.",
+            "ua": "законодавчої влади."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Ein Richter / eine Richterin gehört in Deutschland zur ...",
-        "ru": "В Германии судья относится к ..."
+        "ru": "В Германии судья относится к ...",
+        "en": "In Germany, a judge belongs to the ...",
+        "ua": "У Німеччині суддя належить до ..."
       }
     },
     {
@@ -6481,35 +6921,45 @@
           "id": "a1",
           "translations": {
             "de": "Judikative.",
-            "ru": "судебную власть."
+            "ru": "судебную власть.",
+            "en": "judicial branch.",
+            "ua": "судову владу."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Exekutive.",
-            "ru": "исполнительную власть."
+            "ru": "исполнительную власть.",
+            "en": "executive branch.",
+            "ua": "виконавчу владу."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Presse.",
-            "ru": "прессу."
+            "ru": "прессу.",
+            "en": "press.",
+            "ua": "пресу."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Legislative.",
-            "ru": "законодательную ветвь."
+            "ru": "законодательную ветвь.",
+            "en": "legislative branch.",
+            "ua": "законодавчу владу."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter / eine Richterin? Für die ...",
-        "ru": "В Германии государственная власть разделена. На какую государственную власть работает судья? На ..."
+        "ru": "В Германии государственная власть разделена. На какую государственную власть работает судья? На ...",
+        "en": "In Germany, state authority is divided. Which branch of government does a judge work for? For the ...",
+        "ua": "У Німеччині державна влада поділена. На яку гілку влади працює суддя? На ..."
       }
     },
     {
@@ -6519,35 +6969,45 @@
           "id": "a1",
           "translations": {
             "de": "Programm",
-            "ru": "программа"
+            "ru": "программа",
+            "en": "program",
+            "ua": "програма"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Prozedur",
-            "ru": "процедура"
+            "ru": "процедура",
+            "en": "procedure",
+            "ua": "процедура"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Protokoll",
-            "ru": "протокол"
+            "ru": "протокол",
+            "en": "protocol",
+            "ua": "протокол"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Prozess",
-            "ru": "процесс"
+            "ru": "процесс",
+            "en": "trial",
+            "ua": "судовий процес"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
-        "ru": "Как называют разбирательство в суде в Германии?"
+        "ru": "Как называют разбирательство в суде в Германии?",
+        "en": "What is a legal proceeding in court called in Germany?",
+        "ua": "Як називається судовий розгляд у Німеччині?"
       }
     },
     {
@@ -6557,35 +7017,45 @@
           "id": "a1",
           "translations": {
             "de": "Deutschland regieren",
-            "ru": "править Германией"
+            "ru": "править Германией",
+            "en": "govern Germany",
+            "ua": "керувати Німеччиною"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Recht sprechen",
-            "ru": "вершить правосудие"
+            "ru": "вершить правосудие",
+            "en": "administer justice",
+            "ua": "здійснювати правосуддя"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Pläne erstellen",
-            "ru": "составлять планы"
+            "ru": "составлять планы",
+            "en": "create plans",
+            "ua": "розробляти плани"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Gesetze erlassen",
-            "ru": "принимать законы"
+            "ru": "принимать законы",
+            "en": "enact laws",
+            "ua": "ухвалювати закони"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
-        "de": "Was ist die Arbeit eines Richters / einer Richterin inDeutschland?",
-        "ru": "Что является работой судьи в Германии?"
+        "de": "Was ist die Arbeit eines Richters / einer Richterin in Deutschland?",
+        "ru": "Что является работой судьи в Германии?",
+        "en": "What is the job of a judge in Germany?",
+        "ua": "Яка робота судді в Німеччині?"
       }
     },
     {
@@ -6595,35 +7065,45 @@
           "id": "a1",
           "translations": {
             "de": "das Land zu verteidigen",
-            "ru": "защищать страну"
+            "ru": "защищать страну",
+            "en": "to defend the country",
+            "ua": "захищати країну"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "die Bürgerinnen und Bürger abzuhören",
-            "ru": "подслушивать граждан"
+            "ru": "подслушивать граждан",
+            "en": "to wiretap citizens",
+            "ua": "прослуховувати громадян"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die Gesetze zu beschließen",
-            "ru": "принимать законы"
+            "ru": "принимать законы",
+            "en": "to pass laws",
+            "ua": "ухвалювати закони"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Einhaltung von Gesetzen zu überwachen",
-            "ru": "контролировать соблюдение законов"
+            "ru": "контролировать соблюдение законов",
+            "en": "to monitor compliance with laws",
+            "ua": "контролювати дотримання законів"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Was ist eine Aufgabe der Polizei in Deutschland?",
-        "ru": "Какова задача полиции в Германии?"
+        "ru": "Какова задача полиции в Германии?",
+        "en": "What is a task of the police in Germany?",
+        "ua": "Яке завдання поліції в Німеччині?"
       }
     },
     {
@@ -6633,35 +7113,45 @@
           "id": "a1",
           "translations": {
             "de": "alle in Deutschland geborenen Einwohner / Einwohnerinnen über 18 Jahre",
-            "ru": "все жители старше 18 лет, родившиеся в Германии"
+            "ru": "все жители старше 18 лет, родившиеся в Германии",
+            "en": "all residents born in Germany over the age of 18",
+            "ua": "усі мешканці, народжені в Німеччині, віком понад 18 років"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "alle deutschen Staatsangehörigen älter als 24 und jünger als 70 Jahre",
-            "ru": "все граждане Германии старше 24 и моложе 70 лет"
+            "ru": "все граждане Германии старше 24 и моложе 70 лет",
+            "en": "all German citizens older than 24 and younger than 70",
+            "ua": "усі громадяни Німеччини, старші за 24 і молодші за 70 років"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "alle Personen, die seit mindestens 5 Jahren in Deutschland leben",
-            "ru": "все люди, прожившие в Германии не менее 5 лет"
+            "ru": "все люди, прожившие в Германии не менее 5 лет",
+            "en": "all persons who have lived in Germany for at least 5 years",
+            "ua": "усі особи, які прожили в Німеччині щонайменше 5 років"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "nur Personen mit einem abgeschlossenen Jurastudium",
-            "ru": "только люди с законченным юридическим образованием"
+            "ru": "только люди с законченным юридическим образованием",
+            "en": "only persons with a completed law degree",
+            "ua": "тільки особи з вищою юридичною освітою"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wer kann Gerichtsschöffe / Gerichtsschöffin in Deutschland werden?",
-        "ru": "Кто может стать присяжным заседателем в Германии?"
+        "ru": "Кто может стать присяжным заседателем в Германии?",
+        "en": "Who can become a lay judge (Schöffe) in Germany?",
+        "ua": "Хто може стати присяжним суддею (Schöffe) в Німеччині?"
       }
     },
     {
@@ -6671,35 +7161,45 @@
           "id": "a1",
           "translations": {
             "de": "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
-            "ru": "заместитель мэра."
+            "ru": "заместитель мэра.",
+            "en": "the deputy of the city leader.",
+            "ua": "заступник голови міста."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
-            "ru": "судья-волонтер"
+            "ru": "судья-волонтер",
+            "en": "a lay judge (volunteer judge).",
+            "ua": "суддя-доброволець (присяжний суддя)."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "ein Mitglied eines Gemeinderats.",
-            "ru": "член местного совета."
+            "ru": "член местного совета.",
+            "en": "a member of a municipal council.",
+            "ua": "член міської ради."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "eine Person, die Jura studiert hat.",
-            "ru": "человек, изучавший право."
+            "ru": "человек, изучавший право.",
+            "en": "a person who studied law.",
+            "ua": "особа, яка вивчала право."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Ein Gerichtsschöffe / eine Gerichtsschöffin in Deutschland ist ...",
-        "ru": "Присяжный заседатель в Германии - это..."
+        "ru": "Присяжный заседатель в Германии - это...",
+        "en": "A lay judge (Schöffe) in Germany is ...",
+        "ua": "Присяжний суддя (Schöffe) в Німеччині — це ..."
       }
     },
     {
@@ -7725,7 +8225,7 @@
       "correctAnswerId": "a2",
       "translations": {
         "de": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
-        "ru": "Каким городом Германии после Второй мировой войны был разделен на четыре сектора?"
+        "ru": "Какой город Германии после Второй мировой войны был разделен на четыре сектора?"
       }
     },
     {
@@ -10190,7 +10690,7 @@
         {
           "id": "a4",
           "translations": {
-            "de": "— die Schulen",
+            "de": "die Schulen",
             "ru": "школы"
           }
         }
@@ -10214,15 +10714,15 @@
         {
           "id": "a2",
           "translations": {
-            "de": "— Sie müssen die Demonstration anmelden.",
-            "ru": "- Они должны зарегистрировать демонстрацию."
+            "de": "Sie müssen die Demonstration anmelden.",
+            "ru": "Они должны зарегистрировать демонстрацию."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
-            "ru": "— Они не могут ничего сделать, потому что демонстрации в Германии в принципе запрещены."
+            "ru": "Они не могут ничего сделать, потому что демонстрации в Германии в принципе запрещены."
           }
         },
         {
