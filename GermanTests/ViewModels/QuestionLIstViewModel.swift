@@ -24,11 +24,11 @@ class QuestionViewModel {
         return questions[currentIndex]
     }
 
-    init(mode: ExamMode) {
+    init(mode: TestMode) {
         loadQuestions(for: mode)
     }
 
-    func loadQuestions(for mode: ExamMode) {
+    func loadQuestions(for mode: TestMode) {
         guard let url = Bundle.main.url(forResource: "questions", withExtension: "json"),
               let data = try? Data(contentsOf: url),
               let result = try? JSONDecoder().decode(QuestionList.self, from: data)

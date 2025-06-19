@@ -25,7 +25,7 @@
 		95E1AE832DF2EE9900B9F50D /* success.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 95E1AE822DF2EE9900B9F50D /* success.m4a */; };
 		95E1AE892DF5AD2A00B9F50D /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE882DF5AD2A00B9F50D /* MainTabView.swift */; };
 		95E1AE8B2DF5AD3A00B9F50D /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */; };
-		95E1AE8D2DF5AD7500B9F50D /* ExamStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8C2DF5AD7500B9F50D /* ExamStartView.swift */; };
+		95E1AE8D2DF5AD7500B9F50D /* TestStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8C2DF5AD7500B9F50D /* TestStartView.swift */; };
 		95F8820F2E03536300E90CBE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F8820E2E03536300E90CBE /* Constants.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,7 +49,7 @@
 		95E1AE822DF2EE9900B9F50D /* success.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = success.m4a; sourceTree = "<group>"; };
 		95E1AE882DF5AD2A00B9F50D /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
 		95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
-		95E1AE8C2DF5AD7500B9F50D /* ExamStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamStartView.swift; sourceTree = "<group>"; };
+		95E1AE8C2DF5AD7500B9F50D /* TestStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestStartView.swift; sourceTree = "<group>"; };
 		95F8820E2E03536300E90CBE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -131,7 +131,7 @@
 				95E1AE622DF2C8A300B9F50D /* QuestionListView.swift */,
 				95E1AE882DF5AD2A00B9F50D /* MainTabView.swift */,
 				95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */,
-				95E1AE8C2DF5AD7500B9F50D /* ExamStartView.swift */,
+				95E1AE8C2DF5AD7500B9F50D /* TestStartView.swift */,
 				95092C9E2DFF573800520985 /* LanguageDropdownMenu.swift */,
 				95092CA22E00366D00520985 /* SettingsView.swift */,
 				95092CA42E00368100520985 /* LanguageSelectionView.swift */,
@@ -245,7 +245,7 @@
 				95092CA12E002FAD00520985 /* Language.swift in Sources */,
 				95E1AE632DF2C8A300B9F50D /* QuestionListView.swift in Sources */,
 				95092CA52E00368100520985 /* LanguageSelectionView.swift in Sources */,
-				95E1AE8D2DF5AD7500B9F50D /* ExamStartView.swift in Sources */,
+				95E1AE8D2DF5AD7500B9F50D /* TestStartView.swift in Sources */,
 				95E1AE592DF20A6D00B9F50D /* ExamQuestion.swift in Sources */,
 				95E1AE612DF2C84400B9F50D /* QuestionLIstViewModel.swift in Sources */,
 				95F8820F2E03536300E90CBE /* Constants.swift in Sources */,

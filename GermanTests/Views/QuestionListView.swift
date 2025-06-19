@@ -10,7 +10,7 @@ import AVFoundation
 import Foundation
 import UIKit
 
-enum ExamMode: Equatable {
+enum TestMode: Equatable {
     case practice
     case test(Int)
 }
@@ -36,16 +36,16 @@ struct QuestionListView: View {
     @State private var showExitAlert = false
 
     private let sessionID: UUID
-    let mode: ExamMode
-    var onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool, _ time: Int) -> Void)? = nil
+    let mode: TestMode
+    var onTestFinished: ((_ correct: Int, _ total: Int, _ passed: Bool, _ time: Int) -> Void)? = nil
     let onCancel: (() -> Void)?
 
-    init(mode: ExamMode = .practice, sessionID: UUID = UUID(), onCancel: (() -> Void)? = nil, onExamFinished: ((_ correct: Int, _ total: Int, _ passed: Bool, _ time: Int) -> Void)? = nil) {
+    init(mode: TestMode = .practice, sessionID: UUID = UUID(), onCancel: (() -> Void)? = nil, onTestFinished: ((_ correct: Int, _ total: Int, _ passed: Bool, _ time: Int) -> Void)? = nil) {
         _viewModel = State(wrappedValue: QuestionViewModel(mode: mode))
         self.mode = mode
         self.sessionID = sessionID
         self.onCancel = onCancel
-        self.onExamFinished = onExamFinished
+        self.onTestFinished = onTestFinished
     }
     
     private var timerView: some View {
@@ -136,7 +136,7 @@ struct QuestionListView: View {
         }
     }
     
-    @ViewBuilder private func questionView(for question: ExamQuestion, mode: ExamMode) -> some View {
+    @ViewBuilder private func questionView(for question: ExamQuestion, mode: TestMode) -> some View {
         switch mode {
         case .practice:
             VStack(alignment: .leading, spacing: 0) {
@@ -431,7 +431,7 @@ struct QuestionListView: View {
             viewModel.currentIndex += 1
             viewModel.selectedAnswer = nil
         } else {
-            finishExam()
+            finishTest()
         }
     }
 
@@ -441,7 +441,7 @@ struct QuestionListView: View {
             if remainingSeconds > 0 {
                 remainingSeconds -= 1
             } else {
-                finishExam()
+                finishTest()
             }
             
             if remainingSeconds < Constants.warningRemainingSeconds {
@@ -450,10 +450,10 @@ struct QuestionListView: View {
         }
     }
 
-    private func finishExam() {
+    private func finishTest() {
         timer?.invalidate()
         let passed = correctAnswers > viewModel.questions.count / 2
-        onExamFinished?(correctAnswers, viewModel.questions.count, passed, UserDefaults.standard.integer(forKey: "testDuration") * 60 - remainingSeconds)
+        onTestFinished?(correctAnswers, viewModel.questions.count, passed, UserDefaults.standard.integer(forKey: "testDuration") * 60 - remainingSeconds)
     }
 }
 

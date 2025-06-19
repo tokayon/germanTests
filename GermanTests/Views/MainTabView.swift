@@ -16,7 +16,7 @@ struct MainTabView: View {
                     Label("Practice", systemImage: "book.fill")
                 }
 
-            ExamStartView()
+            TestStartView()
                 .tabItem {
                     Label("Test", systemImage: "checkmark.square.fill")
                 }

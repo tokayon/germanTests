@@ -1,5 +1,5 @@
 //
-//  ExamStartView.swift
+//  TestStartView.swift
 //  GermanTests
 //
 //  Created by Serge Sinkevych on 6/8/25.
@@ -9,13 +9,13 @@ import Foundation
 import SwiftUI
 import AVFoundation
 
-struct ExamStartView: View {
+struct TestStartView: View {
     
     private struct Constants {
         static let questionsCount: Int = 33
     }
     
-    @State private var isExamStarted = false
+    @State private var isTestStarted = false
     @State private var showResult = false
     @State private var resultData: ExamResultData? = nil
     @State private var sessionID = UUID()
@@ -41,7 +41,7 @@ struct ExamStartView: View {
                     .padding(.horizontal)
 
                 Button(action: {
-                    isExamStarted = true
+                    isTestStarted = true
                 }) {
                     Text("Start")
                         .font(.system(size: 24, weight: .semibold))
@@ -57,16 +57,16 @@ struct ExamStartView: View {
                 Spacer()
             }
             .navigationTitle("Test")
-            .fullScreenCover(isPresented: $isExamStarted, onDismiss: {
+            .fullScreenCover(isPresented: $isTestStarted, onDismiss: {
                 // Optional logic after dismiss
             }) {
                 let onCancel: () -> Void = {
-                    self.isExamStarted = false
+                    self.isTestStarted = false
                 }
                 
                 return QuestionListView(mode: .test(Constants.questionsCount), sessionID: sessionID, onCancel: onCancel) { correct, total, passed, time in
                     self.resultData = ExamResultData(correct: correct, total: total, passed: passed, time: time)
-                    self.isExamStarted = false
+                    self.isTestStarted = false
                     self.sessionID = UUID()
                     
                     // Play appropriate sound
