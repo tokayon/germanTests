@@ -17,9 +17,10 @@ struct LanguageSelectionView: View {
                 selectedLanguage = lang.rawValue
             }) {
                 HStack {
-                    Text(lang.label)
-                    Spacer()
                     Text(lang.flag)
+                    Text(lang.label)
+
+                    Spacer()
                     if lang.rawValue == selectedLanguage {
                         Image(systemName: "checkmark")
                             .foregroundColor(.blue)
