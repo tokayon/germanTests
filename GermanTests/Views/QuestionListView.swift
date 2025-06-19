@@ -206,7 +206,7 @@ struct QuestionListView: View {
                     Spacer()
                 }
                 
-                examButtonView
+                continueButtonView
             }
             .padding(.horizontal)
         }
@@ -237,6 +237,9 @@ struct QuestionListView: View {
                     .padding()
                     .contentShape(Rectangle())
                     .onTapGesture {
+                        if case .test = mode, viewModel.selectedAnswer != nil {
+                            return
+                        }
                         viewModel.selectedAnswer = answer
                         
                         if answer.id == question.correctAnswerId {
@@ -321,11 +324,11 @@ struct QuestionListView: View {
         .padding(.bottom)
     }
     
-    private var examButtonView: some View {
+    private var continueButtonView: some View {
         HStack {
             Spacer()
             Button(action: {
-                advanceExam()
+                continueTest()
             }) {
                 Image(systemName: "arrowshape.forward.circle.fill")
                     .font(.system(size: 50, weight: .semibold))
@@ -333,13 +336,13 @@ struct QuestionListView: View {
                     .contentShape(Rectangle())
             }
             .accessibilityLabel("Weiter")
-            .disabled(isExamButtonDisabled)
+            .disabled(isContinueButtonEnabled)
 
             Spacer()
         }
     }
     
-    private var isExamButtonDisabled: Bool {
+    private var isContinueButtonEnabled: Bool {
         viewModel.currentIndex == viewModel.questions.count ||
         viewModel.selectedAnswer == nil
     }
@@ -420,7 +423,7 @@ struct QuestionListView: View {
         generator.notificationOccurred(.error)
     }
     
-    private func advanceExam() {
+    private func continueTest() {
         if viewModel.currentIndex < viewModel.questions.count - 1 {
             viewModel.currentIndex += 1
             viewModel.selectedAnswer = nil
