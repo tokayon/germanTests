@@ -19,7 +19,6 @@ struct QuestionListView: View {
     
     private struct Constants {
         static let autoAdvancedDelay: TimeInterval = 1
-        static let correctAnswersToPass: Int = 17
         static let warningRemainingSeconds: Int = 60
     }
     
@@ -453,7 +452,7 @@ struct QuestionListView: View {
 
     private func finishExam() {
         timer?.invalidate()
-        let passed = correctAnswers >= Constants.correctAnswersToPass
+        let passed = correctAnswers > viewModel.questions.count / 2
         onExamFinished?(correctAnswers, viewModel.questions.count, passed, UserDefaults.standard.integer(forKey: "testDuration") * 60 - remainingSeconds)
     }
 }
