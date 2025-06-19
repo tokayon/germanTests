@@ -7209,35 +7209,45 @@
           "id": "a1",
           "translations": {
             "de": "Großbritannien",
-            "ru": "Великобритания"
+            "ru": "Великобритания",
+            "en": "Great Britain",
+            "ua": "Велика Британія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "die Bundesrepublik Deutschland",
-            "ru": "Федеративная Республика Германия"
+            "ru": "Федеративная Республика Германия",
+            "en": "the Federal Republic of Germany",
+            "ua": "Федеративна Республіка Німеччина"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die DDR",
-            "ru": "ГДР"
+            "ru": "ГДР",
+            "en": "the GDR (German Democratic Republic)",
+            "ua": "НДР (Німецька Демократична Республіка)"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die USA",
-            "ru": "США"
+            "ru": "США",
+            "en": "the USA",
+            "ua": "США"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wer baute die Mauer in Berlin?",
-        "ru": "Кто построил стену в Берлине?"
+        "ru": "Кто построил стену в Берлине?",
+        "en": "Who built the Berlin Wall?",
+        "ua": "Хто збудував Берлінський мур?"
       }
     },
     {
@@ -7246,36 +7256,46 @@
         {
           "id": "a1",
           "translations": {
-            "de": "1918 bis 1923",
-            "ru": "1918-1923"
+            "de": "1918-1923",
+            "ru": "1918-1923",
+            "en": "1918-1923",
+            "ua": "1918–1923"
           }
         },
         {
           "id": "a2",
           "translations": {
-            "de": "1932 bis 1950",
-            "ru": "1932-1950"
+            "de": "1932-1950",
+            "ru": "1932-1950",
+            "en": "1932-1950",
+            "ua": "1932–1950"
           }
         },
         {
           "id": "a3",
           "translations": {
-            "de": "1933 bis 1945",
-            "ru": "1933-1945"
+            "de": "1933-1945",
+            "ru": "1933-1945",
+            "en": "1933-1945",
+            "ua": "1933–1945"
           }
         },
         {
           "id": "a4",
           "translations": {
-            "de": "1945 bis 1989",
-            "ru": "1945-1989"
+            "de": "1945-1989",
+            "ru": "1945-1989",
+            "en": "1945-1989",
+            "ua": "1945–1989"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
-        "ru": "Когда к власти в Германии пришли национал-социалисты во главе с Адольфом Гитлером?"
+        "ru": "Когда к власти в Германии пришли национал-социалисты во главе с Адольфом Гитлером?",
+        "en": "When were the National Socialists under Adolf Hitler in power in Germany?",
+        "ua": "Коли націонал-соціалісти на чолі з Адольфом Гітлером були при владі в Німеччині?"
       }
     },
     {
@@ -7285,35 +7305,45 @@
           "id": "a1",
           "translations": {
             "de": "Tod Adolf Hitlers",
-            "ru": "Смерть Адольфа Гитлера"
+            "ru": "Смерть Адольфа Гитлера",
+            "en": "Death of Adolf Hitler",
+            "ua": "Смерть Адольфа Гітлера"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Beginn des Berliner Mauerbaus",
-            "ru": "Начало строительства Берлинской стены"
+            "ru": "Начало строительства Берлинской стены",
+            "en": "Start of the construction of the Berlin Wall",
+            "ua": "Початок будівництва Берлінської стіни"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Wahl von Konrad Adenauer zum Bundeskanzler",
-            "ru": "Избрание Конрада Аденауэра федеральным канцлером"
+            "ru": "Избрание Конрада Аденауэра федеральным канцлером",
+            "en": "Election of Konrad Adenauer as Federal Chancellor",
+            "ua": "Обрання Конрада Аденауера федеральним канцлером"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Ende des Zweiten Weltkriegs in Europa",
-            "ru": "Конец Второй мировой войны в Европе"
+            "ru": "Конец Второй мировой войны в Европе",
+            "en": "End of World War II in Europe",
+            "ua": "Кінець Другої світової війни в Європі"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Was war am 8. Mai 1945?",
-        "ru": "Что произошло 8 мая 1945 года?"
+        "ru": "Что произошло 8 мая 1945 года?",
+        "en": "What happened on May 8, 1945?",
+        "ua": "Що сталося 8 травня 1945 року?"
       }
     },
     {
@@ -7323,35 +7353,45 @@
           "id": "a1",
           "translations": {
             "de": "1933",
-            "ru": "1933 г."
+            "ru": "1933 г.",
+            "en": "1933",
+            "ua": "1933 р."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1945",
-            "ru": "1945 г."
+            "ru": "1945 г.",
+            "en": "1945",
+            "ua": "1945 р."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1949",
-            "ru": "1949 г."
+            "ru": "1949 г.",
+            "en": "1949",
+            "ua": "1949 р."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1961",
-            "ru": "1961 г."
+            "ru": "1961 г.",
+            "en": "1961",
+            "ua": "1961 р."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wann war der Zweite Weltkrieg zu Ende?",
-        "ru": "Когда закончилась Вторая мировая война?"
+        "ru": "Когда закончилась Вторая мировая война?",
+        "en": "When did the Second World War end?",
+        "ua": "Коли закінчилася Друга світова війна?"
       }
     },
     {
@@ -7361,35 +7401,45 @@
           "id": "a1",
           "translations": {
             "de": "1888 bis 1918",
-            "ru": "1888-1918"
+            "ru": "1888-1918",
+            "en": "1888 to 1918",
+            "ua": "1888–1918"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1921 bis 1934",
-            "ru": "1921-1934"
+            "ru": "1921-1934",
+            "en": "1921 to 1934",
+            "ua": "1921–1934"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1933 bis 1945",
-            "ru": "1933-1945"
+            "ru": "1933-1945",
+            "en": "1933 to 1945",
+            "ua": "1933–1945"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1949 bis 1963",
-            "ru": "1949-1963"
+            "ru": "1949-1963",
+            "en": "1949 to 1963",
+            "ua": "1949–1963"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
-        "ru": "Когда национал-социалисты были у власти в Германии?"
+        "ru": "Когда национал-социалисты были у власти в Германии?",
+        "en": "When were the National Socialists in power in Germany?",
+        "ua": "Коли націонал-соціалісти були при владі в Німеччині?"
       }
     },
     {
@@ -7399,35 +7449,45 @@
           "id": "a1",
           "translations": {
             "de": "1923",
-            "ru": "1923 г."
+            "ru": "1923 г.",
+            "en": "1923",
+            "ua": "1923 р."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1927",
-            "ru": "1927 г."
+            "ru": "1927 г.",
+            "en": "1927",
+            "ua": "1927 р."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1933",
-            "ru": "1933 г."
+            "ru": "1933 г.",
+            "en": "1933",
+            "ua": "1933 р."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1936",
-            "ru": "1936 г."
+            "ru": "1936 г.",
+            "en": "1936",
+            "ua": "1936 р."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "In welchem Jahr wurde Hitler Reichskanzler?",
-        "ru": "В каком году Гитлер стал канцлером?"
+        "ru": "В каком году Гитлер стал канцлером?",
+        "en": "In what year did Hitler become Chancellor?",
+        "ua": "У якому році Гітлер став рейхсканцлером?"
       }
     },
     {
@@ -7437,35 +7497,45 @@
           "id": "a1",
           "translations": {
             "de": "eine Diktatur.",
-            "ru": "диктатуру."
+            "ru": "диктатуру.",
+            "en": "a dictatorship.",
+            "ua": "диктатуру."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "einen demokratischen Staat.",
-            "ru": "демократическое государство."
+            "ru": "демократическое государство.",
+            "en": "a democratic state.",
+            "ua": "демократичну державу."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "eine Monarchie.",
-            "ru": "монархию."
+            "ru": "монархию.",
+            "en": "a monarchy.",
+            "ua": "монархію."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "ein Fürstentum.",
-            "ru": "княжество."
+            "ru": "княжество.",
+            "en": "a principality.",
+            "ua": "князівство."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland ...",
-        "ru": "Национал-социалисты вместе с Адольфом Гитлером построили в 1933 году в Германии ..."
+        "ru": "Национал-социалисты вместе с Адольфом Гитлером построили в 1933 году в Германии ...",
+        "en": "In 1933, the National Socialists led by Adolf Hitler established ... in Germany.",
+        "ua": "У 1933 році націонал-соціалісти під проводом Адольфа Гітлера створили в Німеччині ..."
       }
     },
     {
@@ -7475,35 +7545,45 @@
           "id": "a1",
           "translations": {
             "de": "Diktatur.",
-            "ru": "диктатурой"
+            "ru": "диктатурой",
+            "en": "dictatorship.",
+            "ua": "диктатурою"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Demokratie.",
-            "ru": "демократией"
+            "ru": "демократией",
+            "en": "democracy.",
+            "ua": "демократією"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Monarchie.",
-            "ru": "монархией"
+            "ru": "монархией",
+            "en": "monarchy.",
+            "ua": "монархією"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Räterepublik.",
-            "ru": "Советской республикой"
+            "ru": "Советской республикой",
+            "en": "Soviet republic.",
+            "ua": "радянською республікою"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Das -Dritte Reich- war eine ...",
-        "ru": "Третий Рейх был..."
+        "ru": "Третий Рейх был...",
+        "en": "The 'Third Reich' was a ...",
+        "ua": "«Третій Рейх» був ..."
       }
     },
     {
@@ -7513,35 +7593,45 @@
           "id": "a1",
           "translations": {
             "de": "freie Wahlen",
-            "ru": "свободных выборов"
+            "ru": "свободных выборов",
+            "en": "free elections",
+            "ua": "вільних виборів"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Pressezensur",
-            "ru": "цензуры прессы"
+            "ru": "цензуры прессы",
+            "en": "press censorship",
+            "ua": "цензури преси"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "willkürliche Verhaftungen",
-            "ru": "произвольных арестов"
+            "ru": "произвольных арестов",
+            "en": "arbitrary arrests",
+            "ua": "довільних арештів"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Verfolgung der Juden",
-            "ru": "преследования евреев"
+            "ru": "преследования евреев",
+            "en": "persecution of Jews",
+            "ua": "переслідування євреїв"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
-        "ru": "Чего не было в Германии во время национал-социализма?"
+        "ru": "Чего не было в Германии во время национал-социализма?",
+        "en": "What did not exist in Germany during the National Socialist era?",
+        "ua": "Чого не було в Німеччині за часів націонал-соціалізму?"
       }
     },
     {
@@ -7551,35 +7641,45 @@
           "id": "a1",
           "translations": {
             "de": "der Erste Weltkrieg",
-            "ru": "Первая мировая война"
+            "ru": "Первая мировая война",
+            "en": "the First World War",
+            "ua": "Перша світова війна"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "der Zweite Weltkrieg",
-            "ru": "Вторая мировая война"
+            "ru": "Вторая мировая война",
+            "en": "the Second World War",
+            "ua": "Друга світова війна"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "der Vietnamkrieg",
-            "ru": "Вьетнамская война"
+            "ru": "Вьетнамская война",
+            "en": "the Vietnam War",
+            "ua": "В’єтнамська війна"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "der Golfkrieg",
-            "ru": "война в Персидском заливе"
+            "ru": "война в Персидском заливе",
+            "en": "the Gulf War",
+            "ua": "війна в Перській затоці"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Welcher Krieg dauerte von 1939 bis 1945?",
-        "ru": "Какая война длилась с 1939 по 1945 год?"
+        "ru": "Какая война длилась с 1939 по 1945 год?",
+        "en": "Which war lasted from 1939 to 1945?",
+        "ua": "Яка війна тривала з 1939 до 1945 року?"
       }
     },
     {
@@ -7589,35 +7689,45 @@
           "id": "a1",
           "translations": {
             "de": "des staatlichen Rassismus",
-            "ru": "государственного расизма"
+            "ru": "государственного расизма",
+            "en": "of state racism",
+            "ua": "державного расизму"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "der Meinungsfreiheit",
-            "ru": "свободы выражения"
+            "ru": "свободы выражения",
+            "en": "of freedom of expression",
+            "ua": "свободи слова"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "der allgemeinen Religionsfreiheit",
-            "ru": "общей религиозной свободы"
+            "ru": "общей религиозной свободы",
+            "en": "of general religious freedom",
+            "ua": "загальної релігійної свободи"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "der Entwicklung der Demokratie",
-            "ru": "развития демократии"
+            "ru": "развития демократии",
+            "en": "of democratic development",
+            "ua": "розвитку демократії"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Was kennzeichnete den NS-Staat? Eine Politik ...",
-        "ru": "Что характеризовало нацистское государство? Политика.."
+        "ru": "Что характеризовало нацистское государство? Политика...",
+        "en": "What characterized the Nazi state? A policy of ...",
+        "ua": "Що характеризувало нацистську державу? Політика ..."
       }
     },
     {
@@ -7627,35 +7737,45 @@
           "id": "a1",
           "translations": {
             "de": "eine Goldmedaille bei den Olympischen Spielen 1936.",
-            "ru": "золотой медали на Олимпийских играх 1936 года."
+            "ru": "золотой медали на Олимпийских играх 1936 года.",
+            "en": "a gold medal at the 1936 Olympic Games.",
+            "ua": "золотої медалі на Олімпійських іграх 1936 року."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "den Bau des Reichstagsgebäudes.",
-            "ru": "строительству здания Рейхстага."
+            "ru": "строительству здания Рейхстага.",
+            "en": "the construction of the Reichstag building.",
+            "ua": "будівництву будівлі Рейхстагу."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "den Aufbau der Wehrmacht.",
-            "ru": "строительству Вермахта."
+            "ru": "строительству Вермахта.",
+            "en": "the build-up of the Wehrmacht.",
+            "ua": "створенню Вермахту."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "das Attentat auf Hitler am 20. Juli 1944.",
-            "ru": "покушению на Гитлера 20 июля 1944 года."
+            "ru": "покушению на Гитлера 20 июля 1944 года.",
+            "en": "the assassination attempt on Hitler on July 20, 1944.",
+            "ua": "замаху на Гітлера 20 липня 1944 року."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Claus Schenk Graf von Stauffenberg wurde bekannt durch ...",
-        "ru": "Клаус Шенк граф фон Штауффенберг стал известен благодаря..."
+        "ru": "Клаус Шенк граф фон Штауффенберг стал известен благодаря...",
+        "en": "Claus Schenk Graf von Stauffenberg became known for ...",
+        "ua": "Клаус Шенк граф фон Штауффенберг став відомим завдяки ..."
       }
     },
     {
@@ -7665,35 +7785,45 @@
           "id": "a1",
           "translations": {
             "de": "1925",
-            "ru": "1925"
+            "ru": "1925",
+            "en": "1925",
+            "ua": "1925"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1930",
-            "ru": "1930"
+            "ru": "1930",
+            "en": "1930",
+            "ua": "1930"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1938",
-            "ru": "1938"
+            "ru": "1938",
+            "en": "1938",
+            "ua": "1938"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1945",
-            "ru": "1945"
+            "ru": "1945",
+            "en": "1945",
+            "ua": "1945"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
-        "ru": "В каком году национал-социалисты разрушили синагоги и еврейские магазины в Германии?"
+        "ru": "В каком году национал-социалисты разрушили синагоги и еврейские магазины в Германии?",
+        "en": "In what year did the National Socialists destroy synagogues and Jewish businesses in Germany?",
+        "ua": "У якому році націонал-соціалісти знищили синагоги та єврейські магазини в Німеччині?"
       }
     },
     {
@@ -7703,35 +7833,45 @@
           "id": "a1",
           "translations": {
             "de": "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
-            "ru": "С нападения на Польшу начинается Вторая мировая война."
+            "ru": "С нападения на Польшу начинается Вторая мировая война.",
+            "en": "The Second World War begins with the attack on Poland.",
+            "ua": "Друга світова війна починається з нападу на Польщу."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
-            "ru": "Национал-социалисты проигрывают выборы и распускают Рейхстаг."
+            "ru": "Национал-социалисты проигрывают выборы и распускают Рейхстаг.",
+            "en": "The National Socialists lose an election and dissolve the Reichstag.",
+            "ua": "Націонал-соціалісти програють вибори і розпускають Рейхстаг."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
-            "ru": "Еврейские магазины и синагоги разрушаются нацистами и их сторонниками."
+            "ru": "Еврейские магазины и синагоги разрушаются нацистами и их сторонниками.",
+            "en": "Jewish shops and synagogues are destroyed by National Socialists and their supporters.",
+            "ua": "Єврейські магазини та синагоги знищуються націонал-соціалістами та їхніми прихильниками."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Hitler wird Reichspräsident und lässt alle Parteien verbieten.",
-            "ru": "Гитлер становится президентом Рейха и запрещает все партии."
+            "ru": "Гитлер становится президентом Рейха и запрещает все партии.",
+            "en": "Hitler becomes Reich President and bans all political parties.",
+            "ua": "Гітлер стає президентом Рейху та забороняє всі політичні партії."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was passierte am 9. November 1938 in Deutschland?",
-        "ru": "Что произошло в Германии 9 ноября 1938 года?"
+        "ru": "Что произошло в Германии 9 ноября 1938 года?",
+        "en": "What happened in Germany on November 9, 1938?",
+        "ua": "Що сталося в Німеччині 9 листопада 1938 року?"
       }
     },
     {
@@ -7741,35 +7881,45 @@
           "id": "a1",
           "translations": {
             "de": "Konrad Adenauer",
-            "ru": "Конрад Аденауэр"
+            "ru": "Конрад Аденауэр",
+            "en": "Konrad Adenauer",
+            "ua": "Конрад Аденауер"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Kurt Georg Kiesinger",
-            "ru": "Курт Георг Кизингер"
+            "ru": "Курт Георг Кизингер",
+            "en": "Kurt Georg Kiesinger",
+            "ua": "Курт Георг Кізінґер"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Helmut Schmidt",
-            "ru": "Гельмут Шмидт"
+            "ru": "Гельмут Шмидт",
+            "en": "Helmut Schmidt",
+            "ua": "Гельмут Шмідт"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Willy Brandt",
-            "ru": "Вилли Брандт"
+            "ru": "Вилли Брандт",
+            "en": "Willy Brandt",
+            "ua": "Віллі Брандт"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
-        "ru": "Как звали первого канцлера ФРГ?"
+        "ru": "Как звали первого канцлера ФРГ?",
+        "en": "What was the name of the first Chancellor of the Federal Republic of Germany?",
+        "ua": "Як звали першого канцлера Федеративної Республіки Німеччина?"
       }
     },
     {
@@ -7779,35 +7929,45 @@
           "id": "a1",
           "translations": {
             "de": "bei den Montagsdemonstrationen 1989 in der DDR",
-            "ru": "на демонстрациях по понедельникам в 1989 году в ГДР."
+            "ru": "на демонстрациях по понедельникам в 1989 году в ГДР.",
+            "en": "at the Monday demonstrations in 1989 in the GDR",
+            "ua": "на понеділкових демонстраціях 1989 року в НДР"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "beim Arbeiteraufstand 1953 in der DDR",
-            "ru": "во время рабочего восстания в ГДР в 1953 г."
+            "ru": "во время рабочего восстания в ГДР в 1953 г.",
+            "en": "during the workers' uprising in 1953 in the GDR",
+            "ua": "під час повстання робітників у 1953 році в НДР"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
-            "ru": "на демонстрациях 1968 года в ФРГ."
+            "ru": "на демонстрациях 1968 года в ФРГ.",
+            "en": "at the 1968 demonstrations in the Federal Republic of Germany",
+            "ua": "на демонстраціях 1968 року у Федеративній Республіці Німеччина"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
-            "ru": "на антиядерных демонстрациях 1985 года в Федеративной Республике Германия."
+            "ru": "на антиядерных демонстрациях 1985 года в Федеративной Республике Германия.",
+            "en": "at the anti-nuclear demonstrations in 1985 in the Federal Republic of Germany",
+            "ua": "на антиядерних демонстраціях 1985 року у Федеративній Республіці Німеччина"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Bei welchen Demonstrationen in Deutschland riefen die Menschen -Wir sind das Volk-?",
-        "ru": "На каких демонстрациях в Германии люди кричали: «Мы — народ»?"
+        "ru": "На каких демонстрациях в Германии люди кричали: «Мы — народ»?",
+        "en": "At which demonstrations in Germany did people shout 'We are the people'?",
+        "ua": "На яких демонстраціях у Німеччині люди вигукували: «Ми — народ»?"
       }
     },
     {
@@ -7817,35 +7977,45 @@
           "id": "a1",
           "translations": {
             "de": "Sowjetunion, Großbritannien, Polen, Schweden",
-            "ru": "Советский Союз, Великобритания, Польша, Швеция."
+            "ru": "Советский Союз, Великобритания, Польша, Швеция.",
+            "en": "Soviet Union, Great Britain, Poland, Sweden",
+            "ua": "Радянський Союз, Велика Британія, Польща, Швеція"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Frankreich, Sowjetunion, Italien, Japan",
-            "ru": "Франция, Советский Союз, Италия, Япония"
+            "ru": "Франция, Советский Союз, Италия, Япония",
+            "en": "France, Soviet Union, Italy, Japan",
+            "ua": "Франція, Радянський Союз, Італія, Японія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "USA, Sowjetunion, Spanien, Portugal",
-            "ru": "США, СССР, Испания, Португалия"
+            "ru": "США, СССР, Испания, Португалия",
+            "en": "USA, Soviet Union, Spain, Portugal",
+            "ua": "США, Радянський Союз, Іспанія, Португалія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "USA, Sowjetunion, Großbritannien, Frankreich",
-            "ru": "США, СССР, Великобритания, Франция"
+            "ru": "США, СССР, Великобритания, Франция",
+            "en": "USA, Soviet Union, Great Britain, France",
+            "ua": "США, Радянський Союз, Велика Британія, Франція"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als -Alliierte Besatzungsmächte- bezeichnet?",
-        "ru": "Какие страны назывались в Германии «союзными оккупационными державами» после Второй мировой войны?"
+        "ru": "Какие страны назывались в Германии «союзными оккупационными державами» после Второй мировой войны?",
+        "en": "Which countries were referred to as 'Allied occupying powers' in Germany after World War II?",
+        "ua": "Які країни називалися в Німеччині «союзними окупаційними державами» після Другої світової війни?"
       }
     },
     {
@@ -7855,35 +8025,45 @@
           "id": "a1",
           "translations": {
             "de": "USA",
-            "ru": "США"
+            "ru": "США",
+            "en": "USA",
+            "ua": "США"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Sowjetunion",
-            "ru": "Советский Союз"
+            "ru": "Советский Союз",
+            "en": "Soviet Union",
+            "ua": "Радянський Союз"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Frankreich",
-            "ru": "Франция"
+            "ru": "Франция",
+            "en": "France",
+            "ua": "Франція"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Japan",
-            "ru": "Япония"
+            "ru": "Япония",
+            "en": "Japan",
+            "ua": "Японія"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Welches Land war keine -Alliierte Besatzungsmacht- in Deutschland?",
-        "ru": "Какая страна не была «союзной оккупационной державой» в Германии?"
+        "ru": "Какая страна не была «союзной оккупационной державой» в Германии?",
+        "en": "Which country was not an 'Allied occupying power' in Germany?",
+        "ua": "Яка країна не була «союзною окупаційною державою» в Німеччині?"
       }
     },
     {
@@ -7893,35 +8073,45 @@
           "id": "a1",
           "translations": {
             "de": "1939",
-            "ru": "1939"
+            "ru": "1939",
+            "en": "1939",
+            "ua": "1939"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1945",
-            "ru": "1945"
+            "ru": "1945",
+            "en": "1945",
+            "ua": "1945"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1949",
-            "ru": "1949"
+            "ru": "1949",
+            "en": "1949",
+            "ua": "1949"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1951",
-            "ru": "1951"
+            "ru": "1951",
+            "en": "1951",
+            "ua": "1951"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wann wurde die Bundesrepublik Deutschland gegründet?",
-        "ru": "Когда была основана Федеративная Республика Германия?"
+        "ru": "Когда была основана Федеративная Республика Германия?",
+        "en": "When was the Federal Republic of Germany founded?",
+        "ua": "Коли була заснована Федеративна Республіка Німеччина?"
       }
     },
     {
@@ -7931,35 +8121,45 @@
           "id": "a1",
           "translations": {
             "de": "das Recht zur freien Entfaltung der Persönlichkeit",
-            "ru": "право на свободное развитие личности"
+            "ru": "право на свободное развитие личности",
+            "en": "the right to free development of personality",
+            "ua": "право на вільний розвиток особистості"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Pressefreiheit",
-            "ru": "свобода прессы"
+            "ru": "свобода прессы",
+            "en": "freedom of the press",
+            "ua": "свобода преси"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "das Verbot von Parteien",
-            "ru": "запрет политических партий"
+            "ru": "запрет политических партий",
+            "en": "the banning of political parties",
+            "ua": "заборона політичних партій"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "den Schutz der Menschenwürde",
-            "ru": "защита человеческого достоинства"
+            "ru": "защита человеческого достоинства",
+            "en": "protection of human dignity",
+            "ua": "захист людської гідності"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
-        "ru": "Что было в Германии во времена национал-социализма?"
+        "ru": "Что было в Германии во времена национал-социализма?",
+        "en": "What existed during the time of National Socialism in Germany?",
+        "ua": "Що існувало в Німеччині за часів націонал-соціалізму?"
       }
     },
     {
@@ -7969,35 +8169,45 @@
           "id": "a1",
           "translations": {
             "de": "steuert sich allein nach Angebot und Nachfrage.",
-            "ru": "определяется исключительно спросом и предложением."
+            "ru": "определяется исключительно спросом и предложением.",
+            "en": "is solely driven by supply and demand.",
+            "ua": "керується виключно попитом і пропозицією."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
-            "ru": "планируется и контролируется государством, спрос и предложение не учитываются"
+            "ru": "планируется и контролируется государством, спрос и предложение не учитываются",
+            "en": "is planned and controlled by the state, supply and demand are not taken into account.",
+            "ua": "планується та контролюється державою, попит і пропозиція не враховуються."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "richtet sich nach der Nachfrage im Ausland.",
-            "ru": "зависит от спроса за рубежом."
+            "ru": "зависит от спроса за рубежом.",
+            "en": "is oriented toward demand abroad.",
+            "ua": "орієнтується на попит за кордоном."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
-            "ru": "зависит от спроса и предложения, но государство обеспечивает социальный баланс."
+            "ru": "зависит от спроса и предложения, но государство обеспечивает социальный баланс.",
+            "en": "is based on supply and demand, but the state ensures social balance.",
+            "ua": "базується на попиті та пропозиції, але держава забезпечує соціальний баланс."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Soziale Marktwirtschaft bedeutet, die Wirtschaft ...",
-        "ru": "Социальная рыночная экономика означает то, что экономика..."
+        "ru": "Социальная рыночная экономика означает то, что экономика...",
+        "en": "Social market economy means that the economy ...",
+        "ua": "Соціальна ринкова економіка означає, що економіка ..."
       }
     },
     {
@@ -8007,35 +8217,45 @@
           "id": "a1",
           "translations": {
             "de": "amerikanischen Besatzungszone.",
-            "ru": "в Американской оккупационной зоне."
+            "ru": "в Американской оккупационной зоне.",
+            "en": "in the American occupation zone.",
+            "ua": "в американській окупаційній зоні."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "französischen Besatzungszone.",
-            "ru": "во Французской оккупационной зоне."
+            "ru": "во Французской оккупационной зоне.",
+            "en": "in the French occupation zone.",
+            "ua": "у французькій окупаційній зоні."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "britischen Besatzungszone.",
-            "ru": "в Британской оккупационной зоне."
+            "ru": "в Британской оккупационной зоне.",
+            "en": "in the British occupation zone.",
+            "ua": "в британській окупаційній зоні."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "sowjetischen Besatzungszone.",
-            "ru": "в Советской оккупационной зоне."
+            "ru": "в Советской оккупационной зоне.",
+            "en": "in the Soviet occupation zone.",
+            "ua": "в радянській окупаційній зоні."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "In welcher Besatzungszone wurde die DDR gegründet? In der ...",
-        "ru": "В какой оккупационной зоне была основана ГДР?"
+        "ru": "В какой оккупационной зоне была основана ГДР?",
+        "en": "In which occupation zone was the GDR founded? In the ...",
+        "ua": "У якій окупаційній зоні було засновано НДР? У ..."
       }
     },
     {
@@ -8045,35 +8265,45 @@
           "id": "a1",
           "translations": {
             "de": "des Nordatlantikpakts (NATO).",
-            "ru": "Организации Североатлантического договора (НАТО)."
+            "ru": "Организации Североатлантического договора (НАТО).",
+            "en": "of the North Atlantic Treaty Organization (NATO).",
+            "ua": "Організації Північноатлантичного договору (НАТО)."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "der Vereinten Nationen (VN).",
-            "ru": "Организации Объединенных Наций (ООН)."
+            "ru": "Организации Объединенных Наций (ООН).",
+            "en": "of the United Nations (UN).",
+            "ua": "Організації Об'єднаних Націй (ООН)."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "der Europäischen Union (EU).",
-            "ru": "Европейского Союза (ЕС)."
+            "ru": "Европейского Союза (ЕС).",
+            "en": "of the European Union (EU).",
+            "ua": "Європейського Союзу (ЄС)."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "des Warschauer Pakts.",
-            "ru": "Варшавского договора."
+            "ru": "Варшавского договора.",
+            "en": "of the Warsaw Pact.",
+            "ua": "Варшавського договору."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied ...",
-        "ru": "Федеративная Республика Германия является одним из основателей..."
+        "ru": "Федеративная Республика Германия является одним из основателей...",
+        "en": "The Federal Republic of Germany is a founding member of ...",
+        "ua": "Федеративна Республіка Німеччина є країною-засновницею ..."
       }
     },
     {
@@ -8083,35 +8313,45 @@
           "id": "a1",
           "translations": {
             "de": "1947",
-            "ru": "1947"
+            "ru": "1947",
+            "en": "1947",
+            "ua": "1947"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1949",
-            "ru": "1949"
+            "ru": "1949",
+            "en": "1949",
+            "ua": "1949"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1953",
-            "ru": "1953"
+            "ru": "1953",
+            "en": "1953",
+            "ua": "1953"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1956",
-            "ru": "1956"
+            "ru": "1956",
+            "en": "1956",
+            "ua": "1956"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wann wurde die DDR gegründet?",
-        "ru": "Когда была основана ГДР?"
+        "ru": "Когда была основана ГДР?",
+        "en": "When was the GDR (German Democratic Republic) founded?",
+        "ua": "Коли була заснована НДР (Німецька Демократична Республіка)?"
       }
     },
     {
@@ -8121,35 +8361,45 @@
           "id": "a1",
           "translations": {
             "de": "3",
-            "ru": "3"
+            "ru": "3",
+            "en": "3",
+            "ua": "3"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "4",
-            "ru": "4"
+            "ru": "4",
+            "en": "4",
+            "ua": "4"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "5",
-            "ru": "5"
+            "ru": "5",
+            "en": "5",
+            "ua": "5"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "6",
-            "ru": "6"
+            "ru": "6",
+            "en": "6",
+            "ua": "6"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
-        "ru": "Сколько оккупационных зон было в Германии после Второй мировой войны?"
+        "ru": "Сколько оккупационных зон было в Германии после Второй мировой войны?",
+        "en": "How many occupation zones were there in Germany after World War II?",
+        "ua": "Скільки окупаційних зон було в Німеччині після Другої світової війни?"
       }
     },
     {
