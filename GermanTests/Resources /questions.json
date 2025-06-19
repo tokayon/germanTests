@@ -9610,35 +9610,45 @@
           "id": "a1",
           "translations": {
             "de": "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
-            "ru": "Нижняя Саксония, Северный Рейн-Вестфалия, Гессен, Шлезвиг-Гольштейн, Бранденбург"
+            "ru": "Нижняя Саксония, Северный Рейн-Вестфалия, Гессен, Шлезвиг-Гольштейн, Бранденбург",
+            "en": "Lower Saxony, North Rhine-Westphalia, Hesse, Schleswig-Holstein, Brandenburg",
+            "ua": "Нижня Саксонія, Північний Рейн-Вестфалія, Гессен, Шлезвіг-Гольштейн, Бранденбург"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
-            "ru": "Мекленбург-Передняя Померания, Бранденбург, Саксония, Саксония-Анхальт, Тюрингия"
+            "ru": "Мекленбург-Передняя Померания, Бранденбург, Саксония, Саксония-Анхальт, Тюрингия",
+            "en": "Mecklenburg-Western Pomerania, Brandenburg, Saxony, Saxony-Anhalt, Thuringia",
+            "ua": "Мекленбург-Передня Померанія, Бранденбург, Саксонія, Саксонія-Ангальт, Тюрингія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
-            "ru": "Бавария, Баден-Вюртемберг, Рейнланд-Пфальц, Тюрингия, Саксония"
+            "ru": "Бавария, Баден-Вюртемберг, Рейнланд-Пфальц, Тюрингия, Саксония",
+            "en": "Bavaria, Baden-Württemberg, Rhineland-Palatinate, Thuringia, Saxony",
+            "ua": "Баварія, Баден-Вюртемберг, Рейнланд-Пфальц, Тюрингія, Саксонія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg",
-            "ru": "Саксония, Тюрингия, Гессен, Нижняя Саксония, Бранденбург"
+            "ru": "Саксония, Тюрингия, Гессен, Нижняя Саксония, Бранденбург",
+            "en": "Saxony, Thuringia, Hesse, Lower Saxony, Brandenburg",
+            "ua": "Саксонія, Тюрингія, Гессен, Нижня Саксонія, Бранденбург"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
-        "ru": "В каком из следующих перечислений только названия федеральных земель бывшей ГДР?"
+        "ru": "В каком из следующих перечислений только названия федеральных земель бывшей ГДР?",
+        "en": "Which of the following lists contains only federal states that were part of the former GDR?",
+        "ua": "Який із наведених списків містить лише федеральні землі, що входили до складу колишньої НДР?"
       }
     },
     {
@@ -9648,35 +9658,45 @@
           "id": "a1",
           "translations": {
             "de": "zu den Westmächten",
-            "ru": "К западным державам"
+            "ru": "К западным державам",
+            "en": "to the Western powers",
+            "ua": "до західних держав"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "zum Warschauer Pakt",
-            "ru": "к Варшавскому договору"
+            "ru": "к Варшавскому договору",
+            "en": "to the Warsaw Pact",
+            "ua": "до Варшавського договору"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "zur NATO",
-            "ru": "к НАТО"
+            "ru": "к НАТО",
+            "en": "to NATO",
+            "ua": "до НАТО"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "zu den blockfreien Staaten",
-            "ru": "к неприсоединившимся государствам"
+            "ru": "к неприсоединившимся государствам",
+            "en": "to the non-aligned states",
+            "ua": "до неприєднаних країн"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Zu wem gehörte die DDR im Kalten Krieg?",
-        "ru": "Кому принадлежала ГДР во время «холодной войны»?"
+        "ru": "Кому принадлежала ГДР во время «холодной войны»?",
+        "en": "Whose side was the GDR on during the Cold War?",
+        "ua": "До кого належала НДР під час Холодної війни?"
       }
     },
     {
@@ -9686,35 +9706,45 @@
           "id": "a1",
           "translations": {
             "de": "Marktwirtschaft",
-            "ru": "рыночная экономика"
+            "ru": "рыночная экономика",
+            "en": "market economy",
+            "ua": "ринкова економіка"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Planwirtschaft",
-            "ru": "плановая экономика"
+            "ru": "плановая экономика",
+            "en": "planned economy",
+            "ua": "планова економіка"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Angebot und Nachfrage",
-            "ru": "спрос и предложение"
+            "ru": "спрос и предложение",
+            "en": "supply and demand",
+            "ua": "попит і пропозиція"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Kapitalismus",
-            "ru": "капитализм"
+            "ru": "капитализм",
+            "en": "capitalism",
+            "ua": "капіталізм"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wie hieß das Wirtschaftssystem der DDR?",
-        "ru": "Как называлась экономическая система ГДР?"
+        "ru": "Как называлась экономическая система ГДР?",
+        "en": "What was the name of the economic system of the GDR?",
+        "ua": "Як називалася економічна система НДР?"
       }
     },
     {
@@ -9724,35 +9754,45 @@
           "id": "a1",
           "translations": {
             "de": "Die Bundesrepublik Deutschland hat die DDR besetzt.",
-            "ru": "Федеративная Республика Германия оккупировала ГДР."
+            "ru": "Федеративная Республика Германия оккупировала ГДР.",
+            "en": "The Federal Republic of Germany occupied the GDR.",
+            "ua": "Федеративна Республіка Німеччина окупувала НДР."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
-            "ru": "Сегодняшние пять восточных федеральных земель присоединились к Федеративной Республике Германия."
+            "ru": "Сегодняшние пять восточных федеральных земель присоединились к Федеративной Республике Германия.",
+            "en": "The current five eastern federal states joined the Federal Republic of Germany.",
+            "ua": "Сучасні п’ять східних федеральних земель приєдналися до Федеративної Республіки Німеччина."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Die westlichen Bundesländer sind der DDR beigetreten.",
-            "ru": "Западные федеральные земли присоединились к ГДР."
+            "ru": "Западные федеральные земли присоединились к ГДР.",
+            "en": "The western federal states joined the GDR.",
+            "ua": "Західні федеральні землі приєдналися до НДР."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Die DDR hat die Bundesrepublik Deutschland besetzt.",
-            "ru": "ГДР оккупировала Федеративную Республику Германию."
+            "ru": "ГДР оккупировала Федеративную Республику Германию.",
+            "en": "The GDR occupied the Federal Republic of Germany.",
+            "ua": "НДР окупувала Федеративну Республіку Німеччина."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
-        "ru": "Как Федеративная Республика Германия и ГДР стали одним государством?"
+        "ru": "Как Федеративная Республика Германия и ГДР стали одним государством?",
+        "en": "How did the Federal Republic of Germany and the GDR become one country?",
+        "ua": "Як Федеративна Республіка Німеччина та НДР стали однією державою?"
       }
     },
     {
@@ -9762,35 +9802,45 @@
           "id": "a1",
           "translations": {
             "de": "zur Europäischen Union.",
-            "ru": "к Евросоюзу."
+            "ru": "к Евросоюзу.",
+            "en": "to the European Union.",
+            "ua": "до Європейського Союзу."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "zum Warschauer Pakt.",
-            "ru": "к Варшавскому договору."
+            "ru": "к Варшавскому договору.",
+            "en": "to the Warsaw Pact.",
+            "ua": "до Варшавського договору."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "zur OPEC.",
-            "ru": "к ОПЕК"
+            "ru": "к ОПЕК",
+            "en": "to OPEC.",
+            "ua": "до ОПЕК."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "zur Europäischen Verteidigungsgemeinschaft.",
-            "ru": "к Европейскому оборонному сообществу."
+            "ru": "к Европейскому оборонному сообществу.",
+            "en": "to the European Defence Community.",
+            "ua": "до Європейського оборонного співтовариства."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch ...",
-        "ru": "С присоединением ГДР к Федеративной Республике Германия новые федеральные земли теперь также принадлежат..."
+        "ru": "С присоединением ГДР к Федеративной Республике Германия новые федеральные земли теперь также принадлежат...",
+        "en": "With the accession of the GDR to the Federal Republic of Germany, the new federal states now also belong ...",
+        "ua": "Зі вступом НДР до Федеративної Республіки Німеччина нові федеральні землі тепер також належать ..."
       }
     },
     {
@@ -9800,35 +9850,45 @@
           "id": "a1",
           "translations": {
             "de": "In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.",
-            "ru": "В Федеративной Республике демонстрации разрешали только в понедельник"
+            "ru": "В Федеративной Республике демонстрации разрешали только в понедельник",
+            "en": "In the Federal Republic, demonstrations were only allowed on Mondays.",
+            "ua": "У Федеративній Республіці демонстрації дозволяли лише по понеділках."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Montags waren Demonstrationen gegen das DDR-Regime.",
-            "ru": "По понедельникам прошли демонстрации против режима ГДР."
+            "ru": "По понедельникам прошли демонстрации против режима ГДР.",
+            "en": "On Mondays, demonstrations were held against the GDR regime.",
+            "ua": "По понеділках проходили демонстрації проти режиму НДР."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.",
-            "ru": "Демонстранты собирались в Федеративной Республике Германия в первый понедельник каждого месяца."
+            "ru": "Демонстранты собирались в Федеративной Республике Германия в первый понедельник каждого месяца.",
+            "en": "On the first Monday of the month, demonstrators gathered in the Federal Republic of Germany.",
+            "ua": "У перший понеділок місяця у Федеративній Республіці Німеччина збиралися демонстранти."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Montags demonstrierte man in der DDR gegen den Westen.",
-            "ru": "По понедельникам в ГДР протестовали против Запада."
+            "ru": "По понедельникам в ГДР протестовали против Запада.",
+            "en": "On Mondays, people in the GDR protested against the West.",
+            "ua": "По понеділках у НДР протестували проти Заходу."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was bedeutete im Jahr 1989 in Deutschland das Wort Montagsdemonstration?",
-        "ru": "Что означало слово «демонстрация по понедельникам» в Германии в 1989 году?"
+        "ru": "Что означало слово «демонстрация по понедельникам» в Германии в 1989 году?",
+        "en": "What did the term 'Monday demonstration' mean in Germany in 1989?",
+        "ua": "Що означало слово «понеділкова демонстрація» в Німеччині у 1989 році?"
       }
     },
     {
@@ -9838,35 +9898,45 @@
           "id": "a1",
           "translations": {
             "de": "in der NATO",
-            "ru": "HATO"
+            "ru": "HATO",
+            "en": "in NATO",
+            "ua": "в НАТО"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "im Rheinbund",
-            "ru": "Рейнской Конфедерации"
+            "ru": "Рейнской Конфедерации",
+            "en": "in the Confederation of the Rhine",
+            "ua": "в Рейнському союзі"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "im Warschauer Pakt",
-            "ru": "Варшавского договора"
+            "ru": "Варшавского договора",
+            "en": "in the Warsaw Pact",
+            "ua": "у Варшавському договорі"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "im Europabündnis",
-            "ru": "Европейского альянса"
+            "ru": "Европейского альянса",
+            "en": "in the European Alliance",
+            "ua": "в Європейському альянсі"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "In welchem Militärbündnis war die DDR Mitglied?",
-        "ru": "Членом какого военного союза была ГДР?"
+        "ru": "Членом какого военного союза была ГДР?",
+        "en": "Which military alliance was the GDR a member of?",
+        "ua": "Членом якого військового союзу була НДР?"
       }
     },
     {
@@ -9876,35 +9946,45 @@
           "id": "a1",
           "translations": {
             "de": "der Geheimdienst im Dritten Reich",
-            "ru": "секретная служба «Третьего рейха»"
+            "ru": "секретная служба «Третьего рейха»",
+            "en": "the secret service of the Third Reich",
+            "ua": "секретна служба Третього Рейху"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "eine berühmte deutsche Gedenkstätte",
-            "ru": "знаменитый немецкий мемориал"
+            "ru": "знаменитый немецкий мемориал",
+            "en": "a famous German memorial site",
+            "ua": "відомий німецький меморіал"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "der Geheimdienst der DDR",
-            "ru": "секретная служба ГДР"
+            "ru": "секретная служба ГДР",
+            "en": "the secret service of the GDR",
+            "ua": "секретна служба НДР"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "ein deutscher Sportverein während des Zweiten Weltkrieges",
-            "ru": "немецкий спортивный клуб во время Второй мировой войны."
+            "ru": "немецкий спортивный клуб во время Второй мировой войны.",
+            "en": "a German sports club during World War II",
+            "ua": "німецький спортивний клуб часів Другої світової війни"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was war die -Stasi-?",
-        "ru": "Чем был «Штази»?"
+        "ru": "Чем был «Штази»?",
+        "en": "What was the 'Stasi'?",
+        "ua": "Що таке «Штазі»?"
       }
     },
     {
@@ -9915,35 +9995,45 @@
           "id": "a1",
           "translations": {
             "de": "1",
-            "ru": "1"
+            "ru": "1",
+            "en": "1",
+            "ua": "1"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "2",
-            "ru": "2"
+            "ru": "2",
+            "en": "2",
+            "ua": "2"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "3",
-            "ru": "3"
+            "ru": "3",
+            "en": "3",
+            "ua": "3"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "4",
-            "ru": "4"
+            "ru": "4",
+            "en": "4",
+            "ua": "4"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Welches war das Wappen der Deutschen Demokratischen Republik?",
-        "ru": "Какой был герб Германской Демократической Республики?"
+        "ru": "Какой был герб Германской Демократической Республики?",
+        "en": "Which one was the coat of arms of the German Democratic Republic?",
+        "ua": "Який був герб Німецької Демократичної Республіки?"
       }
     },
     {
@@ -9953,35 +10043,45 @@
           "id": "a1",
           "translations": {
             "de": "der feierliche Beitritt zum Warschauer Pakt",
-            "ru": "торжественное вступление в Варшавский договор"
+            "ru": "торжественное вступление в Варшавский договор",
+            "en": "the ceremonial accession to the Warsaw Pact",
+            "ua": "урочисте приєднання до Варшавського договору"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "landesweite Streiks und ein Volksaufstand",
-            "ru": "общенациональные забастовки и народное восстание"
+            "ru": "общенациональные забастовки и народное восстание",
+            "en": "nationwide strikes and a popular uprising",
+            "ua": "загальнонаціональні страйки та народне повстання"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "der 1. SED-Parteitag",
-            "ru": "1-я партийная конференция СЕПГ"
+            "ru": "1-я партийная конференция СЕПГ",
+            "en": "the 1st SED Party Congress",
+            "ua": "1-й з’їзд партії СЄПГ"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "der erste Besuch Fidel Castros",
-            "ru": "Первый визит Фиделя Кастро"
+            "ru": "Первый визит Фиделя Кастро",
+            "en": "the first visit of Fidel Castro",
+            "ua": "перший візит Фіделя Кастро"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was ereignete sich am 17. Juni 1953 in der DDR?",
-        "ru": "Что произошло 17 июня 1953 года в ГДР?"
+        "ru": "Что произошло 17 июня 1953 года в ГДР?",
+        "en": "What happened on June 17, 1953 in the GDR?",
+        "ua": "Що сталося 17 червня 1953 року в НДР?"
       }
     },
     {
@@ -9991,35 +10091,45 @@
           "id": "a1",
           "translations": {
             "de": "Helmut Kohl",
-            "ru": "Гельмут Коль"
+            "ru": "Гельмут Коль",
+            "en": "Helmut Kohl",
+            "ua": "Гельмут Коль"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Willy Brandt",
-            "ru": "Вилли Брандт"
+            "ru": "Вилли Брандт",
+            "en": "Willy Brandt",
+            "ua": "Віллі Брандт"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Michail Gorbatschow",
-            "ru": "Михаил Горбачев"
+            "ru": "Михаил Горбачев",
+            "en": "Mikhail Gorbachev",
+            "ua": "Михайло Горбачов"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Ludwig Erhard",
-            "ru": "Людвиг Эрхард"
+            "ru": "Людвиг Эрхард",
+            "en": "Ludwig Erhard",
+            "ua": "Людвіг Ергард"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Welcher Politiker steht für die -Ostverträge-?",
-        "ru": "Какой политик выступает за «Восточные договоры»"
+        "ru": "Какой политик выступает за «Восточные договоры»?",
+        "en": "Which politician is associated with the 'Ostverträge' (Eastern Treaties)?",
+        "ua": "Який політик асоціюється з «Східними договорами»?"
       }
     },
     {
@@ -10029,35 +10139,45 @@
           "id": "a1",
           "translations": {
             "de": "Bundesstaat Deutschland",
-            "ru": "Федеративное государство Германия"
+            "ru": "Федеративное государство Германия",
+            "en": "Federal State of Germany",
+            "ua": "Федеративна держава Німеччина"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Bundesländer Deutschland",
-            "ru": "Федеральные земли Германии"
+            "ru": "Федеральные земли Германии",
+            "en": "Federal States of Germany",
+            "ua": "Федеральні землі Німеччини"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Bundesrepublik Deutschland",
-            "ru": "Федеративная Республика Германия"
+            "ru": "Федеративная Республика Германия",
+            "en": "Federal Republic of Germany",
+            "ua": "Федеративна Республіка Німеччина"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Bundesbezirk Deutschland",
-            "ru": "Федеральный округ Германии"
+            "ru": "Федеральный округ Германии",
+            "en": "Federal District of Germany",
+            "ua": "Федеральний округ Німеччини"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wie heißt Deutschland mit vollem Namen?",
-        "ru": "Как звучит полное название Германии?"
+        "ru": "Как звучит полное название Германии?",
+        "en": "What is Germany's full official name?",
+        "ua": "Яка повна офіційна назва Німеччини?"
       }
     },
     {
@@ -10067,35 +10187,45 @@
           "id": "a1",
           "translations": {
             "de": "70 Millionen",
-            "ru": "70 миллионов"
+            "ru": "70 миллионов",
+            "en": "70 million",
+            "ua": "70 мільйонів"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "78 Millionen",
-            "ru": "78 миллионов"
+            "ru": "78 миллионов",
+            "en": "78 million",
+            "ua": "78 мільйонів"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "83 Millionen",
-            "ru": "83 миллиона"
+            "ru": "83 миллиона",
+            "en": "83 million",
+            "ua": "83 мільйони"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "90 Millionen",
-            "ru": "90 миллионов"
+            "ru": "90 миллионов",
+            "en": "90 million",
+            "ua": "90 мільйонів"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wie viele Einwohner hat Deutschland?",
-        "ru": "Сколько жителей в Германии?"
+        "ru": "Сколько жителей в Германии?",
+        "en": "How many inhabitants does Germany have?",
+        "ua": "Скільки жителів має Німеччина?"
       }
     },
     {
@@ -10105,35 +10235,45 @@
           "id": "a1",
           "translations": {
             "de": "schwarz-rot-gold",
-            "ru": "черно-красно-золотой"
+            "ru": "черно-красно-золотой",
+            "en": "black-red-gold",
+            "ua": "чорно-червоний-золотий"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "rot-weiß-schwarz",
-            "ru": "красно-бело-черный"
+            "ru": "красно-бело-черный",
+            "en": "red-white-black",
+            "ua": "червоний-білий-чорний"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "schwarz-rot-grün",
-            "ru": "черно-красно-зеленый"
+            "ru": "черно-красно-зеленый",
+            "en": "black-red-green",
+            "ua": "чорно-червоний-зелений"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "schwarz-gelb-rot",
-            "ru": "черно-желто-красный"
+            "ru": "черно-желто-красный",
+            "en": "black-yellow-red",
+            "ua": "чорно-жовтий-червоний"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welche Farben hat die deutsche Flagge?",
-        "ru": "Какого цвета флаг Германии?"
+        "ru": "Какого цвета флаг Германии?",
+        "en": "What are the colors of the German flag?",
+        "ua": "Які кольори має прапор Німеччини?"
       }
     },
     {
@@ -10143,35 +10283,45 @@
           "id": "a1",
           "translations": {
             "de": "Gerhard Schröder",
-            "ru": "Герхард Шредер"
+            "ru": "Герхард Шредер",
+            "en": "Gerhard Schröder",
+            "ua": "Герхард Шредер"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Helmut Kohl",
-            "ru": "Гельмут Коль"
+            "ru": "Гельмут Коль",
+            "en": "Helmut Kohl",
+            "ua": "Гельмут Коль"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Konrad Adenauer",
-            "ru": "Конрад Аденауэр"
+            "ru": "Конрад Аденауэр",
+            "en": "Konrad Adenauer",
+            "ua": "Конрад Аденауер"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Helmut Schmidt",
-            "ru": "Гельмут Шмидт"
+            "ru": "Гельмут Шмидт",
+            "en": "Helmut Schmidt",
+            "ua": "Гельмут Шмідт"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wer wird als -Kanzler der Deutschen Einheit- bezeichnet?",
-        "ru": "Кого называют «канцлером немецкого единства»?"
+        "ru": "Кого называют «канцлером немецкого единства»?",
+        "en": "Who is referred to as the 'Chancellor of German Unity'?",
+        "ua": "Кого називають «канцлером німецької єдності»?"
       }
     },
     {
@@ -10181,35 +10331,45 @@
           "id": "a1",
           "translations": {
             "de": "die Fahne der Stadt Berlin.",
-            "ru": "флаг города Берлина."
+            "ru": "флаг города Берлина.",
+            "en": "the flag of the city of Berlin.",
+            "ua": "прапор міста Берлін."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "der Bundesadler.",
-            "ru": "федеральный орел."
+            "ru": "федеральный орел.",
+            "en": "the Federal Eagle.",
+            "ua": "Федеральний орел."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "der Reichsadler.",
-            "ru": "императорский орел."
+            "ru": "императорский орел.",
+            "en": "the Imperial Eagle.",
+            "ua": "Імператорський орел."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Reichskrone.",
-            "ru": "императорская корона."
+            "ru": "императорская корона.",
+            "en": "the Imperial Crown.",
+            "ua": "Імператорська корона."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
-        "ru": "Какой символ можно увидеть в зале пленарных заседаний немецкого Бундестага?"
+        "ru": "Какой символ можно увидеть в зале пленарных заседаний немецкого Бундестага?",
+        "en": "Which symbol can be seen in the plenary chamber of the German Bundestag?",
+        "ua": "Який символ можна побачити в залі пленарних засідань німецького Бундестагу?"
       }
     },
     {
@@ -10219,35 +10379,45 @@
           "id": "a1",
           "translations": {
             "de": "1919 bis 1927",
-            "ru": "1919-1927"
+            "ru": "1919–1927",
+            "en": "1919 to 1927",
+            "ua": "1919–1927"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1933 bis 1945",
-            "ru": "1933-945"
+            "ru": "1933–1945",
+            "en": "1933 to 1945",
+            "ua": "1933–1945"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1949 bis 1990",
-            "ru": "1949-1990"
+            "ru": "1949–1990",
+            "en": "1949 to 1990",
+            "ua": "1949–1990"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1945 bis 1961",
-            "ru": "1945-1961"
+            "ru": "1945–1961",
+            "en": "1945 to 1961",
+            "ua": "1945–1961"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
-        "ru": "Когда существовала Германская Демократическая Республика (ГДР)?"
+        "ru": "Когда существовала Германская Демократическая Республика (ГДР)?",
+        "en": "During which period did the German Democratic Republic (GDR) exist?",
+        "ua": "У який період існувала Німецька Демократична Республіка (НДР)?"
       }
     },
     {
@@ -10257,35 +10427,45 @@
           "id": "a1",
           "translations": {
             "de": "4",
-            "ru": "4"
+            "ru": "4",
+            "en": "4",
+            "ua": "4"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "5",
-            "ru": "5"
+            "ru": "5",
+            "en": "5",
+            "ua": "5"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "6",
-            "ru": "6"
+            "ru": "6",
+            "en": "6",
+            "ua": "6"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "7",
-            "ru": "7"
+            "ru": "7",
+            "en": "7",
+            "ua": "7"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
-        "ru": "Сколько федеральных земель было присоединено к Федеративной Республике Германия после ее воссоединения в 1990 году?"
+        "ru": "Сколько федеральных земель было присоединено к Федеративной Республике Германия после ее воссоединения в 1990 году?",
+        "en": "How many federal states were added to the Federal Republic of Germany during reunification in 1990?",
+        "ua": "Скільки федеральних земель приєдналося до Федеративної Республіки Німеччина під час об'єднання у 1990 році?"
       }
     },
     {
@@ -10295,35 +10475,45 @@
           "id": "a1",
           "translations": {
             "de": "1933.",
-            "ru": "1933."
+            "ru": "1933.",
+            "en": "1933.",
+            "ua": "1933."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1949.",
-            "ru": "1949."
+            "ru": "1949.",
+            "en": "1949.",
+            "ua": "1949."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1971.",
-            "ru": "1971."
+            "ru": "1971.",
+            "en": "1971.",
+            "ua": "1971."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1990.",
-            "ru": "1990."
+            "ru": "1990.",
+            "en": "1990.",
+            "ua": "1990."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit ...",
-        "ru": "Федеративная Республика Германия имеет сегодняшние границы с."
+        "ru": "Федеративная Республика Германия имеет сегодняшние границы с.",
+        "en": "The Federal Republic of Germany has had its current borders since ...",
+        "ua": "Федеративна Республіка Німеччина має нинішні кордони з ..."
       }
     },
     {
@@ -10333,35 +10523,45 @@
           "id": "a1",
           "translations": {
             "de": "an das Ende des Zweiten Weltkrieges",
-            "ru": "о конце Второй мировой войны"
+            "ru": "о конце Второй мировой войны",
+            "en": "the end of the Second World War",
+            "ua": "кінець Другої світової війни"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "an die Verabschiedung des Grundgesetzes",
-            "ru": "о принятии Основного закона"
+            "ru": "о принятии Основного закона",
+            "en": "the adoption of the Basic Law",
+            "ua": "прийняття Основного закону"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "an die Wiedervereinigung Deutschlands",
-            "ru": "о воссоединении Германии"
+            "ru": "о воссоединении Германии",
+            "en": "the reunification of Germany",
+            "ua": "возз'єднання Німеччини"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "an die Opfer des Nationalsozialismus",
-            "ru": "о жертвах национал-социализма"
+            "ru": "о жертвах национал-социализма",
+            "en": "the victims of National Socialism",
+            "ua": "жертв націонал-соціалізму"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
-        "ru": "27 января - официальный день памяти в Германии. О чём напоминает этот день?"
+        "ru": "27 января - официальный день памяти в Германии. О чём напоминает этот день?",
+        "en": "January 27 is an official day of remembrance in Germany. What does this day commemorate?",
+        "ua": "27 січня — офіційний день памʼяті в Німеччині. Що згадують у цей день?"
       }
     },
     {
@@ -10371,35 +10571,45 @@
           "id": "a1",
           "translations": {
             "de": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
-            "ru": "Немцы могут путешествовать во многие европейские страны без паспортного контроля."
+            "ru": "Немцы могут путешествовать во многие европейские страны без паспортного контроля.",
+            "en": "Germans can travel to many European countries without passport control.",
+            "ua": "Німці можуть подорожувати до багатьох європейських країн без паспортного контролю."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
-            "ru": "Все люди могут въезжать в Германию без проверки документов"
+            "ru": "Все люди могут въезжать в Германию без проверки документов",
+            "en": "All people can enter Germany without identity checks.",
+            "ua": "Усі люди можуть вʼїжджати до Німеччини без перевірки документів."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Deutsche können ohne Passkontrolle in jedes Land reisen.",
-            "ru": "Немцы могут путешествовать в любую страну без паспортного контроля."
+            "ru": "Немцы могут путешествовать в любую страну без паспортного контроля.",
+            "en": "Germans can travel to any country without passport control.",
+            "ua": "Німці можуть подорожувати до будь-якої країни без паспортного контролю."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Deutsche können in jedem Land mit dem Euro bezahlen.",
-            "ru": "Немцы могут расплачиваться евро в любой стране."
+            "ru": "Немцы могут расплачиваться евро в любой стране.",
+            "en": "Germans can pay with the Euro in every country.",
+            "ua": "Німці можуть платити євро в кожній країні."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
-        "ru": "Германия является членом Шенгенского соглашения. Что это значит?"
+        "ru": "Германия является членом Шенгенского соглашения. Что это значит?",
+        "en": "Germany is a member of the Schengen Agreement. What does that mean?",
+        "ua": "Німеччина є учасником Шенгенської угоди. Що це означає?"
       }
     },
     {
@@ -10409,35 +10619,45 @@
           "id": "a1",
           "translations": {
             "de": "Ungarn",
-            "ru": "Венгрия"
+            "ru": "Венгрия",
+            "en": "Hungary",
+            "ua": "Угорщина"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Portugal",
-            "ru": "Португалия"
+            "ru": "Португалия",
+            "en": "Portugal",
+            "ua": "Португалія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Spanien",
-            "ru": "Испания"
+            "ru": "Испания",
+            "en": "Spain",
+            "ua": "Іспанія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Schweiz",
-            "ru": "Швейцария"
+            "ru": "Швейцария",
+            "en": "Switzerland",
+            "ua": "Швейцарія"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Welches Land ist ein Nachbarland von Deutschland?",
-        "ru": "Какая страна граничит с Германией?"
+        "ru": "Какая страна граничит с Германией?",
+        "en": "Which country shares a border with Germany?",
+        "ua": "Яка країна межує з Німеччиною?"
       }
     },
     {
@@ -10447,35 +10667,45 @@
           "id": "a1",
           "translations": {
             "de": "Rumänien",
-            "ru": "Румыния"
+            "ru": "Румыния",
+            "en": "Romania",
+            "ua": "Румунія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Bulgarien",
-            "ru": "Болгария"
+            "ru": "Болгария",
+            "en": "Bulgaria",
+            "ua": "Болгарія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Polen",
-            "ru": "Польша"
+            "ru": "Польша",
+            "en": "Poland",
+            "ua": "Польща"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Griechenland",
-            "ru": "Греция"
+            "ru": "Греция",
+            "en": "Greece",
+            "ua": "Греція"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Welches Land ist ein Nachbarland von Deutschland?",
-        "ru": "Какая страна граничит с Германией?"
+        "ru": "Какая страна граничит с Германией?",
+        "en": "Which country shares a border with Germany?",
+        "ua": "Яка країна межує з Німеччиною?"
       }
     },
     {
@@ -10485,35 +10715,45 @@
           "id": "a1",
           "translations": {
             "de": "Europäische Unternehmen",
-            "ru": "Европейские компании"
+            "ru": "Европейские компании",
+            "en": "European companies",
+            "ua": "Європейські компанії"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Europäische Union",
-            "ru": "Европейский Союз"
+            "ru": "Европейский Союз",
+            "en": "European Union",
+            "ua": "Європейський Союз"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Einheitliche Union",
-            "ru": "Единый Союз"
+            "ru": "Единый Союз",
+            "en": "Unified Union",
+            "ua": "Єдиний Союз"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Euro Union",
-            "ru": "Союз Евро"
+            "ru": "Союз Евро",
+            "en": "Euro Union",
+            "ua": "Євро Союз"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was bedeutet die Abkürzung EU?",
-        "ru": "Что означает аббревиатура ЕС?"
+        "ru": "Что означает аббревиатура ЕС?",
+        "en": "What does the abbreviation EU mean?",
+        "ua": "Що означає абревіатура ЄС?"
       }
     },
     {
@@ -10523,35 +10763,45 @@
           "id": "a1",
           "translations": {
             "de": "Tschechien",
-            "ru": "Чешская Республика"
+            "ru": "Чешская Республика",
+            "en": "Czech Republic",
+            "ua": "Чеська Республіка"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Norwegen",
-            "ru": "Норвегия"
+            "ru": "Норвегия",
+            "en": "Norway",
+            "ua": "Норвегія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Spanien",
-            "ru": "Испания"
+            "ru": "Испания",
+            "en": "Spain",
+            "ua": "Іспанія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Österreich",
-            "ru": "Австрия"
+            "ru": "Австрия",
+            "en": "Austria",
+            "ua": "Австрія"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
-        "ru": "В какой еще стране проживает большое количество немецкоязычного населения?"
+        "ru": "В какой еще стране проживает большое количество немецкоязычного населения?",
+        "en": "In which other country is there a large German-speaking population?",
+        "ua": "У якій іншій країні проживає велика кількість німецькомовного населення?"
       }
     },
     {
@@ -10562,35 +10812,45 @@
           "id": "a1",
           "translations": {
             "de": "2",
-            "ru": "2"
+            "ru": "2",
+            "en": "2",
+            "ua": "2"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1",
-            "ru": "1"
+            "ru": "1",
+            "en": "1",
+            "ua": "1"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "4",
-            "ru": "4"
+            "ru": "4",
+            "en": "4",
+            "ua": "4"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "3",
-            "ru": "3"
+            "ru": "3",
+            "en": "3",
+            "ua": "3"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welche ist die Flagge der Europäischen Union?",
-        "ru": "Какой флаг является флагом Евросоюза?"
+        "ru": "Какой флаг является флагом Евросоюза?",
+        "en": "Which one is the flag of the European Union?",
+        "ua": "Який з них є прапором Європейського Союзу?"
       }
     },
     {
@@ -10600,35 +10860,45 @@
           "id": "a1",
           "translations": {
             "de": "Finnland",
-            "ru": "Финляндия"
+            "ru": "Финляндия",
+            "en": "Finland",
+            "ua": "Фінляндія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Dänemark",
-            "ru": "Дания"
+            "ru": "Дания",
+            "en": "Denmark",
+            "ua": "Данія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Norwegen",
-            "ru": "Норвегия"
+            "ru": "Норвегия",
+            "en": "Norway",
+            "ua": "Норвегія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Schweden",
-            "ru": "Швеция"
+            "ru": "Швеция",
+            "en": "Sweden",
+            "ua": "Швеція"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Welches Land ist ein Nachbarland von Deutschland?",
-        "ru": "Какая страна граничит с Германией?"
+        "ru": "Какая страна граничит с Германией?",
+        "en": "Which country is a neighbor of Germany?",
+        "ua": "Яка країна межує з Німеччиною?"
       }
     },
     {
@@ -10638,35 +10908,45 @@
           "id": "a1",
           "translations": {
             "de": "NATO-Osterweiterung",
-            "ru": "Расширение НАТО на восток"
+            "ru": "Расширение НАТО на восток",
+            "en": "NATO Eastern Enlargement",
+            "ua": "Східне розширення НАТО"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "EU-Osterweiterung",
-            "ru": "Расширение ЕС на восток"
+            "ru": "Расширение ЕС на восток",
+            "en": "EU Eastern Enlargement",
+            "ua": "Східне розширення ЄС"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Europäische Gemeinschaft",
-            "ru": "Европейское сообщество"
+            "ru": "Европейское сообщество",
+            "en": "European Community",
+            "ua": "Європейське співтовариство"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Deutsche Wiedervereinigung",
-            "ru": "Воссоединение Германии"
+            "ru": "Воссоединение Германии",
+            "en": "German Reunification",
+            "ua": "Возз’єднання Німеччини"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
-        "ru": "Каково общее название присоединения ГДР к Федеративной Республике Германия в 1990 году?"
+        "ru": "Каково общее название присоединения ГДР к Федеративной Республике Германия в 1990 году?",
+        "en": "What is the common name for the GDR's accession to the Federal Republic of Germany in 1990?",
+        "ua": "Як зазвичай називають приєднання НДР до Федеративної Республіки Німеччина у 1990 році?"
       }
     },
     {
@@ -10676,35 +10956,45 @@
           "id": "a1",
           "translations": {
             "de": "Spanien",
-            "ru": "Испания"
+            "ru": "Испания",
+            "en": "Spain",
+            "ua": "Іспанія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Bulgarien",
-            "ru": "Болгария"
+            "ru": "Болгария",
+            "en": "Bulgaria",
+            "ua": "Болгарія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Norwegen",
-            "ru": "Норвегия"
+            "ru": "Норвегия",
+            "en": "Norway",
+            "ua": "Норвегія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Luxemburg",
-            "ru": "Люксембург"
+            "ru": "Люксембург",
+            "en": "Luxembourg",
+            "ua": "Люксембург"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Welches Land ist ein Nachbarland von Deutschland?",
-        "ru": "Какая страна граничит с Германией?"
+        "ru": "Какая страна граничит с Германией?",
+        "en": "Which country is a neighbor of Germany?",
+        "ua": "Яка країна є сусідом Німеччини?"
       }
     },
     {
@@ -10714,35 +11004,45 @@
           "id": "a1",
           "translations": {
             "de": "5 Jahre.",
-            "ru": "5 лет."
+            "ru": "5 лет.",
+            "en": "5 years.",
+            "ua": "5 років."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "6 Jahre.",
-            "ru": "6 лет."
+            "ru": "6 лет.",
+            "en": "6 years.",
+            "ua": "6 років."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "7 Jahre.",
-            "ru": "7 лет."
+            "ru": "7 лет.",
+            "en": "7 years.",
+            "ua": "7 років."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "8 Jahre.",
-            "ru": "8 лет."
+            "ru": "8 лет.",
+            "en": "8 years.",
+            "ua": "8 років."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle ...",
-        "ru": "Европейский парламент избирается регулярно, а именно каждые..."
+        "ru": "Европейский парламент избирается регулярно, а именно каждые...",
+        "en": "The European Parliament is elected regularly, every ...",
+        "ua": "Європейський парламент обирається регулярно, кожні ..."
       }
     },
     {
