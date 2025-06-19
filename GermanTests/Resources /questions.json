@@ -8409,35 +8409,45 @@
           "id": "a1",
           "translations": {
             "de": "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
-            "ru": "1=Великобритания, 2=Советский Союз, 3=Франция, 4=США"
+            "ru": "1=Великобритания, 2=Советский Союз, 3=Франция, 4=США",
+            "en": "1=United Kingdom, 2=Soviet Union, 3=France, 4=USA",
+            "ua": "1=Велика Британія, 2=Радянський Союз, 3=Франція, 4=США"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
-            "ru": "1=Советский Союз, 2=Великобритания, 3=США, 4=Франция"
+            "ru": "1=Советский Союз, 2=Великобритания, 3=США, 4=Франция",
+            "en": "1=Soviet Union, 2=United Kingdom, 3=USA, 4=France",
+            "ua": "1=Радянський Союз, 2=Велика Британія, 3=США, 4=Франція"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
-            "ru": "1=Великобритания, 2=Советский Союз, 3=США, 4=Франция"
+            "ru": "1=Великобритания, 2=Советский Союз, 3=США, 4=Франция",
+            "en": "1=United Kingdom, 2=Soviet Union, 3=USA, 4=France",
+            "ua": "1=Велика Британія, 2=Радянський Союз, 3=США, 4=Франція"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich",
-            "ru": "1=Великобритания, 2=США, 3=Советский Союз, 4=Франция"
+            "ru": "1=Великобритания, 2=США, 3=Советский Союз, 4=Франция",
+            "en": "1=United Kingdom, 2=USA, 3=Soviet Union, 4=France",
+            "ua": "1=Велика Британія, 2=США, 3=Радянський Союз, 4=Франція"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
-        "ru": "Как распределялись оккупационные зоны Германии после 1945 года?"
+        "ru": "Как распределялись оккупационные зоны Германии после 1945 года?",
+        "en": "How were the occupation zones of Germany distributed after 1945?",
+        "ua": "Як були розподілені окупаційні зони Німеччини після 1945 року?"
       }
     },
     {
@@ -8447,35 +8457,45 @@
           "id": "a1",
           "translations": {
             "de": "München",
-            "ru": "Мюнхен"
+            "ru": "Мюнхен",
+            "en": "Munich",
+            "ua": "Мюнхен"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Berlin",
-            "ru": "Берлин"
+            "ru": "Берлин",
+            "en": "Berlin",
+            "ua": "Берлін"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Dresden",
-            "ru": "Дрезден"
+            "ru": "Дрезден",
+            "en": "Dresden",
+            "ua": "Дрезден"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Frankfurt/Oder",
-            "ru": "Франкфурт-на-Одере"
+            "ru": "Франкфурт-на-Одере",
+            "en": "Frankfurt (Oder)",
+            "ua": "Франкфурт-на-Одері"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
-        "ru": "Какой город Германии после Второй мировой войны был разделен на четыре сектора?"
+        "ru": "Какой город Германии после Второй мировой войны был разделен на четыре сектора?",
+        "en": "Which German city was divided into four sectors after World War II?",
+        "ua": "Яке німецьке місто було поділено на чотири сектори після Другої світової війни?"
       }
     },
     {
@@ -8485,35 +8505,45 @@
           "id": "a1",
           "translations": {
             "de": "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
-            "ru": "Для Франции снабжение населения Западного Берлина самолетом было более рентабельным."
+            "ru": "Для Франции снабжение населения Западного Берлина самолетом было более рентабельным.",
+            "en": "For France, supplying the people of West Berlin by air was more cost-effective.",
+            "ua": "Для Франції постачання населення Західного Берліна літаком було економічно вигідніше."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.",
-            "ru": "Американские солдаты боялись нападений во время наземной транспортировки."
+            "ru": "Американские солдаты боялись нападений во время наземной транспортировки.",
+            "en": "American soldiers were afraid of ambushes during land transport.",
+            "ua": "Американські солдати боялися нападів під час наземного транспортування."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
-            "ru": "В Великобритании поставки по воздуху прошли быстрее."
+            "ru": "В Великобритании поставки по воздуху прошли быстрее.",
+            "en": "For Great Britain, supplying via the airlift was faster.",
+            "ua": "Для Великої Британії постачання повітряним мостом було швидше."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
-            "ru": "Советский Союз остановил весь наземный транспорт."
+            "ru": "Советский Союз остановил весь наземный транспорт.",
+            "en": "The Soviet Union blocked all land transport routes.",
+            "ua": "Радянський Союз перекрив весь наземний транспорт."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
-        "ru": "С июня 1948 по май 1949 года снабжение населения Западного Берлина доставлялось по воздуху. Какое обстоятельство послужило этому причиной?"
+        "ru": "С июня 1948 по май 1949 года снабжение населения Западного Берлина доставлялось по воздуху. Какое обстоятельство послужило этому причиной?",
+        "en": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an airlift. What was the reason for this?",
+        "ua": "З червня 1948 року по травень 1949 року мешканців Західного Берліна забезпечували через повітряний міст. Що стало причиною цього?"
       }
     },
     {
@@ -8523,35 +8553,45 @@
           "id": "a1",
           "translations": {
             "de": "mit dem Tod Adolf Hitlers",
-            "ru": "смертью Адольфа Гитлера"
+            "ru": "смертью Адольфа Гитлера",
+            "en": "with the death of Adolf Hitler",
+            "ua": "смертю Адольфа Гітлера"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "durch die bedingungslose Kapitulation Deutschlands",
-            "ru": "безоговорочной капитуляцией Германии"
+            "ru": "безоговорочной капитуляцией Германии",
+            "en": "through the unconditional surrender of Germany",
+            "ua": "через беззастережну капітуляцію Німеччини"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
-            "ru": "отступлением немецких войск с оккупированных территорий"
+            "ru": "отступлением немецких войск с оккупированных территорий",
+            "en": "with the withdrawal of German troops from occupied territories",
+            "ua": "відступом німецьких військ з окупованих територій"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "durch eine Revolution in Deutschland",
-            "ru": "революцией в Германии"
+            "ru": "революцией в Германии",
+            "en": "through a revolution in Germany",
+            "ua": "через революцію в Німеччині"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
-        "ru": "Как официально закончилась Вторая мировая война в Европе?"
+        "ru": "Как официально закончилась Вторая мировая война в Европе?",
+        "en": "How did the Second World War officially end in Europe?",
+        "ua": "Як офіційно закінчилася Друга світова війна в Європі?"
       }
     },
     {
@@ -8561,35 +8601,45 @@
           "id": "a1",
           "translations": {
             "de": "Ludwig Erhard.",
-            "ru": "Людвиг Эрхард."
+            "ru": "Людвиг Эрхард.",
+            "en": "Ludwig Erhard.",
+            "ua": "Людвіг Ергард."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Willy Brandt.",
-            "ru": "Вилли Брандт."
+            "ru": "Вилли Брандт.",
+            "en": "Willy Brandt.",
+            "ua": "Віллі Брандт."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Konrad Adenauer.",
-            "ru": "Конрад Аденауэр."
+            "ru": "Конрад Аденауэр.",
+            "en": "Konrad Adenauer.",
+            "ua": "Конрад Аденауер."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Gerhard Schröder.",
-            "ru": "Герхард Шредер."
+            "ru": "Герхард Шредер.",
+            "en": "Gerhard Schröder.",
+            "ua": "Герхард Шрьодер."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Der erste Bundeskanzler der Bundesrepublik Deutschland war ...",
-        "ru": "Первым канцлером ФРГ был..."
+        "ru": "Первым канцлером ФРГ был...",
+        "en": "The first Chancellor of the Federal Republic of Germany was ...",
+        "ua": "Першим федеральним канцлером Німеччини був ..."
       }
     },
     {
@@ -8599,35 +8649,45 @@
           "id": "a1",
           "translations": {
             "de": "Er hat sich den ehemaligen Alliierten unterworfen.",
-            "ru": "Он подчинился бывшим союзникам."
+            "ru": "Он подчинился бывшим союзникам.",
+            "en": "He submitted to the former Allies.",
+            "ua": "Він підкорився колишнім союзникам."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Er bat Polen und die polnischen Juden um Vergebung.",
-            "ru": "Он просил у Польши и польских евреев прощения."
+            "ru": "Он просил у Польши и польских евреев прощения.",
+            "en": "He asked Poland and Polish Jews for forgiveness.",
+            "ua": "Він попросив вибачення у Польщі та польських євреїв."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Er zeigte seine Demut vor dem Warschauer Pakt.",
-            "ru": "Он показал свое смирение перед Варшавским договором."
+            "ru": "Он показал свое смирение перед Варшавским договором.",
+            "en": "He showed his humility before the Warsaw Pact.",
+            "ua": "Він продемонстрував своє смирення перед Варшавським договором."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Er sprach ein Gebet am Grab des Unbekannten Soldaten.",
-            "ru": "Он произнес молитву у Могилы Неизвестного солдата."
+            "ru": "Он произнес молитву у Могилы Неизвестного солдата.",
+            "en": "He said a prayer at the Tomb of the Unknown Soldier.",
+            "ua": "Він помолився біля Могили Невідомого солдата."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
-        "ru": "Что хотел выразить Вилли Брандт, опустившись на колени в 1970 году в бывшем еврейском гетто в Варшаве?"
+        "ru": "Что хотел выразить Вилли Брандт, опустившись на колени в 1970 году в бывшем еврейском гетто в Варшаве?",
+        "en": "What did Willy Brandt want to express with his kneeling in 1970 at the former Jewish ghetto in Warsaw?",
+        "ua": "Що хотів висловити Віллі Брандт, ставши на коліна в 1970 році в колишньому єврейському гетто у Варшаві?"
       }
     },
     {
@@ -8637,35 +8697,45 @@
           "id": "a1",
           "translations": {
             "de": "KPD und SPD",
-            "ru": "KPD und SPD"
+            "ru": "KPD und SPD",
+            "en": "KPD and SPD",
+            "ua": "КПН і СДПН"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "SPD und CDU",
-            "ru": "SPD und CDU"
+            "ru": "SPD und CDU",
+            "en": "SPD and CDU",
+            "ua": "СДПН і ХДС"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "CDU und FDP",
-            "ru": "CDU und FDP"
+            "ru": "CDU und FDP",
+            "en": "CDU and FDP",
+            "ua": "ХДС і ВДП"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "KPD und CSU",
-            "ru": "KPD und CSU"
+            "ru": "KPD und CSU",
+            "en": "KPD and CSU",
+            "ua": "КПН і ХСС"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welche Parteien wurden 1946 zwangsweise zur SED vereint, der Einheitspartei der späteren DDR?",
-        "ru": "Какие партии были насильственно объединены в 1946 году в СЕПГ, единую партию позднейшей ГДР?"
+        "ru": "Какие партии были насильственно объединены в 1946 году в СЕПГ, единую партию позднейшей ГДР?",
+        "en": "Which parties were forcibly merged in 1946 to form the SED, the unified party of the later GDR?",
+        "ua": "Які партії були примусово об'єднані у 1946 році в СЄПН — єдину партію майбутньої НДР?"
       }
     },
     {
@@ -8675,35 +8745,45 @@
           "id": "a1",
           "translations": {
             "de": "40er Jahre",
-            "ru": "40-е годы"
+            "ru": "40-е годы",
+            "en": "1940s",
+            "ua": "1940-ві роки"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "50er Jahre",
-            "ru": "50-е годы"
+            "ru": "50-е годы",
+            "en": "1950s",
+            "ua": "1950-ті роки"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "70er Jahre",
-            "ru": "70-е годы"
+            "ru": "70-е годы",
+            "en": "1970s",
+            "ua": "1970-ті роки"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "80er Jahre",
-            "ru": "80-е годы"
+            "ru": "80-е годы",
+            "en": "1980s",
+            "ua": "1980-ті роки"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wann war in der Bundesrepublik Deutschland das 'Wirtschaftswunder'?",
-        "ru": "Когда произошло «экономическое чудо» в ФРГ?"
+        "ru": "Когда произошло «экономическое чудо» в ФРГ?",
+        "en": "When did the 'economic miracle' occur in the Federal Republic of Germany?",
+        "ua": "Коли в Федеративній Республіці Німеччина сталося «економічне диво»?"
       }
     },
     {
@@ -8713,35 +8793,45 @@
           "id": "a1",
           "translations": {
             "de": "Damit wird die Zeit nach der Wende im Jahr 1989 bezeichnet.",
-            "ru": "Это относится к периоду после падения коммунизма в 1989 году"
+            "ru": "Это относится к периоду после падения коммунизма в 1989 году",
+            "en": "This refers to the period after the political change in 1989.",
+            "ua": "Це стосується періоду після політичних змін у 1989 році."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Damit wurde der Beginn des Zweiten Weltkrieges bezeichnet.",
-            "ru": "Это положило начало Второй мировой войне."
+            "ru": "Это положило начало Второй мировой войне.",
+            "en": "This referred to the beginning of World War II.",
+            "ua": "Це означало початок Другої світової війни."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.",
-            "ru": "Это означало конец Второй мировой войны и начало восстановления."
+            "ru": "Это означало конец Второй мировой войны и начало восстановления.",
+            "en": "It meant the end of World War II and the beginning of reconstruction.",
+            "ua": "Це означало кінець Другої світової війни та початок відбудови."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird.",
-            "ru": "Имеется в виду час, в который часы переводятся с летнего времени на зимнее."
+            "ru": "Имеется в виду час, в который часы переводятся с летнего времени на зимнее.",
+            "en": "It refers to the hour when clocks are set back from daylight saving time to standard time.",
+            "ua": "Йдеться про час, коли переводять годинник з літнього на зимовий час."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was nannten die Menschen in Deutschland sehr lange 'Die Stunde Null'?",
-        "ru": "Что в Германии долгое время называли «Часом ноль»?"
+        "ru": "Что в Германии долгое время называли «Часом ноль»?",
+        "en": "What did people in Germany refer to for a long time as 'Zero Hour'?",
+        "ua": "Що в Німеччині довгий час називали «Нульовою годиною»?"
       }
     },
     {
@@ -8751,35 +8841,45 @@
           "id": "a1",
           "translations": {
             "de": "des Warschauer Pakts gegen den Westen.",
-            "ru": "стран Варшавского договора от Запада."
+            "ru": "стран Варшавского договора от Запада.",
+            "en": "of the Warsaw Pact countries from the West.",
+            "ua": "країн Варшавського договору від Заходу."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Norddeutschlands gegen Süddeutschland.",
-            "ru": "Северной Германии от Южной Германии"
+            "ru": "Северной Германии от Южной Германии",
+            "en": "of northern Germany from southern Germany.",
+            "ua": "північної Німеччини від південної."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Nazi-Deutschlands gegen die Alliierten.",
-            "ru": "Нацистской Германии от союзников."
+            "ru": "Нацистской Германии от союзников.",
+            "en": "of Nazi Germany from the Allies.",
+            "ua": "нацистської Німеччини від союзників."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Europas gegen die USA.",
-            "ru": "Европы от США"
+            "ru": "Европы от США",
+            "en": "of Europe from the USA.",
+            "ua": "Європи від США."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Wofür stand der Ausdruck 'Eiserner Vorhang'? Für die Abschottung ...",
-        "ru": "Что означало выражение «железный занавес»? Изоляцию .."
+        "ru": "Что означало выражение «железный занавес»? Изоляцию ..",
+        "en": "What did the term 'Iron Curtain' stand for? The isolation ...",
+        "ua": "Що означав термін «залізна завіса»? Ізоляцію ..."
       }
     },
     {
@@ -8789,35 +8889,45 @@
           "id": "a1",
           "translations": {
             "de": "1. Mai",
-            "ru": "1 мая"
+            "ru": "1 мая",
+            "en": "May 1st",
+            "ua": "1 травня"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "17. Juni",
-            "ru": "17 июня"
+            "ru": "17 июня",
+            "en": "June 17th",
+            "ua": "17 червня"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "20. Juli",
-            "ru": "20 июля"
+            "ru": "20 июля",
+            "en": "July 20th",
+            "ua": "20 липня"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "9. November",
-            "ru": "9 ноября"
+            "ru": "9 ноября",
+            "en": "November 9th",
+            "ua": "9 листопада"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
-        "ru": "В 1953 году в ГДР произошло восстание, которое долгое время отмечалось государственным праздником в ФРГ. Когда это было?"
+        "ru": "В 1953 году в ГДР произошло восстание, которое долгое время отмечалось государственным праздником в ФРГ. Когда это было?",
+        "en": "In 1953, there was an uprising in the GDR that was commemorated for a long time as a public holiday in the Federal Republic of Germany. When did it happen?",
+        "ua": "У 1953 році в НДР відбулося повстання, яке довгий час відзначалося як державне свято у ФРН. Коли це сталося?"
       }
     },
     {
@@ -8828,35 +8938,45 @@
           "id": "a1",
           "translations": {
             "de": "Preußen",
-            "ru": "Пруссия"
+            "ru": "Пруссия",
+            "en": "Prussia",
+            "ua": "Пруссія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Bundesrepublik Deutschland",
-            "ru": "Федеративная Республика Германия"
+            "ru": "Федеративная Республика Германия",
+            "en": "Federal Republic of Germany",
+            "ua": "Федеративна Республіка Німеччина"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "DDR",
-            "ru": "ГДР"
+            "ru": "ГДР",
+            "en": "GDR (German Democratic Republic)",
+            "ua": "НДР (Німецька Демократична Республіка)"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Drittes Reich",
-            "ru": "Третий рейх"
+            "ru": "Третий рейх",
+            "en": "Third Reich",
+            "ua": "Третій Рейх"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
-        "ru": "Какое немецкое государство имело черно-красно-золотой флаг с молотом, циркулем и венком из колосьев пшеницы?"
+        "ru": "Какое немецкое государство имело черно-красно-золотой флаг с молотом, циркулем и венком из колосьев пшеницы?",
+        "en": "Which German state had a black-red-gold flag with a hammer, compass, and a wreath of ears of wheat?",
+        "ua": "Яка німецька держава мала чорний-червоний-золотий прапор із молотом, циркулем і вінком з колосків пшениці?"
       }
     },
     {
@@ -8866,35 +8986,45 @@
           "id": "a1",
           "translations": {
             "de": "1953",
-            "ru": "1953"
+            "ru": "1953",
+            "en": "1953",
+            "ua": "1953"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1956",
-            "ru": "1956"
+            "ru": "1956",
+            "en": "1956",
+            "ua": "1956"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1959",
-            "ru": "1959"
+            "ru": "1959",
+            "en": "1959",
+            "ua": "1959"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1961",
-            "ru": "1961"
+            "ru": "1961",
+            "en": "1961",
+            "ua": "1961"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
-        "ru": "В каком году была построена стена в Берлине?"
+        "ru": "В каком году была построена стена в Берлине?",
+        "en": "In which year was the Berlin Wall built?",
+        "ua": "У якому році була збудована Берлінська стіна?"
       }
     },
     {
@@ -8904,35 +9034,45 @@
           "id": "a1",
           "translations": {
             "de": "1919",
-            "ru": "1919"
+            "ru": "1919",
+            "en": "1919",
+            "ua": "1919"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1933",
-            "ru": "1933"
+            "ru": "1933",
+            "en": "1933",
+            "ua": "1933"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1961",
-            "ru": "1961"
+            "ru": "1961",
+            "en": "1961",
+            "ua": "1961"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1990",
-            "ru": "1990"
+            "ru": "1990",
+            "en": "1990",
+            "ua": "1990"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wann baute die DDR die Mauer in Berlin?",
-        "ru": "Когда ГДР построила стену в Берлине?"
+        "ru": "Когда ГДР построила стену в Берлине?",
+        "en": "When did the GDR build the Berlin Wall?",
+        "ua": "Коли НДР побудувала Берлінський мур?"
       }
     },
     {
@@ -8942,35 +9082,45 @@
           "id": "a1",
           "translations": {
             "de": "Dritter Deutscher Rundfunk",
-            "ru": "Третье немецкое радио"
+            "ru": "Третье немецкое радио",
+            "en": "Third German Broadcasting",
+            "ua": "Третє німецьке радіо"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Die Deutsche Republik",
-            "ru": "Германская Республика"
+            "ru": "Германская Республика",
+            "en": "The German Republic",
+            "ua": "Німецька Республіка"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Dritte Deutsche Republik",
-            "ru": "Третья Германская Республика"
+            "ru": "Третья Германская Республика",
+            "en": "Third German Republic",
+            "ua": "Третя Німецька Республіка"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Deutsche Demokratische Republik",
-            "ru": "Германская Демократическая Республика"
+            "ru": "Германская Демократическая Республика",
+            "en": "German Democratic Republic",
+            "ua": "Німецька Демократична Республіка"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Was bedeutet die Abkürzung DDR?",
-        "ru": "Что означает аббревиатура ГДР?"
+        "ru": "Что означает аббревиатура ГДР?",
+        "en": "What does the abbreviation DDR stand for?",
+        "ua": "Що означає абревіатура НДР?"
       }
     },
     {
@@ -8980,35 +9130,45 @@
           "id": "a1",
           "translations": {
             "de": "1987",
-            "ru": "1987"
+            "ru": "1987",
+            "en": "1987",
+            "ua": "1987"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1989",
-            "ru": "1989"
+            "ru": "1989",
+            "en": "1989",
+            "ua": "1989"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "1992",
-            "ru": "1992"
+            "ru": "1992",
+            "en": "1992",
+            "ua": "1992"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "1995",
-            "ru": "1995"
+            "ru": "1995",
+            "en": "1995",
+            "ua": "1995"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wann wurde die Mauer in Berlin für alle geöffnet?",
-        "ru": "Когда стена в Берлине была открыта для всех?"
+        "ru": "Когда стена в Берлине была открыта для всех?",
+        "en": "When was the Berlin Wall opened to everyone?",
+        "ua": "Коли було відкрито Берлінський мур для всіх?"
       }
     },
     {
@@ -9018,35 +9178,45 @@
           "id": "a1",
           "translations": {
             "de": "Brandenburg",
-            "ru": "Бранденбург"
+            "ru": "Бранденбург",
+            "en": "Brandenburg",
+            "ua": "Бранденбург"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Bayern",
-            "ru": "Бавария"
+            "ru": "Бавария",
+            "en": "Bavaria",
+            "ua": "Баварія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Saarland",
-            "ru": "Саар"
+            "ru": "Саар",
+            "en": "Saarland",
+            "ua": "Саар"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Hessen",
-            "ru": "Гессен"
+            "ru": "Гессен",
+            "en": "Hesse",
+            "ua": "Гессен"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
-        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?"
+        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+        "en": "Which current federal state of Germany was formerly part of the GDR?",
+        "ua": "Яка сучасна федеральна земля Німеччини раніше входила до складу НДР?"
       }
     },
     {
@@ -9056,35 +9226,45 @@
           "id": "a1",
           "translations": {
             "de": "ohne Bürgermeister.",
-            "ru": "без мэра."
+            "ru": "без мэра.",
+            "en": "without a mayor.",
+            "ua": "без мера."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "ein eigener Staat.",
-            "ru": "отдельным государством."
+            "ru": "отдельным государством.",
+            "en": "an independent state.",
+            "ua": "окремою державою."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "durch eine Mauer geteilt.",
-            "ru": "разделен стеной."
+            "ru": "разделен стеной.",
+            "en": "divided by a wall.",
+            "ua": "розділений стіною."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "nur mit dem Flugzeug erreichbar.",
-            "ru": "доступен только на самолете."
+            "ru": "доступен только на самолете.",
+            "en": "accessible only by airplane.",
+            "ua": "доступний лише літаком."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Von 1961 bis 1989 war Berlin ...",
-        "ru": "С 1961 по 1989 год Берлин был..."
+        "ru": "С 1961 по 1989 год Берлин был...",
+        "en": "From 1961 to 1989, Berlin was ...",
+        "ua": "З 1961 по 1989 рік Берлін був ..."
       }
     },
     {
@@ -9094,35 +9274,45 @@
           "id": "a1",
           "translations": {
             "de": "Einheit.",
-            "ru": "немецкого единства."
+            "ru": "немецкого единства.",
+            "en": "unity.",
+            "ua": "єдності."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Nation.",
-            "ru": "немецкой нации."
+            "ru": "немецкой нации.",
+            "en": "nation.",
+            "ua": "нації."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Bundesländer.",
-            "ru": "немецких федеральных земель."
+            "ru": "немецких федеральных земель.",
+            "en": "federal states.",
+            "ua": "федеральних земель."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Städte.",
-            "ru": "немецких городов."
+            "ru": "немецких городов.",
+            "en": "cities.",
+            "ua": "міст."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen ...",
-        "ru": "3 октября в Германии отмечают День ..."
+        "ru": "3 октября в Германии отмечают День ...",
+        "en": "On October 3rd, Germany celebrates the Day of German ...",
+        "ua": "3 жовтня в Німеччині відзначають День німецької ..."
       }
     },
     {
@@ -9132,35 +9322,45 @@
           "id": "a1",
           "translations": {
             "de": "Hessen",
-            "ru": "Гессен"
+            "ru": "Гессен",
+            "en": "Hesse",
+            "ua": "Гессен"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Sachsen-Anhalt",
-            "ru": "Саксония-Анхальт"
+            "ru": "Саксония-Анхальт",
+            "en": "Saxony-Anhalt",
+            "ua": "Саксонія-Ангальт"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Nordrhein-Westfalen",
-            "ru": "Северный Рейн-Вестфалия"
+            "ru": "Северный Рейн-Вестфалия",
+            "en": "North Rhine-Westphalia",
+            "ua": "Північний Рейн-Вестфалія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Saarland",
-            "ru": "Саар"
+            "ru": "Саар",
+            "en": "Saarland",
+            "ua": "Саар"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
-        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?"
+        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+        "en": "Which present-day German federal state was formerly part of East Germany (GDR)?",
+        "ua": "Яка сучасна федеральна земля Німеччини раніше входила до складу НДР?"
       }
     },
     {
@@ -9170,35 +9370,45 @@
           "id": "a1",
           "translations": {
             "de": "von einer Diktatur zur Demokratie.",
-            "ru": "от диктатуры к демократии."
+            "ru": "от диктатуры к демократии.",
+            "en": "from a dictatorship to a democracy.",
+            "ua": "від диктатури до демократії."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "von einer liberalen Marktwirtschaft zum Sozialismus.",
-            "ru": "от либеральной рыночной экономики к социализму."
+            "ru": "от либеральной рыночной экономики к социализму.",
+            "en": "from a liberal market economy to socialism.",
+            "ua": "від ліберальної ринкової економіки до соціалізму."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "von einer Monarchie zur Sozialdemokratie.",
-            "ru": "от монархии к социал-демократии."
+            "ru": "от монархии к социал-демократии.",
+            "en": "from a monarchy to social democracy.",
+            "ua": "від монархії до соціал-демократії."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "von einem religiösen Staat zu einem kommunistischen Staat.",
-            "ru": "от религиозного государства к коммунистическому государству."
+            "ru": "от религиозного государства к коммунистическому государству.",
+            "en": "from a religious state to a communist state.",
+            "ua": "від релігійної держави до комуністичної держави."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Warum nennt man die Zeit im Herbst 1989 in der DDR Die Wende? In dieser Zeit veränderte sich die DDR politisch ...",
-        "ru": "Почему осень 1989 года в ГДР называют «переломным моментом»? За это время ГДР изменилась политически..."
+        "ru": "Почему осень 1989 года в ГДР называют «переломным моментом»? За это время ГДР изменилась политически...",
+        "en": "Why is the autumn of 1989 in East Germany (GDR) called 'Die Wende' (the turning point)? During this time, the GDR changed politically ...",
+        "ua": "Чому осінь 1989 року у НДР називають «переломним моментом»? У цей час НДР політично змінилася ..."
       }
     },
     {
@@ -9208,35 +9418,45 @@
           "id": "a1",
           "translations": {
             "de": "Thüringen",
-            "ru": "Тюрингия"
+            "ru": "Тюрингия",
+            "en": "Thuringia",
+            "ua": "Тюрингія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Hessen",
-            "ru": "Гессен"
+            "ru": "Гессен",
+            "en": "Hesse",
+            "ua": "Гессен"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Bayern",
-            "ru": "Бавария"
+            "ru": "Бавария",
+            "en": "Bavaria",
+            "ua": "Баварія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Bremen",
-            "ru": "Бремен"
+            "ru": "Бремен",
+            "en": "Bremen",
+            "ua": "Бремен"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
-        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?"
+        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+        "en": "Which current German federal state used to be part of the territory of the GDR?",
+        "ua": "Яка нинішня федеральна земля Німеччини раніше входила до складу НДР?"
       }
     },
     {
@@ -9246,35 +9466,45 @@
           "id": "a1",
           "translations": {
             "de": "Bayern",
-            "ru": "Бавария"
+            "ru": "Бавария",
+            "en": "Bavaria",
+            "ua": "Баварія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Niedersachsen",
-            "ru": "Нижняя Саксония"
+            "ru": "Нижняя Саксония",
+            "en": "Lower Saxony",
+            "ua": "Нижня Саксонія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Sachsen",
-            "ru": "Саксония"
+            "ru": "Саксония",
+            "en": "Saxony",
+            "ua": "Саксонія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Baden-Württemberg",
-            "ru": "Баден-Вюртемберг"
+            "ru": "Баден-Вюртемберг",
+            "en": "Baden-Württemberg",
+            "ua": "Баден-Вюртемберг"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
-        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?"
+        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+        "en": "Which current German federal state used to be part of the territory of the GDR?",
+        "ua": "Яка нинішня федеральна земля Німеччини раніше входила до складу НДР?"
       }
     },
     {
@@ -9284,35 +9514,45 @@
           "id": "a1",
           "translations": {
             "de": "das Parlament.",
-            "ru": "Парламент."
+            "ru": "Парламент.",
+            "en": "the parliament.",
+            "ua": "парламент."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "das Ministerium für Staatssicherheit.",
-            "ru": "Министерство государственной безопасности."
+            "ru": "Министерство государственной безопасности.",
+            "en": "the Ministry for State Security.",
+            "ua": "Міністерство державної безпеки."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "eine regierende Partei.",
-            "ru": "правящую партию"
+            "ru": "правящую партию",
+            "en": "a ruling party.",
+            "ua": "правлячу партію."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "das Ministerium für Volksbildung.",
-            "ru": "Министерство народного образования."
+            "ru": "Министерство народного образования.",
+            "en": "the Ministry of Public Education.",
+            "ua": "Міністерство народної освіти."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Mit der Abkürzung Stasi meinte man in der DDR ...",
-        "ru": "В ГДР аббревиатура «Штази» означала..."
+        "ru": "В ГДР аббревиатура «Штази» означала...",
+        "en": "In the GDR, the abbreviation 'Stasi' referred to ...",
+        "ua": "У НДР абревіатура «Штазі» означала ..."
       }
     },
     {
@@ -9322,35 +9562,45 @@
           "id": "a1",
           "translations": {
             "de": "Hessen",
-            "ru": "Гессен"
+            "ru": "Гессен",
+            "en": "Hesse",
+            "ua": "Гессен"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Schleswig-Holstein",
-            "ru": "Земля Шлезвиг-Гольштейн"
+            "ru": "Земля Шлезвиг-Гольштейн",
+            "en": "Schleswig-Holstein",
+            "ua": "Шлезвіг-Гольштейн"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Mecklenburg-Vorpommern",
-            "ru": "Мекленбург-Передняя Померания"
+            "ru": "Мекленбург-Передняя Померания",
+            "en": "Mecklenburg-Western Pomerania",
+            "ua": "Мекленбург-Передня Померанія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Saarland",
-            "ru": "Саар"
+            "ru": "Саар",
+            "en": "Saarland",
+            "ua": "Саар"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
-        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?"
+        "ru": "Какая нынешняя федеральная земля Германии когда-то входила в состав ГДР?",
+        "en": "Which present-day German federal state was formerly part of the GDR?",
+        "ua": "Яка сучасна федеральна земля Німеччини раніше входила до складу НДР?"
       }
     },
     {
