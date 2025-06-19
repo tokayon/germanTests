@@ -16,12 +16,6 @@ enum TestMode: Equatable {
 }
 
 struct QuestionListView: View {
-    
-    private struct Constants {
-        static let autoAdvancedDelay: TimeInterval = 1
-        static let warningRemainingSeconds: Int = 60
-    }
-    
     @Environment(\.dismiss) private var dismiss
     @AppStorage("testDuration") private var testDuration: Int = 1800
 

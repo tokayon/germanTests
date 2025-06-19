@@ -10,11 +10,6 @@ import SwiftUI
 import AVFoundation
 
 struct TestStartView: View {
-    
-    private struct Constants {
-        static let questionsCount: Int = 33
-    }
-    
     @State private var isTestStarted = false
     @State private var showResult = false
     @State private var resultData: ExamResultData? = nil
