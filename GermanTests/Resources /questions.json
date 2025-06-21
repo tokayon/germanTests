@@ -11052,35 +11052,45 @@
           "id": "a1",
           "translations": {
             "de": "Damit sind amerikanische Einwanderer in Europa gemeint.",
-            "ru": "Речь идет об американских иммигрантах в Европе."
+            "ru": "Речь идет об американских иммигрантах в Европе.",
+            "en": "This refers to American immigrants in Europe.",
+            "ua": "Йдеться про американських іммігрантів у Європі."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Der Begriff meint den Einwanderungsstopp nach Europa.",
-            "ru": "Этот термин означает прекращение иммиграции в Европу."
+            "ru": "Этот термин означает прекращение иммиграции в Европу.",
+            "en": "The term refers to a halt in immigration to Europe.",
+            "ua": "Термін означає припинення імміграції до Європи."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Damit sind europäische Auswanderer in den USA gemeint.",
-            "ru": "Речь идет о европейских эмигрантах в США"
+            "ru": "Речь идет о европейских эмигрантах в США",
+            "en": "This refers to European emigrants in the USA.",
+            "ua": "Йдеться про європейських емігрантів у США."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
-            "ru": "Этот термин означает слияние европейских государств с образованием EC."
+            "ru": "Этот термин означает слияние европейских государств с образованием EC.",
+            "en": "The term refers to the unification of European countries into the EU.",
+            "ua": "Термін означає об'єднання європейських країн в ЄС."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Was bedeutet der Begriff -europäische Integration-?",
-        "ru": "Что означает термин «европейская интеграция»?"
+        "ru": "Что означает термин «европейская интеграция»?",
+        "en": "What does the term 'European integration' mean?",
+        "ua": "Що означає термін «європейська інтеграція»?"
       }
     },
     {
@@ -11090,35 +11100,45 @@
           "id": "a1",
           "translations": {
             "de": "die Europäische Kommission",
-            "ru": "Европейская Комиссия"
+            "ru": "Европейская Комиссия",
+            "en": "the European Commission",
+            "ua": "Європейська Комісія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "die Länder, die in die EU eintreten dürfen",
-            "ru": "страны, которым разрешено вступить в ЕС"
+            "ru": "страны, которым разрешено вступить в ЕС",
+            "en": "the countries that are allowed to join the EU",
+            "ua": "країни, яким дозволено вступити до ЄС"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die europäische Verfassung",
-            "ru": "Европейская конституция"
+            "ru": "Европейская конституция",
+            "en": "the European Constitution",
+            "ua": "Європейська конституція"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Abgeordneten des Europäischen Parlaments",
-            "ru": "члены Европейского Парламента"
+            "ru": "члены Европейского Парламента",
+            "en": "the members of the European Parliament",
+            "ua": "депутати Європейського парламенту"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wer wird bei der Europawahl gewählt?",
-        "ru": "Кто избирается на европейских выборах?"
+        "ru": "Кто избирается на европейских выборах?",
+        "en": "Who is elected in the European elections?",
+        "ua": "Кого обирають на виборах до Європейського парламенту?"
       }
     },
     {
@@ -11128,35 +11148,45 @@
           "id": "a1",
           "translations": {
             "de": "Tschechien",
-            "ru": "Чешская Республика"
+            "ru": "Чешская Республика",
+            "en": "Czech Republic",
+            "ua": "Чеська Республіка"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Bulgarien",
-            "ru": "Болгария"
+            "ru": "Болгария",
+            "en": "Bulgaria",
+            "ua": "Болгарія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Griechenland",
-            "ru": "Греция"
+            "ru": "Греция",
+            "en": "Greece",
+            "ua": "Греція"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Portugal",
-            "ru": "Португалия"
+            "ru": "Португалия",
+            "en": "Portugal",
+            "ua": "Португалія"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welches Land ist ein Nachbarland von Deutschland?",
-        "ru": "Какая страна граничит с Германией?"
+        "ru": "Какая страна граничит с Германией?",
+        "en": "Which country is a neighbor of Germany?",
+        "ua": "Яка країна є сусідом Німеччини?"
       }
     },
     {
@@ -11166,35 +11196,45 @@
           "id": "a1",
           "translations": {
             "de": "London",
-            "ru": "Лондон"
+            "ru": "Лондон",
+            "en": "London",
+            "ua": "Лондон"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Paris",
-            "ru": "Париж"
+            "ru": "Париж",
+            "en": "Paris",
+            "ua": "Париж"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Berlin",
-            "ru": "Берлин"
+            "ru": "Берлин",
+            "en": "Berlin",
+            "ua": "Берлін"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Straßburg",
-            "ru": "Страсбург"
+            "ru": "Страсбург",
+            "en": "Strasbourg",
+            "ua": "Страсбург"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wo ist der Sitz des Europäischen Parlaments?",
-        "ru": "Где находится резиденция Европейского парламента?"
+        "ru": "Где находится резиденция Европейского парламента?",
+        "en": "Where is the seat of the European Parliament?",
+        "ua": "Де знаходиться штаб-квартира Європейського парламенту?"
       }
     },
     {
@@ -11204,35 +11244,45 @@
           "id": "a1",
           "translations": {
             "de": "Freundschaft zwischen England und Deutschland",
-            "ru": "Дружба между Англией и Германией"
+            "ru": "Дружба между Англией и Германией",
+            "en": "Friendship between England and Germany",
+            "ua": "Дружба між Англією та Німеччиною"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Reisefreiheit in alle Länder der EU",
-            "ru": "Свобода передвижения во все страны ЕС"
+            "ru": "Свобода передвижения во все страны ЕС",
+            "en": "Freedom of travel to all EU countries",
+            "ua": "Свобода подорожей до всіх країн ЄС"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Frieden und Sicherheit in den Ländern der EU",
-            "ru": "Мир и безопасность в странах ЕС"
+            "ru": "Мир и безопасность в странах ЕС",
+            "en": "Peace and security in the countries of the EU",
+            "ua": "Мир і безпека в країнах ЄС"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "einheitliche Feiertage in den Ländern der EU",
-            "ru": "Единые государственные праздники в странах ЕС"
+            "ru": "Единые государственные праздники в странах ЕС",
+            "en": "Uniform public holidays in the countries of the EU",
+            "ua": "Єдині державні свята в країнах ЄС"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?",
-        "ru": "Президент Франции Франсуа Миттеран и канцлер Германии Гельмут Коль совместно чтят память погибших в обеих мировых войнах в Вердене. Какая цель Европейского Союза подтверждается на этой встрече?"
+        "ru": "Президент Франции Франсуа Миттеран и канцлер Германии Гельмут Коль совместно чтят память погибших в обеих мировых войнах в Вердене. Какая цель Европейского Союза подтверждается на этой встрече?",
+        "en": "The French President François Mitterrand and the German Chancellor Helmut Kohl jointly commemorate the dead of both world wars in Verdun. Which goal of the European Union is made clear at this meeting?",
+        "ua": "Президент Франції Франсуа Міттеран і канцлер Німеччини Гельмут Коль разом вшановують пам’ять загиблих у двох світових війнах у Вердені. Яка мета Європейського Союзу проявляється на цій зустрічі?"
       }
     },
     {
@@ -11242,35 +11292,45 @@
           "id": "a1",
           "translations": {
             "de": "21",
-            "ru": "21"
+            "ru": "21",
+            "en": "21",
+            "ua": "21"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "23",
-            "ru": "23"
+            "ru": "23",
+            "en": "23",
+            "ua": "23"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "25",
-            "ru": "25"
+            "ru": "25",
+            "en": "25",
+            "ua": "25"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "27",
-            "ru": "27"
+            "ru": "27",
+            "en": "27",
+            "ua": "27"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wie viele Mitgliedstaaten hat die EU heute?",
-        "ru": "Сколько государств на сегодяшний день являются членами ЕС?"
+        "ru": "Сколько государств на сегодяшний день являются членами ЕС?",
+        "en": "How many member states does the EU have today?",
+        "ua": "Скільки країн є членами ЄС сьогодні?"
       }
     },
     {
@@ -11280,35 +11340,45 @@
           "id": "a1",
           "translations": {
             "de": "Beitritt Deutschlands zur NATO",
-            "ru": "Германия вступает в НАТО"
+            "ru": "Германия вступает в НАТО",
+            "en": "Germany joining NATO",
+            "ua": "Вступ Німеччини до НАТО"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
-            "ru": "Создание Европейского экономического сообщества (ЕЭС)."
+            "ru": "Создание Европейского экономического сообщества (ЕЭС).",
+            "en": "Founding of the European Economic Community (EEC)",
+            "ua": "Заснування Європейського економічного співтовариства (ЄЕС)"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Verpflichtung Deutschlands zu Reparationsleistungen",
-            "ru": "Обязательство Германии выплатить репарации"
+            "ru": "Обязательство Германии выплатить репарации",
+            "en": "Germany's obligation to pay reparations",
+            "ua": "Зобов'язання Німеччини виплачувати репарації"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Festlegung der Oder-Neiße-Linie als Ostgrenze",
-            "ru": "Установление линии Одер-Нейсе в качестве восточной границы."
+            "ru": "Установление линии Одер-Нейсе в качестве восточной границы.",
+            "en": "Establishment of the Oder-Neisse line as the eastern border",
+            "ua": "Встановлення лінії Одер-Нейсе як східного кордону"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "2007 wurde das 50-jährige Jubiläum der -Römischen Verträge- gefeiert. Was war der Inhalt der Verträge?",
-        "ru": "В 2007 году отмечалось 50-летие Римского договора. Каково было содержание договоров?"
+        "ru": "В 2007 году отмечалось 50-летие Римского договора. Каково было содержание договоров?",
+        "en": "In 2007, the 50th anniversary of the 'Treaties of Rome' was celebrated. What was the content of the treaties?",
+        "ua": "У 2007 році відзначалося 50-річчя «Римських договорів». Який був зміст договорів?"
       }
     },
     {
@@ -11318,35 +11388,45 @@
           "id": "a1",
           "translations": {
             "de": "Paris, London und Den Haag",
-            "ru": "Париж, Лондон и Гаага"
+            "ru": "Париж, Лондон и Гаага",
+            "en": "Paris, London, and The Hague",
+            "ua": "Париж, Лондон і Гаага"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Straßburg, Luxemburg und Brüssel",
-            "ru": "Страсбург, Люксембург и Брюссель"
+            "ru": "Страсбург, Люксембург и Брюссель",
+            "en": "Strasbourg, Luxembourg, and Brussels",
+            "ua": "Страсбург, Люксембург і Брюссель"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Rom, Bern und Wien",
-            "ru": "Рим, Берн и Вена"
+            "ru": "Рим, Берн и Вена",
+            "en": "Rome, Bern, and Vienna",
+            "ua": "Рим, Берн і Відень"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Bonn, Zürich und Mailand",
-            "ru": "Бонн, Цюрих и Милан"
+            "ru": "Бонн, Цюрих и Милан",
+            "en": "Bonn, Zurich, and Milan",
+            "ua": "Бонн, Цюрих і Мілан"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "An welchen Orten arbeitet das Europäische Parlament?",
-        "ru": "Где работает Европейский парламент?"
+        "ru": "Где работает Европейский парламент?",
+        "en": "In which cities does the European Parliament work?",
+        "ua": "У яких містах працює Європейський парламент?"
       }
     },
     {
@@ -11356,35 +11436,45 @@
           "id": "a1",
           "translations": {
             "de": "durch die „Hamburger Verträge\"",
-            "ru": "«Гамбургские договоры»"
+            "ru": "«Гамбургские договоры»",
+            "en": "through the 'Hamburg Agreements'",
+            "ua": "через «Гамбурзькі угоди»"
           }
         },
         {
           "id": "a2",
           "translations": {
-            "de": "durch die „Römischen Verträge\"",
-            "ru": "«Римские договоры»"
+            "de": "durch die 'Römischen Verträge'",
+            "ru": "«Римские договоры»",
+            "en": "through the 'Treaties of Rome'",
+            "ua": "через «Римські договори»"
           }
         },
         {
           "id": "a3",
           "translations": {
-            "de": "durch die „Pariser Verträge\"",
-            "ru": "«Парижские договоры»"
+            "de": "durch die 'Pariser Verträge'",
+            "ru": "«Парижские договоры»",
+            "en": "through the 'Paris Agreements'",
+            "ua": "через «Паризькі угоди»"
           }
         },
         {
           "id": "a4",
           "translations": {
-            "de": "durch die „Londoner Verträge\"",
-            "ru": "«Лондонские договоры»"
+            "de": "durch die 'Londoner Verträge'",
+            "ru": "«Лондонские договоры»",
+            "en": "through the 'London Treaties'",
+            "ua": "через «Лондонські договори»"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
-        "ru": "Посредством каких договоров Федеративная Республика Германия объединила свои силы с другими государствами, чтобы сформировать Европейское экономическое сообщество?"
+        "ru": "Посредством каких договоров Федеративная Республика Германия объединила свои силы с другими государствами, чтобы сформировать Европейское экономическое сообщество?",
+        "en": "Through which treaties did the Federal Republic of Germany join with other countries to form the European Economic Community?",
+        "ua": "За якими договорами Федеративна Республіка Німеччина об’єдналася з іншими державами, щоб створити Європейське економічне співтовариство?"
       }
     },
     {
@@ -11394,35 +11484,45 @@
           "id": "a1",
           "translations": {
             "de": "1995",
-            "ru": "1995"
+            "ru": "1995",
+            "en": "1995",
+            "ua": "1995"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "1998",
-            "ru": "1998"
+            "ru": "1998",
+            "en": "1998",
+            "ua": "1998"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "2002",
-            "ru": "2002"
+            "ru": "2002",
+            "en": "2002",
+            "ua": "2002"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "2005",
-            "ru": "2005"
+            "ru": "2005",
+            "en": "2005",
+            "ua": "2005"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
-        "ru": "С какого времени в Германии люди платят наличными в евро?"
+        "ru": "С какого времени в Германии люди платят наличными в евро?",
+        "en": "Since when have people in Germany been paying with euro cash?",
+        "ua": "З якого часу в Німеччині платять готівкою в євро?"
       }
     },
     {
@@ -11432,35 +11532,45 @@
           "id": "a1",
           "translations": {
             "de": "Sie muss an ihre Krankenkasse schreiben.",
-            "ru": "Она должна написать в свою мед. страховую компанию."
+            "ru": "Она должна написать в свою мед. страховую компанию.",
+            "en": "She must write to her health insurance company.",
+            "ua": "Вона повинна написати до своєї медичної страхової компанії."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
-            "ru": "Ей не нужно ничего делать, так как она будет автоматически получать детские пособия"
+            "ru": "Ей не нужно ничего делать, так как она будет автоматически получать детские пособия.",
+            "en": "She doesn't have to do anything because she receives parental allowance automatically.",
+            "ua": "Їй не потрібно нічого робити, оскільки вона автоматично отримує допомогу по догляду за дитиною."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
-            "ru": "Она должна подать заявление в орган по выплате детских пособий."
+            "ru": "Она должна подать заявление в орган по выплате детских пособий.",
+            "en": "She must submit an application to the parental allowance office.",
+            "ua": "Вона повинна подати заяву до служби допомоги по догляду за дитиною."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Sie muss das Arbeitsamt um Erlaubnis bitten.",
-            "ru": "Она должна попросить разрешение в службе занятости."
+            "ru": "Она должна попросить разрешение в службе занятости.",
+            "en": "She must ask the employment office for permission.",
+            "ua": "Вона повинна звернутися до центру зайнятості за дозволом."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
-        "ru": "Госпожа Зегер ожидает ребенка. Что ей нужно сделать, чтобы получать детские пособия?"
+        "ru": "Госпожа Зегер ожидает ребенка. Что ей нужно сделать, чтобы получать детские пособия?",
+        "en": "Ms. Seger is having a child. What must she do to receive parental allowance?",
+        "ua": "Пані Зегер очікує дитину. Що вона повинна зробити, щоб отримати допомогу по догляду за дитиною?"
       }
     },
     {
@@ -11470,35 +11580,45 @@
           "id": "a1",
           "translations": {
             "de": "der Staat",
-            "ru": "государство"
+            "ru": "государство",
+            "en": "the state",
+            "ua": "держава"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "die Bundesländer",
-            "ru": "федеральные земли"
+            "ru": "федеральные земли",
+            "en": "the federal states",
+            "ua": "федеральні землі"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die Eltern / die Erziehungsberechtigten",
-            "ru": "родители / законные опекуны"
+            "ru": "родители / законные опекуны",
+            "en": "the parents / legal guardians",
+            "ua": "батьки / законні опікуни"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Schulen",
-            "ru": "школы"
+            "ru": "школы",
+            "en": "the schools",
+            "ua": "школи"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
-        "ru": "Кто решает, будет ли ребенок в Германии ходить в детский сад?"
+        "ru": "Кто решает, будет ли ребенок в Германии ходить в детский сад?",
+        "en": "Who decides whether a child in Germany attends kindergarten?",
+        "ua": "Хто вирішує, чи ходитиме дитина в Німеччині до дитячого садка?"
       }
     },
     {
@@ -11508,35 +11628,45 @@
           "id": "a1",
           "translations": {
             "de": "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
-            "ru": "Они ничего не должны делать. В Германии можно демонстрировать в любое время и в любом месте."
+            "ru": "Они ничего не должны делать. В Германии можно демонстрировать в любое время и в любом месте.",
+            "en": "They don’t have to do anything. In Germany, you can demonstrate anywhere at any time.",
+            "ua": "Вони нічого не повинні робити. У Німеччині можна демонструвати будь-де і будь-коли."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Sie müssen die Demonstration anmelden.",
-            "ru": "Они должны зарегистрировать демонстрацию."
+            "ru": "Они должны зарегистрировать демонстрацию.",
+            "en": "They must register the demonstration.",
+            "ua": "Вони повинні зареєструвати демонстрацію."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
-            "ru": "Они не могут ничего сделать, потому что демонстрации в Германии в принципе запрещены."
+            "ru": "Они не могут ничего сделать, потому что демонстрации в Германии в принципе запрещены.",
+            "en": "They can’t do anything because demonstrations are basically forbidden in Germany.",
+            "ua": "Вони нічого не можуть зробити, тому що демонстрації в Німеччині в принципі заборонені."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.",
-            "ru": "Майк и Зибилла должны создать новый клуб, потому что только клубы имеют право на демонстрации."
+            "ru": "Майк и Зибилла должны создать новый клуб, потому что только клубы имеют право на демонстрации.",
+            "en": "Maik and Sybille have to form a new association because only associations are allowed to demonstrate.",
+            "ua": "Майк і Зібілла повинні створити нове об'єднання, тому що тільки об'єднання мають право на демонстрації."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
-        "ru": "Майк и Зибилла хотят вместе с друзьями организовать демонстрацию на улице по своему месту жительства в Германии. Что им нужно сделать заранее?"
+        "ru": "Майк и Зибилла хотят вместе с друзьями организовать демонстрацию на улице по своему месту жительства в Германии. Что им нужно сделать заранее?",
+        "en": "Maik and Sybille want to hold a street demonstration with friends at their place of residence in Germany. What do they have to do beforehand?",
+        "ua": "Майк і Зібілла хочуть провести демонстрацію на вулиці разом з друзями за місцем проживання в Німеччині. Що вони повинні зробити заздалегідь?"
       }
     },
     {
@@ -11546,35 +11676,45 @@
           "id": "a1",
           "translations": {
             "de": "das Abitur",
-            "ru": "Аттестат зрелости / абитур"
+            "ru": "Аттестат зрелости / абитур",
+            "en": "the Abitur (German high school diploma)",
+            "ua": "Атестат зрілості / абітур"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "ein Diplom",
-            "ru": "диплом"
+            "ru": "диплом",
+            "en": "a diploma",
+            "ua": "диплом"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die Prokura",
-            "ru": "доверенность:"
+            "ru": "доверенность:",
+            "en": "power of attorney",
+            "ua": "доручення"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "eine Gesellenprüfung",
-            "ru": "экзамен подмастерья"
+            "ru": "экзамен подмастерья",
+            "en": "a journeyman’s examination",
+            "ua": "екзамен підмайстра"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
-        "ru": "Какой аттестат об окончании школы обычно нужен, чтобы начать обучение в университете в Германии?"
+        "ru": "Какой аттестат об окончании школы обычно нужен, чтобы начать обучение в университете в Германии?",
+        "en": "What school leaving certificate is usually required to begin university studies in Germany?",
+        "ua": "Який шкільний атестат зазвичай потрібен, щоб розпочати навчання в університеті Німеччини?"
       }
     },
     {
@@ -11584,35 +11724,45 @@
           "id": "a1",
           "translations": {
             "de": "Hans (20 Jahre) und Marie (19 Jahre)",
-            "ru": "Ганс (20 лет) и Мари (19 лет)"
+            "ru": "Ганс (20 лет) и Мари (19 лет)",
+            "en": "Hans (20 years old) and Marie (19 years old)",
+            "ua": "Ганс (20 років) і Марі (19 років)"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Tom (20 Jahre) und Klaus (45 Jahre)",
-            "ru": "Том (20 лет) и Клаус (45 лет)"
+            "ru": "Том (20 лет) и Клаус (45 лет)",
+            "en": "Tom (20 years old) and Klaus (45 years old)",
+            "ua": "Том (20 років) і Клаус (45 років)"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Sofie (35 Jahre) und Lisa (40 Jahre)",
-            "ru": "Софи (35 лет) и Лиза (40 лет)"
+            "ru": "Софи (35 лет) и Лиза (40 лет)",
+            "en": "Sofie (35 years old) and Lisa (40 years old)",
+            "ua": "Софі (35 років) і Ліза (40 років)"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Anne (13 Jahre) und Tim (25 Jahre)",
-            "ru": "Анне (13 лет) и Тим (25 лет)"
+            "ru": "Анне (13 лет) и Тим (25 лет)",
+            "en": "Anne (13 years old) and Tim (25 years old)",
+            "ua": "Анне (13 років) і Тім (25 років)"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wer darf in Deutschland nicht als Paar zusammenleben?",
-        "ru": "Кому не разрешено жить вместе как пара в Германии?"
+        "ru": "Кому не разрешено жить вместе как пара в Германии?",
+        "en": "Who is not allowed to live together as a couple in Germany?",
+        "ua": "Кому в Німеччині заборонено жити разом як парі?"
       }
     },
     {
@@ -11622,35 +11772,45 @@
           "id": "a1",
           "translations": {
             "de": "16",
-            "ru": "16"
+            "ru": "16",
+            "en": "16",
+            "ua": "16"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "18",
-            "ru": "18"
+            "ru": "18",
+            "en": "18",
+            "ua": "18"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "19",
-            "ru": "19"
+            "ru": "19",
+            "en": "19",
+            "ua": "19"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "21",
-            "ru": "21"
+            "ru": "21",
+            "en": "21",
+            "ua": "21"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Ab welchem Alter ist man in Deutschland volljährig?",
-        "ru": "С какого возраста человек считается в Германии совершеннолетним?"
+        "ru": "С какого возраста человек считается в Германии совершеннолетним?",
+        "en": "At what age is a person considered an adult in Germany?",
+        "ua": "З якого віку людина вважається повнолітньою в Німеччині?"
       }
     },
     {
@@ -11660,35 +11820,45 @@
           "id": "a1",
           "translations": {
             "de": "Elternzeit",
-            "ru": "Отпуск по уходу за ребенком"
+            "ru": "Отпуск по уходу за ребенком",
+            "en": "Parental leave",
+            "ua": "Відпустка по догляду за дитиною"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Geburtsvorbereitung",
-            "ru": "Подготовка к родам"
+            "ru": "Подготовка к родам",
+            "en": "Birth preparation",
+            "ua": "Підготовка до пологів"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Mutterschutz",
-            "ru": "Охрана материнства"
+            "ru": "Охрана материнства",
+            "en": "Maternity protection",
+            "ua": "Захист материнства"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Wochenbett",
-            "ru": "Послеродовой период"
+            "ru": "Послеродовой период",
+            "en": "Postpartum period",
+            "ua": "Післяпологовий період"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
-        "ru": "Женщина беременна. Она непосредственно перед и после рождения ребенка особенно защищена законом. Как называется эта защита?"
+        "ru": "Женщина беременна. Она непосредственно перед и после рождения ребенка особенно защищена законом. Как называется эта защита?",
+        "en": "A woman is pregnant. She is legally protected shortly before and after the birth of her child. What is this protection called?",
+        "ua": "Жінка вагітна. Вона має особливий правовий захист безпосередньо до і після народження дитини. Як називається цей захист?"
       }
     },
     {
@@ -11698,35 +11868,45 @@
           "id": "a1",
           "translations": {
             "de": "des Staates.",
-            "ru": "государства."
+            "ru": "государства.",
+            "en": "of the state.",
+            "ua": "держави."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "der Eltern.",
-            "ru": "родителей."
+            "ru": "родителей.",
+            "en": "of the parents.",
+            "ua": "батьків."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "der Großeltern.",
-            "ru": "бабушек и дедушек."
+            "ru": "бабушек и дедушек.",
+            "en": "of the grandparents.",
+            "ua": "дідусів і бабусь."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "der Schulen.",
-            "ru": "школ."
+            "ru": "школ.",
+            "en": "of the schools.",
+            "ua": "шкіл."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe ...",
-        "ru": "В Германии воспитание детей - это прежде всего задача.."
+        "ru": "В Германии воспитание детей - это прежде всего задача..",
+        "en": "Raising children in Germany is primarily the responsibility of ...",
+        "ua": "Виховання дітей у Німеччині передусім є завданням ..."
       }
     },
     {
@@ -11736,35 +11916,45 @@
           "id": "a1",
           "translations": {
             "de": "der Staat",
-            "ru": "государство"
+            "ru": "государство",
+            "en": "the state",
+            "ua": "держава"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "die Eltern",
-            "ru": "родители"
+            "ru": "родители",
+            "en": "the parents",
+            "ua": "батьки"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die Verwandten",
-            "ru": "родственники"
+            "ru": "родственники",
+            "en": "the relatives",
+            "ua": "родичі"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Schulen",
-            "ru": "школы"
+            "ru": "школы",
+            "en": "the schools",
+            "ua": "школи"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
-        "ru": "Кто в первую очередь отвечает за воспитание детей в Германии?"
+        "ru": "Кто в первую очередь отвечает за воспитание детей в Германии?",
+        "en": "Who is primarily responsible for raising children in Germany?",
+        "ua": "Хто в Німеччині несе основну відповідальність за виховання дітей?"
       }
     },
     {
@@ -11774,35 +11964,45 @@
           "id": "a1",
           "translations": {
             "de": "katholisch ist.",
-            "ru": "католиком."
+            "ru": "католиком.",
+            "en": "is Catholic.",
+            "ua": "є католиком."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "gut ausgebildet ist.",
-            "ru": "хорошо образованным"
+            "ru": "хорошо образованным",
+            "en": "has a good education.",
+            "ua": "має гарну освіту."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "eine Frau ist.",
-            "ru": "женщиной."
+            "ru": "женщиной.",
+            "en": "is a woman.",
+            "ua": "є жінкою."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Mitglied einer Partei ist.",
-            "ru": "членом партии."
+            "ru": "членом партии.",
+            "en": "is a member of a political party.",
+            "ua": "є членом партії."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man ...",
-        "ru": "В Германии бОльшие шансы получить хорошо оплачиваемую работу, если являешься ..."
+        "ru": "В Германии бОльшие шансы получить хорошо оплачиваемую работу, если являешься ...",
+        "en": "In Germany, one has the best chances of getting a well-paid job if they ...",
+        "ua": "У Німеччині найкращі шанси отримати добре оплачувану роботу, якщо ..."
       }
     },
     {
@@ -11812,35 +12012,45 @@
           "id": "a1",
           "translations": {
             "de": "geht das niemanden etwas an.",
-            "ru": "это никого не касается."
+            "ru": "это никого не касается.",
+            "en": "it is nobody's business.",
+            "ua": "це нікого не стосується."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "geht das nur die Familie etwas an.",
-            "ru": "это только семейное дело."
+            "ru": "это только семейное дело.",
+            "en": "it is only the family’s concern.",
+            "ua": "це стосується лише родини."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "kann man dafür nicht bestraft werden.",
-            "ru": "его нельзя за это наказать."
+            "ru": "его нельзя за это наказать.",
+            "en": "one cannot be punished for it.",
+            "ua": "за це не можна бути покараним."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "kann man dafür bestraft werden.",
-            "ru": "его можно за это наказать."
+            "ru": "его можно за это наказать.",
+            "en": "one can be punished for it.",
+            "ua": "за це можна бути покараним."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wenn man in Deutschland ein Kind schlägt, ...",
-        "ru": "Если кто-то бьёт ребёнка в Германии, ..."
+        "ru": "Если кто-то бьёт ребёнка в Германии, ...",
+        "en": "If someone hits a child in Germany, ...",
+        "ua": "Якщо в Німеччині хтось б'є дитину, ..."
       }
     },
     {
@@ -11850,35 +12060,45 @@
           "id": "a1",
           "translations": {
             "de": "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
-            "ru": "одновременно можно состоять в браке только с одним партнером."
+            "ru": "одновременно можно состоять в браке только с одним партнером.",
+            "en": "one may be married to only one partner at a time.",
+            "ua": "можна бути одруженим лише з одним партнером одночасно."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.",
-            "ru": "может быть несколько супругов одновременно."
+            "ru": "может быть несколько супругов одновременно.",
+            "en": "one can have several spouses at the same time.",
+            "ua": "можна мати декілька подружніх партнерів одночасно."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
-            "ru": "не разрешается снова вступать в брак после того, как уже один раз были в браке."
+            "ru": "не разрешается снова вступать в брак после того, как уже один раз были в браке.",
+            "en": "one is not allowed to remarry after having been married once.",
+            "ua": "не дозволено знову одружуватися після першого шлюбу."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.",
-            "ru": "женщине не разрешается повторно выходить замуж, если ее муж умер."
+            "ru": "женщине не разрешается повторно выходить замуж, если ее муж умер.",
+            "en": "a woman is not allowed to remarry if her husband has died.",
+            "ua": "жінці не дозволено знову виходити заміж, якщо її чоловік помер."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "In Deutschland ...",
-        "ru": "В Германии ..."
+        "ru": "В Германии ...",
+        "en": "In Germany ...",
+        "ua": "У Німеччині ..."
       }
     },
     {
@@ -11888,35 +12108,45 @@
           "id": "a1",
           "translations": {
             "de": "beim Einwohnermeldeamt",
-            "ru": "в учреждении, выдающем справки о месте жительства лиц и расположении организаций (адресный стол)"
+            "ru": "в учреждении, выдающем справки о месте жительства лиц и расположении организаций (адресный стол)",
+            "en": "at the residents' registration office",
+            "ua": "в реєстраційному офісі мешканців (Meldeamt)"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "beim Standesamt",
-            "ru": "в ЗАГСе"
+            "ru": "в ЗАГСе",
+            "en": "at the registry office",
+            "ua": "в РАЦСі (Standesamt)"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "beim Ordnungsamt",
-            "ru": "в ведомстве по вопросам общественного порядка"
+            "ru": "в ведомстве по вопросам общественного порядка",
+            "en": "at the public order office",
+            "ua": "в офісі з громадського порядку (Ordnungsamt)"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "beim Gewerbeamt",
-            "ru": "в ведомстве по вопросам предпринимательской деятельности"
+            "ru": "в ведомстве по вопросам предпринимательской деятельности",
+            "en": "at the trade licensing office",
+            "ua": "в офісі з підприємницької діяльності (Gewerbeamt)"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
-        "ru": "Где нужно регистрироваться, если Вы переезжаете в Германии?"
+        "ru": "Где нужно регистрироваться, если Вы переезжаете в Германии?",
+        "en": "Where do you have to register when you move within Germany?",
+        "ua": "Де потрібно зареєструватися, якщо ви переїжджаєте в межах Німеччини?"
       }
     },
     {
@@ -11926,35 +12156,45 @@
           "id": "a1",
           "translations": {
             "de": "Der Scheidungsprozess dauert ein Jahr.",
-            "ru": "Бракоразводный процесс длится год."
+            "ru": "Бракоразводный процесс длится год.",
+            "en": "The divorce process takes one year.",
+            "ua": "Процес розлучення триває один рік."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
-            "ru": "Мужчина и женщина состоят в браке один год, затем возможен развод."
+            "ru": "Мужчина и женщина состоят в браке один год, затем возможен развод.",
+            "en": "Man and woman must be married for one year before they can divorce.",
+            "ua": "Чоловік і жінка повинні бути одружені щонайменше рік перед розлученням."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Das Besuchsrecht für die Kinder gilt ein Jahr.",
-            "ru": "Право на посещение детей действует в течение одного года."
+            "ru": "Право на посещение детей действует в течение одного года.",
+            "en": "The right to visit the children is valid for one year.",
+            "ua": "Право на відвідування дітей діє протягом одного року."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
-            "ru": "Муж и жена как минимум год живут раздельно. После этого возможен развод."
+            "ru": "Муж и жена как минимум год живут раздельно. После этого возможен развод.",
+            "en": "Husband and wife live separately for at least one year. Then divorce is possible.",
+            "ua": "Чоловік і жінка живуть окремо щонайменше рік. Після цього розлучення можливе."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das Trennungsjahr einhalten. Was bedeutet das?",
-        "ru": "В Германии супружеским парам разрешено разводиться. Большую часть времени для этого им приходится соблюдать «год разлуки». Что это значит?"
+        "ru": "В Германии супружеским парам разрешено разводиться. Большую часть времени для этого им приходится соблюдать «год разлуки». Что это значит?",
+        "en": "In Germany, married couples are allowed to divorce. In most cases, they must observe the separation year. What does that mean?",
+        "ua": "У Німеччині подружнім парам дозволено розлучатися. У більшості випадків вони повинні дотримуватися «року розлуки». Що це означає?"
       }
     },
     {
@@ -11964,35 +12204,45 @@
           "id": "a1",
           "translations": {
             "de": "Ordnungsamt.",
-            "ru": "службе общественного порядка."
+            "ru": "службе общественного порядка.",
+            "en": "Public Order Office.",
+            "ua": "Відділ громадського порядку."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Schulamt.",
-            "ru": "школьном ведомстве."
+            "ru": "школьном ведомстве.",
+            "en": "School Authority.",
+            "ua": "Шкільне управління."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Jugendamt.",
-            "ru": "управление по делам несовершеннолетних."
+            "ru": "управление по делам несовершеннолетних.",
+            "en": "Youth Welfare Office.",
+            "ua": "Служба у справах молоді."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Gesundheitsamt.",
-            "ru": "департаменте здравоохранения."
+            "ru": "департаменте здравоохранения.",
+            "en": "Health Department.",
+            "ua": "Відділ охорони здоров'я."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom ...",
-        "ru": "При проблемах с воспитанием детей родители в Германии могут получить помощь в ..."
+        "ru": "При проблемах с воспитанием детей родители в Германии могут получить помощь в ...",
+        "en": "In case of parenting problems, parents in Germany can get help from the ...",
+        "ua": "У разі проблем з вихованням дітей батьки в Німеччині можуть отримати допомогу в ..."
       }
     },
     {
@@ -12002,35 +12252,45 @@
           "id": "a1",
           "translations": {
             "de": "eine Erlaubnis der Polizei",
-            "ru": "разрешение полиции"
+            "ru": "разрешение полиции",
+            "en": "a permit from the police",
+            "ua": "дозвіл поліції"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "eine Genehmigung einer Partei",
-            "ru": "разрешение от партии"
+            "ru": "разрешение от партии",
+            "en": "approval from a political party",
+            "ua": "схвалення політичної партії"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "eine Genehmigung des Einwohnermeldeamts",
-            "ru": "разрешение от адресного стола"
+            "ru": "разрешение от адресного стола",
+            "en": "approval from the registration office",
+            "ua": "схвалення з реєстраційного офісу"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "eine Gaststättenerlaubnis von der zuständigen Behörde",
-            "ru": "лицензия на эксплуатацию ресторана, выданная соответствующим учреждением."
+            "ru": "лицензия на эксплуатацию ресторана, выданная соответствующим учреждением.",
+            "en": "a restaurant operating license from the competent authority",
+            "ua": "ліцензія на ведення ресторанного бізнесу від відповідного органу"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
-        "ru": "Супружеская пара хочет открыть ресторан в Германии. Что обязательно для этого нужно?"
+        "ru": "Супружеская пара хочет открыть ресторан в Германии. Что обязательно для этого нужно?",
+        "en": "A married couple wants to open a restaurant in Germany. What do they absolutely need for this?",
+        "ua": "Подружжя хоче відкрити ресторан у Німеччині. Що їм обов'язково потрібно для цього?"
       }
     },
     {
@@ -12040,35 +12300,45 @@
           "id": "a1",
           "translations": {
             "de": "einer Hochschule.",
-            "ru": "университете."
+            "ru": "университете.",
+            "en": "a university.",
+            "ua": "університеті."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "einem Abendgymnasium.",
-            "ru": "вечерней гимназии."
+            "ru": "вечерней гимназии.",
+            "en": "an evening grammar school.",
+            "ua": "вечірній гімназії."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "einer Hauptschule.",
-            "ru": "средней школе."
+            "ru": "средней школе.",
+            "en": "a secondary school (Hauptschule).",
+            "ua": "середній школі (Hauptschule)."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "einer Privatuniversität.",
-            "ru": "частном университете ."
+            "ru": "частном университете .",
+            "en": "a private university.",
+            "ua": "приватному університеті."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an",
-        "ru": "Взрослая женщина хочет получить аттестат зрелости в Германии. Она может это сделать в ..."
+        "ru": "Взрослая женщина хочет получить аттестат зрелости в Германии. Она может это сделать в ...",
+        "en": "An adult woman wants to obtain her high school diploma (Abitur) in Germany. She can do this at",
+        "ua": "Доросла жінка хоче отримати атестат зрілості (Abitur) у Німеччині. Вона може зробити це в"
       }
     },
     {
@@ -12078,35 +12348,45 @@
           "id": "a1",
           "translations": {
             "de": "Es entscheidet, welche Schule das Kind besucht.",
-            "ru": "Оно решает, в какую школу пойдет ребенок."
+            "ru": "Оно решает, в какую школу пойдет ребенок.",
+            "en": "It decides which school the child attends.",
+            "ua": "Воно вирішує, до якої школи піде дитина."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
-            "ru": "Оно может забрать из семьи ребенка, которого избивают или который голодает."
+            "ru": "Оно может забрать из семьи ребенка, которого избивают или который голодает.",
+            "en": "It can remove a child from the family if they are being abused or neglected.",
+            "ua": "Воно може забрати дитину з родини, якщо її б’ють або вона голодує."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Es bezahlt das Kindergeld an die Eltern.",
-            "ru": "Оно выплачивает родителям пособие на ребенка."
+            "ru": "Оно выплачивает родителям пособие на ребенка.",
+            "en": "It pays child benefits to the parents.",
+            "ua": "Воно виплачує батькам допомогу на дитину."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Es kontrolliert, ob das Kind einen Kindergarten besucht.",
-            "ru": "Оно проверяет, посещает ли ребенок детский сад."
+            "ru": "Оно проверяет, посещает ли ребенок детский сад.",
+            "en": "It checks whether the child attends kindergarten.",
+            "ua": "Воно перевіряє, чи відвідує дитина дитячий садок."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was darf das Jugendamt in Deutschland?",
-        "ru": "Что разрешено делать ведомству по делам несовершеннолетних в Германии?"
+        "ru": "Что разрешено делать ведомству по делам несовершеннолетних в Германии?",
+        "en": "What is the youth welfare office (Jugendamt) allowed to do in Germany?",
+        "ua": "Що дозволено відомству у справах молоді (Jugendamt) в Німеччині?"
       }
     },
     {
@@ -12116,35 +12396,45 @@
           "id": "a1",
           "translations": {
             "de": "Rentenberechnung.",
-            "ru": "расчете пенсии.."
+            "ru": "расчете пенсии..",
+            "en": "pension calculation.",
+            "ua": "розрахунку пенсії."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Lehrstellensuche.",
-            "ru": "поиске места профобучения."
+            "ru": "поиске места профобучения.",
+            "en": "search for an apprenticeship position.",
+            "ua": "пошуку місця професійного навчання."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Steuererklärung.",
-            "ru": "оформлении налоговой декларации."
+            "ru": "оформлении налоговой декларации.",
+            "en": "tax declaration.",
+            "ua": "поданні податкової декларації."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Krankenversicherung.",
-            "ru": "оформлении медицинской страховки."
+            "ru": "оформлении медицинской страховки.",
+            "en": "health insurance.",
+            "ua": "оформленні медичного страхування."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der ...",
-        "ru": "Профинформационный центр BIZ при Федеральном агентстве занятости Германии помогает при ..."
+        "ru": "Профинформационный центр BIZ при Федеральном агентстве занятости Германии помогает при ...",
+        "en": "The BIZ (Career Information Center) at the Federal Employment Agency in Germany helps with ...",
+        "ua": "Центр професійної інформації BIZ при Федеральному агентстві з працевлаштування в Німеччині допомагає з ..."
       }
     },
     {
@@ -12154,35 +12444,45 @@
           "id": "a1",
           "translations": {
             "de": "Recht auf unbegrenzte Freizeit.",
-            "ru": "право на неограниченное свободное время."
+            "ru": "право на неограниченное свободное время.",
+            "en": "the right to unlimited free time.",
+            "ua": "право на необмежений вільний час."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Wahlfreiheit für alle Fächer.",
-            "ru": "свободу выбора всех предметов."
+            "ru": "свободу выбора всех предметов.",
+            "en": "freedom to choose all subjects.",
+            "ua": "свободу вибору всіх предметів."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Anspruch auf Schulgeld.",
-            "ru": "право на школьные взносы."
+            "ru": "право на школьные взносы.",
+            "en": "entitlement to school fees.",
+            "ua": "право на шкільні внески."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Anwesenheitspflicht.",
-            "ru": "обязательство посещать школу"
+            "ru": "обязательство посещать школу",
+            "en": "mandatory school attendance.",
+            "ua": "обов’язкове відвідування школи."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "In Deutschland hat ein Kind in der Schule ...",
-        "ru": "В Германии ребенок в школе имеет ..."
+        "ru": "В Германии ребенок в школе имеет ...",
+        "en": "In Germany, a child in school has ...",
+        "ua": "У Німеччині дитина в школі має ..."
       }
     },
     {
@@ -12192,35 +12492,45 @@
           "id": "a1",
           "translations": {
             "de": "einer Hochschule",
-            "ru": "университете"
+            "ru": "университете",
+            "en": "a university",
+            "ua": "університеті"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "einem Abendgymnasium",
-            "ru": "вечерней гимназии"
+            "ru": "вечерней гимназии",
+            "en": "an evening high school (Abendgymnasium)",
+            "ua": "вечірній гімназії (Abendgymnasium)"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "einer Hauptschule",
-            "ru": "средней школе"
+            "ru": "средней школе",
+            "en": "a secondary school (Hauptschule)",
+            "ua": "загальноосвітній школі (Hauptschule)"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "einer Privatuniversität",
-            "ru": "частном университете"
+            "ru": "частном университете",
+            "en": "a private university",
+            "ua": "приватному університеті"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An ...",
-        "ru": "Мужчина 30 лет хочет получить аттестат зрелости в Германии. Где он может это сделать? В ..."
+        "ru": "Мужчина 30 лет хочет получить аттестат зрелости в Германии. Где он может это сделать? В ...",
+        "en": "A man wants to obtain his high school diploma (Abitur) at the age of 30 in Germany. Where can he do that? At ...",
+        "ua": "Чоловік у 30 років хоче отримати атестат зрілості (Abitur) у Німеччині. Де він може це зробити? У ..."
       }
     },
     {
@@ -12230,35 +12540,45 @@
           "id": "a1",
           "translations": {
             "de": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
-            "ru": "Никто не должен быть ущемлен, например, из-за инвалидности."
+            "ru": "Никто не должен быть ущемлен, например, из-за инвалидности.",
+            "en": "No one may be disadvantaged, for example, because of a disability.",
+            "ua": "Нікого не можна дискримінувати, наприклад, через інвалідність."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
-            "ru": "Можно дискриминировать других людей, если для этого есть достаточные личные причины."
+            "ru": "Можно дискриминировать других людей, если для этого есть достаточные личные причины.",
+            "en": "One may disadvantage others if there are sufficient personal reasons.",
+            "ua": "Можна дискримінувати інших, якщо є вагомі особисті причини."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
-            "ru": "Никто не имеет права подавать в суд на людей, если подверглись дискриминации"
+            "ru": "Никто не имеет права подавать в суд на людей, если подверглись дискриминации",
+            "en": "No one may sue others if they were discriminated against.",
+            "ua": "Ніхто не має права подавати до суду на тих, хто його дискримінував."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.",
-            "ru": "Это закон, согласно которому каждый должен ежегодно жертвовать деньги малообеспеченным слоям населения."
+            "ru": "Это закон, согласно которому каждый должен ежегодно жертвовать деньги малообеспеченным слоям населения.",
+            "en": "It is a law that everyone must donate money annually to disadvantaged groups.",
+            "ua": "Це закон, згідно з яким кожен зобов’язаний щорічно жертвувати гроші малозабезпеченим групам."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
-        "ru": "Что означает принцип равного обращения в Германии?"
+        "ru": "Что означает принцип равного обращения в Германии?",
+        "en": "What does the principle of equal treatment mean in Germany?",
+        "ua": "Що означає принцип рівного ставлення в Німеччині?"
       }
     },
     {
@@ -12268,35 +12588,45 @@
           "id": "a1",
           "translations": {
             "de": "werden bestraft.",
-            "ru": "— будут наказаны."
+            "ru": "— будут наказаны.",
+            "en": "are punished.",
+            "ua": "— підлягають покаранню."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "— werden wie Erwachsene behandelt.",
-            "ru": "- с ними будут обращаться как со взрослыми."
+            "ru": "- с ними будут обращаться как со взрослыми.",
+            "en": "are treated like adults.",
+            "ua": "— з ними поводяться як з дорослими."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "— teilen die Strafe mit ihren Eltern.",
-            "ru": "- делят наказание со своими родителями."
+            "ru": "- делят наказание со своими родителями.",
+            "en": "share the punishment with their parents.",
+            "ua": "— розділяють покарання з батьками."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "- werden nicht bestraft.",
-            "ru": "- не наказываются."
+            "ru": "- не наказываются.",
+            "en": "are not punished.",
+            "ua": "— не караються."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, ...",
-        "ru": "В Германии уголовную ответственность несут молодые люди от 14 лет и старше. Это значит: молодые люди от 14 лет и старше, нарушающие уголовное законодательство.."
+        "ru": "В Германии уголовную ответственность несут молодые люди от 14 лет и старше. Это значит: молодые люди от 14 лет и старше, нарушающие уголовное законодательство..",
+        "en": "In Germany, young people are criminally responsible from the age of 14. This means: young people aged 14 and older who break criminal laws ...",
+        "ua": "У Німеччині підлітки несуть кримінальну відповідальність з 14 років. Це означає: підлітки віком від 14 років, які порушують кримінальне законодавство, ..."
       }
     },
     {
@@ -12306,35 +12636,45 @@
           "id": "a1",
           "translations": {
             "de": "am Rosenmontag",
-            "ru": "В понедельник перед Великим постом (Розовый понедельник)."
+            "ru": "В понедельник перед Великим постом (Розовый понедельник).",
+            "en": "on Rose Monday",
+            "ua": "на Розенмонтаг (останній понеділок перед Великим постом)"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "am Maifeiertag",
-            "ru": "в Первомайский день!"
+            "ru": "в Первомайский день!",
+            "en": "on May Day",
+            "ua": "на Свято Першого травня"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "beim Oktoberfest",
-            "ru": "на Октоберфесте"
+            "ru": "на Октоберфесте",
+            "en": "at Oktoberfest",
+            "ua": "на Октоберфесті"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "an Pfingsten",
-            "ru": "в День Святой Троицы"
+            "ru": "в День Святой Троицы",
+            "en": "at Pentecost",
+            "ua": "на Трійцю"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
-        "ru": "На какой фестиваль люди в Германии надевают яркие костюмы и маски?"
+        "ru": "На какой фестиваль люди в Германии надевают яркие костюмы и маски?",
+        "en": "At which festival do people in Germany wear colorful costumes and masks?",
+        "ua": "На яке свято в Німеччині люди вдягають яскраві костюми та маски?"
       }
     },
     {
@@ -12344,35 +12684,45 @@
           "id": "a1",
           "translations": {
             "de": "zum Einwohnermeldeamt",
-            "ru": "в орган регистрации жильцов"
+            "ru": "в орган регистрации жильцов",
+            "en": "to the residents' registration office",
+            "ua": "до реєстраційного офісу мешканців"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "zum Ordnungsamt",
-            "ru": "в службу общественного порядка"
+            "ru": "в службу общественного порядка",
+            "en": "to the public order office",
+            "ua": "до служби громадського порядку"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "zur Agentur für Arbeit",
-            "ru": "в агентство по трудоустройству"
+            "ru": "в агентство по трудоустройству",
+            "en": "to the employment agency",
+            "ua": "до агентства з працевлаштування"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "zum Standesamt",
-            "ru": "в ЗАГС"
+            "ru": "в ЗАГС",
+            "en": "to the registry office",
+            "ua": "до РАЦСу"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
-        "ru": "Куда в первую очередь нужно сходить в Германии, если собираешься заключить брак?"
+        "ru": "Куда в первую очередь нужно сходить в Германии, если собираешься заключить брак?",
+        "en": "Where must you go first in Germany if you want to get married?",
+        "ua": "Куди спочатку потрібно звернутися в Німеччині, якщо хочеш одружитися?"
       }
     },
     {
@@ -12382,35 +12732,45 @@
           "id": "a1",
           "translations": {
             "de": "wenn die Sonne untergeht",
-            "ru": "когда заходит солнце"
+            "ru": "когда заходит солнце",
+            "en": "when the sun sets",
+            "ua": "коли заходить сонце"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "um 22 Uhr",
-            "ru": "в 22 часа»"
+            "ru": "в 22 часа",
+            "en": "at 10 p.m.",
+            "ua": "о 22:00"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "wenn die Nachbarn schlafen gehen",
-            "ru": "когда соседи ложатся спать"
+            "ru": "когда соседи ложатся спать",
+            "en": "when the neighbors go to bed",
+            "ua": "коли сусіди йдуть спати"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "um 0 Uhr, Mitternacht",
-            "ru": "в полночь"
+            "ru": "в полночь",
+            "en": "at midnight",
+            "ua": "опівночі"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
-        "ru": "Когда в Германии начинается установленный законом период ночного отдыха"
+        "ru": "Когда в Германии начинается установленный законом период ночного отдыха?",
+        "en": "When does the legally mandated quiet period begin in Germany?",
+        "ua": "Коли в Німеччині починається встановлений законом нічний спокій?"
       }
     },
     {
@@ -12420,35 +12780,45 @@
           "id": "a1",
           "translations": {
             "de": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
-            "ru": "Они должны уважать решение взрослой дочери."
+            "ru": "Они должны уважать решение взрослой дочери.",
+            "en": "They must respect the decision of their adult daughter.",
+            "ua": "Вони повинні поважати рішення повнолітньої доньки."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
-            "ru": "Они имеют право забрать свою дочь обратно в её родительский дом."
+            "ru": "Они имеют право забрать свою дочь обратно в её родительский дом.",
+            "en": "They have the right to bring their daughter back to the parental home.",
+            "ua": "Вони мають право повернути доньку до батьківського дому."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Sie können zur Polizei gehen und die Tochter anzeigen.",
-            "ru": "Они могут пойти в полицию и подать заявление на свою дочь."
+            "ru": "Они могут пойти в полицию и подать заявление на свою дочь.",
+            "en": "They can go to the police and report their daughter.",
+            "ua": "Вони можуть звернутися до поліції й подати заяву на доньку."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Sie suchen einen anderen Mann für die Tochter.",
-            "ru": "Они ищут другого мужчину для своей дочери."
+            "ru": "Они ищут другого мужчину для своей дочери.",
+            "en": "They look for another man for their daughter.",
+            "ua": "Вони шукають іншого чоловіка для доньки."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
-        "ru": "Молодая женщина в Германии, 22 года, живет со своим другом. Родители женщины это не одобряют, потому что им не нравится ее друг. Что могут сделать родители?"
+        "ru": "Молодая женщина в Германии, 22 года, живет со своим другом. Родители женщины это не одобряют, потому что им не нравится ее друг. Что могут сделать родители?",
+        "en": "A young woman in Germany, 22 years old, is living with her boyfriend. Her parents disapprove because they don’t like the boyfriend. What can the parents do?",
+        "ua": "Молода жінка в Німеччині, 22 роки, живе зі своїм хлопцем. Її батькам це не подобається, бо їм не до вподоби хлопець. Що можуть зробити батьки?"
       }
     },
     {
@@ -12458,35 +12828,45 @@
           "id": "a1",
           "translations": {
             "de": "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
-            "ru": "Она должна прожить в Германии не менее десяти лет, прежде чем сможет получить водительские права."
+            "ru": "Она должна прожить в Германии не менее десяти лет, прежде чем сможет получить водительские права.",
+            "en": "She must live in Germany for at least ten years before she can get a driver’s license.",
+            "ua": "Вона повинна прожити в Німеччині щонайменше десять років, перш ніж зможе отримати водійське посвідчення."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
-            "ru": "Возможно, она сможет сдать теоретический тест на своем родном языке. На выбор есть более десяти языков..."
+            "ru": "Возможно, она сможет сдать теоретический тест на своем родном языке. На выбор есть более десяти языков...",
+            "en": "She may be able to take the theoretical exam in her native language. There are more than ten languages available.",
+            "ua": "Можливо, вона зможе скласти теоретичний іспит рідною мовою. Є понад десять мов на вибір."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
-            "ru": "Если она не говорит по-немецки, у нее не будет водительских прав."
+            "ru": "Если она не говорит по-немецки, у нее не будет водительских прав.",
+            "en": "If she doesn’t speak German, she is not allowed to have a driver’s license.",
+            "ua": "Якщо вона не розмовляє німецькою, їй не дозволено мати водійські права."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
-            "ru": "Ей нужно получить водительские права в стране, где говорят на её языке."
+            "ru": "Ей нужно получить водительские права в стране, где говорят на её языке.",
+            "en": "She must get her driver’s license in a country where her language is spoken.",
+            "ua": "Їй потрібно отримати водійське посвідчення в країні, де розмовляють її мовою."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
-        "ru": "Молодая женщина хочет получить водительские права. Она боится экзамена, потому что ее родной язык не немецкий. Что правильно?"
+        "ru": "Молодая женщина хочет получить водительские права. Она боится экзамена, потому что ее родной язык не немецкий. Что правильно?",
+        "en": "A young woman wants to get her driver’s license. She is afraid of the test because her native language is not German. What is correct?",
+        "ua": "Молода жінка хоче отримати водійські права. Вона боїться іспиту, бо її рідна мова — не німецька. Що правильно?"
       }
     },
     {
@@ -12496,35 +12876,45 @@
           "id": "a1",
           "translations": {
             "de": "monatliches Taschengeld.",
-            "ru": "ежемесячные карманные деньги."
+            "ru": "ежемесячные карманные деньги.",
+            "en": "monthly pocket money.",
+            "ua": "щомісячні кишенькові гроші."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "einen Kindergartenplatz.",
-            "ru": "место в детском саду."
+            "ru": "место в детском саду.",
+            "en": "a place in a kindergarten.",
+            "ua": "місце в дитячому садку."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "einen Platz in einem Sportverein.",
-            "ru": "место в спортивном клубе."
+            "ru": "место в спортивном клубе.",
+            "en": "a spot in a sports club.",
+            "ua": "місце в спортивному клубі."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "einen Ferienpass.",
-            "ru": "пропуск на летние каникулы"
+            "ru": "пропуск на летние каникулы",
+            "en": "a holiday pass.",
+            "ua": "квиток на канікули."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf ...",
-        "ru": "В Германии дети в возрасте от трех лет до первого поступления в школу имеют право на..."
+        "ru": "В Германии дети в возрасте от трех лет до первого поступления в школу имеют право на...",
+        "en": "In Germany, children from the age of three until they start school are entitled to ...",
+        "ua": "У Німеччині діти віком від трьох років до початку шкільного навчання мають право на ..."
       }
     },
     {
@@ -12534,35 +12924,45 @@
           "id": "a1",
           "translations": {
             "de": "für den Religionsunterricht.",
-            "ru": "для религиозного образования."
+            "ru": "для религиозного образования.",
+            "en": "for religious education.",
+            "ua": "для релігійної освіти."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "nur für Jugendliche.",
-            "ru": "только для молодежи."
+            "ru": "только для молодежи.",
+            "en": "only for young people.",
+            "ua": "тільки для молоді."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "zur Weiterbildung.",
-            "ru": "для дополнительного обучения."
+            "ru": "для дополнительного обучения.",
+            "en": "for further education.",
+            "ua": "для подальшої освіти."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "nur für Rentner und Rentnerinnen.",
-            "ru": "только для пенсионеров."
+            "ru": "только для пенсионеров.",
+            "en": "only for retirees.",
+            "ua": "тільки для пенсіонерів."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Die Volkshochschule in Deutschland ist eine Einrichtung ...",
-        "ru": "Народный университет / Центр образования взрослых в Германии - это учреждение.."
+        "ru": "Народный университет / Центр образования взрослых в Германии - это учреждение..",
+        "en": "The adult education center (Volkshochschule) in Germany is an institution ...",
+        "ua": "Народний університет (Volkshochschule) у Німеччині — це установа ..."
       }
     },
     {
@@ -12572,35 +12972,45 @@
           "id": "a1",
           "translations": {
             "de": "bunte Eier verstecken",
-            "ru": "прятать разноцветные яйца"
+            "ru": "прятать разноцветные яйца",
+            "en": "hide colorful eggs",
+            "ua": "ховати кольорові яйця"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "einen Tannenbaum schmücken",
-            "ru": "украшать ёлку"
+            "ru": "украшать ёлку",
+            "en": "decorate a Christmas tree",
+            "ua": "прикрашати ялинку"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "sich mit Masken und Kostümen verkleiden",
-            "ru": "наряжаться в маски и костюмы"
+            "ru": "наряжаться в маски и костюмы",
+            "en": "dress up in masks and costumes",
+            "ua": "вдягати маски та костюми"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Kürbisse vor die Tür stellen",
-            "ru": "выставлять тыквы перед дверью"
+            "ru": "выставлять тыквы перед дверью",
+            "en": "place pumpkins in front of the door",
+            "ua": "ставити гарбузи перед дверима"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was ist in Deutschland ein Brauch zu Weihnachten?",
-        "ru": "Что является в Германии традицией на Рождество?"
+        "ru": "Что является в Германии традицией на Рождество?",
+        "en": "What is a custom in Germany for Christmas?",
+        "ua": "Який звичай у Німеччині на Різдво?"
       }
     },
     {
@@ -12610,35 +13020,45 @@
           "id": "a1",
           "translations": {
             "de": "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
-            "ru": "Мужчина и женщина разведены и живут с новыми партнёрами"
+            "ru": "Мужчина и женщина разведены и живут с новыми партнёрами",
+            "en": "A man and a woman are divorced and live with new partners.",
+            "ua": "Чоловік і жінка розлучені та живуть із новими партнерами."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Zwei Frauen leben zusammen.",
-            "ru": "Две женщины живут вместе."
+            "ru": "Две женщины живут вместе.",
+            "en": "Two women live together.",
+            "ua": "Дві жінки живуть разом."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
-            "ru": "Отец-одиночка живёт со своими двумя детьми."
+            "ru": "Отец-одиночка живёт со своими двумя детьми.",
+            "en": "A single father lives with his two children.",
+            "ua": "Батько-одинак живе з двома дітьми."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.",
-            "ru": "Мужчина одновременно состоит в браке с двумя женщинами."
+            "ru": "Мужчина одновременно состоит в браке с двумя женщинами.",
+            "en": "A man is married to two women at the same time.",
+            "ua": "Чоловік одружений з двома жінками одночасно."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Welche Lebensform ist in Deutschland nicht erlaubt?",
-        "ru": "Какие отношения не разрешены в Германии?"
+        "ru": "Какие отношения не разрешены в Германии?",
+        "en": "Which type of relationship is not allowed in Germany?",
+        "ua": "Яка форма стосунків не дозволена в Німеччині?"
       }
     },
     {
@@ -12648,35 +13068,45 @@
           "id": "a1",
           "translations": {
             "de": "zum Arzt / zur Ärztin.",
-            "ru": "к врачу."
+            "ru": "к врачу.",
+            "en": "to the doctor.",
+            "ua": "до лікаря."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "zum Gesundheitsamt.",
-            "ru": "в департамент здравоохранения."
+            "ru": "в департамент здравоохранения.",
+            "en": "to the public health office.",
+            "ua": "до відділу охорони здоровʼя."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "zum Einwohnermeldeamt.",
-            "ru": "в местное управление по регистрации населения."
+            "ru": "в местное управление по регистрации населения.",
+            "en": "to the residents' registration office.",
+            "ua": "до відділу реєстрації місця проживання."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "zum Jugendamt.",
-            "ru": "ведомство по делам несовершеннолетних."
+            "ru": "ведомство по делам несовершеннолетних.",
+            "en": "to the youth welfare office.",
+            "ua": "до служби у справах молоді."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Bei Erziehungsproblemen gehen Sie in Deutschland ...",
-        "ru": "При проблемах в воспитании в Германии вы идёте ..."
+        "ru": "При проблемах в воспитании в Германии вы идёте ...",
+        "en": "If you have parenting problems in Germany, you go ...",
+        "ua": "Якщо у вас виникають проблеми з вихованням у Німеччині, ви звертаєтесь ..."
       }
     },
     {
@@ -12686,35 +13116,45 @@
           "id": "a1",
           "translations": {
             "de": "- das Schweigerecht",
-            "ru": "право хранить молчание"
+            "ru": "право хранить молчание",
+            "en": "the right to remain silent",
+            "ua": "право мовчати"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "das Briefgeheimnis",
-            "ru": "тайна переписки"
+            "ru": "тайна переписки",
+            "en": "the secrecy of correspondence",
+            "ua": "таємниця листування"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die Schweigepflicht",
-            "ru": "обязательство конфиденциальности"
+            "ru": "обязательство конфиденциальности",
+            "en": "confidentiality obligation",
+            "ua": "обов’язок зберігати конфіденційність"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Meinungsfreiheit",
-            "ru": "свобода слова"
+            "ru": "свобода слова",
+            "en": "freedom of speech",
+            "ua": "свобода слова"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
-        "ru": "Вы намеренно открыли письмо в Германии, адресованное кому-то другому. Что Вы не учли?"
+        "ru": "Вы намеренно открыли письмо в Германии, адресованное кому-то другому. Что Вы не учли?",
+        "en": "You deliberately opened a letter in Germany that was addressed to someone else. What did you disregard?",
+        "ua": "Ви навмисно відкрили лист у Німеччині, адресований іншій особі. Що ви порушили?"
       }
     },
     {
@@ -12724,35 +13164,45 @@
           "id": "a1",
           "translations": {
             "de": "die Einwilligung der Eltern",
-            "ru": "Согласие родителей"
+            "ru": "Согласие родителей",
+            "en": "the consent of the parents",
+            "ua": "згода батьків"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "ein Attest eines Arztes / einer Ärztin",
-            "ru": "Справка от врача"
+            "ru": "Справка от врача",
+            "en": "a medical certificate",
+            "ua": "медична довідка"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die Einwilligung der Kinder",
-            "ru": "Согласие детей"
+            "ru": "Согласие детей",
+            "en": "the consent of the children",
+            "ua": "згода дітей"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Unterstützung eines Anwalts / einer Anwältin",
-            "ru": "Поддержка адвоката'"
+            "ru": "Поддержка адвоката",
+            "en": "the assistance of a lawyer",
+            "ua": "допомога адвоката"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Was braucht man in Deutschland für eine Ehescheidung?",
-        "ru": "Что необходимо для развода в Германии?"
+        "ru": "Что необходимо для развода в Германии?",
+        "en": "What is needed in Germany for a divorce?",
+        "ua": "Що потрібно в Німеччині для розлучення?"
       }
     },
     {
@@ -12762,35 +13212,45 @@
           "id": "a1",
           "translations": {
             "de": "Ich kann nichts tun.",
-            "ru": "Я ничего не могу сделать."
+            "ru": "Я ничего не могу сделать.",
+            "en": "I can't do anything.",
+            "ua": "Я нічого не можу зробити."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Ich muss mir diese Behandlung gefallen lassen.",
-            "ru": "Я должен терпеть такое обращение."
+            "ru": "Я должен терпеть такое обращение.",
+            "en": "I have to put up with this treatment.",
+            "ua": "Я повинен терпіти таке ставлення."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Ich drohe der Person.",
-            "ru": "Я угрожаю этому человеку."
+            "ru": "Я угрожаю этому человеку.",
+            "en": "I threaten the person.",
+            "ua": "Я погрожую цій людині."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.",
-            "ru": "Я могу пожаловаться руководителю ведомства."
+            "ru": "Я могу пожаловаться руководителю ведомства.",
+            "en": "I can complain to the head of the authority.",
+            "ua": "Я можу поскаржитися керівнику установи."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner / Ihrer Ansprechpartnerin in einer deutschen Behörde schlecht behandelt werden?",
-        "ru": "Что следует сделать, если Вас плохо обслуживает сотрудник немецкого государственного ведомства?"
+        "ru": "Что следует сделать, если Вас плохо обслуживает сотрудник немецкого государственного ведомства?",
+        "en": "What should you do if you are treated poorly by your contact person in a German authority?",
+        "ua": "Що ви повинні зробити, якщо з вами погано поводиться працівник німецької установи?"
       }
     },
     {
@@ -12800,35 +13260,45 @@
           "id": "a1",
           "translations": {
             "de": "kein Englisch spricht.",
-            "ru": "не говорит по-английски."
+            "ru": "не говорит по-английски.",
+            "en": "does not speak English.",
+            "ua": "не розмовляє англійською."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "zu hohe Gehaltsvorstellungen hat.",
-            "ru": "имеет слишком высокие зарплатные ожидания."
+            "ru": "имеет слишком высокие зарплатные ожидания.",
+            "en": "has salary expectations that are too high.",
+            "ua": "має занадто високі очікування щодо зарплати."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "keine Erfahrungen in diesem Beruf hat.",
-            "ru": "не имеет опыта работы в данной профессии."
+            "ru": "не имеет опыта работы в данной профессии.",
+            "en": "has no experience in this profession.",
+            "ua": "не має досвіду в цій професії."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Mutter ist.",
-            "ru": "является матерью."
+            "ru": "является матерью.",
+            "en": "is a mother.",
+            "ua": "є матір’ю."
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie ...",
-        "ru": "Женщина, у которой есть двухлетний ребенок, претендует на работу в Германии. Что является примером дискриминации? Единственная причина, по которой она не получает работу, это то, что она..."
+        "ru": "Женщина, у которой есть двухлетний ребенок, претендует на работу в Германии. Что является примером дискриминации? Единственная причина, по которой она не получает работу, это то, что она...",
+        "en": "A woman with a two-year-old child applies for a job in Germany. What is an example of discrimination? She does not get the job only because she ...",
+        "ua": "Жінка з дворічною дитиною подається на роботу в Німеччині. Що є прикладом дискримінації? Вона не отримує роботу лише тому, що вона ..."
       }
     },
     {
@@ -12838,35 +13308,45 @@
           "id": "a1",
           "translations": {
             "de": "im Rollstuhl sitzt.",
-            "ru": "сидит в инвалидной коляске."
+            "ru": "сидит в инвалидной коляске.",
+            "en": "uses a wheelchair.",
+            "ua": "користується інвалідним візком."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "keine Erfahrung hat.",
-            "ru": "не имеет опыта."
+            "ru": "не имеет опыта.",
+            "en": "has no experience.",
+            "ua": "не має досвіду."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "zu hohe Gehaltsvorstellungen hat.",
-            "ru": "имеет слишком высокие зарплатные ожидания."
+            "ru": "имеет слишком высокие зарплатные ожидания.",
+            "en": "has salary expectations that are too high.",
+            "ua": "має занадто високі очікування щодо зарплати."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "kein Englisch spricht.",
-            "ru": "не говорит по-английски."
+            "ru": "не говорит по-английски.",
+            "en": "does not speak English.",
+            "ua": "не розмовляє англійською."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er ...",
-        "ru": "Мужчина в инвалидной коляске подал заявление на работу бухгалтером. Что является примером дискриминации? Единственная причина, по которой он не получает работу, это то, что он..."
+        "ru": "Мужчина в инвалидной коляске подал заявление на работу бухгалтером. Что является примером дискриминации? Единственная причина, по которой он не получает работу, это то, что он...",
+        "en": "A man in a wheelchair applied for a job as an accountant. What is an example of discrimination? He does not get the job only because he ...",
+        "ua": "Чоловік в інвалідному візку подався на роботу бухгалтером. Що є прикладом дискримінації? Він не отримує роботу лише тому, що він ..."
       }
     },
     {
@@ -12876,35 +13356,45 @@
           "id": "a1",
           "translations": {
             "de": "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
-            "ru": "правила пользования общественным транспортом."
+            "ru": "правила пользования общественным транспортом.",
+            "en": "rules for using public transportation.",
+            "ua": "правила користування громадським транспортом."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "alle Mieter und Mieterinnen im Haus.",
-            "ru": "всех жильцов дома."
+            "ru": "всех жильцов дома.",
+            "en": "all tenants in the house.",
+            "ua": "усіх мешканців будинку."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
-            "ru": "правила, которых должны придерживаться все жильцы."
+            "ru": "правила, которых должны придерживаться все жильцы.",
+            "en": "rules that all residents must follow.",
+            "ua": "правила, яких мають дотримуватися всі мешканці."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Adresse des nächsten Ordnungsamtes.",
-            "ru": "адрес ближайшего офиса общественного порядка."
+            "ru": "адрес ближайшего офиса общественного порядка.",
+            "en": "the address of the nearest public order office.",
+            "ua": "адресу найближчого відділення служби громадського порядку."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "In den meisten Mietshäusern in Deutschland gibt es eine -Hausordnung-. Was steht in einer solchen -Hausordnung-? Sie nennt ...",
-        "ru": "В большинстве многоквартирных домов Германии существуют -домашние правила-. Что говорят эти -домашние правила-? Они называют ...."
+        "ru": "В большинстве многоквартирных домов Германии существуют -домашние правила-. Что говорят эти -домашние правила-? Они называют ....",
+        "en": "Most apartment buildings in Germany have house rules. What do such 'house rules' state? They list ...",
+        "ua": "У більшості багатоквартирних будинків у Німеччині існує 'домовий регламент'. Що містить цей регламент? Він визначає ..."
       }
     },
     {
@@ -12914,35 +13404,45 @@
           "id": "a1",
           "translations": {
             "de": "nichts machen.",
-            "ru": "ничего не делать."
+            "ru": "ничего не делать.",
+            "en": "do nothing.",
+            "ua": "нічого не робити."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "den Bescheid wegwerfen.",
-            "ru": "выбросить уведомление."
+            "ru": "выбросить уведомление.",
+            "en": "throw away the notice.",
+            "ua": "викинути повідомлення."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Einspruch einlegen.",
-            "ru": "возражать."
+            "ru": "возражать.",
+            "en": "file an objection.",
+            "ua": "подати заперечення."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "warten, bis ein anderer Bescheid kommt.",
-            "ru": "подождатьите, пока придёт другое уведомление."
+            "ru": "подождатьите, пока придёт другое уведомление.",
+            "en": "wait until another notice arrives.",
+            "ua": "чекати на інше повідомлення."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie ...",
-        "ru": "Если Вы хотите защитить себя от ложного налогового уведомления в Германии, Вы должны."
+        "ru": "Если Вы хотите защитить себя от ложного налогового уведомления в Германии, Вы должны.",
+        "en": "If you want to contest an incorrect tax assessment in Germany, you must ...",
+        "ua": "Якщо ви хочете оскаржити неправильне податкове повідомлення в Німеччині, ви повинні ..."
       }
     },
     {
@@ -12952,35 +13452,45 @@
           "id": "a1",
           "translations": {
             "de": "Meinungsfreiheit",
-            "ru": "свободу слова"
+            "ru": "свободу слова",
+            "en": "freedom of speech",
+            "ua": "свободу слова"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Gleichbehandlung",
-            "ru": "равное обращение"
+            "ru": "равное обращение",
+            "en": "equal treatment",
+            "ua": "рівне ставлення"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Versammlungsfreiheit",
-            "ru": "свободу собраний"
+            "ru": "свободу собраний",
+            "en": "freedom of assembly",
+            "ua": "свободу зібрань"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Freizügigkeit",
-            "ru": "свободу передвижения"
+            "ru": "свободу передвижения",
+            "en": "freedom of movement",
+            "ua": "свободу пересування"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf ...",
-        "ru": "Двое друзей хотят пойти в общественный бассейн в Германии. У обоих темная кожа и поэтому их не пропускают. Какое право нарушается в данной ситуации? Право на..."
+        "ru": "Двое друзей хотят пойти в общественный бассейн в Германии. У обоих темная кожа и поэтому их не пропускают. Какое право нарушается в данной ситуации? Право на...",
+        "en": "Two friends want to go to a public swimming pool in Germany. Both have dark skin and are therefore not allowed in. Which right is being violated in this situation? The right to ...",
+        "ua": "Двоє друзів хочуть піти до громадського басейну в Німеччині. Обох не пускають через темний колір шкіри. Яке право порушується в цій ситуації? Право на ..."
       }
     },
     {
@@ -12990,35 +13500,45 @@
           "id": "a1",
           "translations": {
             "de": "Vereinstrainer / Vereinstrainerin",
-            "ru": "Тренер клуба"
+            "ru": "Тренер клуба",
+            "en": "Club coach",
+            "ua": "Тренер клубу"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Bibliotheksaufsicht",
-            "ru": "Библиотечный надзор"
+            "ru": "Библиотечный надзор",
+            "en": "Library supervisor",
+            "ua": "Черговий у бібліотеці"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Wahlhelfer / Wahlhelferin",
-            "ru": "Помощник на выборах"
+            "ru": "Помощник на выборах",
+            "en": "Election helper",
+            "ua": "Допоміжник на виборах"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Lehrer / Lehrerin",
-            "ru": "Учитель"
+            "ru": "Учитель",
+            "en": "Teacher",
+            "ua": "Учитель"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Welches Ehrenamt müssen deutsche Staatsbürger / Staatsbürgerinnen übernehmen, wenn sie dazu aufgefordert werden?",
-        "ru": "Какую волонтерскую работу должны взять на себя немецкие граждане, если их об этом попросят?"
+        "ru": "Какую волонтерскую работу должны взять на себя немецкие граждане, если их об этом попросят?",
+        "en": "Which voluntary duty must German citizens take on if they are asked to?",
+        "ua": "Яку волонтерську роботу мають виконувати громадяни Німеччини, якщо їх про це попросять?"
       }
     },
     {
@@ -13028,35 +13548,45 @@
           "id": "a1",
           "translations": {
             "de": "Ich lasse die Rechnung liegen.",
-            "ru": "Я оставлю счёт."
+            "ru": "Я оставлю счёт.",
+            "en": "I leave the invoice untouched.",
+            "ua": "Я залишаю рахунок без уваги."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Ich lege Widerspruch bei der Behörde ein.",
-            "ru": "Я подаю протест властям."
+            "ru": "Я подаю протест властям.",
+            "en": "I file an objection with the authority.",
+            "ua": "Я подаю заперечення до органу влади."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Ich schicke die Rechnung an die Behörde zurück.",
-            "ru": "Я отправлю счёт обратно."
+            "ru": "Я отправлю счёт обратно.",
+            "en": "I send the invoice back to the authority.",
+            "ua": "Я надсилаю рахунок назад до органу влади."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Ich gehe mit der Rechnung zum Finanzamt.",
-            "ru": "Я пойду в налоговую инспекцию со счётом."
+            "ru": "Я пойду в налоговую инспекцию со счётом.",
+            "en": "I take the invoice to the tax office.",
+            "ua": "Я йду з рахунком до податкової інспекції."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
-        "ru": "Что делать, если Вы получили неверный счёт от немецкого органа власти?"
+        "ru": "Что делать, если Вы получили неверный счёт от немецкого органа власти?",
+        "en": "What should you do if you receive an incorrect invoice from a German authority?",
+        "ua": "Що робити, якщо ви отримали неправильний рахунок від німецького державного органу?"
       }
     },
     {
@@ -13066,35 +13596,45 @@
           "id": "a1",
           "translations": {
             "de": "Es ist egal, was man lernt.",
-            "ru": "Неважно, чему учишься."
+            "ru": "Неважно, чему учишься.",
+            "en": "It doesn't matter what you learn.",
+            "ua": "Неважливо, чому навчаєшся."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
-            "ru": "В школе дети учатся всему, что важно в их карьере. После школы не нужно учиться дальше."
+            "ru": "В школе дети учатся всему, что важно в их карьере. После школы не нужно учиться дальше.",
+            "en": "Children learn everything important for work at school. After school, there’s no need to keep learning.",
+            "ua": "Діти в школі вивчають усе важливе для професії. Після школи вже не треба навчатися."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
-            "ru": "Взрослые должны продолжать учиться даже после проф. обучения."
+            "ru": "Взрослые должны продолжать учиться даже после проф. обучения.",
+            "en": "Adults must continue learning even after their training.",
+            "ua": "Дорослі повинні продовжувати навчання навіть після професійної підготовки."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.",
-            "ru": "Всем приходится раньше заканчивать работу, потому что все меняется."
+            "ru": "Всем приходится раньше заканчивать работу, потому что все меняется.",
+            "en": "Everyone must stop working earlier because everything is changing.",
+            "ua": "Усім доводиться раніше припиняти працювати, бо все змінюється."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was man für die Arbeit können muss, ändert sich in der Zukunft sehr schnell. Was kann man tun?",
-        "ru": "То, что нужно уметь делать для работы, меняется в будущем очень быстро. Что можно сделать?"
+        "ru": "То, что нужно уметь делать для работы, меняется в будущем очень быстро. Что можно сделать?",
+        "en": "What you need to know for work is changing very quickly in the future. What can you do?",
+        "ua": "Те, що потрібно вміти для роботи, дуже швидко змінюється в майбутньому. Що можна зробити?"
       }
     },
     {
@@ -13104,35 +13644,45 @@
           "id": "a1",
           "translations": {
             "de": "Umsatzsteuer",
-            "ru": "Налог на добавленную стоимость"
+            "ru": "Налог на добавленную стоимость",
+            "en": "Value-added tax (VAT)",
+            "ua": "Податок на додану вартість (ПДВ)"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Lohnsteuer",
-            "ru": "Подоходный налог"
+            "ru": "Подоходный налог",
+            "en": "Income tax",
+            "ua": "Податок на доходи"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Beiträge zur Arbeitslosenversicherung",
-            "ru": "Взносы по страхованию от безработицы"
+            "ru": "Взносы по страхованию от безработицы",
+            "en": "Unemployment insurance contributions",
+            "ua": "Внески до страхування на випадок безробіття"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Beiträge zur Renten- und Krankenversicherung",
-            "ru": "Взносы на пенсионное и медицинское страхование"
+            "ru": "Взносы на пенсионное и медицинское страхование",
+            "en": "Pension and health insurance contributions",
+            "ua": "Внески на пенсійне та медичне страхування"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
-        "ru": "Г-жа Фрост работает постоянным сотрудником в офисе. За что ей не нужно платить из своей зарплаты?"
+        "ru": "Г-жа Фрост работает постоянным сотрудником в офисе. За что ей не нужно платить из своей зарплаты?",
+        "en": "Ms. Frost works as a permanent employee in an office. What does she not have to pay from her salary?",
+        "ua": "Пані Фрост працює штатною працівницею в офісі. За що вона не повинна платити зі своєї зарплати?"
       }
     },
     {
@@ -13142,35 +13692,45 @@
           "id": "a1",
           "translations": {
             "de": "der Betriebsrat",
-            "ru": "профсоюзный комитет"
+            "ru": "профсоюзный комитет",
+            "en": "works council",
+            "ua": "рада працівників"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "der Betriebsprüfer / die Betriebsprüferin",
-            "ru": "инспектор по проверке предприятий"
+            "ru": "инспектор по проверке предприятий",
+            "en": "company auditor",
+            "ua": "аудитор підприємства"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die Betriebsgruppe",
-            "ru": "рабочая группа"
+            "ru": "рабочая группа",
+            "en": "work group",
+            "ua": "робоча група"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "das Betriebsmanagement",
-            "ru": "управление предприятием"
+            "ru": "управление предприятием",
+            "en": "company management",
+            "ua": "керівництво підприємства"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bei Problemen mit dem Arbeitgeber / der Arbeitgeberin?",
-        "ru": "Какая организация на предприятии помогает сотрудникам решать проблемы с работодателем?"
+        "ru": "Какая организация на предприятии помогает сотрудникам решать проблемы с работодателем?",
+        "en": "Which organization in a company helps employees with problems involving their employer?",
+        "ua": "Яка організація на підприємстві допомагає працівникам у разі проблем з роботодавцем?"
       }
     },
     {
@@ -13180,35 +13740,45 @@
           "id": "a1",
           "translations": {
             "de": "die Gehaltszahlungen",
-            "ru": "выплаты заработной платы"
+            "ru": "выплаты заработной платы",
+            "en": "salary payments",
+            "ua": "виплати заробітної плати"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "die Arbeitszeit",
-            "ru": "рабочее время"
+            "ru": "рабочее время",
+            "en": "working hours",
+            "ua": "робочий час"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die Kündigungsfrist",
-            "ru": "срок уведомления об увольнении"
+            "ru": "срок уведомления об увольнении",
+            "en": "notice period",
+            "ua": "строк повідомлення про звільнення"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Versicherungspflicht",
-            "ru": "обязательное страхование"
+            "ru": "обязательное страхование",
+            "en": "mandatory insurance",
+            "ua": "обов’язкове страхування"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
-        "ru": "Вы хотели бы прекратить трудовые отношения с компанией в Германии. Что Вам следует учитывать?"
+        "ru": "Вы хотели бы прекратить трудовые отношения с компанией в Германии. Что Вам следует учитывать?",
+        "en": "You want to terminate your employment with a company in Germany. What must you consider?",
+        "ua": "Ви хочете припинити трудові відносини з компанією в Німеччині. Що слід врахувати?"
       }
     },
     {
@@ -13218,35 +13788,45 @@
           "id": "a1",
           "translations": {
             "de": "beim Finanzamt",
-            "ru": "в налоговой инспекции"
+            "ru": "в налоговой инспекции",
+            "en": "at the tax office",
+            "ua": "у податковій інспекції"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "beim Einwohnermeldeamt",
-            "ru": "в отделе регистрации населения"
+            "ru": "в отделе регистрации населения",
+            "en": "at the residents' registration office",
+            "ua": "в реєстраційному офісі мешканців"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "bei der Kommune (Stadt oder Gemeinde)",
-            "ru": "в муниципалитете (городе или муниципалитете)"
+            "ru": "в муниципалитете (городе или муниципалитете)",
+            "en": "at the local authority (city or municipality)",
+            "ua": "у комуні (місті або громаді)"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "beim Gesundheitsamt",
-            "ru": "в департаменте здравоохранения"
+            "ru": "в департаменте здравоохранения",
+            "en": "at the public health office",
+            "ua": "у департаменті охорони здоров'я"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Bei welchem Amt muss man in Deutschland in der Regel seinen Hund anmelden?",
-        "ru": "В каком ведомстве обычно нужно регистрировать свою собаку в Германии?"
+        "ru": "В каком ведомстве обычно нужно регистрировать свою собаку в Германии?",
+        "en": "At which authority do you usually have to register your dog in Germany?",
+        "ua": "У якому відомстві зазвичай потрібно зареєструвати собаку в Німеччині?"
       }
     },
     {
@@ -13256,35 +13836,45 @@
           "id": "a1",
           "translations": {
             "de": "seine Deutschkenntnisse zu gering sind.",
-            "ru": "его знания немецкого языка слишком плохие."
+            "ru": "его знания немецкого языка слишком плохие.",
+            "en": "his German language skills are too poor.",
+            "ua": "його знання німецької мови занадто слабкі."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "er zu hohe Gehaltsvorstellungen hat.",
-            "ru": "у него слишком высокие зарплатные ожидания."
+            "ru": "у него слишком высокие зарплатные ожидания.",
+            "en": "he has too high salary expectations.",
+            "ua": "він має завищені очікування щодо зарплати."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "er eine dunkle Haut hat.",
-            "ru": "у него тёмная кожа."
+            "ru": "у него тёмная кожа.",
+            "en": "he has dark skin.",
+            "ua": "він має темний колір шкіри."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "er keine Erfahrungen im Beruf hat.",
-            "ru": "у него нет опыта работы."
+            "ru": "у него нет опыта работы.",
+            "en": "he has no work experience.",
+            "ua": "він не має досвіду роботи."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil ...",
-        "ru": "Мужчина с тёмной кожей устраивается на работу официантом в ресторан в Германии. Что является примером дискриминации? Единственная причина, по которой он не получает работу, это то, что..."
+        "ru": "Мужчина с тёмной кожей устраивается на работу официантом в ресторан в Германии. Что является примером дискриминации? Единственная причина, по которой он не получает работу, это то, что...",
+        "en": "A man with dark skin applies for a job as a waiter in a restaurant in Germany. What is an example of discrimination? He does not get the job only because ...",
+        "ua": "Чоловік з темною шкірою подає заявку на роботу офіціантом у ресторані в Німеччині. Що є прикладом дискримінації? Він не отримує роботу лише тому, що ..."
       }
     },
     {
@@ -13294,35 +13884,45 @@
           "id": "a1",
           "translations": {
             "de": "eine Anzeige schreiben",
-            "ru": "написать объявление"
+            "ru": "написать объявление",
+            "en": "write an advertisement",
+            "ua": "написати оголошення"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "den Fernseher reklamieren",
-            "ru": "предъявить рекламацию на телевизор"
+            "ru": "предъявить рекламацию на телевизор",
+            "en": "make a complaint about the TV",
+            "ua": "пред'явити претензію на телевізор"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "das Gerät ungefragt austauschen",
-            "ru": "заменить устройство без спроса"
+            "ru": "заменить устройство без спроса",
+            "en": "exchange the device without asking",
+            "ua": "замінити пристрій без запиту"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Garantie verlängern",
-            "ru": "продлить гарантию"
+            "ru": "продлить гарантию",
+            "en": "extend the warranty",
+            "ua": "продовжити гарантію"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
-        "ru": "Вы купили телевизор в Германии. Дома распаковываете телевизор, а он не работает. Телевизор сломан. Что Вы можете сделать?"
+        "ru": "Вы купили телевизор в Германии. Дома распаковываете телевизор, а он не работает. Телевизор сломан. Что Вы можете сделать?",
+        "en": "You bought a TV in Germany. At home, you unpack the TV, but it does not work. The TV is broken. What can you do?",
+        "ua": "Ви купили телевізор у Німеччині. Вдома ви розпаковуєте телевізор, але він не працює. Телевізор зламаний. Що ви можете зробити?"
       }
     },
     {
@@ -13332,35 +13932,45 @@
           "id": "a1",
           "translations": {
             "de": "das für die Statistik in Deutschland wichtig ist.",
-            "ru": "это важно для статистики Германии."
+            "ru": "это важно для статистики Германии.",
+            "en": "it is important for statistics in Germany.",
+            "ua": "це важливо для статистики в Німеччині."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
-            "ru": "существует церковный налог, привязанный к подоходному налогу и налогу на заработную плату."
+            "ru": "существует церковный налог, привязанный к подоходному налогу и налогу на заработную плату.",
+            "en": "there is a church tax linked to income and wage tax.",
+            "ua": "існує церковний податок, пов'язаний з прибутковим та заробітним податком."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
-            "ru": "нужно платить больше налогов, если не являешься членом религиозной общины."
+            "ru": "нужно платить больше налогов, если не являешься членом религиозной общины.",
+            "en": "you have to pay more taxes if you do not belong to a church.",
+            "ua": "треба платити більше податків, якщо не належиш до церкви."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "die Kirche für die Steuererklärung verantwortlich ist.",
-            "ru": "Церковь несет ответственность за налоговую декларацию."
+            "ru": "Церковь несет ответственность за налоговую декларацию.",
+            "en": "the church is responsible for the tax declaration.",
+            "ua": "церква відповідає за податкову декларацію."
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil ...",
-        "ru": "Почему в Германии в налоговой декларации нужно указывать, являетесь ли Вы членом религиозной общины или нет? Потому что ..."
+        "ru": "Почему в Германии в налоговой декларации нужно указывать, являетесь ли Вы членом религиозной общины или нет? Потому что ...",
+        "en": "Why do you have to state in a German tax declaration whether you belong to a church or not? Because ...",
+        "ua": "Чому в податковій декларації в Німеччині потрібно вказувати, чи належите ви до церкви чи ні? Тому що ..."
       }
     },
     {
@@ -13370,35 +13980,45 @@
           "id": "a1",
           "translations": {
             "de": "Es dürfen keine Moscheen gebaut werden.",
-            "ru": "Мечети строить запрещено."
+            "ru": "Мечети строить запрещено.",
+            "en": "Mosques may not be built.",
+            "ua": "Мечеті заборонено будувати."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Alle Menschen glauben an Gott.",
-            "ru": "Все люди верят в Бога."
+            "ru": "Все люди верят в Бога.",
+            "en": "All people believe in God.",
+            "ua": "Усі люди вірять у Бога."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Jeder kann glauben, was er möchte.",
-            "ru": "Каждый может верить во что хочет."
+            "ru": "Каждый может верить во что хочет.",
+            "en": "Everyone can believe what they want.",
+            "ua": "Кожен може вірити в те, що хоче."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Der Staat entscheidet, an welchen Gott die Menschen glauben.",
-            "ru": "Государство решает, в какого бога верят люди."
+            "ru": "Государство решает, в какого бога верят люди.",
+            "en": "The state decides which god people believe in.",
+            "ua": "Держава вирішує, в якого бога вірять люди."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
-        "ru": "Люди в Германии живут по принципу религиозной толерантности. Что это значит?"
+        "ru": "Люди в Германии живут по принципу религиозной толерантности. Что это значит?",
+        "en": "People in Germany live according to the principle of religious tolerance. What does that mean?",
+        "ua": "Люди в Німеччині живуть за принципом релігійної терпимості. Що це означає?"
       }
     },
     {
@@ -13408,35 +14028,45 @@
           "id": "a1",
           "translations": {
             "de": "Kürbisse vor die Tür stellen",
-            "ru": "Выставлять тыквы перед дверью"
+            "ru": "Выставлять тыквы перед дверью",
+            "en": "Placing pumpkins in front of the door",
+            "ua": "Ставити гарбузи перед дверима"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "einen Tannenbaum schmücken",
-            "ru": "Украшать ёлку"
+            "ru": "Украшать ёлку",
+            "en": "Decorating a Christmas tree",
+            "ua": "Прикрашати ялинку"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Eier bemalen",
-            "ru": "Красить / расписывать яйца"
+            "ru": "Красить / расписывать яйца",
+            "en": "Painting eggs",
+            "ua": "Розфарбовувати яйця"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Raketen in die Luft schießen",
-            "ru": "Устраивать фейерверки"
+            "ru": "Устраивать фейерверки",
+            "en": "Shooting rockets into the air",
+            "ua": "Запускати феєрверки в небо"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was ist in Deutschland ein Brauch an Ostern?",
-        "ru": "Какой обычай на Пасху в Германии?"
+        "ru": "Какой обычай на Пасху в Германии?",
+        "en": "What is a common tradition in Germany at Easter?",
+        "ua": "Який звичай у Німеччині на Великдень?"
       }
     },
     {
@@ -13446,35 +14076,45 @@
           "id": "a1",
           "translations": {
             "de": "christlicher Feiertag.",
-            "ru": "Христианский праздник."
+            "ru": "Христианский праздник.",
+            "en": "Christian holiday.",
+            "ua": "Християнське свято."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "deutscher Gedenktag.",
-            "ru": "День памяти Германии."
+            "ru": "День памяти Германии.",
+            "en": "German day of remembrance.",
+            "ua": "День памʼяті в Німеччині."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "internationaler Trauertag.",
-            "ru": "Международный день траура."
+            "ru": "Международный день траура.",
+            "en": "International day of mourning.",
+            "ua": "Міжнародний день жалоби."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "bayerischer Brauch.",
-            "ru": "Баварский обычай."
+            "ru": "Баварский обычай.",
+            "en": "Bavarian custom.",
+            "ua": "Баварська традиція."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Pfingsten ist ein ...",
-        "ru": "День Святой Троицы - это..."
+        "ru": "День Святой Троицы - это...",
+        "en": "Pentecost is a ...",
+        "ua": "Трійця — це ..."
       }
     },
     {
@@ -13484,35 +14124,45 @@
           "id": "a1",
           "translations": {
             "de": "der Hinduismus",
-            "ru": "Индуизм"
+            "ru": "Индуизм",
+            "en": "Hinduism",
+            "ua": "Індуїзм"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "das Christentum",
-            "ru": "Христианство"
+            "ru": "Христианство",
+            "en": "Christianity",
+            "ua": "Християнство"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "der Buddhismus",
-            "ru": "Буддизм"
+            "ru": "Буддизм",
+            "en": "Buddhism",
+            "ua": "Буддизм"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "der Islam",
-            "ru": "Ислам"
+            "ru": "Ислам",
+            "en": "Islam",
+            "ua": "Іслам"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
-        "ru": "Какая религия сформировала европейскую и немецкую культуру?"
+        "ru": "Какая религия сформировала европейскую и немецкую культуру?",
+        "en": "Which religion has shaped European and German culture?",
+        "ua": "Яка релігія сформувала європейську та німецьку культуру?"
       }
     },
     {
@@ -13522,35 +14172,45 @@
           "id": "a1",
           "translations": {
             "de": "den Buß- und Bettag.",
-            "ru": "День покаяния и молитвы."
+            "ru": "День покаяния и молитвы.",
+            "en": "Day of Repentance and Prayer.",
+            "ua": "День покаяння і молитви."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "das Erntedankfest.",
-            "ru": "Праздник урожая."
+            "ru": "Праздник урожая.",
+            "en": "Harvest Festival.",
+            "ua": "Свято врожаю."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "die Adventszeit.",
-            "ru": "Адвент"
+            "ru": "Адвент",
+            "en": "Advent season.",
+            "ua": "Адвент"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Allerheiligen.",
-            "ru": "День всех святых."
+            "ru": "День всех святых.",
+            "en": "All Saints' Day.",
+            "ua": "День усіх святих."
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten ...",
-        "ru": "В Германии последние четыре недели перед Рождеством называются..."
+        "ru": "В Германии последние четыре недели перед Рождеством называются...",
+        "en": "In Germany, the last four weeks before Christmas are called ...",
+        "ua": "У Німеччині останні чотири тижні перед Різдвом називаються ..."
       }
     },
     {
@@ -13560,35 +14220,45 @@
           "id": "a1",
           "translations": {
             "de": "Italien",
-            "ru": "Италия"
+            "ru": "Италия",
+            "en": "Italy",
+            "ua": "Італія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Polen",
-            "ru": "Польша"
+            "ru": "Польша",
+            "en": "Poland",
+            "ua": "Польща"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Marokko",
-            "ru": "Марокко"
+            "ru": "Марокко",
+            "en": "Morocco",
+            "ua": "Марокко"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Türkei",
-            "ru": "Турция"
+            "ru": "Турция",
+            "en": "Turkey",
+            "ua": "Туреччина"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Aus welchem Land sind die meisten Migranten / Migrantinnen nach Deutschland gekommen?",
-        "ru": "Из какой страны в Германию приехало больше всего мигрантов?"
+        "ru": "Из какой страны в Германию приехало больше всего мигрантов?",
+        "en": "From which country have most migrants come to Germany?",
+        "ua": "З якої країни приїхало найбільше мігрантів до Німеччини?"
       }
     },
     {
@@ -13598,35 +14268,45 @@
           "id": "a1",
           "translations": {
             "de": "Vietnam, Polen, Mosambik.",
-            "ru": "Вьетнам, Польша, Мозамбик."
+            "ru": "Вьетнам, Польша, Мозамбик.",
+            "en": "Vietnam, Poland, Mozambique.",
+            "ua": "Вʼєтнам, Польща, Мозамбік."
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Frankreich, Rumänien, Somalia.",
-            "ru": "Франция, Румыния, Сомали."
+            "ru": "Франция, Румыния, Сомали.",
+            "en": "France, Romania, Somalia.",
+            "ua": "Франція, Румунія, Сомалі."
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Chile, Ungarn, Simbabwe.",
-            "ru": "Чили, Венгрия, Зимбабве."
+            "ru": "Чили, Венгрия, Зимбабве.",
+            "en": "Chile, Hungary, Zimbabwe.",
+            "ua": "Чилі, Угорщина, Зімбабве."
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Nordkorea, Mexiko, Ägypten.",
-            "ru": "Северная Корея, Мексика, Египет."
+            "ru": "Северная Корея, Мексика, Египет.",
+            "en": "North Korea, Mexico, Egypt.",
+            "ua": "Північна Корея, Мексика, Єгипет."
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "In der DDR lebten vor allem Migranten aus ...",
-        "ru": "В ГДР в основном были мигранты из ..."
+        "ru": "В ГДР в основном были мигранты из ...",
+        "en": "In the GDR, most migrants came from ...",
+        "ua": "У НДР більшість мігрантів були з ..."
       }
     },
     {
@@ -13636,35 +14316,45 @@
           "id": "a1",
           "translations": {
             "de": "Schwarzarbeiter / Schwarzarbeiterinnen",
-            "ru": "Чернорабочие"
+            "ru": "Чернорабочие",
+            "en": "Illegal workers",
+            "ua": "Нелегальні працівники"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Gastarbeiter / Gastarbeiterinnen",
-            "ru": "гастарбайтеры"
+            "ru": "гастарбайтеры",
+            "en": "Guest workers",
+            "ua": "Гастрабайтери"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Zeitarbeiter / Zeitarbeiterinnen",
-            "ru": "Временные / сезонные работники"
+            "ru": "Временные / сезонные работники",
+            "en": "Temporary workers",
+            "ua": "Тимчасові працівники"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Schichtarbeiter / Schichtarbeiterinnen",
-            "ru": "рабочие по сменам (по сменному графику)"
+            "ru": "рабочие по сменам (по сменному графику)",
+            "en": "Shift workers",
+            "ua": "Працівники змінного графіка"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man ...",
-        "ru": "Иностранных рабочих, завербованных Федеративной Республикой Германия в 1950-х и 1960-х годах, называли.."
+        "ru": "Иностранных рабочих, завербованных Федеративной Республикой Германия в 1950-х и 1960-х годах, называли..",
+        "en": "Foreign workers recruited by the Federal Republic of Germany in the 1950s and 1960s were called ...",
+        "ua": "Іноземних працівників, яких вербувала Федеративна Республіка Німеччина у 1950–1960-х роках, називали ..."
       }
     },
     {
@@ -13674,35 +14364,45 @@
           "id": "a1",
           "translations": {
             "de": "Italien",
-            "ru": "Италия"
+            "ru": "Италия",
+            "en": "Italy",
+            "ua": "Італія"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Spanien",
-            "ru": "Испания"
+            "ru": "Испания",
+            "en": "Spain",
+            "ua": "Іспанія"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Portugal",
-            "ru": "Португалия"
+            "ru": "Португалия",
+            "en": "Portugal",
+            "ua": "Португалія"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Türkei",
-            "ru": "Турция"
+            "ru": "Турция",
+            "en": "Turkey",
+            "ua": "Туреччина"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen in die Bundesrepublik Deutschland?",
-        "ru": "Из какой страны прибыли первые гастарбайтеры в ФРГ?"
+        "ru": "Из какой страны прибыли первые гастарбайтеры в ФРГ?",
+        "en": "From which country did the first guest workers come to the Federal Republic of Germany?",
+        "ua": "З якої країни прибули перші гастарбайтери до Федеративної Республіки Німеччина?"
       }
     },
     {
@@ -13712,35 +14412,45 @@
           "id": "a1",
           "translations": {
             "de": "vor etwa 300 Jahren",
-            "ru": "около 300 лет назад"
+            "ru": "около 300 лет назад",
+            "en": "about 300 years ago",
+            "ua": "приблизно 300 років тому"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "vor etwa 700 Jahren",
-            "ru": "около 700 лет назад"
+            "ru": "около 700 лет назад",
+            "en": "about 700 years ago",
+            "ua": "приблизно 700 років тому"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "vor etwa 1150 Jahren",
-            "ru": "около 1150 лет назад"
+            "ru": "около 1150 лет назад",
+            "en": "about 1150 years ago",
+            "ua": "приблизно 1150 років тому"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "vor etwa 1700 Jahren",
-            "ru": "около 1700 лет назад"
+            "ru": "около 1700 лет назад",
+            "en": "about 1700 years ago",
+            "ua": "приблизно 1700 років тому"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
-        "ru": "Сколько лет назад впервые появилась еврейская община на территории современной Германии?"
+        "ru": "Сколько лет назад впервые появилась еврейская община на территории современной Германии?",
+        "en": "How many years ago did the first Jewish community appear in the territory of present-day Germany?",
+        "ua": "Скільки років тому з’явилася перша єврейська громада на території сучасної Німеччини?"
       }
     },
     {
@@ -13750,35 +14460,45 @@
           "id": "a1",
           "translations": {
             "de": "nur Deutsche",
-            "ru": "только немцы"
+            "ru": "только немцы",
+            "en": "only Germans",
+            "ua": "тільки німці"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "nur Israelis",
-            "ru": "только израильтяне"
+            "ru": "только израильтяне",
+            "en": "only Israelis",
+            "ua": "тільки ізраїльтяни"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "nur religiöse Menschen",
-            "ru": "только религиозные люди"
+            "ru": "только религиозные люди",
+            "en": "only religious people",
+            "ua": "тільки релігійні люди"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "alle Menschen",
-            "ru": "все люди"
+            "ru": "все люди",
+            "en": "everyone",
+            "ua": "усі люди"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
-        "ru": "Кто может стать членом одного из примерно 40 еврейских спортивных клубов «Маккаби»?"
+        "ru": "Кто может стать членом одного из примерно 40 еврейских спортивных клубов «Маккаби»?",
+        "en": "Who is allowed to become a member of the approximately 40 Jewish Maccabi sports clubs?",
+        "ua": "Хто може стати членом приблизно 40 єврейських спортивних клубів «Маккабі»?"
       }
     },
     {
@@ -13788,35 +14508,45 @@
           "id": "a1",
           "translations": {
             "de": "Berlin und München",
-            "ru": "Берлин и Мюнхен"
+            "ru": "Берлин и Мюнхен",
+            "en": "Berlin and Munich",
+            "ua": "Берлін і Мюнхен"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Hamburg und Essen",
-            "ru": "Гамбург и Эссен"
+            "ru": "Гамбург и Эссен",
+            "en": "Hamburg and Essen",
+            "ua": "Гамбург і Ессен"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Nürnberg und Stuttgart",
-            "ru": "Нюрнберг и Штутгарт"
+            "ru": "Нюрнберг и Штутгарт",
+            "en": "Nuremberg and Stuttgart",
+            "ua": "Нюрнберг і Штутгарт"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Worms und Speyer",
-            "ru": "Вормс и Шпайер"
+            "ru": "Вормс и Шпайер",
+            "en": "Worms and Speyer",
+            "ua": "Вормс і Шпайєр"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
-        "ru": "В каких городах находятся самые большие еврейские общины в Германии?"
+        "ru": "В каких городах находятся самые большие еврейские общины в Германии?",
+        "en": "Which cities have the largest Jewish communities in Germany?",
+        "ua": "У яких містах розташовані найбільші єврейські громади в Німеччині?"
       }
     },
     {
@@ -13826,35 +14556,45 @@
           "id": "a1",
           "translations": {
             "de": "Basilika",
-            "ru": "Базилика"
+            "ru": "Базилика",
+            "en": "Basilica",
+            "ua": "Базиліка"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "Moschee",
-            "ru": "Мечеть"
+            "ru": "Мечеть",
+            "en": "Mosque",
+            "ua": "Мечеть"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "Synagoge",
-            "ru": "Синагога"
+            "ru": "Синагога",
+            "en": "Synagogue",
+            "ua": "Синагога"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "Kirche",
-            "ru": "Церковь"
+            "ru": "Церковь",
+            "en": "Church",
+            "ua": "Церква"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Wie heißt das jüdische Gebetshaus?",
-        "ru": "Как называется еврейский молитвенный дом?"
+        "ru": "Как называется еврейский молитвенный дом?",
+        "en": "What is the name of the Jewish house of prayer?",
+        "ua": "Як називається єврейський молитовний дім?"
       }
     },
     {
@@ -13864,35 +14604,45 @@
           "id": "a1",
           "translations": {
             "de": "eine Resolution der Vereinten Nationen",
-            "ru": "резолюция Организации Объединённых Наций"
+            "ru": "резолюция Организации Объединённых Наций",
+            "en": "a United Nations resolution",
+            "ua": "резолюція Організації Об'єднаних Націй"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "ein Beschluss des Zionistenkongresses",
-            "ru": "решение Сионистского конгресса"
+            "ru": "решение Сионистского конгресса",
+            "en": "a decision of the Zionist Congress",
+            "ua": "рішення сіоністського конгресу"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "ein Vorschlag der Bundesregierung",
-            "ru": "предложение правительства Германии"
+            "ru": "предложение правительства Германии",
+            "en": "a proposal by the German government",
+            "ua": "пропозиція уряду Німеччини"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "ein Vorschlag der USSR",
-            "ru": "предложение СССР"
+            "ru": "предложение СССР",
+            "en": "a proposal by the USSR",
+            "ua": "пропозиція СРСР"
           }
         }
       ],
       "correctAnswerId": "a1",
       "translations": {
         "de": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
-        "ru": "На каком юридическом основании было создано государство Израиль?"
+        "ru": "На каком юридическом основании было создано государство Израиль?",
+        "en": "On what legal basis was the State of Israel founded?",
+        "ua": "На якій правовій підставі було засновано державу Ізраїль?"
       }
     },
     {
@@ -13902,35 +14652,45 @@
           "id": "a1",
           "translations": {
             "de": "aus der Mitgliedschaft in der Europäischen Union (EU)",
-            "ru": "членством в Европейском Союзе (ЕС)"
+            "ru": "членством в Европейском Союзе (ЕС)",
+            "en": "from membership in the European Union (EU)",
+            "ua": "членством у Європейському Союзі (ЄС)"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "aus den nationalsozialistischen Verbrechen",
-            "ru": "нацистскими преступлениями"
+            "ru": "нацистскими преступлениями",
+            "en": "from the Nazi crimes",
+            "ua": "з нацистських злочинів"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "aus dem Grundgesetz der Bundesrepublik Deutschland",
-            "ru": "Основным законом Федеративной Республики Германия"
+            "ru": "Основным законом Федеративной Республики Германия",
+            "en": "from the Basic Law of the Federal Republic of Germany",
+            "ua": "з Основного закону Федеративної Республіки Німеччина"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "aus der christlichen Tradition",
-            "ru": "христианской традицией"
+            "ru": "христианской традицией",
+            "en": "from the Christian tradition",
+            "ua": "з християнської традиції"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
-        "ru": "Чем обосновывается особая ответственность Германии перед Израилем?"
+        "ru": "Чем обосновывается особая ответственность Германии перед Израилем?",
+        "en": "What is the basis for Germany's special responsibility toward Israel?",
+        "ua": "Чим обґрунтовується особлива відповідальність Німеччини перед Ізраїлем?"
       }
     },
     {
@@ -13940,35 +14700,45 @@
           "id": "a1",
           "translations": {
             "de": "ein jüdisches Fest besuchen",
-            "ru": "посещение еврейского праздника"
+            "ru": "посещение еврейского праздника",
+            "en": "attending a Jewish festival",
+            "ua": "відвідування єврейського свята"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "die israelische Regierung kritisieren",
-            "ru": "критика правительства Израиля"
+            "ru": "критика правительства Израиля",
+            "en": "criticizing the Israeli government",
+            "ua": "критика уряду Ізраїлю"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "den Holocaust leugnen",
-            "ru": "отрицание Холокоста"
+            "ru": "отрицание Холокоста",
+            "en": "denying the Holocaust",
+            "ua": "заперечення Голокосту"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "gegen Juden Fußball spielen",
-            "ru": "игра в футбол против евреев"
+            "ru": "игра в футбол против евреев",
+            "en": "playing football against Jews",
+            "ua": "грати у футбол проти євреїв"
           }
         }
       ],
       "correctAnswerId": "a3",
       "translations": {
         "de": "Was ist ein Beispiel für antisemitisches Verhalten?",
-        "ru": "Что является примером антисемитского поведения?"
+        "ru": "Что является примером антисемитского поведения?",
+        "en": "What is an example of antisemitic behavior?",
+        "ua": "Що є прикладом антисемітської поведінки?"
       }
     },
     {
@@ -13978,35 +14748,45 @@
           "id": "a1",
           "translations": {
             "de": "an berühmte deutsche Politikerinnen und Politiker",
-            "ru": "об известных немецких политиках"
+            "ru": "об известных немецких политиках",
+            "en": "about famous German politicians",
+            "ua": "про відомих німецьких політиків"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "an die Opfer des Nationalsozialismus",
-            "ru": "о жертвах национал-социализма"
+            "ru": "о жертвах национал-социализма",
+            "en": "about the victims of National Socialism",
+            "ua": "про жертв націонал-соціалізму"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "an Verkehrstote",
-            "ru": "о жертвах со смертельным исходом в результате ДТП"
+            "ru": "о жертвах со смертельным исходом в результате ДТП",
+            "en": "about traffic fatalities",
+            "ua": "про жертв дорожньо-транспортних пригод"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "an bekannte jüdische Musiker",
-            "ru": "об известных еврейских музыкантах"
+            "ru": "об известных еврейских музыкантах",
+            "en": "about well-known Jewish musicians",
+            "ua": "про відомих єврейських музикантів"
           }
         }
       ],
       "correctAnswerId": "a2",
       "translations": {
         "de": "Woran erinnern die sogenannten Stolpersteine in Deutschland?",
-        "ru": "О чем напоминают нам так называемые камни преткновения в Германии?"
+        "ru": "О чем напоминают нам так называемые камни преткновения в Германии?",
+        "en": "What do the so-called 'Stolpersteine' (stumbling stones) in Germany commemorate?",
+        "ua": "Про що нагадують так звані 'камені спотикання' в Німеччині?"
       }
     },
     {
@@ -14016,35 +14796,45 @@
           "id": "a1",
           "translations": {
             "de": "Kürzung sozialer Leistungen",
-            "ru": "Сокращение социальных пособий"
+            "ru": "Сокращение социальных пособий",
+            "en": "reduction of social benefits",
+            "ua": "скорочення соціальних виплат"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "bis zu 100 Sozialstunden",
-            "ru": "до 100 часов общественных работ"
+            "ru": "до 100 часов общественных работ",
+            "en": "up to 100 hours of community service",
+            "ua": "до 100 годин громадських робіт"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "gar nicht, Holocaustleugnung ist erlaubt",
-            "ru": "никак, отрицание Холокоста допускается"
+            "ru": "никак, отрицание Холокоста допускается",
+            "en": "not at all, Holocaust denial is allowed",
+            "ua": "жодним чином, заперечення Голокосту дозволено"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
-            "ru": "лишением свободы на срок до пяти лет или штрафом"
+            "ru": "лишением свободы на срок до пяти лет или штрафом",
+            "en": "with imprisonment of up to five years or a fine",
+            "ua": "позбавленням волі на строк до п’яти років або штрафом"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
-        "ru": "Как может быть наказан тот, кто отрицает Холокост?"
+        "ru": "Как может быть наказан тот, кто отрицает Холокост?",
+        "en": "How can someone who denies the Holocaust be punished?",
+        "ua": "Яке покарання може отримати людина, яка заперечує Голокост?"
       }
     },
     {
@@ -14054,35 +14844,45 @@
           "id": "a1",
           "translations": {
             "de": "die Politik Israels öffentlich kritisieren",
-            "ru": "публично критиковать политику Израиля"
+            "ru": "публично критиковать политику Израиля",
+            "en": "publicly criticize the policy of Israel",
+            "ua": "публічно критикувати політику Ізраїлю"
           }
         },
         {
           "id": "a2",
           "translations": {
             "de": "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
-            "ru": "вывешивание израильского флага на частном участке"
+            "ru": "вывешивание израильского флага на частном участке",
+            "en": "hanging an Israeli flag on private property",
+            "ua": "вивішування ізраїльського прапора на приватній території"
           }
         },
         {
           "id": "a3",
           "translations": {
             "de": "eine Diskussion über die Politik Israels",
-            "ru": "обсуждение политики Израиля"
+            "ru": "обсуждение политики Израиля",
+            "en": "a discussion about Israel's policy",
+            "ua": "обговорення політики Ізраїлю"
           }
         },
         {
           "id": "a4",
           "translations": {
             "de": "der öffentliche Aufruf zur Vernichtung Israels",
-            "ru": "публичный призыв к уничтожению Израиля"
+            "ru": "публичный призыв к уничтожению Израиля",
+            "en": "public call for the destruction of Israel",
+            "ua": "публічний заклик до знищення Ізраїлю"
           }
         }
       ],
       "correctAnswerId": "a4",
       "translations": {
         "de": "Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland verboten?",
-        "ru": "Какие действия в отношении государства Израиль запрещены в Германии?"
+        "ru": "Какие действия в отношении государства Израиль запрещены в Германии?",
+        "en": "Which action related to the State of Israel is prohibited in Germany?",
+        "ua": "Яка дія щодо держави Ізраїль заборонена в Німеччині?"
       }
     }
   ]
