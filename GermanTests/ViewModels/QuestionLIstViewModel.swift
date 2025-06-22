@@ -63,10 +63,10 @@ class QuestionViewModel {
 
         // Step 2: Add 2 more random questions from any group to make it 33
         let remainingQuestions = allQuestions.filter { !selectedQuestions.contains($0) }
-        selectedQuestions += remainingQuestions.shuffled().prefix(33 - selectedQuestions.count)
+        selectedQuestions += remainingQuestions.shuffled().prefix(allQuestions.count - selectedQuestions.count)
 
         // Step 3: Shuffle the final selection
-        return selectedQuestions.shuffled()
+        return Array(selectedQuestions.shuffled().prefix(Constants.questionsCount))
     }
 
     func goNext() {

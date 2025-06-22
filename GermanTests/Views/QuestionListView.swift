@@ -18,6 +18,7 @@ enum TestMode: Equatable {
 struct QuestionListView: View {
     @Environment(\.dismiss) private var dismiss
     @AppStorage("testDuration") private var testDuration: Int = 1800
+    @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
 
     @State var viewModel: QuestionViewModel
     @State private var audioPlayer: AVAudioPlayer?
@@ -61,7 +62,7 @@ struct QuestionListView: View {
                 if let question = viewModel.currentQuestion {
                     questionView(for: question, mode: mode)
                 } else {
-                    ProgressView("Loading questions...")
+                    ProgressView(Constants.Labels.loadingQuestions[safe: selectedLanguage])
                 }
             }
             .navigationTitle(mainTitle)
@@ -108,14 +109,14 @@ struct QuestionListView: View {
             .sheet(isPresented: $showSettings) {
                 SettingsView()
             }
-            .alert("Are you sure you want to stop the test?", isPresented: $showExitAlert) {
-                Button("Cancel", role: .cancel) { }
-                Button("Stop Test", role: .destructive) {
+            .alert(Constants.Labels.stopTestAlert[safe: selectedLanguage], isPresented: $showExitAlert) {
+                Button(Constants.Labels.cancel[safe: selectedLanguage], role: .cancel) { }
+                Button(Constants.Labels.stopTest[safe: selectedLanguage], role: .destructive) {
                     onCancel?()
                     dismiss()
                 }
             } message: {
-                Text("Your progress will not be saved.")
+                Text(Constants.Labels.noProgress[safe: selectedLanguage])
             }
         }
         .id(sessionID)
@@ -124,9 +125,9 @@ struct QuestionListView: View {
     private var mainTitle: String {
         switch mode {
         case .practice:
-            "Practice"
+            Constants.Labels.practice[safe: selectedLanguage]
         case .test(let int):
-            "Test \(int)"
+            "\(Constants.Labels.test[safe: selectedLanguage]) \(int)"
         }
     }
     
@@ -148,7 +149,7 @@ struct QuestionListView: View {
                         }
                     }
                     
-                    Text(question.id)
+                    Text(questionTitle(id: question.id))
                         .font(.title)
                         .padding(.horizontal)
                         .padding(.bottom)
@@ -198,7 +199,7 @@ struct QuestionListView: View {
                                 
                 HStack {
                     Spacer()
-                    Text("Question \(viewModel.currentIndex+1) of \(viewModel.questions.count)")
+                    Text("\(Constants.Labels.question[safe: selectedLanguage]) \(viewModel.currentIndex+1) \(Constants.Labels.of[safe: selectedLanguage]) \(viewModel.questions.count)")
                     correctImage
                     .font(.system(size: 20))
                     .opacity(viewModel.selectedAnswer != nil ? 1 : 0)
@@ -258,6 +259,14 @@ struct QuestionListView: View {
         //}
     }
     
+    private func questionTitle(id: String) -> String {
+        if viewModel.showTranslation {
+            return "\(Constants.Labels.question[safe: selectedLanguage]) \(id)"
+        } else {
+            return "Frage \(id)"
+        }
+    }
+    
     private var questionPickerView: some View {
         HStack {
             Spacer()
@@ -265,7 +274,7 @@ struct QuestionListView: View {
                 isPickerPresented = true
             }) {
                 HStack(spacing: 6) {
-                    Text("Frage \(viewModel.currentIndex + 1)")
+                    Text("\(Constants.Labels.question[safe: selectedLanguage]) \(viewModel.currentIndex + 1)")
                     Image(systemName: "chevron.down.circle.fill")
                 }
                 .font(.title3)
@@ -450,11 +459,13 @@ struct QuestionListView: View {
     private func finishTest() {
         timer?.invalidate()
         let passed = correctAnswers > viewModel.questions.count / 2
-        onTestFinished?(correctAnswers, viewModel.questions.count, passed, UserDefaults.standard.integer(forKey: "testDuration") * 60 - remainingSeconds)
+        onTestFinished?(correctAnswers, viewModel.questions.count, passed, testDuration - remainingSeconds)
     }
 }
 
 struct QuestionPickerView: View {
+    @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
+
     var viewModel: QuestionViewModel
     let onSelect: (Int) -> Void
     @State private var digitInput = ""
@@ -475,7 +486,7 @@ struct QuestionPickerView: View {
             VStack(spacing: 16) {
                 // Search Display
                 HStack {
-                    Text("Search: \(digitInput)")
+                    Text("\(Constants.Labels.search[safe: selectedLanguage]): \(digitInput)")
                         .font(.title3)
                         .padding(.leading)
                     Spacer()
@@ -516,7 +527,7 @@ struct QuestionPickerView: View {
                         }
                     } label: {
                         HStack {
-                            Text("\(question.id)")
+                            Text("\(Constants.Labels.question[safe: selectedLanguage]) \(question.id)")
                             if question.id == viewModel.questions[viewModel.currentIndex].id {
                                 Spacer()
                                 Image(systemName: "checkmark")
@@ -526,7 +537,7 @@ struct QuestionPickerView: View {
                     }
                 }
             }
-            .navigationTitle("Select")
+            .navigationTitle(Constants.Labels.select[safe: selectedLanguage])
             .navigationBarTitleDisplayMode(.inline)
         }
     }

@@ -10,6 +10,8 @@ import SwiftUI
 import AVFoundation
 
 struct TestStartView: View {
+    @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
+
     @State private var isTestStarted = false
     @State private var showResult = false
     @State private var resultData: ExamResultData? = nil
@@ -38,7 +40,7 @@ struct TestStartView: View {
                 Button(action: {
                     isTestStarted = true
                 }) {
-                    Text("Start")
+                    Text(Constants.Labels.start[safe: selectedLanguage])
                         .font(.system(size: 24, weight: .semibold))
                         .frame(maxWidth: .infinity)
                         .padding()
@@ -51,7 +53,7 @@ struct TestStartView: View {
 
                 Spacer()
             }
-            .navigationTitle("Test")
+            .navigationTitle(Constants.Labels.test[safe: selectedLanguage])
             .fullScreenCover(isPresented: $isTestStarted, onDismiss: {
                 // Optional logic after dismiss
             }) {
@@ -79,30 +81,66 @@ struct TestStartView: View {
     }
     
     private func examResultSheet(result: ExamResultData) -> some View {
-        VStack(spacing: 24) {
+        VStack(spacing: 28) {
             Spacer()
-            Text(result.passed ? "🎉 Congrats!" : "❌ Failed")
-                .font(.largeTitle)
-                .bold()
+            
+            // Header: Icon + Result Title
+            VStack(spacing: 12) {
+                Image(systemName: result.passed ? "checkmark.seal.fill" : "xmark.octagon.fill")
+                    .resizable()
+                    .scaledToFit()
+                    .frame(width: 72, height: 72)
+                    .foregroundColor(result.passed ? .green : .red)
+                
+                Text(result.passed
+                     ? "🎉 \(Constants.Labels.congrats[safe: selectedLanguage])!"
+                     : "❌ \(Constants.Labels.failed[safe: selectedLanguage])")
+                .font(.largeTitle.weight(.bold))
                 .multilineTextAlignment(.center)
-
-            Text("Correct: \(result.correct) of \(result.total)")
-                .font(.title3)
-                .padding(.vertical)
-                        
-            Text("Time: \(result.time / 60) min \(result.time % 60) sec")
-
-            Button("OK") {
-                resultData = nil
             }
-            .font(.system(size: 20, weight: .semibold))
-            .padding()
-            .background(Color.blue)
-            .foregroundColor(.white)
-            .cornerRadius(12)
-            .padding(.horizontal)
+            
+            // Stats: Correct Answers and Time
+            VStack(spacing: 12) {
+                Label {
+                    Text("\(Constants.Labels.correct[safe: selectedLanguage]): \(result.correct) \(Constants.Labels.of[safe: selectedLanguage]) \(result.total)")
+                } icon: {
+                    Image(systemName: "checkmark.circle")
+                }
+                .font(.title3)
+                .foregroundColor(.primary)
+                
+                Label {
+                    Text("\(Constants.Labels.time[safe: selectedLanguage]): \(result.time / 60) \(Constants.Labels.min[safe: selectedLanguage]) \(result.time % 60) \(Constants.Labels.seconds[safe: selectedLanguage])")
+                } icon: {
+                    Image(systemName: "clock")
+                }
+                .font(.title3)
+                .foregroundColor(.secondary)
+            }
+            
+            // OK Button
+            Button(action: {
+                resultData = nil
+            }) {
+                Text("OK")
+                    .font(.system(size: 20, weight: .semibold))
+                    .frame(maxWidth: .infinity)
+                    .frame(height: 48)
+                    .background(result.passed ? Color.green : Color.blue)
+                    .foregroundColor(.white)
+                    .cornerRadius(12)
+                    .padding(.horizontal)
+            }
+            
             Spacer()
         }
+        .padding()
+        .background(
+            RoundedRectangle(cornerRadius: 24, style: .continuous)
+                .fill(Color(.systemBackground))
+                .shadow(color: .black.opacity(0.1), radius: 8, x: 0, y: 4)
+        )
+        .padding(.horizontal, 24)
     }
     
     private func playSound(name: String, fileExtension: String) {

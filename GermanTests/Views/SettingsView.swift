@@ -30,25 +30,25 @@ struct SettingsView: View {
     var body: some View {
         NavigationStack {
             Form {
-                Section(header: Text("Translation")) {
+                Section(header: Text(Constants.Labels.translation[safe: selectedLanguage])) {
                     NavigationLink(destination: LanguageSelectionView()) {
                         HStack {
-                            Text("Preferred Translation")
+                            Text(Constants.Labels.prefTranslation[safe: selectedLanguage])
                             Spacer()
                             Text(Language(from: selectedLanguage).flag)
                         }
                     }
                 }
                 
-                Section(header: Text("Test")) {
-                    Picker("Test Duration", selection: $testDuration) {
+                Section(header: Text(Constants.Labels.test[safe: selectedLanguage])) {
+                    Picker(Constants.Labels.testDuration[safe: selectedLanguage], selection: $testDuration) {
                         ForEach(TestDuration.allCases) { duration in
                             Text(duration.formatted).tag(duration.rawValue)
                         }
                     }
                 }
             }
-            .navigationTitle("Settings")
+            .navigationTitle(Constants.Labels.settings[safe: selectedLanguage])
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
                     Button {

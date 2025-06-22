@@ -8,7 +8,7 @@
 import Foundation
 
 enum Language: String, CaseIterable, Identifiable {
-    case de, en, ru, ua
+    case de, en, ru, uk
     
     init(from string: String?) {
         if let string {
@@ -25,7 +25,7 @@ enum Language: String, CaseIterable, Identifiable {
         case .de: "🇩🇪"
         case .en: "🇬🇧"
         case .ru: "🇷🇺"
-        case .ua: "🇺🇦"
+        case .uk: "🇺🇦"
         }
     }
 
@@ -34,7 +34,7 @@ enum Language: String, CaseIterable, Identifiable {
         case .de: "German"
         case .en: "English"
         case .ru: "Russian"
-        case .ua: "Ukrainian"
+        case .uk: "Ukrainian"
         }
     }
 }

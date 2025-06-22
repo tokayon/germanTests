@@ -27,6 +27,7 @@
 		95E1AE8B2DF5AD3A00B9F50D /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */; };
 		95E1AE8D2DF5AD7500B9F50D /* TestStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8C2DF5AD7500B9F50D /* TestStartView.swift */; };
 		95F8820F2E03536300E90CBE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F8820E2E03536300E90CBE /* Constants.swift */; };
+		95F882152E080B9700E90CBE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F882142E080B9700E90CBE /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
 		95E1AE8C2DF5AD7500B9F50D /* TestStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestStartView.swift; sourceTree = "<group>"; };
 		95F8820E2E03536300E90CBE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		95F882142E080B9700E90CBE /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				95F8820E2E03536300E90CBE /* Constants.swift */,
+				95F882142E080B9700E90CBE /* Extensions.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				95092C9F2DFF573900520985 /* LanguageDropdownMenu.swift in Sources */,
 				95E1AE892DF5AD2A00B9F50D /* MainTabView.swift in Sources */,
 				95092CA32E00366D00520985 /* SettingsView.swift in Sources */,
+				95F882152E080B9700E90CBE /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
