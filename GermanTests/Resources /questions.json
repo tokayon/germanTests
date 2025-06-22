@@ -906,8 +906,8 @@
       ],
       "correctAnswerId": "a1",
       "translations": {
-        "de": "Was versteht man unter dem Recht der -Freizügigkeit- in Deutschland?",
-        "ru": "Что означает право -свободы передвижения- в Германии?",
+        "de": "Was versteht man unter dem Recht der 'Freizügigkeit' in Deutschland?",
+        "ru": "Что означает право 'свободы передвижения' в Германии?",
         "en": "What is meant by the right to 'freedom of movement' in Germany?",
         "ua": "Що означає право на «свободу пересування» у Німеччині?"
       }
@@ -2538,7 +2538,7 @@
       ],
       "correctAnswerId": "a4",
       "translations": {
-        "de": "Was bedeutet „Rechtsstaat\" in Deutschland?",
+        "de": "Was bedeutet 'Rechtsstaat' in Deutschland?",
         "ru": "Что означает «правовое государство» в Германии?",
         "en": "What does 'constitutional state' mean in Germany?",
         "ua": "Що означає «правова держава» в Німеччині?"
@@ -2923,8 +2923,8 @@
       ],
       "correctAnswerId": "a4",
       "translations": {
-        "de": "Was bedeutet -Volkssouveränität-?",
-        "ru": "Что означает -народный суверенитет-",
+        "de": "Was bedeutet 'Volkssouveränität'?",
+        "ru": "Что означает 'народный суверенитет'",
         "en": "What does 'popular sovereignty' mean?",
         "ua": "Що означає «суверенітет народу»?"
       }
@@ -4443,7 +4443,7 @@
           "id": "a3",
           "translations": {
             "de": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
-            "ru": "больше прямых кандидатов от партии попадут в парламент. 2",
+            "ru": "больше прямых кандидатов от партии попадут в парламент.",
             "en": "more direct candidates from the party enter parliament.",
             "ua": "більше прямих кандидатів від партії потрапляють до парламенту."
           }
@@ -4460,10 +4460,10 @@
       ],
       "correctAnswerId": "a1",
       "translations": {
-        "de": "Je mehr -Zweitstimmen- eine Partei bei einer Bundestagswahl bekommt, desto ...",
-        "ru": "Чем больше -вторых голосов- получит партия на федеральных выборах, тем...",
-        "en": "The more -second votes- a party gets in a federal election, the more ...",
-        "ua": "Чим більше -других голосів- отримує партія на виборах до Бундестагу, тим..."
+        "de": "Je mehr 'Zweitstimmen' eine Partei bei einer Bundestagswahl bekommt, desto ...",
+        "ru": "Чем больше 'вторых голосов' получит партия на федеральных выборах, тем...",
+        "en": "The more 'second votes' a party gets in a federal election, the more ...",
+        "ua": "Чим більше 'других голосів' отримує партія на виборах до Бундестагу, тим..."
       }
     },
     {
@@ -4875,7 +4875,7 @@
           "id": "a3",
           "translations": {
             "de": "Vaterländischen Verdienstorden",
-            "ru": "Орден -Патриотические заслуги-.",
+            "ru": "Орден 'Патриотические заслуги'.",
             "en": "Patriotic Order of Merit",
             "ua": "Орден Патріотичних заслуг"
           }
@@ -4883,8 +4883,8 @@
         {
           "id": "a4",
           "translations": {
-            "de": "Ehrentitel -Held der Deutschen Demokratischen Republik",
-            "ru": "Почетное звание -Герой Германской Демократической Республики-.",
+            "de": "Ehrentitel 'Held der Deutschen Demokratischen Republik'",
+            "ru": "Почетное звание 'Герой Германской Демократической Республики'.",
             "en": "Honorary Title – Hero of the German Democratic Republic",
             "ua": "Почесне звання – Герой Німецької Демократичної Республіки"
           }
@@ -4940,8 +4940,8 @@
       ],
       "correctAnswerId": "a2",
       "translations": {
-        "de": "Was wird in Deutschland als -Ampelkoalition- bezeichnet? Die Zusammenarbeit ...",
-        "ru": "Что в Германии называют -светофорной коалицией-? Сотрудничество...",
+        "de": "Was wird in Deutschland als 'Ampelkoalition' bezeichnet? Die Zusammenarbeit ...",
+        "ru": "Что в Германии называют 'светофорной коалицией'? Сотрудничество...",
         "en": "What is referred to in Germany as the 'traffic light coalition'? The collaboration ...",
         "ua": "Що в Німеччині називають «світлофорною коаліцією»? Співпраця ..."
       }
@@ -5516,7 +5516,7 @@
       ],
       "correctAnswerId": "a3",
       "translations": {
-        "de": "Was bedeutet -aktives Wahlrecht- in Deutschland?",
+        "de": "Was bedeutet 'aktives Wahlrecht' in Deutschland?",
         "ru": "Что означает «активное избирательное право» в Германии?",
         "en": "What does 'active voting right' mean in Germany?",
         "ua": "Що означає «активне виборче право» в Німеччині?"
@@ -7580,7 +7580,7 @@
       ],
       "correctAnswerId": "a1",
       "translations": {
-        "de": "Das -Dritte Reich- war eine ...",
+        "de": "Das 'Dritte Reich' war eine ...",
         "ru": "Третий Рейх был...",
         "en": "The 'Third Reich' was a ...",
         "ua": "«Третій Рейх» був ..."
@@ -7964,7 +7964,7 @@
       ],
       "correctAnswerId": "a1",
       "translations": {
-        "de": "Bei welchen Demonstrationen in Deutschland riefen die Menschen -Wir sind das Volk-?",
+        "de": "Bei welchen Demonstrationen in Deutschland riefen die Menschen 'Wir sind das Volk'?",
         "ru": "На каких демонстрациях в Германии люди кричали: «Мы — народ»?",
         "en": "At which demonstrations in Germany did people shout 'We are the people'?",
         "ua": "На яких демонстраціях у Німеччині люди вигукували: «Ми — народ»?"
@@ -8012,7 +8012,7 @@
       ],
       "correctAnswerId": "a4",
       "translations": {
-        "de": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als -Alliierte Besatzungsmächte- bezeichnet?",
+        "de": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als 'Alliierte Besatzungsmächte' bezeichnet?",
         "ru": "Какие страны назывались в Германии «союзными оккупационными державами» после Второй мировой войны?",
         "en": "Which countries were referred to as 'Allied occupying powers' in Germany after World War II?",
         "ua": "Які країни називалися в Німеччині «союзними окупаційними державами» після Другої світової війни?"
@@ -8060,7 +8060,7 @@
       ],
       "correctAnswerId": "a4",
       "translations": {
-        "de": "Welches Land war keine -Alliierte Besatzungsmacht- in Deutschland?",
+        "de": "Welches Land war keine 'Alliierte Besatzungsmacht' in Deutschland?",
         "ru": "Какая страна не была «союзной оккупационной державой» в Германии?",
         "en": "Which country was not an 'Allied occupying power' in Germany?",
         "ua": "Яка країна не була «союзною окупаційною державою» в Німеччині?"
@@ -9549,7 +9549,7 @@
       ],
       "correctAnswerId": "a2",
       "translations": {
-        "de": "Mit der Abkürzung Stasi meinte man in der DDR ...",
+        "de": "Mit der Abkürzung 'Stasi' meinte man in der DDR ...",
         "ru": "В ГДР аббревиатура «Штази» означала...",
         "en": "In the GDR, the abbreviation 'Stasi' referred to ...",
         "ua": "У НДР абревіатура «Штазі» означала ..."
@@ -9981,7 +9981,7 @@
       ],
       "correctAnswerId": "a3",
       "translations": {
-        "de": "Was war die -Stasi-?",
+        "de": "Was war die 'Stasi'?",
         "ru": "Чем был «Штази»?",
         "en": "What was the 'Stasi'?",
         "ua": "Що таке «Штазі»?"
@@ -10318,7 +10318,7 @@
       ],
       "correctAnswerId": "a2",
       "translations": {
-        "de": "Wer wird als -Kanzler der Deutschen Einheit- bezeichnet?",
+        "de": "Wer wird als 'Kanzler der Deutschen Einheit' bezeichnet?",
         "ru": "Кого называют «канцлером немецкого единства»?",
         "en": "Who is referred to as the 'Chancellor of German Unity'?",
         "ua": "Кого називають «канцлером німецької єдності»?"
@@ -11375,7 +11375,7 @@
       ],
       "correctAnswerId": "a2",
       "translations": {
-        "de": "2007 wurde das 50-jährige Jubiläum der -Römischen Verträge- gefeiert. Was war der Inhalt der Verträge?",
+        "de": "2007 wurde das 50-jährige Jubiläum der 'Römischen Verträge' gefeiert. Was war der Inhalt der Verträge?",
         "ru": "В 2007 году отмечалось 50-летие Римского договора. Каково было содержание договоров?",
         "en": "In 2007, the 50th anniversary of the 'Treaties of Rome' was celebrated. What was the content of the treaties?",
         "ua": "У 2007 році відзначалося 50-річчя «Римських договорів». Який був зміст договорів?"
@@ -11435,7 +11435,7 @@
         {
           "id": "a1",
           "translations": {
-            "de": "durch die „Hamburger Verträge\"",
+            "de": "durch die 'Hamburger Verträge'",
             "ru": "«Гамбургские договоры»",
             "en": "through the 'Hamburg Agreements'",
             "ua": "через «Гамбурзькі угоди»"
@@ -12588,36 +12588,36 @@
           "id": "a1",
           "translations": {
             "de": "werden bestraft.",
-            "ru": "— будут наказаны.",
+            "ru": "будут наказаны.",
             "en": "are punished.",
-            "ua": "— підлягають покаранню."
+            "ua": "підлягають покаранню."
           }
         },
         {
           "id": "a2",
           "translations": {
-            "de": "— werden wie Erwachsene behandelt.",
-            "ru": "- с ними будут обращаться как со взрослыми.",
+            "de": "werden wie Erwachsene behandelt.",
+            "ru": "с ними будут обращаться как со взрослыми.",
             "en": "are treated like adults.",
-            "ua": "— з ними поводяться як з дорослими."
+            "ua": "з ними поводяться як з дорослими."
           }
         },
         {
           "id": "a3",
           "translations": {
-            "de": "— teilen die Strafe mit ihren Eltern.",
-            "ru": "- делят наказание со своими родителями.",
+            "de": "teilen die Strafe mit ihren Eltern.",
+            "ru": "делят наказание со своими родителями.",
             "en": "share the punishment with their parents.",
-            "ua": "— розділяють покарання з батьками."
+            "ua": "розділяють покарання з батьками."
           }
         },
         {
           "id": "a4",
           "translations": {
-            "de": "- werden nicht bestraft.",
-            "ru": "- не наказываются.",
+            "de": "werden nicht bestraft.",
+            "ru": " не наказываются.",
             "en": "are not punished.",
-            "ua": "— не караються."
+            "ua": "не караються."
           }
         }
       ],
@@ -13115,7 +13115,7 @@
         {
           "id": "a1",
           "translations": {
-            "de": "- das Schweigerecht",
+            "de": "das Schweigerecht",
             "ru": "право хранить молчание",
             "en": "the right to remain silent",
             "ua": "право мовчати"
