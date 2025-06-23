@@ -8,7 +8,7 @@
 import Foundation
 
 struct Constants {
-    static let questionsCount: Int = 5
+    static let questionsCount: Int = 33
     static let autoAdvancedDelay: TimeInterval = 1
     static let warningRemainingSeconds: Int = 60
 
