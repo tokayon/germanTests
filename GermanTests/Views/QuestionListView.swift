@@ -222,7 +222,7 @@ struct QuestionListView: View {
                             borderColor(for: answer, in: question),
                             lineWidth: lineWidth(for: answer, in: question)
                         )
-                        .background(Color.white) // Or your preferred background
+                        .background(Color(uiColor: .systemBackground))
                     
                     HStack(spacing: 12) {
                         Circle()
