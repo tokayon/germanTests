@@ -11,6 +11,7 @@ import AVFoundation
 
 struct TestStartView: View {
     @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
+    @AppStorage("isSoundOn") private var isSoundOn: Bool = true
 
     @State private var isTestStarted = false
     @State private var showResult = false
@@ -144,6 +145,7 @@ struct TestStartView: View {
     }
     
     private func playSound(name: String, fileExtension: String) {
+        guard isSoundOn else { return }
         if let url = Bundle.main.url(forResource: name, withExtension: fileExtension) {
             do {
                 audioPlayer = try AVAudioPlayer(contentsOf: url)

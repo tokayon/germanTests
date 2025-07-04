@@ -25,11 +25,28 @@ enum TestDuration: Int, CaseIterable, Identifiable {
 struct SettingsView: View {
     @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
     @AppStorage("testDuration") private var testDuration: Int = TestDuration.minutes30.rawValue
+    @AppStorage("isSoundOn") private var isSoundOn: Bool = true
+
     @Environment(\.dismiss) private var dismiss
 
+    private var appVersion: String {
+        Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String ?? "N/A"
+    }
+    
     var body: some View {
         NavigationStack {
             Form {
+                // About Section
+                Section(header: Text("About")) {
+                    HStack {
+                        Text("App Version")
+                        Spacer()
+                        Text(appVersion)
+                            .foregroundColor(.secondary)
+                    }
+                }
+                
+                // Translation Section
                 Section(header: Text(Constants.Labels.translation[safe: selectedLanguage])) {
                     NavigationLink(destination: LanguageSelectionView()) {
                         HStack {
@@ -39,12 +56,35 @@ struct SettingsView: View {
                         }
                     }
                 }
-                
+
+                // Test Settings
                 Section(header: Text(Constants.Labels.test[safe: selectedLanguage])) {
                     Picker(Constants.Labels.testDuration[safe: selectedLanguage], selection: $testDuration) {
                         ForEach(TestDuration.allCases) { duration in
                             Text(duration.formatted).tag(duration.rawValue)
                         }
+                    }
+                }
+
+                // Sound Toggle
+                Section(header: Text("Sound")) {
+                    Toggle("Sound Effects", isOn: $isSoundOn)
+                }
+
+                // Support / Say Thanks Section
+                Section(header: Text("Support")) {
+                    Button("Say Thanks") {
+                        openURL("https://www.tokayonapps.com/say-thanks/")
+                    }
+                }
+
+                // Legal Section
+                Section(header: Text("Legal")) {
+                    NavigationLink("Terms and Conditions") {
+                        LegalWebView(title: "Terms and Conditions", urlString: "https://example.com/terms")
+                    }
+                    NavigationLink("Privacy Policy") {
+                        LegalWebView(title: "Privacy Policy", urlString: "https://example.com/privacy")
                     }
                 }
             }
@@ -60,6 +100,12 @@ struct SettingsView: View {
                     }
                 }
             }
+        }
+    }
+    
+    private func openURL(_ urlString: String) {
+        if let url = URL(string: urlString) {
+            UIApplication.shared.open(url)
         }
     }
 }

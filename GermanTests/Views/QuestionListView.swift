@@ -19,6 +19,7 @@ struct QuestionListView: View {
     @Environment(\.dismiss) private var dismiss
     @AppStorage("testDuration") private var testDuration: Int = 1800
     @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
+    @AppStorage("isSoundOn") private var isSoundOn: Bool = true
 
     @State var viewModel: QuestionViewModel
     @State private var audioPlayer: AVAudioPlayer?
@@ -151,11 +152,9 @@ struct QuestionListView: View {
                     
                     Text(questionTitle(id: question.id))
                         .font(.title)
-                        .padding(.horizontal)
                         .padding(.bottom)
                     Text(question.translations[viewModel.selectedLanguage.rawValue] ?? "")
                         .font(.system(size: 20, weight: .medium))
-                        .padding(.horizontal)
                         .padding(.bottom)
                     
                     answersView(for: question)
@@ -189,7 +188,6 @@ struct QuestionListView: View {
                     
                     Text(question.translations[viewModel.selectedLanguage.rawValue] ?? "")
                         .font(.system(size: 20, weight: .medium))
-                        .padding(.horizontal)
                         .padding(.bottom)
                     
                     answersView(for: question)
@@ -414,6 +412,7 @@ struct QuestionListView: View {
     }
     
     private func playSound(name: String, fileExtension: String) {
+        guard isSoundOn else { return }
         if let url = Bundle.main.url(forResource: name, withExtension: fileExtension) {
             do {
                 audioPlayer = try AVAudioPlayer(contentsOf: url)

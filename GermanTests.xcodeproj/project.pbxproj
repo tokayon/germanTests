@@ -28,6 +28,7 @@
 		95E1AE8D2DF5AD7500B9F50D /* TestStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE8C2DF5AD7500B9F50D /* TestStartView.swift */; };
 		95F8820F2E03536300E90CBE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F8820E2E03536300E90CBE /* Constants.swift */; };
 		95F882152E080B9700E90CBE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F882142E080B9700E90CBE /* Extensions.swift */; };
+		95F882172E11B09800E90CBE /* LegalWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F882162E11B09800E90CBE /* LegalWebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		95E1AE8C2DF5AD7500B9F50D /* TestStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestStartView.swift; sourceTree = "<group>"; };
 		95F8820E2E03536300E90CBE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		95F882142E080B9700E90CBE /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		95F882162E11B09800E90CBE /* LegalWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegalWebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 				95092C9E2DFF573800520985 /* LanguageDropdownMenu.swift */,
 				95092CA22E00366D00520985 /* SettingsView.swift */,
 				95092CA42E00368100520985 /* LanguageSelectionView.swift */,
+				95F882162E11B09800E90CBE /* LegalWebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 			files = (
 				95E1AE552DF20A6000B9F50D /* ContentView.swift in Sources */,
 				95092CA12E002FAD00520985 /* Language.swift in Sources */,
+				95F882172E11B09800E90CBE /* LegalWebView.swift in Sources */,
 				95E1AE632DF2C8A300B9F50D /* QuestionListView.swift in Sources */,
 				95092CA52E00368100520985 /* LanguageSelectionView.swift in Sources */,
 				95E1AE8D2DF5AD7500B9F50D /* TestStartView.swift in Sources */,
