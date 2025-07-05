@@ -9,18 +9,18 @@ import Foundation
 import SwiftUI
 
 struct MainTabView: View {
-    @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
+    @StateObject private var settings = SettingsManager()
 
     var body: some View {
         TabView {
             PracticeView()
                 .tabItem {
-                    Label(Constants.Labels.practice[safe: selectedLanguage], systemImage: "book.fill")
+                    Label(Constants.Labels.practice[safe: settings.selectedLanguage], systemImage: "book.fill")
                 }
 
             TestStartView()
                 .tabItem {
-                    Label(Constants.Labels.test[safe: selectedLanguage], systemImage: "checkmark.shield.fill")
+                    Label(Constants.Labels.test[safe: settings.selectedLanguage], systemImage: "checkmark.shield.fill")
                 }
         }
     }

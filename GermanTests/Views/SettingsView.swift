@@ -23,10 +23,7 @@ enum TestDuration: Int, CaseIterable, Identifiable {
 }
 
 struct SettingsView: View {
-    @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
-    @AppStorage("testDuration") private var testDuration: Int = TestDuration.minutes30.rawValue
-    @AppStorage("isSoundOn") private var isSoundOn: Bool = true
-
+    @StateObject private var settings = SettingsManager()
     @Environment(\.dismiss) private var dismiss
 
     private var appVersion: String {
@@ -39,7 +36,7 @@ struct SettingsView: View {
                 // About Section
                 Section(header: Text("About")) {
                     HStack {
-                        Text("App Version")
+                        Text(Constants.Labels.appVersion[safe: settings.selectedLanguage])
                         Spacer()
                         Text(appVersion)
                             .foregroundColor(.secondary)
@@ -47,19 +44,19 @@ struct SettingsView: View {
                 }
                 
                 // Translation Section
-                Section(header: Text(Constants.Labels.translation[safe: selectedLanguage])) {
+                Section(header: Text(Constants.Labels.translation[safe: settings.selectedLanguage])) {
                     NavigationLink(destination: LanguageSelectionView()) {
                         HStack {
-                            Text(Constants.Labels.prefTranslation[safe: selectedLanguage])
+                            Text(Constants.Labels.prefTranslation[safe: settings.selectedLanguage])
                             Spacer()
-                            Text(Language(from: selectedLanguage).flag)
+                            Text(Language(from: settings.selectedLanguage).flag)
                         }
                     }
                 }
 
                 // Test Settings
-                Section(header: Text(Constants.Labels.test[safe: selectedLanguage])) {
-                    Picker(Constants.Labels.testDuration[safe: selectedLanguage], selection: $testDuration) {
+                Section(header: Text(Constants.Labels.test[safe: settings.selectedLanguage])) {
+                    Picker(Constants.Labels.testDuration[safe: settings.selectedLanguage], selection: settings.$testDuration) {
                         ForEach(TestDuration.allCases) { duration in
                             Text(duration.formatted).tag(duration.rawValue)
                         }
@@ -67,13 +64,13 @@ struct SettingsView: View {
                 }
 
                 // Sound Toggle
-                Section(header: Text("Sound")) {
-                    Toggle("Sound Effects", isOn: $isSoundOn)
+                Section(header: Text(Constants.Labels.sounds[safe: settings.selectedLanguage])) {
+                    Toggle(Constants.Labels.soundEffects[safe: settings.selectedLanguage], isOn: settings.$isSoundOn)
                 }
 
                 // Support / Say Thanks Section
-                Section(header: Text("Support")) {
-                    Button("Say Thanks") {
+                Section(header: Text(Constants.Labels.support[safe: settings.selectedLanguage])) {
+                    Button(Constants.Labels.sayThanks[safe: settings.selectedLanguage]) {
                         openURL("https://www.tokayonapps.com/say-thanks/")
                     }
                 }
@@ -88,7 +85,7 @@ struct SettingsView: View {
                     }
                 }
             }
-            .navigationTitle(Constants.Labels.settings[safe: selectedLanguage])
+            .navigationTitle(Constants.Labels.settings[safe: settings.selectedLanguage])
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
                     Button {

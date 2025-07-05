@@ -17,10 +17,6 @@ enum TestMode: Equatable {
 
 struct QuestionListView: View {
     @Environment(\.dismiss) private var dismiss
-    @AppStorage("testDuration") private var testDuration: Int = 1800
-    @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
-    @AppStorage("isSoundOn") private var isSoundOn: Bool = true
-
     @State var viewModel: QuestionViewModel
     @State private var audioPlayer: AVAudioPlayer?
     @State private var isPickerPresented = false
@@ -30,6 +26,8 @@ struct QuestionListView: View {
     @State private var showSettings = false
     @State private var remainingSeconds: Int = 1800
     @State private var showExitAlert = false
+
+    @StateObject private var settings = SettingsManager()
 
     private let sessionID: UUID
     let mode: TestMode
@@ -63,7 +61,7 @@ struct QuestionListView: View {
                 if let question = viewModel.currentQuestion {
                     questionView(for: question, mode: mode)
                 } else {
-                    ProgressView(Constants.Labels.loadingQuestions[safe: selectedLanguage])
+                    ProgressView(Constants.Labels.loadingQuestions[safe: settings.selectedLanguage])
                 }
             }
             .navigationTitle(mainTitle)
@@ -99,25 +97,25 @@ struct QuestionListView: View {
                 }
             }
             .onAppear {
-                remainingSeconds = testDuration
+                remainingSeconds = settings.testDuration
                 if case .test = mode {
                     startTimer()
                 }
             }
-            .onChange(of: testDuration) {
-                remainingSeconds = testDuration
+            .onChange(of: settings.testDuration) {
+                remainingSeconds = settings.testDuration
             }
             .sheet(isPresented: $showSettings) {
                 SettingsView()
             }
-            .alert(Constants.Labels.stopTestAlert[safe: selectedLanguage], isPresented: $showExitAlert) {
-                Button(Constants.Labels.cancel[safe: selectedLanguage], role: .cancel) { }
-                Button(Constants.Labels.stopTest[safe: selectedLanguage], role: .destructive) {
+            .alert(Constants.Labels.stopTestAlert[safe: settings.selectedLanguage], isPresented: $showExitAlert) {
+                Button(Constants.Labels.cancel[safe: settings.selectedLanguage], role: .cancel) { }
+                Button(Constants.Labels.stopTest[safe: settings.selectedLanguage], role: .destructive) {
                     onCancel?()
                     dismiss()
                 }
             } message: {
-                Text(Constants.Labels.noProgress[safe: selectedLanguage])
+                Text(Constants.Labels.noProgress[safe: settings.selectedLanguage])
             }
         }
         .id(sessionID)
@@ -126,9 +124,9 @@ struct QuestionListView: View {
     private var mainTitle: String {
         switch mode {
         case .practice:
-            Constants.Labels.practice[safe: selectedLanguage]
+            Constants.Labels.practice[safe: settings.selectedLanguage]
         case .test(let int):
-            "\(Constants.Labels.test[safe: selectedLanguage]) \(int)"
+            "\(Constants.Labels.test[safe: settings.selectedLanguage]) \(int)"
         }
     }
     
@@ -197,7 +195,7 @@ struct QuestionListView: View {
                                 
                 HStack {
                     Spacer()
-                    Text("\(Constants.Labels.question[safe: selectedLanguage]) \(viewModel.currentIndex+1) \(Constants.Labels.of[safe: selectedLanguage]) \(viewModel.questions.count)")
+                    Text("\(Constants.Labels.question[safe: settings.selectedLanguage]) \(viewModel.currentIndex+1) \(Constants.Labels.of[safe: settings.selectedLanguage]) \(viewModel.questions.count)")
                     correctImage
                     .font(.system(size: 20))
                     .opacity(viewModel.selectedAnswer != nil ? 1 : 0)
@@ -259,7 +257,7 @@ struct QuestionListView: View {
     
     private func questionTitle(id: String) -> String {
         if viewModel.showTranslation {
-            return "\(Constants.Labels.question[safe: selectedLanguage]) \(id)"
+            return "\(Constants.Labels.question[safe: settings.selectedLanguage]) \(id)"
         } else {
             return "Frage \(id)"
         }
@@ -272,7 +270,7 @@ struct QuestionListView: View {
                 isPickerPresented = true
             }) {
                 HStack(spacing: 6) {
-                    Text("\(Constants.Labels.question[safe: selectedLanguage]) \(viewModel.currentIndex + 1)")
+                    Text("\(Constants.Labels.question[safe: settings.selectedLanguage]) \(viewModel.currentIndex + 1)")
                     Image(systemName: "chevron.down.circle.fill")
                 }
                 .font(.title3)
@@ -412,7 +410,7 @@ struct QuestionListView: View {
     }
     
     private func playSound(name: String, fileExtension: String) {
-        guard isSoundOn else { return }
+        guard settings.isSoundOn else { return }
         if let url = Bundle.main.url(forResource: name, withExtension: fileExtension) {
             do {
                 audioPlayer = try AVAudioPlayer(contentsOf: url)
@@ -458,7 +456,7 @@ struct QuestionListView: View {
     private func finishTest() {
         timer?.invalidate()
         let passed = correctAnswers > viewModel.questions.count / 2
-        onTestFinished?(correctAnswers, viewModel.questions.count, passed, testDuration - remainingSeconds)
+        onTestFinished?(correctAnswers, viewModel.questions.count, passed, settings.testDuration - remainingSeconds)
     }
 }
 

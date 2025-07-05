@@ -9,25 +9,25 @@ import Foundation
 import SwiftUI
 
 struct LanguageSelectionView: View {
-    @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
+    @StateObject private var settings = SettingsManager()
 
     var body: some View {
         List(Language.allCases.filter { $0 != .de }) { lang in
             Button(action: {
-                selectedLanguage = lang.rawValue
+                settings.selectedLanguage = lang.rawValue
             }) {
                 HStack {
                     Text(lang.flag)
                     Text(lang.label)
 
                     Spacer()
-                    if lang.rawValue == selectedLanguage {
+                    if lang.rawValue == settings.selectedLanguage {
                         Image(systemName: "checkmark")
                             .foregroundColor(.blue)
                     }
                 }
             }
         }
-        .navigationTitle("Choose Language")
+        .navigationTitle(Constants.Labels.chooseLanguage[safe: settings.selectedLanguage])
     }
 }

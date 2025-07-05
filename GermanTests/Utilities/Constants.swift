@@ -35,6 +35,12 @@ struct Constants {
             "uk": "Мова перекладу"
         ]
         
+        static let chooseLanguage: [String: String] = [
+            "en": "Choose Language",
+            "ru": "Выберите язык",
+            "uk": "Оберіть мову"
+        ]
+        
         static let test: [String: String] = [
             "en": "Test",
             "ru": "Тест",
@@ -147,6 +153,36 @@ struct Constants {
             "en": "sec",
             "ru": "сек",
             "uk": "сек"
+        ]
+        
+        static let appVersion: [String: String] = [
+            "en": "App Version",
+            "ru": "Версия приложения",
+            "uk": "Версія додатку"
+        ]
+        
+        static let sounds: [String: String] = [
+            "en": "Sounds",
+            "ru": "Звуки",
+            "uk": "Звуки"
+        ]
+        
+        static let soundEffects: [String: String] = [
+            "en": "Sound Effects",
+            "ru": "Звуковые эффекты",
+            "uk": "Звукові ефекти"
+        ]
+        
+        static let support: [String: String] = [
+            "en": "Support",
+            "ru": "Поддержка",
+            "uk": "Підтримка"
+        ]
+        
+        static let sayThanks: [String: String] = [
+            "en": "Say thanks",
+            "ru": "Сказать спасибо",
+            "uk": "Сказати дякую"
         ]
     }
 }

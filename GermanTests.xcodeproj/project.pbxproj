@@ -10,10 +10,10 @@
 		95092C512DF8498400520985 /* error.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 95092C502DF8498400520985 /* error.mp3 */; };
 		95092C532DF849DE00520985 /* fail.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 95092C522DF849DE00520985 /* fail.mp3 */; };
 		95092C552DF84B9F00520985 /* wow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 95092C542DF84B9F00520985 /* wow.mp3 */; };
-		95092C9F2DFF573900520985 /* LanguageDropdownMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95092C9E2DFF573800520985 /* LanguageDropdownMenu.swift */; };
 		95092CA12E002FAD00520985 /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95092CA02E002FAD00520985 /* Language.swift */; };
 		95092CA32E00366D00520985 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95092CA22E00366D00520985 /* SettingsView.swift */; };
 		95092CA52E00368100520985 /* LanguageSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95092CA42E00368100520985 /* LanguageSelectionView.swift */; };
+		95A6004F2E19B14B006D89D3 /* SettingsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6004E2E19B14B006D89D3 /* SettingsManager.swift */; };
 		95E1AE532DF20A6000B9F50D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95E1AE4D2DF20A6000B9F50D /* Preview Assets.xcassets */; };
 		95E1AE542DF20A6000B9F50D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95E1AE4F2DF20A6000B9F50D /* Assets.xcassets */; };
 		95E1AE552DF20A6000B9F50D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E1AE502DF20A6000B9F50D /* ContentView.swift */; };
@@ -35,10 +35,10 @@
 		95092C502DF8498400520985 /* error.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = error.mp3; sourceTree = "<group>"; };
 		95092C522DF849DE00520985 /* fail.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fail.mp3; sourceTree = "<group>"; };
 		95092C542DF84B9F00520985 /* wow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wow.mp3; sourceTree = "<group>"; };
-		95092C9E2DFF573800520985 /* LanguageDropdownMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageDropdownMenu.swift; sourceTree = "<group>"; };
 		95092CA02E002FAD00520985 /* Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
 		95092CA22E00366D00520985 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		95092CA42E00368100520985 /* LanguageSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageSelectionView.swift; sourceTree = "<group>"; };
+		95A6004E2E19B14B006D89D3 /* SettingsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsManager.swift; sourceTree = "<group>"; };
 		95E1AE3C2DF1F02100B9F50D /* GermanTests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GermanTests.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95E1AE4D2DF20A6000B9F50D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		95E1AE4F2DF20A6000B9F50D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -136,7 +136,6 @@
 				95E1AE882DF5AD2A00B9F50D /* MainTabView.swift */,
 				95E1AE8A2DF5AD3A00B9F50D /* PracticeView.swift */,
 				95E1AE8C2DF5AD7500B9F50D /* TestStartView.swift */,
-				95092C9E2DFF573800520985 /* LanguageDropdownMenu.swift */,
 				95092CA22E00366D00520985 /* SettingsView.swift */,
 				95092CA42E00368100520985 /* LanguageSelectionView.swift */,
 				95F882162E11B09800E90CBE /* LegalWebView.swift */,
@@ -165,6 +164,7 @@
 			children = (
 				95F8820E2E03536300E90CBE /* Constants.swift */,
 				95F882142E080B9700E90CBE /* Extensions.swift */,
+				95A6004E2E19B14B006D89D3 /* SettingsManager.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -258,7 +258,7 @@
 				95F8820F2E03536300E90CBE /* Constants.swift in Sources */,
 				95E1AE8B2DF5AD3A00B9F50D /* PracticeView.swift in Sources */,
 				95E1AE562DF20A6000B9F50D /* GermanTestsApp.swift in Sources */,
-				95092C9F2DFF573900520985 /* LanguageDropdownMenu.swift in Sources */,
+				95A6004F2E19B14B006D89D3 /* SettingsManager.swift in Sources */,
 				95E1AE892DF5AD2A00B9F50D /* MainTabView.swift in Sources */,
 				95092CA32E00366D00520985 /* SettingsView.swift in Sources */,
 				95F882152E080B9700E90CBE /* Extensions.swift in Sources */,

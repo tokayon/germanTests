@@ -10,9 +10,7 @@ import SwiftUI
 import AVFoundation
 
 struct TestStartView: View {
-    @AppStorage("selectedLanguage") private var selectedLanguage: String = Language.en.rawValue
-    @AppStorage("isSoundOn") private var isSoundOn: Bool = true
-
+    @StateObject private var settings = SettingsManager()
     @State private var isTestStarted = false
     @State private var showResult = false
     @State private var resultData: ExamResultData? = nil
@@ -41,7 +39,7 @@ struct TestStartView: View {
                 Button(action: {
                     isTestStarted = true
                 }) {
-                    Text(Constants.Labels.start[safe: selectedLanguage])
+                    Text(Constants.Labels.start[safe: settings.selectedLanguage])
                         .font(.system(size: 24, weight: .semibold))
                         .frame(maxWidth: .infinity)
                         .padding()
@@ -54,7 +52,7 @@ struct TestStartView: View {
 
                 Spacer()
             }
-            .navigationTitle(Constants.Labels.test[safe: selectedLanguage])
+            .navigationTitle(Constants.Labels.test[safe: settings.selectedLanguage])
             .fullScreenCover(isPresented: $isTestStarted, onDismiss: {
                 // Optional logic after dismiss
             }) {
@@ -94,8 +92,8 @@ struct TestStartView: View {
                     .foregroundColor(result.passed ? .green : .red)
                 
                 Text(result.passed
-                     ? "🎉 \(Constants.Labels.congrats[safe: selectedLanguage])!"
-                     : "❌ \(Constants.Labels.failed[safe: selectedLanguage])")
+                     ? "🎉 \(Constants.Labels.congrats[safe: settings.selectedLanguage])!"
+                     : "❌ \(Constants.Labels.failed[safe: settings.selectedLanguage])")
                 .font(.largeTitle.weight(.bold))
                 .multilineTextAlignment(.center)
             }
@@ -103,7 +101,7 @@ struct TestStartView: View {
             // Stats: Correct Answers and Time
             VStack(spacing: 12) {
                 Label {
-                    Text("\(Constants.Labels.correct[safe: selectedLanguage]): \(result.correct) \(Constants.Labels.of[safe: selectedLanguage]) \(result.total)")
+                    Text("\(Constants.Labels.correct[safe: settings.selectedLanguage]): \(result.correct) \(Constants.Labels.of[safe: settings.selectedLanguage]) \(result.total)")
                 } icon: {
                     Image(systemName: "checkmark.circle")
                 }
@@ -111,7 +109,7 @@ struct TestStartView: View {
                 .foregroundColor(.primary)
                 
                 Label {
-                    Text("\(Constants.Labels.time[safe: selectedLanguage]): \(result.time / 60) \(Constants.Labels.min[safe: selectedLanguage]) \(result.time % 60) \(Constants.Labels.seconds[safe: selectedLanguage])")
+                    Text("\(Constants.Labels.time[safe: settings.selectedLanguage]): \(result.time / 60) \(Constants.Labels.min[safe: settings.selectedLanguage]) \(result.time % 60) \(Constants.Labels.seconds[safe: settings.selectedLanguage])")
                 } icon: {
                     Image(systemName: "clock")
                 }
@@ -145,7 +143,7 @@ struct TestStartView: View {
     }
     
     private func playSound(name: String, fileExtension: String) {
-        guard isSoundOn else { return }
+        guard settings.isSoundOn else { return }
         if let url = Bundle.main.url(forResource: name, withExtension: fileExtension) {
             do {
                 audioPlayer = try AVAudioPlayer(contentsOf: url)

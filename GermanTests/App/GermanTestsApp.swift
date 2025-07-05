@@ -10,12 +10,7 @@ import SwiftUI
 @main
 struct GermanTestsApp: App {
     init() {
-        if UserDefaults.standard.string(forKey: "selectedLanguage") == nil {
-            UserDefaults.standard.set(Constants.Settings.defaultTranslationLanguage, forKey: "selectedLanguage")
-        }
-        if UserDefaults.standard.integer(forKey: "testDuration") == 0 {
-            UserDefaults.standard.set(Constants.Settings.defaultTestDuration, forKey: "testDuration")
-        }
+        SettingsManager.registerDefaults()
     }
 
     var body: some Scene {
