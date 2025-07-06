@@ -157,14 +157,14 @@ struct Constants {
         
         static let appVersion: [String: String] = [
             "en": "App Version",
-            "ru": "Версия приложения",
-            "uk": "Версія додатку"
+            "ru": "Версия",
+            "uk": "Версія"
         ]
         
         static let sounds: [String: String] = [
-            "en": "Sounds",
-            "ru": "Звуки",
-            "uk": "Звуки"
+            "en": "Sound",
+            "ru": "Звук",
+            "uk": "Звук"
         ]
         
         static let soundEffects: [String: String] = [
