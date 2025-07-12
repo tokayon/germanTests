@@ -34,7 +34,7 @@ struct SettingsView: View {
         NavigationStack {
             Form {
                 // About Section
-                Section(header: Text("About")) {
+                Section(header: Text(Constants.Labels.about)) {
                     HStack {
                         Text(Constants.Labels.appVersion[safe: settings.selectedLanguage])
                         Spacer()
@@ -71,17 +71,17 @@ struct SettingsView: View {
                 // Support / Say Thanks Section
                 Section(header: Text(Constants.Labels.support[safe: settings.selectedLanguage])) {
                     Button(Constants.Labels.sayThanks[safe: settings.selectedLanguage]) {
-                        openURL("https://www.tokayonapps.com/say-thanks/")
+                        openURL(Constants.Links.sayThanks)
                     }
                 }
 
                 // Legal Section
-                Section(header: Text("Legal")) {
-                    NavigationLink("Terms and Conditions") {
-                        LegalWebView(title: "Terms and Conditions", urlString: "https://example.com/terms")
+                Section(header: Text(Constants.Labels.legal)) {
+                    NavigationLink(Constants.Labels.termsAndConditions) {
+                        LegalWebView(title: Constants.Labels.termsAndConditions, urlString: Constants.Links.terms)
                     }
-                    NavigationLink("Privacy Policy") {
-                        LegalWebView(title: "Privacy Policy", urlString: "https://example.com/privacy")
+                    NavigationLink(Constants.Labels.privacyPolicy) {
+                        LegalWebView(title: Constants.Labels.privacyPolicy, urlString: Constants.Links.policy)
                     }
                 }
             }

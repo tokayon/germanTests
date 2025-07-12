@@ -16,7 +16,18 @@ struct Constants {
         static let defaultTestDuration: Int = 30 * 60 // in seconds
     }
     
+    struct Links {
+        static let sayThanks = "https://www.tokayonapps.com/say-thanks/"
+        static let terms = "https://www.tokayonapps.com/quiz-de-terms-page/"
+        static let policy = "https://www.tokayonapps.com/quiz-de-policy-page/"
+    }
+    
     struct Labels {
+        static let about = "About"
+        static let legal = "Legal"
+        static let termsAndConditions = "Terms & Conditions"
+        static let privacyPolicy = "Privacy Policy"
+        
         static let settings: [String: String] = [
             "en": "Settings",
             "ru": "Настройки",
