@@ -55,4 +55,4 @@ All questions are based on the **official German Einbürgerungstest** published 
 
 **Serge Sinkevych**  
 Lead iOS Developer | 🇩🇪 Citizenship Supporter  
-Contact: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:your@email.com)
+Contact: [LinkedIn](https://www.linkedin.com/in/sergesinkevych) | [Email](mailto:sergesinkevych@gmail.com)
