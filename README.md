@@ -54,5 +54,5 @@ All questions are based on the **official German Einbürgerungstest** published 
 ## 👤 Author
 
 **Serge Sinkevych**  
-Lead iOS Developer | 🇩🇪 Citizenship Supporter  
+Lead iOS Developer  
 Contact: [LinkedIn](https://www.linkedin.com/in/sergesinkevych) | [Email](mailto:sergesinkevych@gmail.com)
